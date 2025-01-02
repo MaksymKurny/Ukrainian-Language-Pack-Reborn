@@ -1,3 +1,20 @@
+import polib
+
+pot_file = polib.pofile('uk/strings.pot')
+po_file = polib.pofile('uk/ukrainian.po')
+
+for entry in po_file:
+    msgid = entry.msgid
+    if msgid:
+        matching_entry = next((e for e in pot_file if e.msgid == msgid), None)
+        
+        if matching_entry:
+            entry.comment = matching_entry.msgctxt
+            entry.msgctxt = matching_entry.msgctxt
+
+po_file.save('uk/ukrainian.po')
+
+
 name: Merge Translations
 
 on:
@@ -18,7 +35,6 @@ jobs:
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v5
         with:
-          ref: '${{ github.head_ref }}'
           python-version: ${{ matrix.python-version }}
 
       - name: Display Python version
@@ -29,6 +45,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install polib
           if  [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Checkout Source Branch (l10n_test)
+        uses: actions/checkout@v4
+        with:
+          ref: '${{ github.head_ref }}'
       - name: Merge Missing Translations
         run: |
           echo "
@@ -56,4 +76,5 @@ jobs:
           git add uk/ukrainian.po
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git commit -m "Add missing translations with context from strings.pot" || echo "No changes to commit"
+          git pull origin ${{ github.head_ref }} --rebase
           git push origin HEAD:${{ github.head_ref }}
