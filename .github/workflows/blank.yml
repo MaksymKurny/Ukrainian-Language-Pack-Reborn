@@ -32,26 +32,21 @@ jobs:
       - name: Merge Missing Translations
         run: |
           import polib
-          # Завантажуємо файли
-          ukrainian = polib.pofile('uk/ukrainian.po')
-          original = polib.pofile('uk/strings.pot')
+
+          pot_file = polib.pofile('uk/strings.pot')
+          po_file = polib.pofile('uk/ukrainian.po')
           
-          # Створюємо множину існуючих контекстів
-          existing_contexts = {entry.msgctxt for entry in ukrainian if entry.msgctxt}
+          for entry in po_file:
+              msgid = entry.msgid
+              if msgid:
+                  matching_entry = next((e for e in pot_file if e.msgid == msgid), None)
+                  
+                  if matching_entry:
+                      comment = matching_entry.msgctxt
+                      entry.comment = matching_entry.msgctxt
+                      entry.msgctxt = matching_entry.msgctxt
           
-          # Перевіряємо відсутні ключі з контекстами та додаємо їх
-          for entry in original:
-              if entry.msgctxt and entry.msgctxt not in existing_contexts:
-                  # Додаємо новий запис з контекстом
-                  new_entry = polib.POEntry(
-                      msgctxt=entry.msgctxt,
-                      msgid=entry.msgid,
-                      msgstr=""  # Залишаємо порожній переклад
-                  )
-                  ukrainian.append(new_entry)
-          
-          # Зберігаємо зміни
-          ukrainian.save('uk/ukrainian.po')
+          po_file.save('uk/ukrainian.po')
                     "
           
                 - name: Commit Changes
