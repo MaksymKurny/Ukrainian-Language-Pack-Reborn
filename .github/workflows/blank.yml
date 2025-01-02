@@ -31,8 +31,6 @@ jobs:
 
       - name: Merge Missing Translations
         run: |
-          import polib
-
           pot_file = polib.pofile('uk/strings.pot')
           po_file = polib.pofile('uk/ukrainian.po')
           
