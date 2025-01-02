@@ -11,15 +11,15 @@ jobs:
   merge_translations:
     runs-on: ubuntu-latest
     strategy:
-          matrix:
-            python-version: ["pypy3.10", "3.9", "3.10", "3.11", "3.12", "3.13"]
+      matrix:
+        python-version: ["pypy3.10", "3.9", "3.10", "3.11", "3.12", "3.13"]
     steps:
       - uses: actions/checkout@v4
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python-version }}
-      # You can test your matrix by printing the current Python version
+
       - name: Display Python version
         run: python -c "import sys; print(sys.version)"
 
@@ -31,26 +31,29 @@ jobs:
 
       - name: Merge Missing Translations
         run: |
+          echo "
+          import polib
+
           pot_file = polib.pofile('uk/strings.pot')
           po_file = polib.pofile('uk/ukrainian.po')
-          
+
           for entry in po_file:
               msgid = entry.msgid
               if msgid:
                   matching_entry = next((e for e in pot_file if e.msgid == msgid), None)
-                  
                   if matching_entry:
                       comment = matching_entry.msgctxt
-                      entry.comment = matching_entry.msgctxt
+                      entry.comment = f'#. {matching_entry.msgctxt}'
                       entry.msgctxt = matching_entry.msgctxt
-          
+
           po_file.save('uk/ukrainian.po')
-                    "
-          
-                - name: Commit Changes
-                  run: |
-                    git config --global user.name 'github-actions[bot]'
-                    git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-                    git add uk/ukrainian.po
-                    git commit -m "Add missing translations with context from strings.pot" || echo "No changes to commit"
-                    git push
+          " > merge_translations.py
+          python merge_translations.py
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add uk/ukrainian.po
+          git commit -m "Add missing translations with context from strings.pot" || echo "No changes to commit"
+          git push
