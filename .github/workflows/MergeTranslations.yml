@@ -27,8 +27,7 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install polib
-          pip install re
+          pip install polib re
           if  [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Checkout Source Branch (l10n_test)
         uses: actions/checkout@v4
