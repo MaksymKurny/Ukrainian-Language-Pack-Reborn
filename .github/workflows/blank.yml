@@ -10,56 +10,56 @@ on:
 jobs:
   merge_translations:
     runs-on: ubuntu-latest
-
+    strategy:
+          matrix:
+            python-version: ["pypy3.10", "3.9", "3.10", "3.11", "3.12", "3.13"]
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
+      - uses: actions/checkout@v4
+      - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: ${{ matrix.python-version }}
+      # You can test your matrix by printing the current Python version
+      - name: Display Python version
+        run: python -c "import sys; print(sys.version)"
 
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
           pip install polib
 
-      - name: Disable Image Libraries (if needed)
-        run: |
-          sudo apt-get remove -y imagemagick
 
       - name: Merge Missing Translations
         run: |
-          python -c "
-import polib
+          python <<EOF
+          import polib
 
-# Завантажуємо файли
-ukrainian = polib.pofile('uk/ukrainian.po')
-original = polib.pofile('uk/strings.pot')
-
-# Створюємо множину існуючих контекстів
-existing_contexts = {entry.msgctxt for entry in ukrainian if entry.msgctxt}
-
-# Перевіряємо відсутні ключі з контекстами та додаємо їх
-for entry in original:
-    if entry.msgctxt and entry.msgctxt not in existing_contexts:
-        # Додаємо новий запис з контекстом
-        new_entry = polib.POEntry(
-            msgctxt=entry.msgctxt,
-            msgid=entry.msgid,
-            msgstr=""  # Залишаємо порожній переклад
-        )
-        ukrainian.append(new_entry)
-
-# Зберігаємо зміни
-ukrainian.save('uk/ukrainian.po')
-          "
-
-      - name: Commit Changes
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add uk/ukrainian.po
-          git commit -m "Add missing translations with context from strings.pot" || echo "No changes to commit"
-          git push
+          # Завантажуємо файли
+          ukrainian = polib.pofile('uk/ukrainian.po')
+          original = polib.pofile('uk/strings.pot')
+          
+          # Створюємо множину існуючих контекстів
+          existing_contexts = {entry.msgctxt for entry in ukrainian if entry.msgctxt}
+          
+          # Перевіряємо відсутні ключі з контекстами та додаємо їх
+          for entry in original:
+              if entry.msgctxt and entry.msgctxt not in existing_contexts:
+                  # Додаємо новий запис з контекстом
+                  new_entry = polib.POEntry(
+                      msgctxt=entry.msgctxt,
+                      msgid=entry.msgid,
+                      msgstr=""  # Залишаємо порожній переклад
+                  )
+                  ukrainian.append(new_entry)
+          
+          # Зберігаємо зміни
+          ukrainian.save('uk/ukrainian.po')
+                    "
+          
+                - name: Commit Changes
+                  run: |
+                    git config --global user.name 'github-actions[bot]'
+                    git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+                    git add uk/ukrainian.po
+                    git commit -m "Add missing translations with context from strings.pot" || echo "No changes to commit"
+                    git push
