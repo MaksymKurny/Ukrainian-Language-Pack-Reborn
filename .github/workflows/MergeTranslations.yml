@@ -54,7 +54,7 @@ jobs:
               file_content = file.read()
           
           # Заміна \\n на \n
-          file_content = file_content.replace('\\\\', '\\')
+          file_content = file_content.replace('\\\\\\\\', '\\\\')
           
           # Зберігаємо файл після заміни
           with open("uk/ukrainian.po", "w", encoding="utf-8") as file:
