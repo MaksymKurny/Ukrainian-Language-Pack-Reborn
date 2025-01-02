@@ -41,10 +41,21 @@ jobs:
           pot_file = polib.pofile('uk/strings.pot')
           po_file = polib.pofile('uk/ukrainian.po')
 
+          def format_text(text):
+              if text:
+                  # Замінюємо подвійні \\n на \n
+                  text = text.replace('\\\\n', '\\n')
+                  # Видаляємо зайві переноси рядків, об'єднуючи їх в один рядок
+                  text = re.sub(r'\n+', '\n', text)
+                  # Видаляємо пробіли перед переносами
+                  text = re.sub(r' *\n *', '\n', text)
+              return text
+
           for entry in po_file:
-              msgid = entry.msgid
+              entry.msgid = format_text(entry.msgid)
+              entry.msgstr = format_text(entry.msgstr)
               if msgid:
-                  matching_entry = next((e for e in pot_file if e.msgid == msgid), None)
+                  matching_entry = next((e for e in pot_file if e.msgid == entry.msgid), None)
                   if matching_entry:
                       entry.comment = matching_entry.msgctxt
                       entry.msgctxt = matching_entry.msgctxt
