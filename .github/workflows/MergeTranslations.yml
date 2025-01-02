@@ -53,6 +53,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git pull origin ${{ github.head_ref }} --rebase
           git add uk/ukrainian.po
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git commit -m "Add missing translations with context from strings.pot" || echo "No changes to commit"
