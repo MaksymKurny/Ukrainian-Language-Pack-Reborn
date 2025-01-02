@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: ["pypy3.10", "3.9", "3.10", "3.11", "3.12", "3.13"]
+        python-version: [ "3.12" ]
     steps:
       - uses: actions/checkout@v4
       - name: Set up Python ${{ matrix.python-version }}
@@ -56,4 +56,6 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add uk/ukrainian.po
           git commit -m "Add missing translations with context from strings.pot" || echo "No changes to commit"
-          git push
+          # Встановлюємо гілку для пушу змін
+          git push origin HEAD:${{ github.head_ref }}
+
