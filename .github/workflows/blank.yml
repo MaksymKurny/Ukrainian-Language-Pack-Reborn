@@ -2,9 +2,10 @@ name: Merge Translations
 
 on:
   pull_request:
+    types: [opened, synchronize]
     paths:
-      - 'ukrainian.po'
-      - 'strings.pot'
+      - 'uk/**/ukrainian.po'
+      - 'uk/**/strings.pot'
 
 jobs:
   merge_translations:
