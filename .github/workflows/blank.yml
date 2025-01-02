@@ -2,10 +2,10 @@ name: Merge Translations
 
 on:
   pull_request:
-    types: [opened, synchronize]
+    types: [opened, synchronize]  # Виконання при створенні та оновленні PR
     paths:
-      - 'uk/**/ukrainian.po'
-      - 'uk/**/strings.pot'
+      - 'uk/**/ukrainian.po'  # Шлях до файлів українських перекладів
+      - 'uk/**/strings.pot'   # Шлях до оригінальних файлів
 
 jobs:
   merge_translations:
@@ -27,33 +27,35 @@ jobs:
 
       - name: Merge Missing Translations
         run: |
-          import polib
+          python -c "
+import polib
 
-          # Завантажуємо файли
-          ukrainian = polib.pofile('ukrainian.po')
-          original = polib.pofile('strings.pot')
+# Завантажуємо файли
+ukrainian = polib.pofile('uk/ukrainian.po')
+original = polib.pofile('uk/strings.pot')
 
-          # Створюємо множину існуючих контекстів
-          existing_contexts = {entry.msgctxt for entry in ukrainian if entry.msgctxt}
+# Створюємо множину існуючих контекстів
+existing_contexts = {entry.msgctxt for entry in ukrainian if entry.msgctxt}
 
-          # Перевіряємо відсутні ключі з контекстами та додаємо їх
-          for entry in original:
-              if entry.msgctxt and entry.msgctxt not in existing_contexts:
-                  # Додаємо новий запис з контекстом
-                  new_entry = polib.POEntry(
-                      msgctxt=entry.msgctxt,
-                      msgid=entry.msgid,
-                      msgstr=""  # Залишаємо порожній переклад
-                  )
-                  ukrainian.append(new_entry)
+# Перевіряємо відсутні ключі з контекстами та додаємо їх
+for entry in original:
+    if entry.msgctxt and entry.msgctxt not in existing_contexts:
+        # Додаємо новий запис з контекстом
+        new_entry = polib.POEntry(
+            msgctxt=entry.msgctxt,
+            msgid=entry.msgid,
+            msgstr=""  # Залишаємо порожній переклад
+        )
+        ukrainian.append(new_entry)
 
-          # Зберігаємо зміни
-          ukrainian.save('ukrainian.po')
+# Зберігаємо зміни
+ukrainian.save('uk/ukrainian.po')
+          "
 
       - name: Commit Changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add ukrainian.po
+          git add uk/ukrainian.po
           git commit -m "Add missing translations with context from strings.pot" || echo "No changes to commit"
           git push
