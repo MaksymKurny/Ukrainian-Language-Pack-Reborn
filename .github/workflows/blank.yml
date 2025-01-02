@@ -28,7 +28,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install polib
 
-
       - name: Merge Missing Translations
         run: |
           # Завантажуємо файли
