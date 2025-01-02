@@ -42,8 +42,7 @@ jobs:
               if msgid:
                   matching_entry = next((e for e in pot_file if e.msgid == msgid), None)
                   if matching_entry:
-                      comment = matching_entry.msgctxt
-                      entry.comment = f'#. {matching_entry.msgctxt}'
+                      entry.comment = matching_entry.msgctxt
                       entry.msgctxt = matching_entry.msgctxt
 
           po_file.save('uk/ukrainian.po')
@@ -52,8 +51,8 @@ jobs:
     
       - name: Commit Changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'MaksymKurny'
+          git config --global user.email '4680387@stud.nau.edu.ua'
           git add uk/ukrainian.po
           git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}
           git commit -m "Add missing translations with context from strings.pot" || echo "No changes to commit"
