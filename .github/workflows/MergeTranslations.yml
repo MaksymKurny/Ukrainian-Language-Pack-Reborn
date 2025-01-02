@@ -37,14 +37,34 @@ jobs:
         run: |
           echo "
           import polib
+          import re
 
           pot_file = polib.pofile('uk/strings.pot')
           po_file = polib.pofile('uk/ukrainian.po')
 
+          def format_text(text):
+              if text:
+                  # Заміна \\n на \n
+                  text = text.replace('\\\\n', '\\n')
+          
+                  # Поєднання рядків у блоках з лапками
+                  text = text.replace('\n"', '').replace('"', '')
+                  
+                  # Замінюємо кілька переносів на один
+                  text = re.sub(r'\n+', '\n', text)
+          
+                  # Видаляємо пробіли навколо переносів
+                  text = re.sub(r' *\n *', '\n', text)
+          
+                  # Повертаємо зворотні лапки, щоб зберегти структуру PO-файлів
+                  return f'"{text}"'
+              return text
+
           for entry in po_file:
-              msgid = entry.msgid
-              if msgid:
-                  matching_entry = next((e for e in pot_file if e.msgid == msgid), None)
+              entry.msgid = format_text(entry.msgid)
+              entry.msgstr = format_text(entry.msgstr)
+              if entry.msgid:
+                  matching_entry = next((e for e in pot_file if e.msgid == entry.msgid), None)
                   if matching_entry:
                       entry.comment = matching_entry.msgctxt
                       entry.msgctxt = matching_entry.msgctxt
