@@ -57,5 +57,5 @@ jobs:
           git add uk/ukrainian.po
           git remote set-url origin https://x-access-token:${{ secrets.PAT }}@github.com/${{ github.repository }}
           git commit -m "Add missing translations with context from strings.pot" || echo "No changes to commit"
-          git push
+          git push origin HEAD:${{ github.head_ref }}
 
