@@ -25,6 +25,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install polib
 
+      - name: Disable Image Libraries (if needed)
+        run: |
+          sudo apt-get remove -y imagemagick
+
       - name: Merge Missing Translations
         run: |
           python -c "
