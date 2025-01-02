@@ -6882,7 +6882,7 @@ msgid "60% Protection\\n+10% Move Speed"
 msgstr "60% захисту\\n+10 швидкості пересування"
 
 msgid "75% Protection"
-msgstr "75% Protection"
+msgstr "75% захисту"
 
 msgid "75% Protection\\n+10% Physical Damage"
 msgstr "75% захисту\\n+10% фізичної шкоди"
