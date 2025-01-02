@@ -18,7 +18,7 @@ jobs:
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v5
         with:
-          ref: ${{ github.base_ref }}
+          ref: '${{ github.head_ref }}'
           python-version: ${{ matrix.python-version }}
 
       - name: Display Python version
@@ -29,7 +29,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install polib
           if  [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-
+      - name: Checkout Source Branch (l10n_test)
+        uses: actions/checkout@v4
+        with:
+          ref: '${{ github.head_ref }}'
       - name: Merge Missing Translations
         run: |
           echo "
