@@ -35,7 +35,7 @@ jobs:
           ref: '${{ github.head_ref }}'
       - name: Merge Missing Translations
         run: |
-          echo '
+          cat <<EOF > merge_translations.py
           import polib
           import re
       
@@ -70,10 +70,8 @@ jobs:
                       entry.msgctxt = matching_entry.msgctxt
       
           po_file.save("uk/ukrainian.po")
-          ' > merge_translations.py
+          EOF
           python merge_translations.py
-
-    
       - name: Commit Changes
         run: |
           git config --global user.name 'github-actions[bot]'
