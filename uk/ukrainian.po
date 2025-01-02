@@ -1,13 +1,17 @@
 #
 msgid ""
-msgstr ""
-"Project-Id-Version: Ukrainian Language Pack — Reborn\\nPOT-Creation-Date: "
-"2024-10-21 07:10-0000\\nPO-Revision-Date: 2024-10-21 07:10-0000\\nLast-"
-"Translator: \\nLanguage-Team: none\\nMIME-Version: 1.0\\nContent-Type: "
-"text/plain; charset=UTF-8\\nContent-Transfer-Encoding: 8bit\\nPlural-Forms: "
-"nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && "
-"(n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) ||"
-" (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\\nX-Generator: Crowdin\\n\n"
+msgstr "Project-Id-Version: Ukrainian Language Pack — Reborn\
+POT-Creation-Date: 2024-10-21 07:10-0000\
+PO-Revision-Date: 2024-10-21 07:10-0000\
+Last-Translator: \
+Language-Team: none\
+MIME-Version: 1.0\
+Content-Type: text/plain; charset=UTF-8\
+Content-Transfer-Encoding: 8bit\
+Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\
+X-Generator: Crowdin\
+
+"
 
 #. STRINGS.NAMES.ABIGAIL
 msgctxt "STRINGS.NAMES.ABIGAIL"
@@ -6812,19 +6816,23 @@ msgstr "Дика культура"
 #. STRINGS.NAMES.PLAYBILL_THE_DOLL
 msgctxt "STRINGS.NAMES.PLAYBILL_THE_DOLL"
 msgid ""
-"The Enchanted Doll\n"
+"The Enchanted Doll
+"
 "A Stage Play"
 msgstr ""
-"«Зачарована лялька»\n"
+"«Зачарована лялька»
+"
 "П'єса"
 
 #. STRINGS.NAMES.PLAYBILL_THE_VEIL
 msgctxt "STRINGS.NAMES.PLAYBILL_THE_VEIL"
 msgid ""
-"The Pall\n"
+"The Pall
+"
 "A Stage Play"
 msgstr ""
-"Покров\n"
+"Покров
+"
 "П'єса"
 
 #. STRINGS.NAMES.PLAYER_HOSTED
@@ -8005,19 +8013,23 @@ msgstr "Смажений помідор"
 #. STRINGS.NAMES.QUAGMIRE_TRADER_MERM
 msgctxt "STRINGS.NAMES.QUAGMIRE_TRADER_MERM"
 msgid ""
-"Sammy\n"
+"Sammy
+"
 "The Lucid Bog Merm"
 msgstr ""
-"Семмі\n"
+"Семмі
+"
 "мерм Світлої трясовини"
 
 #. STRINGS.NAMES.QUAGMIRE_TRADER_MERM2
 msgctxt "STRINGS.NAMES.QUAGMIRE_TRADER_MERM2"
 msgid ""
-"Pipton\n"
+"Pipton
+"
 "The Cognizant Bog Merm"
 msgstr ""
-"Піптон\n"
+"Піптон
+"
 "мерм Знаної трясовини"
 
 #. STRINGS.KITCOON_NAMING.NAMES.63
@@ -11458,12 +11470,16 @@ msgstr "Вівтар єнотокота"
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOREXTRAHEAVY
 msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOREXTRAHEAVY"
 msgid ""
-"90% Protection\n"
-"-15% Move Speed\n"
+"90% Protection
+"
+"-15% Move Speed
+"
 "Knockback Resistance"
 msgstr ""
-"90% захисту\n"
-"-15% швидкості пересування\n"
+"90% захисту
+"
+"-15% швидкості пересування
+"
 "Стійкість до збиття з ніг"
 
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORHEAVY
@@ -11474,19 +11490,23 @@ msgstr "85% захисту"
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHT
 msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHT"
 msgid ""
-"50% Protection\n"
+"50% Protection
+"
 "+5% Faster Cooldown"
 msgstr ""
-"50% захисту\n"
+"50% захисту
+"
 "+5% швидкості перезаряджання"
 
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHTSPEED
 msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORLIGHTSPEED"
 msgid ""
-"60% Protection\n"
+"60% Protection
+"
 "+10% Move Speed"
 msgstr ""
-"60% захисту\n"
+"60% захисту
+"
 "+10 швидкості пересування"
 
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUM
@@ -11497,85 +11517,113 @@ msgstr "75% захисту"
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMDAMAGER
 msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMDAMAGER"
 msgid ""
-"75% Protection\n"
+"75% Protection
+"
 "+10% Physical Damage"
 msgstr ""
-"75% захисту\n"
+"75% захисту
+"
 "+10% фізичної шкоди"
 
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMRECHARGER
 msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMORMEDIUMRECHARGER"
 msgid ""
-"75% Protection\n"
+"75% Protection
+"
 "+10% Faster Cooldown"
 msgstr ""
-"75% захисту\n"
+"75% захисту
+"
 "+10 швидкості перезаряджання"
 
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPDAMAGER
 msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPDAMAGER"
 msgid ""
-"80% Protection\n"
-"+50 Max Health\n"
+"80% Protection
+"
+"+50 Max Health
+"
 "+20% Physical Damage"
 msgstr ""
-"80% захисту\n"
-"+50 макс. здоров'я\n"
+"80% захисту
+"
+"+50 макс. здоров'я
+"
 "+20% фізичної шкоди"
 
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPEXTRAHEAVY
 msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPEXTRAHEAVY"
 msgid ""
-"90% Protection\n"
-"+100 Max Health\n"
+"90% Protection
+"
+"+100 Max Health
+"
 "Knockback Resistance"
 msgstr ""
-"90% захисту\n"
-"+100 макс. здоров'я\n"
+"90% захисту
+"
+"+100 макс. здоров'я
+"
 "Стійкість до збиття з ніг"
 
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPPETMASTERY
 msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPPETMASTERY"
 msgid ""
-"80% Protection\n"
-"+75 Max Health\n"
+"80% Protection
+"
+"+75 Max Health
+"
 "Companion Buff"
 msgstr ""
-"80% захисту\n"
-"+75 макс. здоров'я\n"
+"80% захисту
+"
+"+75 макс. здоров'я
+"
 "Підсилення приятелів"
 
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPRECHARGER
 msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_ARMOR_HPRECHARGER"
 msgid ""
-"80% Protection\n"
-"+50 Max Health\n"
+"80% Protection
+"
+"+50 Max Health
+"
 "+15% Faster Cooldown"
 msgstr ""
-"80% захисту\n"
-"+50 макс. здоров'я\n"
+"80% захисту
+"
+"+50 макс. здоров'я
+"
 "+15% швидкості перезаряджання"
 
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_CROWNDAMAGERHAT
 msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_CROWNDAMAGERHAT"
 msgid ""
-"+15% Physical Damage\n"
-"+10% Faster Cooldown\n"
+"+15% Physical Damage
+"
+"+10% Faster Cooldown
+"
 "+10% Move Speed"
 msgstr ""
-"+15% фізичної шкоди\n"
-"+10% швидкості перезаряджання\n"
+"+15% фізичної шкоди
+"
+"+10% швидкості перезаряджання
+"
 "+10% швидкості пересування"
 
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_EYECIRCLETHAT
 msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_EYECIRCLETHAT"
 msgid ""
-"+25% Magic Damage\n"
-"+10% Faster Cooldown\n"
+"+25% Magic Damage
+"
+"+10% Faster Cooldown
+"
 "+10% Move Speed"
 msgstr ""
-"+25% магічної шкоди\n"
-"+10% швидкості перезаряджання\n"
+"+25% магічної шкоди
+"
+"+10% швидкості перезаряджання
+"
 "+10% швидкості пересування"
 
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_FEATHERCROWNHAT
@@ -11591,12 +11639,16 @@ msgstr "+25% отримуваного зцілення"
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGGARLANDHAT
 msgctxt "STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_HEALINGGARLANDHAT"
 msgid ""
-"+2 HP/s (80% HP Max)\n"
-"+10% Faster Cooldown\n"
+"+2 HP/s (80% HP Max)
+"
+"+10% Faster Cooldown
+"
 "+10% Move Speed"
 msgstr ""
-"+2 ОЗ/с (80% макс. ОЗ)\n"
-"+10% швидкості перезаряджання\n"
+"+2 ОЗ/с (80% макс. ОЗ)
+"
+"+10% швидкості перезаряджання
+"
 "+10% швидкості пересування"
 
 #. STRINGS.NAME_DETAIL_EXTENTION.LAVAARENA_LIGHTDAMAGERHAT
