@@ -11451,7 +11451,7 @@ msgid "75% Protection"
 msgstr "75% захисту"
 
 msgid "75% Protection\\n+10% Physical Damage"
-msgstr "75% захисту\\n+10% фізичної шкоди"
+msgstr "75% Protection\\n+10% Physical Damage"
 
 msgid "75% Protection\\n+10% Faster Cooldown"
 msgstr "75% захисту\\n+10 швидкості перезаряджання"
