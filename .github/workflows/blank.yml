@@ -27,9 +27,12 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install polib
+          if  [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
       - name: Merge Missing Translations
         run: |
+          python <<EOF
+          import polib
           # Завантажуємо файли
           ukrainian = polib.pofile('uk/ukrainian.po')
           original = polib.pofile('uk/strings.pot')
