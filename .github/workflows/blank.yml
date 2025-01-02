@@ -31,9 +31,6 @@ jobs:
 
       - name: Merge Missing Translations
         run: |
-          python <<EOF
-          import polib
-
           # Завантажуємо файли
           ukrainian = polib.pofile('uk/ukrainian.po')
           original = polib.pofile('uk/strings.pot')
