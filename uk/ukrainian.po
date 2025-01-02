@@ -11,7 +11,6 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\\n"
 "X-Generator: Crowdin\\n"
 
-test test test
 msgid "Abigail"
 msgstr "Абіґейл"
 
@@ -6883,7 +6882,7 @@ msgid "60% Protection\\n+10% Move Speed"
 msgstr "60% захисту\\n+10 швидкості пересування"
 
 msgid "75% Protection"
-msgstr "75% захисту"
+msgstr "75% Protection"
 
 msgid "75% Protection\\n+10% Physical Damage"
 msgstr "75% захисту\\n+10% фізичної шкоди"
