@@ -35,31 +35,31 @@ jobs:
           ref: '${{ github.head_ref }}'
       - name: Merge Missing Translations
         run: |
-          echo "
+          echo '
           import polib
           import re
-
-          pot_file = polib.pofile('uk/strings.pot')
-          po_file = polib.pofile('uk/ukrainian.po')
-
+      
+          pot_file = polib.pofile("uk/strings.pot")
+          po_file = polib.pofile("uk/ukrainian.po")
+      
           def format_text(text):
               if text:
                   # Заміна \\n на \n
-                  text = text.replace('\\\\n', '\\n')
-          
+                  text = text.replace("\\\\n", "\\n")
+      
                   # Поєднання рядків у блоках з лапками
                   # Прибираємо перенос рядка в середині рядка та об'єднуємо їх в один рядок
-                  text = re.sub(r'"\n?"', '', text)  # Видаляємо зайві переноси
-                  text = re.sub(r'"\s*"', '', text)  # Видаляємо зайві пробіли
-                  text = re.sub(r'"\n\s*', '', text)  # Прибираємо зайві символи переносу перед лапкою
-          
+                  text = re.sub(r'"\\n?"', "", text)  # Видаляємо зайві переноси
+                  text = re.sub(r'"\s*"', "", text)  # Видаляємо зайві пробіли
+                  text = re.sub(r'"\n\s*', "", text)  # Прибираємо зайві символи переносу перед лапкою
+      
                   # Відновлюємо символи \n у місцях де вони мають бути
-                  text = text.replace('\\\\n', '\\n')
-          
+                  text = text.replace("\\\\n", "\\n")
+      
                   # Повертаємо отриманий текст
                   return text
               return text
-
+      
           for entry in po_file:
               entry.msgid = format_text(entry.msgid)
               entry.msgstr = format_text(entry.msgstr)
@@ -68,10 +68,11 @@ jobs:
                   if matching_entry:
                       entry.comment = matching_entry.msgctxt
                       entry.msgctxt = matching_entry.msgctxt
-
-          po_file.save('uk/ukrainian.po')
-          " > merge_translations.py
+      
+          po_file.save("uk/ukrainian.po")
+          ' > merge_translations.py
           python merge_translations.py
+
     
       - name: Commit Changes
         run: |
