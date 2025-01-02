@@ -20,7 +20,9 @@ jobs:
           python-version: '3.11'
 
       - name: Install Dependencies
-        run: pip install polib
+        run: |
+          python -m pip install --upgrade pip
+          pip install polib
 
       - name: Merge Missing Translations
         run: |
