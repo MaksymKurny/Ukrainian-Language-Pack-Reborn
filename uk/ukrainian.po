@@ -1,0 +1,6931 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ukrainian Language Pack — Reborn\\n"
+"POT-Creation-Date: 2024-10-21 07:10-0000\\n"
+"PO-Revision-Date: 2024-10-21 07:10-0000\\n"
+"Last-Translator: \\n"
+"Language-Team: none\\n"
+"MIME-Version: 1.0\\n"
+"Content-Type: text/plain; charset=UTF-8\\n"
+"Content-Transfer-Encoding: 8bit\\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\\n"
+"X-Generator: Crowdin\\n"
+
+msgid "Abigail"
+msgstr "Абіґейл"
+
+msgid "Abigail's Flower"
+msgstr "Квітка Абіґейл"
+
+msgid "Accomploshrine"
+msgstr "Кубок подвигів"
+
+msgid "Acid Rain"
+msgstr "Кислотний дощ"
+
+msgid "Birchnut"
+msgstr "Каштан"
+
+msgid "Roasted Birchnut"
+msgstr "Смажений каштан"
+
+msgid "Birchnut Sapling"
+msgstr "Паросток каштана"
+
+msgid "Maxwell's Door"
+msgstr "Двері Максвелла"
+
+msgid "Enlightened Crown"
+msgstr "Корона просвітлення"
+
+msgid "Enlightened Shard"
+msgstr "Уламок просвітлення"
+
+msgid "Minor Gestalt"
+msgstr "Малий ґештальт"
+
+msgid "Lunar Essence Extractor"
+msgstr "Екстрактор місячної есенції"
+
+msgid "Celestial Champion"
+msgstr "Небесний чемпіон"
+
+msgid "Moonglass Spike"
+msgstr "Шип із місячного скла"
+
+msgid "Defeated Celestial Champion"
+msgstr "Переможений небесний чемпіон"
+
+msgid "Enlightening Snare"
+msgstr "Пастка просвітлення"
+
+msgid "Life Giving Amulet"
+msgstr "Життєдайний амулет"
+
+msgid "Anchor"
+msgstr "Якір"
+
+msgid "Anchor Kit"
+msgstr "Набір для якоря"
+
+msgid "\"Moon\" Sketch"
+msgstr "Замальовка «місяця»"
+
+msgid "Geode Fruit"
+msgstr "Жеодофрукт"
+
+msgid "Nightberry"
+msgstr "Ягода ночі"
+
+msgid "Cooked Nightberry"
+msgstr "Приготована ягода ночі"
+
+msgid "Sproutrock"
+msgstr "Дендрокамінь"
+
+msgid "Young Sproutrock"
+msgstr "Молодий дендрокамінь"
+
+msgid "Sproutrock Sapling"
+msgstr "Паросток дендрокаменя"
+
+msgid "Gloomthorn"
+msgstr "Темношип"
+
+msgid "Young Gloomthorn"
+msgstr "Молодий темношип"
+
+msgid "Gloomthorn Sapling"
+msgstr "Паросток темношипа"
+
+msgid "Surprising Seed"
+msgstr "Насіння-сюрприз"
+
+msgid "Planted Surprising Seed"
+msgstr "Посаджене насіння-сюрприз"
+
+msgid "Ancient Pseudoscience Station"
+msgstr "Стародавня псевдонаукова станція"
+
+msgid "Broken Ancient Pseudoscience Station"
+msgstr "Зруйнована стародавня псевдонаукова станція"
+
+msgid "Ancient Statue"
+msgstr "Стародавня статуя"
+
+msgid "Animal Track"
+msgstr "Слід звіра"
+
+msgid "Ant-Chovy"
+msgstr "Мурахамса"
+
+msgid "Antlion"
+msgstr "Мурашиний лев"
+
+msgid "Turf-Raiser Helm"
+msgstr "Ґрунтозсувний шолом"
+
+msgid "Beach Toy"
+msgstr "Пляжна іграшка"
+
+msgid "Sinkhole"
+msgstr "Вирва"
+
+msgid "Ancient Sentrypede"
+msgstr "Стародавня вартоніжка"
+
+msgid "Sentrypede Husk"
+msgstr "Оболонка вартоніжки"
+
+msgid "Ancient Kiln"
+msgstr "Стародавній казан"
+
+msgid "Distilled Knowledge"
+msgstr "Дистильоване знання"
+
+msgid "Fountain of Knowledge"
+msgstr "Джерело знань"
+
+msgid "Ancient Moon Statue"
+msgstr "Стародавня статуя місяця"
+
+msgid "Ancient Orchestrina"
+msgstr "Стародавня оркестрина"
+
+msgid "Sealed Portal"
+msgstr "Запечатаний портал"
+
+msgid "Astral Detector"
+msgstr "Астральний детектор"
+
+msgid "Ancient Lunarune Stone"
+msgstr "Стародавній рунічний камінь"
+
+msgid "Ancient Guard Post"
+msgstr "Стародавній охоронний стовп"
+
+msgid "Ornate Pedestal"
+msgstr "Пишно оздоблений п'єдестал"
+
+msgid "Scalemail"
+msgstr "Лускатий обладунок"
+
+msgid "Dreadstone Armor"
+msgstr "Броня з лячнокаменю"
+
+msgid "Grass Suit"
+msgstr "Трав'яний обладунок"
+
+msgid "Marble Suit"
+msgstr "Мармуровий обладунок"
+
+msgid "Thulecite Suit"
+msgstr "Тулецитовий обладунок"
+
+msgid "Bone Armor"
+msgstr "Кістяна броня"
+
+msgid "Belt of Hunger"
+msgstr "Пояс голоду"
+
+msgid "Snurtle Shell Armor"
+msgstr "Панцир равлипахи"
+
+msgid "W.A.R.B.I.S. Armor"
+msgstr "Броня В.А.Р.Б.І.С."
+
+msgid "Log Suit"
+msgstr "Дерев'яний обладунок"
+
+msgid "Bramble Husk"
+msgstr "Ожинова оболонка"
+
+msgid "Coat of Carrots"
+msgstr "Морковик"
+
+msgid "Brightshade Armor"
+msgstr "Ясноквітна броня"
+
+msgid "Brambleshade Armor"
+msgstr "Ожиноквітна броня"
+
+msgid "Night Armor"
+msgstr "Броня ночі"
+
+msgid "Void Robe"
+msgstr "Мантія порожнечі"
+
+msgid "Directional Sign"
+msgstr "Дороговказ"
+
+msgid "Ashes"
+msgstr "Попіл"
+
+msgid "Ashes of %s"
+msgstr "Попіл %s"
+
+msgid "Asparagus"
+msgstr "Спаржа"
+
+msgid "Asparagus Soup"
+msgstr "Спаржевий суп"
+
+msgid "Roasted Asparagus"
+msgstr "Смажена спаржа"
+
+msgid "Giant Asparagus"
+msgstr "Спаржище"
+
+msgid "Giant Rotting Asparagus"
+msgstr "Гниле спаржище"
+
+msgid "Tubular Seeds"
+msgstr "Циліндричне насіння"
+
+msgid "Ancient Gateway"
+msgstr "Стародавня брама"
+
+msgid "Ancient Key"
+msgstr "Стародавній ключ"
+
+msgid "Ancient Beacon"
+msgstr "Стародавній маяк"
+
+msgid "Ancient Obelisk"
+msgstr "Стародавній обеліск"
+
+msgid "Ancient Mural"
+msgstr "Стародавні розписи"
+
+msgid "Axe"
+msgstr "Сокира"
+
+msgid "Baby Beefalo"
+msgstr "Дитинча біфало"
+
+msgid "Backpack"
+msgstr "Рюкзак"
+
+msgid "Bacon and Eggs"
+msgstr "Яєшня з беконом"
+
+msgid "Balloon"
+msgstr "Кулька"
+
+msgid "Balloon Hat"
+msgstr "Надувний капелюх"
+
+msgid "Party Balloon"
+msgstr "Святкова кулька"
+
+msgid "Speedy Balloon"
+msgstr "Швидкісна кулька"
+
+msgid "Pile o' Balloons"
+msgstr "Купа кульок"
+
+msgid "Inflatable Vest"
+msgstr "Надувний жилет"
+
+msgid "Banana Bush"
+msgstr "Банановий кущ"
+
+msgid "Banana Shake"
+msgstr "Банановий коктейль"
+
+msgid "Banana Pop"
+msgstr "Банан на паличці"
+
+msgid "Honey Poultice"
+msgstr "Медова припарка"
+
+msgid "Barnacles"
+msgstr "Балянуси"
+
+msgid "Barnacle Pita"
+msgstr "Піта з балянусами"
+
+msgid "Stuffed Fish Heads"
+msgstr "Фаршировані риб'ячі голови"
+
+msgid "Barnacle Nigiri"
+msgstr "Оніґірі з балянусів"
+
+msgid "Cooked Barnacles"
+msgstr "Приготовані балянуси"
+
+msgid "Barnacle Linguine"
+msgstr "Лінгвіні з балянусами"
+
+msgid "Basalt"
+msgstr "Базальт"
+
+msgid "Basalt Pillar"
+msgstr "Базальтова колона"
+
+msgid "Batilisk"
+msgstr "Кажаліск"
+
+msgid "Bat Bat"
+msgstr "Кажанова бита"
+
+msgid "Bat Cave"
+msgstr "Печера кажанів"
+
+msgid "Bath Bomb"
+msgstr "Бомбочка для ванни"
+
+msgid "Bath Bomb Blueprint"
+msgstr "Креслення бомбочки для ванни"
+
+msgid "Naked Nostrils"
+msgstr "Голі ніздрі"
+
+msgid "Milkmade Hat"
+msgstr "Молочний капелюх"
+
+msgid "Charred Nostrils"
+msgstr "Обвуглені ніздрі"
+
+msgid "Battle Call Canister"
+msgstr "Тубус бойових пісень"
+
+msgid "Weaponized Warble"
+msgstr "Збройна рулада"
+
+msgid "Fireproof Falsetto"
+msgstr "Вогнетривкий фальцет"
+
+msgid "Heartrending Ballad"
+msgstr "Серцезворушна балада"
+
+msgid "Startling Soliloquy"
+msgstr "Приголомшливий солілоквій"
+
+msgid "Warrior's Reprise"
+msgstr "Воїнська реприза"
+
+msgid "Rude Interlude"
+msgstr "Груба інтерлюдія"
+
+msgid "Enlightened Lullaby"
+msgstr "Колискова просвітлення"
+
+msgid "Bel Canto of Courage"
+msgstr "Бельканто доблесті"
+
+msgid "Clear Minded Cadenza"
+msgstr "Каденція ясного розуму"
+
+msgid "Dark Lament"
+msgstr "Темна елегія"
+
+msgid "Batilisk Wing"
+msgstr "Кажаліскове крило"
+
+msgid "Cooked Batilisk Wing"
+msgstr "Приготоване кажаліскове крило"
+
+msgid "Beard Hair"
+msgstr "Клаптик бороди"
+
+msgid "Bearger"
+msgstr "Борсуковедмідь"
+
+msgid "Polar Bearger Bin"
+msgstr "Полярний термоконтейнер"
+
+msgid "Hibearnation Vest"
+msgstr "Жилет ведмежої сплячки"
+
+msgid "Thick Fur"
+msgstr "Густе хутро"
+
+msgid "Lucky Beast Costume Pattern"
+msgstr "Викрійка щасливого костюма"
+
+msgid "Fur Roll"
+msgstr "Хутряний спальник"
+
+msgid "Straw Roll"
+msgstr "Солом'яний спальник"
+
+msgid "Bee"
+msgstr "Бджола"
+
+msgid "Bee Box"
+msgstr "Вулик"
+
+msgid "Beefalo"
+msgstr "Біфало"
+
+msgid "Steamed Twigs"
+msgstr "Пропарені гілки"
+
+msgid "Beefalo Hat"
+msgstr "Шапка з біфало"
+
+msgid "Beefalo Treats"
+msgstr "Ласощі для біфало"
+
+msgid "Beefalo Wool"
+msgstr "Шерсть біфало"
+
+msgid "{buddy}'s Beefalo"
+msgstr "Біфало вцілілого {buddy}"
+
+msgid "Domesticated Beefalo"
+msgstr "Приручений біфало"
+
+msgid "Beefalo Grooming Station"
+msgstr "Станція догляду за біфало"
+
+msgid "Grooming Station Kit"
+msgstr "Набір для станції догляду"
+
+msgid "Beefalo Bell"
+msgstr "Дзвіночок біфало"
+
+msgid "Grumble Bee"
+msgstr "Джміль"
+
+msgid "Beekeeper Hat"
+msgstr "Капелюх бджоляра"
+
+msgid "Beehive"
+msgstr "Гніздо бджіл"
+
+msgid "Bee Mine"
+msgstr "Бджолина міна"
+
+msgid "Maxwell's Mosquito Trap"
+msgstr "Комарина пастка Максвелла"
+
+msgid "Bee Queen"
+msgstr "Королева бджіл"
+
+msgid "Honey Patch"
+msgstr "Медова пляма"
+
+msgid "Somewhat Gigantic Beehive"
+msgstr "Дещо гігантське гніздо бджіл"
+
+msgid "Gigantic Beehive"
+msgstr "Гігантське гніздо бджіл"
+
+msgid "Beeswax"
+msgstr "Бджолиний віск"
+
+msgid "Embalming Spritz"
+msgstr "Флакон для бальзамування"
+
+msgid "Infernal Swineclops"
+msgstr "Пекельний кабаноциклоп"
+
+msgid "Old Bell"
+msgstr "Старий дзвін"
+
+msgid "Bernie"
+msgstr "Берні"
+
+msgid "BERNIE!"
+msgstr "БЕРНІ!"
+
+msgid "Berries"
+msgstr "Ягоди"
+
+msgid "Roasted Berries"
+msgstr "Смажені ягоди"
+
+msgid "Juicy Berries"
+msgstr "Соковиті ягоди"
+
+msgid "Roasted Juicy Berries"
+msgstr "Смажені соковиті ягоди"
+
+msgid "Berry Bush"
+msgstr "Ягідний кущ"
+
+msgid "Juicy Berry Bush"
+msgstr "Кущ соковитих ягід"
+
+msgid "Merry Berrysauce"
+msgstr "Святковий ягідний соус"
+
+msgid "Bibingka"
+msgstr "Бібінка"
+
+msgid "Biiigfoot"
+msgstr "Гіга-а-антська нога"
+
+msgid "Guardian Shadow Tentacle"
+msgstr "Тіньовий мацак-охоронець"
+
+msgid "Birchnutter"
+msgstr "Білокорик"
+
+msgid "Birdcage"
+msgstr "Пташина клітка"
+
+msgid "Bird Trap"
+msgstr "Пастка для птахів"
+
+msgid "Egg"
+msgstr "Яйце"
+
+msgid "Cooked Egg"
+msgstr "Приготоване яйце"
+
+msgid "Moonblind Crow"
+msgstr "Місяцеока ворона"
+
+msgid "Misshapen Bird"
+msgstr "Спотворений птах"
+
+msgid "Clockwork Bishop"
+msgstr "Механічний слон"
+
+msgid "Damaged Bishop"
+msgstr "Пошкоджений слон"
+
+msgid "Black Flag"
+msgstr "Чорний стяг"
+
+msgid "Fire Dart"
+msgstr "Вогняний дротик"
+
+msgid "Darts"
+msgstr "Дротики"
+
+msgid "Molten Darts"
+msgstr "Плавлені дротики"
+
+msgid "Blow Dart"
+msgstr "Духовий дротик"
+
+msgid "Sleep Dart"
+msgstr "Снодійний дротик"
+
+msgid "Electric Dart"
+msgstr "Електричний дротик"
+
+msgid "Chilled Amulet"
+msgstr "Морозний амулет"
+
+msgid "Blue Gem"
+msgstr "Синій самоцвіт"
+
+msgid "Blue Moonlens"
+msgstr "Синя місячна лінза"
+
+msgid "Blueprint"
+msgstr "Креслення"
+
+msgid "Imitation Ruins Turf Blueprints"
+msgstr "Креслення імітації підлоги руїн"
+
+msgid "Ruins Turf Blueprints"
+msgstr "Креслення підлоги руїн"
+
+msgid "{item} Blueprint"
+msgstr "Креслення для {item}"
+
+msgid "Blue Cap"
+msgstr "Синій гриб"
+
+msgid "Cooked Blue Cap"
+msgstr "Приготований синій гриб"
+
+msgid "Blue Mushroom"
+msgstr "Синій гриб"
+
+msgid "Blue Funcap"
+msgstr "Синя шапинка"
+
+msgid "Boards"
+msgstr "Дошки"
+
+msgid "Bunch o' Boards"
+msgstr "Купа дощок"
+
+msgid "Pit Pig"
+msgstr "Бойовий кабан"
+
+msgid "Grand Forge Boarrior"
+msgstr "Величний кабавоїн Кузні"
+
+msgid "Boat"
+msgstr "Човен"
+
+msgid "Boat Fragment"
+msgstr "Уламок човна"
+
+msgid "Boat Patch"
+msgstr "Латка для човна"
+
+msgid "Kelp Patch"
+msgstr "Латка з ламінарії"
+
+msgid "Race Checkpoint"
+msgstr "Контрольна точка перегонів"
+
+msgid "Race Checkpoint Kit"
+msgstr "Набір для контрольної точки перегонів"
+
+msgid "Charlie's Racer"
+msgstr "Перегонець Чарлі"
+
+msgid "Golden Buoy"
+msgstr "Золотий буй"
+
+msgid "Thorny Buoy"
+msgstr "Колючий буй"
+
+msgid "Thorny Buoy Kit"
+msgstr "Набір для колючого буя"
+
+msgid "Golden Buoy Kit"
+msgstr "Набір для золотого буя"
+
+msgid "Broodling Spectator"
+msgstr "Дракономушка-спостерігач"
+
+msgid "Start Tower"
+msgstr "Стартова вежа"
+
+msgid "Start Tower Kit"
+msgstr "Набір для стартової вежі"
+
+msgid "Archaic Boat"
+msgstr "Архаїчний човен"
+
+msgid "Cargo Hold"
+msgstr "Вантажний трюм"
+
+msgid "Archaic Boat Kit"
+msgstr "Набір для архаїчного човна"
+
+msgid "Crab King Bumper"
+msgstr "Бампер короля крабів"
+
+msgid "Crab King Bumper Kit"
+msgstr "Набір для бампера короля крабів"
+
+msgid "Kelp Bumper"
+msgstr "Бампер із ламінарії"
+
+msgid "Kelp Bumper Kit"
+msgstr "Набір для бампера з ламінарії"
+
+msgid "Shell Bumper"
+msgstr "Бампер із мушель"
+
+msgid "Shell Bumper Kit"
+msgstr "Набір для бампера з мушель"
+
+msgid "Fanged Bumper"
+msgstr "Ікластий бампер"
+
+msgid "Fanged Bumper Kit"
+msgstr "Набір для ікластого бампера"
+
+msgid "Cannon"
+msgstr "Гармата"
+
+msgid "Cannon Kit"
+msgstr "Набір для гармати"
+
+msgid "Grass Raft"
+msgstr "Трав'яний пліт"
+
+msgid "Grass Raft Kit"
+msgstr "Набір для трав'яного плоту"
+
+msgid "Boat Kit"
+msgstr "Набір для човна"
+
+msgid "Leak"
+msgstr "Пробоїна"
+
+msgid "Nautopilot"
+msgstr "Автоплав"
+
+msgid "Nautopilot Beacon"
+msgstr "Маяк для автоплава"
+
+msgid "Nautopilot Kit"
+msgstr "Набір для автоплава"
+
+msgid "Pirate Sloop"
+msgstr "Піратський шлюп"
+
+msgid "Rudder"
+msgstr "Стерно"
+
+msgid "Rudder Kit"
+msgstr "Набір для стерна"
+
+msgid "Beefalo Pillow Armor"
+msgstr "Подушкова броня з біфало"
+
+msgid "Kelpy Pillow Armor"
+msgstr "Подушкова броня з ламінарії"
+
+msgid "Flowery Pillow Armor"
+msgstr "Подушкова броня з пелюсток"
+
+msgid "Steel Wool Pillow Armor"
+msgstr "Подушкова броня зі сталевої вовни"
+
+msgid "Brightshade Bomb"
+msgstr "Ясноквітна бомба"
+
+msgid "Bone Shards"
+msgstr "Уламки кісток"
+
+msgid "Bone Bouillon"
+msgstr "Кістковий бульйон"
+
+msgid "Meaty Stew"
+msgstr "М'ясна юшка"
+
+msgid "Bookcase"
+msgstr "Книжкова шафа"
+
+msgid "Apicultural Notes"
+msgstr "«Нотатки бджоляра»"
+
+msgid "Birds of the World"
+msgstr "«Птахи світу»"
+
+msgid "The End is Nigh!"
+msgstr "«Кінець близько!»"
+
+msgid "Tome of Beckoning"
+msgstr "Фоліант виклику"
+
+msgid "Pyrokinetics Explained"
+msgstr "«Тлумачення пірокінетики»"
+
+msgid "The Angler's Survival Guide"
+msgstr "«Риболовля від А до Я»"
+
+msgid "Petrifying Tome"
+msgstr "Фоліант скам'яніння"
+
+msgid "Applied Horticulture"
+msgstr "«Прикладне рослинництво»"
+
+msgid "Horticulture, Abridged"
+msgstr "«Рослинництво. Скорочене видання»"
+
+msgid "Horticulture, Expanded"
+msgstr "«Рослинництво. Розширене видання»"
+
+msgid "Lux Aeterna"
+msgstr "«Вічне сяйво»"
+
+msgid "Lux Aeterna Redux"
+msgstr "«Вічне сяйво. Нова редакція»"
+
+msgid "Lunar Grimoire"
+msgstr "Місячний ґримуар"
+
+msgid "Practical Rain Rituals"
+msgstr "«Ритуали дощу. Практичний курс»"
+
+msgid "The Everything Encyclopedia"
+msgstr "«Велика енциклопедія»"
+
+msgid "Applied Silviculture"
+msgstr "«Прикладне лісництво»"
+
+msgid "Sleepytime Stories"
+msgstr "«Казки на ніч»"
+
+msgid "Tempering Temperatures"
+msgstr "«Темперування температур»"
+
+msgid "On Tentacles"
+msgstr "«Про мацаки»"
+
+msgid "Overcoming Arachnophobia"
+msgstr "«Подолання арахнофобії»"
+
+msgid "Boomerang"
+msgstr "Бумеранг"
+
+msgid "Bootleg Getaway"
+msgstr "Брама-халява"
+
+msgid "Thorns"
+msgstr "Колючки"
+
+msgid "Brush"
+msgstr "Щітка"
+
+msgid "Bug Net"
+msgstr "Сачок"
+
+msgid "Bull Kelp"
+msgstr "Ламінарія"
+
+msgid "Bull Kelp Stalk"
+msgstr "Стебло ламінарії"
+
+msgid "Bundled Supplies"
+msgstr "Запаковані припаси"
+
+msgid "Bundling Wrap"
+msgstr "Пакувальна обгортка"
+
+msgid "Bunnyman"
+msgstr "Заєць"
+
+msgid "Bunny Stew"
+msgstr "Юшка з кролика"
+
+msgid "Spiky Bush"
+msgstr "Колючий кущ"
+
+msgid "Bush Hat"
+msgstr "Капелющ"
+
+msgid "Butter"
+msgstr "Масло"
+
+msgid "Butterfly"
+msgstr "Метелик"
+
+msgid "Butter Muffin"
+msgstr "Мафін із метелика"
+
+msgid "Butterfly Wings"
+msgstr "Крила метелика"
+
+msgid "Moon Moth Sketch"
+msgstr "Замальовка місячної молі"
+
+msgid "Buzzard"
+msgstr "Стерв'ятник"
+
+msgid "Cabbage Rolls"
+msgstr "Голубці"
+
+msgid "Cactus"
+msgstr "Кактус"
+
+msgid "Cactus Flower"
+msgstr "Квітка кактуса"
+
+msgid "Cactus Flesh"
+msgstr "М'якуш кактуса"
+
+msgid "Cooked Cactus Flesh"
+msgstr "Приготований м'якуш кактуса"
+
+msgid "California Roll"
+msgstr "Роли «Каліфорнія»"
+
+msgid "Campfire"
+msgstr "Багаття"
+
+msgid "Canary"
+msgstr "Канарка"
+
+msgid "Canary (Volatile)"
+msgstr "Канарка (отруєна)"
+
+msgid "Candy Bag"
+msgstr "Торба цукерок"
+
+msgid "Walking Cane"
+msgstr "Ціпок"
+
+msgid "Cannonball"
+msgstr "Гарматне ядро"
+
+msgid "Confetti Cannon"
+msgstr "Гармата з конфеті"
+
+msgid "Confetti Cannon Kit"
+msgstr "Набір для гармати з конфеті"
+
+msgid "Glitter Cannon"
+msgstr "Гармата з блискітками"
+
+msgid "Glitter Cannon Kit"
+msgstr "Набір для гармати з блискітками"
+
+msgid "Streamer Cannon"
+msgstr "Гармата зі стрічками"
+
+msgid "Streamer Cannon Kit"
+msgstr "Набір для гармати зі стрічками"
+
+msgid "Light Catcher"
+msgstr "Ловець світла"
+
+msgid "Light Catcher Kit"
+msgstr "Набір для ловця світла"
+
+msgid "Mini Ferris Wheel"
+msgstr "Оглядове мініколесо"
+
+msgid "Mini Ferris Wheel Kit"
+msgstr "Набір для оглядового мініколеса"
+
+msgid "Mini Swing Carousel"
+msgstr "Мінікарусель"
+
+msgid "Mini Swing Carousel Kit"
+msgstr "Набір для мінікаруселі"
+
+msgid "Mini Pendulum Ride"
+msgstr "Мінімаятник"
+
+msgid "Mini Pendulum Ride Kit"
+msgstr "Набір для мінімаятника"
+
+msgid "Mini Tower Drop"
+msgstr "Мінівежа падіння"
+
+msgid "Mini Tower Drop Kit"
+msgstr "Набір для мінівежі падіння"
+
+msgid "Common Cawnival Statuette"
+msgstr "Звичайна кар-р-рнавальна статуетка"
+
+msgid "Green Mystery Box"
+msgstr "Загадкова зелена коробка"
+
+msgid "Gold Mystery Box"
+msgstr "Загадкова золота коробка"
+
+msgid "Rare Cawnival Statuette"
+msgstr "Рідкісна кар-р-рнавальна статуетка"
+
+msgid "Uncommon Cawnival Statuette"
+msgstr "Незвичайна кар-р-рнавальна статуетка"
+
+msgid "Midsummer Night Light"
+msgstr "Нічник середини літа"
+
+msgid "Midsummer Night Light Kit"
+msgstr "Набір для нічника середини літа"
+
+msgid "Miniature Tree"
+msgstr "Мініатюрне дерево"
+
+msgid "Miniature Tree Kit"
+msgstr "Набір для мініатюрного дерева"
+
+msgid "Corny Slush"
+msgstr "Кукурудзяний слаш"
+
+msgid "Grub"
+msgstr "Черв'ячки"
+
+msgid "Hubbub for Grub Kit"
+msgstr "Набір для гри «Метушня через черв'ячка»"
+
+msgid "Hungry Crow"
+msgstr "Голодна ворона"
+
+msgid "Trapdoor"
+msgstr "Люк"
+
+msgid "Hubbub for Grub"
+msgstr "Гра «Метушня через черв'ячка»"
+
+msgid "Scrambling Egg"
+msgstr "Невгамовне яйце"
+
+msgid "Egg Scramble Kit"
+msgstr "Набір для гри «Невгамовні яйця»"
+
+msgid "Egg Scramble"
+msgstr "Гра «Невгамовні яйця»"
+
+msgid "Egg Basket"
+msgstr "Кошик з яйцем"
+
+msgid "Eggs in a Basket Kit"
+msgstr "Набір для гри «Яйця в кошику»"
+
+msgid "Eggs in a Basket"
+msgstr "Гра «Яйця в кошику»"
+
+msgid "Birdhouse Ball Drop Kit"
+msgstr "Набір для гри «Проліт крізь курник»"
+
+msgid "Birdhouse Ball Drop"
+msgstr "Гра «Проліт крізь курник»"
+
+msgid "Button"
+msgstr "Кнопка"
+
+msgid "Nest Defender"
+msgstr "Гра «Захист гнізда»"
+
+msgid "Nest Defender Kit"
+msgstr "Набір для гри «Захист гнізда»"
+
+msgid "Target"
+msgstr "Ціль"
+
+msgid "Cuckoo Spinwheel Kit"
+msgstr "Набір для гри «Зозулине колесо»"
+
+msgid "Cuckoo Spinwheel"
+msgstr "Гра «Зозулине колесо»"
+
+msgid "Shiny Red Ball"
+msgstr "Блискучий червоний м'яч"
+
+msgid "Crow Kid"
+msgstr "Воронятко"
+
+msgid "Cawnival Token"
+msgstr "Кар-р-рнавальний жетон"
+
+msgid "3 Cawnival Tokens"
+msgstr "3 кар-р-рнавальні жетони"
+
+msgid "Corvus Goodfeather"
+msgstr "Крук Кар-р-рлеоне"
+
+msgid "Cawnival Tree"
+msgstr "Кар-р-рнавальне дерево"
+
+msgid "Cawnival Sapling"
+msgstr "Паросток кар-р-рнавального дерева"
+
+msgid "Prize Booth"
+msgstr "Будка з призами"
+
+msgid "Prize Booth Kit"
+msgstr "Набір для будки з призами"
+
+msgid "Prize Tickets"
+msgstr "Призові квитки"
+
+msgid "Seed Clusters"
+msgstr "Пакетик насіння"
+
+msgid "Chirpy Scarf"
+msgstr "Ладний шарф"
+
+msgid "Chirpy Cloak"
+msgstr "Ладна мантія"
+
+msgid "Chirpy Capelet"
+msgstr "Ладна пелерина"
+
+msgid "Moon Glass Saw Blade"
+msgstr "Пилка з місячного скла"
+
+msgid "Sawhorse"
+msgstr "Теслярський козел"
+
+msgid "Carrat"
+msgstr "Щурквина"
+
+msgid "Carrat Shrine"
+msgstr "Вівтар щурквини"
+
+msgid "Charlie's Carrat"
+msgstr "Щурквина Чарлі"
+
+msgid "Carrot"
+msgstr "Морква"
+
+msgid "Roasted Carrot"
+msgstr "Смажена морква"
+
+msgid "Giant Carrots"
+msgstr "Морквища"
+
+msgid "Giant Rotting Carrots"
+msgstr "Гнилі морквища"
+
+msgid "Oblong Seeds"
+msgstr "Довгасте насіння"
+
+msgid "Cartographer's Desk"
+msgstr "Стіл картографа"
+
+msgid "Catcoon"
+msgstr "Єнотокіт"
+
+msgid "Hollow Stump"
+msgstr "Дуплистий пень"
+
+msgid "Cat Cap"
+msgstr "Котяча шапка"
+
+msgid "Wind-up Mouse Toy"
+msgstr "Заводна іграшкова мишка"
+
+msgid "Boulder"
+msgstr "Брила"
+
+msgid "Banana"
+msgstr "Банан"
+
+msgid "Cooked Banana"
+msgstr "Приготований банан"
+
+msgid "Cave Banana Tree"
+msgstr "Печерне бананове дерево"
+
+msgid "Plugged Sinkhole"
+msgstr "Завалена вирва"
+
+msgid "Deeper"
+msgstr "Углиб"
+
+msgid "Plugged Hole"
+msgstr "Завалена вирва"
+
+msgid "Stairs"
+msgstr "Сходи"
+
+msgid "Fern"
+msgstr "Папороть"
+
+msgid "Ceviche"
+msgstr "Севіче"
+
+msgid "Charcoal"
+msgstr "Деревне вугілля"
+
+msgid "Charlie"
+msgstr "Чарлі"
+
+msgid "Dark Vestige"
+msgstr "Темний слід"
+
+msgid "Fragile Rose"
+msgstr "Тендітна троянда"
+
+msgid "Beckoning Hand"
+msgstr "Простягнута рука"
+
+msgid "Mockingbird"
+msgstr "Пересмішник"
+
+msgid "Playbill"
+msgstr "Сценарій"
+
+msgid "Shadow Queen"
+msgstr "Королева тіней"
+
+msgid "Stage"
+msgstr "Сцена"
+
+msgid "Broken Clockworks"
+msgstr "Зламані механізми"
+
+msgid "Anchor Figure"
+msgstr "Фігура якоря"
+
+msgid "Anchor Figure Sketch"
+msgstr "Замальовка фігури якоря"
+
+msgid "Antlion Figure"
+msgstr "Фігура мурашиного лева"
+
+msgid "Bearger Figure"
+msgstr "Фігура борсуковедмедя"
+
+msgid "Armored Bearger Figure"
+msgstr "Фігура броньованого борсуковедмедя"
+
+msgid "Armored Bearger Figure Sketch"
+msgstr "Замальовка фігури броньованого борсуковедмедя"
+
+msgid "Beefalo Figure"
+msgstr "Фігура біфало"
+
+msgid "Beefalo Figure Sketch"
+msgstr "Замальовка фігури біфало"
+
+msgid "Bee Queen Figure"
+msgstr "Фігура королеви бджіл"
+
+msgid "Bishop Figure"
+msgstr "Фігура слона"
+
+msgid "Moon Moth Figure"
+msgstr "Фігура місячної молі"
+
+msgid "Moon Moth Figure Sketch"
+msgstr "Замальовка фігури місячної молі"
+
+msgid "Carrat Figure"
+msgstr "Фігура щурквини"
+
+msgid "Carrat Figure Sketch"
+msgstr "Замальовка фігури щурквини"
+
+msgid "Catcoon Figure"
+msgstr "Фігура єнотокота"
+
+msgid "Catcoon Figure Sketch"
+msgstr "Замальовка фігури єнотокота"
+
+msgid "Hound Figure"
+msgstr "Фігура гончака"
+
+msgid "Hound Figure Sketch"
+msgstr "Замальовка фігури гончака"
+
+msgid "Varg Figure"
+msgstr "Фігура варґа"
+
+msgid "Clay Varg Figure Sketch"
+msgstr "Замальовка фігури глиняного варґа"
+
+msgid "Crab King Figure"
+msgstr "Фігура короля крабів"
+
+msgid "Crab King Figure Sketch"
+msgstr "Замальовка фігури короля крабів"
+
+msgid "Nightmare Werepig Figure"
+msgstr "Фігура жахливого свинолаки"
+
+msgid "Nightmare Werepig Figure Sketch"
+msgstr "Замальовка фігури жахливого свинолаки"
+
+msgid "Deerclops Figure"
+msgstr "Фігура оленециклопа"
+
+msgid "Crystal Deerclops Figure"
+msgstr "Фігура кристального оленециклопа"
+
+msgid "Crystal Deerclops Figure Sketch"
+msgstr "Замальовка фігури кристального оленециклопа"
+
+msgid "Dragonfly Figure"
+msgstr "Фігура дракономухи"
+
+msgid "Eye Of Terror Figure"
+msgstr "Фігура ока терору"
+
+msgid "Kingly Figure"
+msgstr "Фігура короля"
+
+msgid "Celestial Champion Figure"
+msgstr "Фігура небесного чемпіона"
+
+msgid "Celestial Champion Figure Sketch"
+msgstr "Замальовка фігури небесного чемпіона"
+
+msgid "Carved Hornucopia"
+msgstr "Різьблений ріг достатку"
+
+msgid "Kitcoon Figure"
+msgstr "Фігура єнотокошеняти"
+
+msgid "Kitcoon Figure Sketch"
+msgstr "Замальовка фігури єнотокошеняти"
+
+msgid "Klaus Figure"
+msgstr "Фігура Клауса"
+
+msgid "Knight Figure"
+msgstr "Фігура коня"
+
+msgid "Malbatross Figure"
+msgstr "Фігура мальбатроса"
+
+msgid "Malbatross Figure Sketch"
+msgstr "Замальовка фігури мальбатроса"
+
+msgid "Bunnyman Figure"
+msgstr "Фігура зайця"
+
+msgid "Bunnyman Figure Sketch"
+msgstr "Замальовка фігури зайця"
+
+msgid "Ancient Guardian Figure"
+msgstr "Фігура стародавнього вартового"
+
+msgid "\"Moon\" Figure"
+msgstr "Фігура «місяця»"
+
+msgid "\"Moon\" Figure Sketch"
+msgstr "Замальовка фігури «місяця»"
+
+msgid "Moose Figure"
+msgstr "Фігура лосегуски"
+
+msgid "Goose Figure"
+msgstr "Фігура лосегуски"
+
+msgid "Moose/Goose Figure"
+msgstr "Фігура лосегуски"
+
+msgid "Queenly Figure"
+msgstr "Фігура королеви"
+
+msgid "Pawn Figure"
+msgstr "Фігура пішака"
+
+msgid "Bubble Pipe Carving"
+msgstr "Люлька з бульбашками"
+
+msgid "Rook Figure"
+msgstr "Фігура тури"
+
+msgid "Frostjaw Figure"
+msgstr "Фігура пащекрига"
+
+msgid "Frostjaw Figure Sketch"
+msgstr "Замальовка фігури пащекрига"
+
+msgid "Ancient Fuelweaver Figure"
+msgstr "Фігура стародавнього паливоткача"
+
+msgid "Toadstool Figure"
+msgstr "Фігура ропухи-поганки"
+
+msgid "Twins of Terror Figure"
+msgstr "Фігура двійнят терору"
+
+msgid "Possessed Varg Figure"
+msgstr "Фігура одержимого варґа"
+
+msgid "Possessed Varg Figure Sketch"
+msgstr "Замальовка фігури одержимого варґа"
+
+msgid "Start Tower Figure"
+msgstr "Фігура стартової вежі"
+
+msgid "Start Tower Figure Sketch"
+msgstr "Замальовка фігури стартової вежі"
+
+msgid "Chester"
+msgstr "Скриньчик"
+
+msgid "Eye Bone"
+msgstr "Кістяне око"
+
+msgid "Elastispacer"
+msgstr "Розтягувач простору"
+
+msgid "Ornate Chest"
+msgstr "Оздоблена скриня"
+
+msgid "Ornery Chest"
+msgstr "Озлоблена скриня"
+
+msgid "Fish Food"
+msgstr "Корм для риб"
+
+msgid "Fish Food Blueprint"
+msgstr "Креслення корму для риб"
+
+msgid "Clay Hound"
+msgstr "Глиняний гончак"
+
+msgid "Clay Varg"
+msgstr "Глиняний варґ"
+
+msgid "Freezing"
+msgstr "Обмороження"
+
+msgid "Endothermic Fire"
+msgstr "Ендотермічний вогонь"
+
+msgid "Endothermic Fire Pit"
+msgstr "Ендотермічне вогнище"
+
+msgid "Broken-down Chest"
+msgstr "Зламана скриня"
+
+msgid "Compass"
+msgstr "Компас"
+
+msgid "Compost"
+msgstr "Компост"
+
+msgid "Composting Bin"
+msgstr "Компостна бочка"
+
+msgid "Compost Wrap"
+msgstr "Згорток компосту"
+
+msgid "Cookbook"
+msgstr "Книга рецептів"
+
+msgid "Cooked Mandrake"
+msgstr "Приготована мандрагора"
+
+msgid "Cooked Meat"
+msgstr "Приготоване м'ясо"
+
+msgid "Cooked Monster Meat"
+msgstr "Приготоване м'ясо потвори"
+
+msgid "Cooked Morsel"
+msgstr "Приготований кавалок м'яса"
+
+msgid "Cookie Cutter"
+msgstr "Термітна піранья"
+
+msgid "Cookie Cutter Cap"
+msgstr "Ковпак термітної піраньї"
+
+msgid "Cookie Cutter Shell"
+msgstr "Панцир термітної піраньї"
+
+msgid "{item} Recipe Card"
+msgstr "Картка рецепта «{item}»"
+
+msgid "Recipe Card"
+msgstr "Картка рецепта"
+
+msgid "Crock Pot"
+msgstr "Казан"
+
+msgid "Cat Tail"
+msgstr "Котячий хвіст"
+
+msgid "Corn"
+msgstr "Кукурудза"
+
+msgid "Popcorn"
+msgstr "Попкорн"
+
+msgid "Giant Corn"
+msgstr "Кукурудзище"
+
+msgid "Giant Rotting Corn"
+msgstr "Гниле кукурудзище"
+
+msgid "Clustered Seeds"
+msgstr "Скупчене насіння"
+
+msgid "Blacksmith Costume"
+msgstr "Костюм коваля"
+
+msgid "Doll Costume"
+msgstr "Костюм ляльки"
+
+msgid "Fool Costume"
+msgstr "Костюм блазня"
+
+msgid "King Costume"
+msgstr "Костюм короля"
+
+msgid "Mirror Costume"
+msgstr "Костюм дзеркала"
+
+msgid "Queen Costume"
+msgstr "Костюм королеви"
+
+msgid "Tree Costume"
+msgstr "Костюм дерева"
+
+msgid "Humble Lamb Idol"
+msgstr "Смиренний ідол ягняти"
+
+msgid "Improved Lamb Idol"
+msgstr "Досконаліший ідол ягняти"
+
+msgid "Immaculate Lamb Idol"
+msgstr "Непорочний ідол ягняти"
+
+msgid "Red Crown"
+msgstr "Червона корона"
+
+msgid "Cozy Bunnyman"
+msgstr "Сонний заєць"
+
+msgid "Crab King"
+msgstr "Король крабів"
+
+msgid "Cannon Tower"
+msgstr "Гарматна вежа"
+
+msgid "Imposing Claw"
+msgstr "Приголомшлива клешня"
+
+msgid "Ice Barrier"
+msgstr "Крижаний бар'єр"
+
+msgid "Crab Guard"
+msgstr "Краб-вартовий"
+
+msgid "Crab Knight"
+msgstr "Краб-лицар"
+
+msgid "Crawling Horror"
+msgstr "Повзучий кошмар"
+
+msgid "Crawling Nightmare"
+msgstr "Повзучий жах"
+
+msgid "Rock Den"
+msgstr "Кам'яне лігво"
+
+msgid "Broodling"
+msgstr "Дракономушка"
+
+msgid "Friendly Peeper"
+msgstr "Дружній споглядач"
+
+msgid "Glomglom"
+msgstr "Ґломґлом"
+
+msgid "Kittykit"
+msgstr "Кошеня"
+
+msgid "Ewelet"
+msgstr "Ягнятко"
+
+msgid "Mothling"
+msgstr "Метіль"
+
+msgid "Giblet"
+msgstr "Індича"
+
+msgid "Vargling"
+msgstr "Варженя"
+
+msgid "Crop"
+msgstr "Культура"
+
+msgid "Crow"
+msgstr "Ворона"
+
+msgid "Cookie Crumbles"
+msgstr "Крихти печива"
+
+msgid "Accursed Trinket"
+msgstr "Проклята дрібничка"
+
+msgid "Cut Grass"
+msgstr "Зрізана трава"
+
+msgid "Cutless"
+msgstr "Безлезна шабля"
+
+msgid "Lichen"
+msgstr "Лишайник"
+
+msgid "Cut Reeds"
+msgstr "Зрізаний рогіз"
+
+msgid "Cut Stone"
+msgstr "Тесаний камінь"
+
+msgid "Bunch o' Stone"
+msgstr "Купа тесаних каменів"
+
+msgid "Darkness"
+msgstr "Темрява"
+
+msgid "Nightmare Werepig"
+msgstr "Жахливий свинолака"
+
+msgid "Scrappy Werepig"
+msgstr "Брухтовий свинолака"
+
+msgid "Cracked Pillar"
+msgstr "Потріскана колона"
+
+msgid "Deadly Feast"
+msgstr "Смертельна страва"
+
+msgid "Sea Bones"
+msgstr "Морські кістки"
+
+msgid "Birchnut Tree"
+msgstr "Білокорий каштан"
+
+msgid "Art?"
+msgstr "Мистецтво?"
+
+msgid "Table Vase"
+msgstr "Настільна ваза"
+
+msgid "Table Lamp"
+msgstr "Настільна лампа"
+
+msgid "Empty Frame"
+msgstr "Порожня рамка"
+
+msgid "Framed Drawing"
+msgstr "Малюнок у рамці"
+
+msgid "{item} Drawing"
+msgstr "Малюнок «{item}»"
+
+msgid "Pleasant Portrait"
+msgstr "Милий портрет"
+
+msgid "Health"
+msgstr "Здоров'я"
+
+msgid "Years"
+msgstr "Роки"
+
+msgid "Sanity"
+msgstr "Глузд"
+
+msgid "No-Eyed Deer"
+msgstr "Безокий олень"
+
+msgid "Deerclops"
+msgstr "Оленециклоп"
+
+msgid "Ice Crystaleyezer"
+msgstr "Крижаний кристалозір"
+
+msgid "Ice Crystaleyezer Kit"
+msgstr "Набір для крижаного кристалозору"
+
+msgid "Deerclops Eyeball"
+msgstr "Око оленециклопа"
+
+msgid "Deer Antler"
+msgstr "Ріг оленя"
+
+msgid "INVENTORY ITEM"
+msgstr "ПРЕДМЕТ ІНВЕНТАРЮ"
+
+msgid "Grass"
+msgstr "Трава"
+
+msgid "Desert Goggles"
+msgstr "Пустельні окуляри"
+
+msgid "Dev Tool"
+msgstr "Інструмент розробника"
+
+msgid "Suspicious Dirt Pile"
+msgstr "Підозріла купка землі"
+
+msgid "Divining Rod"
+msgstr "Радіолокаційний жезл"
+
+msgid "Divining Rod Holder"
+msgstr "Тримач для радіолокаційного жезла"
+
+msgid "Dock Kit"
+msgstr "Набір для пристані"
+
+msgid "Dock Piling"
+msgstr "Опора для пристані"
+
+msgid "Dolled-Up Costume Pattern"
+msgstr "Викрійка чепурного костюма"
+
+msgid "Dragonfly Boat"
+msgstr "Човен дракономухи"
+
+msgid "Dragonfly Boat Kit"
+msgstr "Набір для човна дракономухи"
+
+msgid "Decked-Out Dragonfly Boat Kit"
+msgstr "Набір оснащеного човна дракономухи"
+
+msgid "Lucky Beast Body"
+msgstr "Тіло щасливого звіра"
+
+msgid "Hot Dragon Chili Salad"
+msgstr "Драконячий салат чилі"
+
+msgid "Dragonfly"
+msgstr "Дракономуха"
+
+msgid "Scaled Chest"
+msgstr "Луската скриня"
+
+msgid "Scaled Furnace"
+msgstr "Луската піч"
+
+msgid "Dragon Fruit"
+msgstr "Фрукт дракона"
+
+msgid "Prepared Dragon Fruit"
+msgstr "Приготований фрукт дракона"
+
+msgid "Giant Dragon Fruit"
+msgstr "Фруктище дракона"
+
+msgid "Giant Rotting Dragon Fruit"
+msgstr "Гниле фруктище дракона"
+
+msgid "Bulbous Seeds"
+msgstr "Опукле насіння"
+
+msgid "Lucky Beast Head"
+msgstr "Голова щасливого звіра"
+
+msgid "Dragonpie"
+msgstr "Драконячий пиріг"
+
+msgid "Lucky Beast Tail"
+msgstr "Хвіст щасливого звіра"
+
+msgid "Scales"
+msgstr "Луска"
+
+msgid "Dreadstone"
+msgstr "Лячнокамінь"
+
+msgid "Dreadstone Helm"
+msgstr "Шолом із лячнокаменю"
+
+msgid "Dreadstone Outcrop"
+msgstr "Жила лячнокаменю"
+
+msgid "Driftwood Piece"
+msgstr "Шматок корча"
+
+msgid "Driftwood"
+msgstr "Корч"
+
+msgid "Drowning"
+msgstr "Утоплення"
+
+msgid "Drumstick"
+msgstr "Гомілка"
+
+msgid "Fried Drumstick"
+msgstr "Смажена гомілка"
+
+msgid "Grass Tuft"
+msgstr "Викопана трава"
+
+msgid "Monkeytails"
+msgstr "Мавпохвіст"
+
+msgid "Stone Fruit Bush"
+msgstr "Кущ кам'яних фруктів"
+
+msgid "Sapling"
+msgstr "Паросток"
+
+msgid "Anenemy Trap"
+msgstr "Злоктинієва пастка"
+
+msgid "Dumbbell"
+msgstr "Гантель"
+
+msgid "Icebell"
+msgstr "Крижана гантель"
+
+msgid "Gembell"
+msgstr "Самоцвітна гантель"
+
+msgid "Golden Dumbbell"
+msgstr "Золота гантель"
+
+msgid "Thermbell"
+msgstr "Термогантель"
+
+msgid "Marbell"
+msgstr "Мармурова гантель"
+
+msgid "Firebell"
+msgstr "Вогняна гантель"
+
+msgid "Durian"
+msgstr "Дуріан"
+
+msgid "Extra Smelly Durian"
+msgstr "Дуже смердючий дуріан"
+
+msgid "Giant Durian"
+msgstr "Дуріанище"
+
+msgid "Giant Rotting Durian"
+msgstr "Гниле дуріанище"
+
+msgid "Brittle Seed Pods"
+msgstr "Крихкі насіннєві коробочки"
+
+msgid "Amberosia"
+msgstr "Бурштинова амброзія"
+
+msgid "Dust Moth"
+msgstr "Пилова міль"
+
+msgid "Tidy Hidey-Hole"
+msgstr "Охайна схованка"
+
+msgid "Rabbit Earmuffs"
+msgstr "Кролячі навушники"
+
+msgid "Eel"
+msgstr "Вугор"
+
+msgid "Cooked Eel"
+msgstr "Приготований вугор"
+
+msgid "Eggplant"
+msgstr "Баклажан"
+
+msgid "Braised Eggplant"
+msgstr "Тушкований баклажан"
+
+msgid "Giant Eggplant"
+msgstr "Баклажанище"
+
+msgid "Giant Rotting Eggplant"
+msgstr "Гниле баклажанище"
+
+msgid "Swirly Seeds"
+msgstr "Закручене насіння"
+
+msgid "Fire Ball"
+msgstr "Вогняна куля"
+
+msgid "End Table"
+msgstr "Столик"
+
+msgid "Evergreen"
+msgstr "Ялина"
+
+msgid "Lumpy Evergreen"
+msgstr "Пухнаста ялина"
+
+msgid "Eyebrella"
+msgstr "Окосолька"
+
+msgid "Eye Mask"
+msgstr "Очна маска"
+
+msgid "Eye Of Terror"
+msgstr "Око терору"
+
+msgid "Suspicious Peeper"
+msgstr "Підозрілий споглядач"
+
+msgid "Egg Of Terror"
+msgstr "Яйце терору"
+
+msgid "Eye Plant"
+msgstr "Окоцвіт"
+
+msgid "Houndius Shootius"
+msgstr "Гончакій стрілятій"
+
+msgid "Garden Hoe"
+msgstr "Городня мотика"
+
+msgid "Asparagus Fern"
+msgstr "Папороть спаржі"
+
+msgid "Carrot Plant"
+msgstr "Рослина моркви"
+
+msgid "Corn Stalk"
+msgstr "Стебло кукурудзи"
+
+msgid "Dragon Fruit Vine"
+msgstr "Лоза фрукта дракона"
+
+msgid "Durian Vine"
+msgstr "Лоза дуріану"
+
+msgid "Eggplant Stalk"
+msgstr "Стебло баклажана"
+
+msgid "Garlic Plant"
+msgstr "Рослина часнику"
+
+msgid "Onion Plant"
+msgstr "Рослина цибулі"
+
+msgid "Pepper Plant"
+msgstr "Рослина перцю"
+
+msgid "Pomegranate Branch"
+msgstr "Гілка граната"
+
+msgid "Potato Plant"
+msgstr "Рослина картоплі"
+
+msgid "Pumpkin Plant"
+msgstr "Рослина гарбуза"
+
+msgid "Planted Seed"
+msgstr "Посаджене насіння"
+
+msgid "Rotting Plant"
+msgstr "Гнила рослина"
+
+msgid "Planted {seed}"
+msgstr "Посаджене {seed}"
+
+msgid "Toma Root Plant"
+msgstr "Корінь помідора"
+
+msgid "Plant"
+msgstr "Рослина"
+
+msgid "Watermelon Plant"
+msgstr "Рослина кавуна"
+
+msgid "Garden Digamajig"
+msgstr "Городня копалка"
+
+msgid "Garden Detritus"
+msgstr "Городнє сміття"
+
+msgid "Improved Farm"
+msgstr "Покращена ферма"
+
+msgid "Luxury Fan"
+msgstr "Розкішне віяло"
+
+msgid "Feather Hat"
+msgstr "Пір'яний капелюх"
+
+msgid "Feather Pencil"
+msgstr "Пір'яний олівець"
+
+msgid "Saffron Feather"
+msgstr "Шафранове перо"
+
+msgid "Jet Feather"
+msgstr "Гагатове перо"
+
+msgid "Crimson Feather"
+msgstr "Багряне перо"
+
+msgid "Azure Feather"
+msgstr "Лазурне перо"
+
+msgid "Wood Fence"
+msgstr "Дерев'яний паркан"
+
+msgid "Wood Gate"
+msgstr "Дерев'яна хвіртка"
+
+msgid "Junky Fence"
+msgstr "Брухтовий паркан"
+
+msgid "Fencing Sword"
+msgstr "Парканів меч"
+
+msgid "Bucket-o-poop"
+msgstr "Відро добрива"
+
+msgid "Festive Fish Dish"
+msgstr "Святкова риба"
+
+msgid "Festive Costume Pattern"
+msgstr "Викрійка святкового костюма"
+
+msgid "Fig"
+msgstr "Інжир"
+
+msgid "Figatoni"
+msgstr "Паста з інжиром"
+
+msgid "Figkabab"
+msgstr "Інжир-кебаб"
+
+msgid "Cooked Fig"
+msgstr "Приготований інжир"
+
+msgid "Fire"
+msgstr "Вогонь"
+
+msgid "Infernal Staff"
+msgstr "Пекельний жезл"
+
+msgid "Red Firecrackers"
+msgstr "Червоні петарди"
+
+msgid "Fireflies"
+msgstr "Світляки"
+
+msgid "Red Hound"
+msgstr "Червоний гончак"
+
+msgid "Fire Nettle Fronds"
+msgstr "Листя вогняної кропиви"
+
+msgid "Fiery Pen"
+msgstr "Вогняне перо"
+
+msgid "Fire Pit"
+msgstr "Вогнище"
+
+msgid "Fire Staff"
+msgstr "Вогняний жезл"
+
+msgid "Ice Flingomatic"
+msgstr "Кригомет"
+
+msgid "Fish"
+msgstr "Риба"
+
+msgid "Fishing Net"
+msgstr "Риболовна сітка"
+
+msgid "Freshwater Fishing Rod"
+msgstr "Прісноводна вудка"
+
+msgid "Raw Fish"
+msgstr "Сира риба"
+
+msgid "Fish Steak"
+msgstr "Рибний стейк"
+
+msgid "Fish Morsel"
+msgstr "Кавалок риби"
+
+msgid "Cooked Fish Morsel"
+msgstr "Приготований кавалок риби"
+
+msgid "Fishsticks"
+msgstr "Рибні палички"
+
+msgid "Fish Tacos"
+msgstr "Рибні тако"
+
+msgid "Tin Fishin' Bin"
+msgstr "Бляшаний садок для риб"
+
+msgid "Cooked Fish"
+msgstr "Приготована риба"
+
+msgid "Flint"
+msgstr "Кремінь"
+
+msgid "Flower"
+msgstr "Квітка"
+
+msgid "Garland"
+msgstr "Вінок"
+
+msgid "Flower Salad"
+msgstr "Квітковий салат"
+
+msgid "Light Flower"
+msgstr "Лампоквіт"
+
+msgid "Evil Flower"
+msgstr "Лиха квітка"
+
+msgid "Withered Flower"
+msgstr "Зів'яла квітка"
+
+msgid "Foliage"
+msgstr "Листя"
+
+msgid "Football Helmet"
+msgstr "Футбольний шолом"
+
+msgid "Forget-Me-Lots"
+msgstr "Забудка"
+
+msgid "Formal Costume Pattern"
+msgstr "Викрійка урочистого костюма"
+
+msgid "Fossil Cage"
+msgstr "Скам'яніла клітка"
+
+msgid "Fossil Spike"
+msgstr "Скам'янілий шип"
+
+msgid "Fossil Fragments"
+msgstr "Фрагменти скам'янілості"
+
+msgid "Odd Skeleton"
+msgstr "Дивний скелет"
+
+msgid "Fresh Fruit Crepes"
+msgstr "Налисники з фруктами"
+
+msgid "Friendly Fruit Fly"
+msgstr "Дружня плодова муха"
+
+msgid "Frog"
+msgstr "Жаба"
+
+msgid "Fish Cordon Bleu"
+msgstr "Рибний кордон блю"
+
+msgid "Froggle Bunwich"
+msgstr "Жабоброд"
+
+msgid "Frog Legs"
+msgstr "Жаб'ячі лапки"
+
+msgid "Cooked Frog Legs"
+msgstr "Приготовані жаб'ячі лапки"
+
+msgid "Figgy Frogwich"
+msgstr "Інжирний жабоброд"
+
+msgid "Frozen Banana Daiquiri"
+msgstr "Холодний банановий дайкірі"
+
+msgid "Saladmander"
+msgstr "Салатмандра"
+
+msgid "Fruit Fly"
+msgstr "Плодова муха"
+
+msgid "Friendly Fruit Fly Fruit"
+msgstr "Плід дружньої плодової мухи"
+
+msgid "Fruit Medley"
+msgstr "Фруктова суміш"
+
+msgid "Fur Tuft"
+msgstr "Пучок хутра"
+
+msgid "Fused Shadeling"
+msgstr "Химерна тінь"
+
+msgid "Dread Mite"
+msgstr "Лячнокліщ"
+
+msgid "Suspicious Moonrock"
+msgstr "Підозрілий місячний камінь"
+
+msgid "Garlic"
+msgstr "Часник"
+
+msgid "Roasted Garlic"
+msgstr "Смажений часник"
+
+msgid "Giant Garlic"
+msgstr "Часничище"
+
+msgid "Giant Rotting Garlic"
+msgstr "Гниле часничище"
+
+msgid "Seed Pods"
+msgstr "Насіннєві коробочки"
+
+msgid "Asparagazpacho"
+msgstr "Спаржаспачо"
+
+msgid "Gears"
+msgstr "Шестірні"
+
+msgid "Icker"
+msgstr "Гидотник"
+
+msgid "Icker Jar"
+msgstr "Банка з гидотником"
+
+msgid "Icker Preserve"
+msgstr "Гидотний консервувач"
+
+msgid "Icker Preserve Kit"
+msgstr "Набір для гидотного консервувача"
+
+msgid "Gem Stand"
+msgstr "Тримач для самоцвіту"
+
+msgid "Gestalt"
+msgstr "Ґештальт"
+
+msgid "Greater Gestalt"
+msgstr "Великий ґештальт"
+
+msgid "Ghost"
+msgstr "Привид"
+
+msgid "Mourning Glory"
+msgstr "Сяйво скорботи"
+
+msgid "Nightshade Nostrum"
+msgstr "Сироватка нічної тіні"
+
+msgid "Spectral Cure-All"
+msgstr "Спектральна панацея"
+
+msgid "Distilled Vengeance"
+msgstr "Дистильована помста"
+
+msgid "Unyielding Draught"
+msgstr "Настоянка непохитності"
+
+msgid "Revenant Restorative"
+msgstr "Сироп відновлення"
+
+msgid "Vigor Mortis"
+msgstr "Жвавість смерті"
+
+msgid "Gift"
+msgstr "Подарунок"
+
+msgid "Gift Wrap"
+msgstr "Подарункова обгортка"
+
+msgid "Gingerbread Pig House"
+msgstr "Пряникова свиняча хатка"
+
+msgid "Gingerbread Pig"
+msgstr "Пряникове порося"
+
+msgid "Gingerbread Varg"
+msgstr "Пряниковий варґ"
+
+msgid "Glass Castle"
+msgstr "Скляний замок"
+
+msgid "Glass Cutter"
+msgstr "Скляний різак"
+
+msgid "Glass Cutter Blueprint"
+msgstr "Креслення скляного різака"
+
+msgid "Glass Spike"
+msgstr "Скляний шип"
+
+msgid "Glommer"
+msgstr "Ґломмер"
+
+msgid "Glommer's Flower"
+msgstr "Квітка Ґломмера"
+
+msgid "Glommer's Goop"
+msgstr "Слиз Ґломмера"
+
+msgid "Glommer's Wings"
+msgstr "Крила Ґломмера"
+
+msgid "Glow Berry Mousse"
+msgstr "Сяй-ягідний мус"
+
+msgid "Gnarwail"
+msgstr "Ґнарвал"
+
+msgid "Gnarwail Horn"
+msgstr "Ріг ґнарвала"
+
+msgid "Electric Milk"
+msgstr "Електричне молоко"
+
+msgid "Fashion Goggles"
+msgstr "Модні окуляри"
+
+msgid "Luxury Axe"
+msgstr "Фешенебельна сокира"
+
+msgid "Opulent Pickaxe"
+msgstr "Розкішне кайло"
+
+msgid "Snazzy Pitchfork"
+msgstr "Гламурні вила"
+
+msgid "Regal Shovel"
+msgstr "Королівська лопата"
+
+msgid "Splendid Garden Hoe"
+msgstr "Першокласна городня мотика"
+
+msgid "Gold Nugget"
+msgstr "Золотий самородок"
+
+msgid "Down Feather"
+msgstr "Пухове перо"
+
+msgid "Grass Gator"
+msgstr "Трав'яний алігатор"
+
+msgid "Grass Gekko"
+msgstr "Трав'яний гекон"
+
+msgid "Pretty Parasol"
+msgstr "Гарненька парасолька"
+
+msgid "Headstone"
+msgstr "Надгробок"
+
+msgid "Good Gravy"
+msgstr "Добра підливка"
+
+msgid "Construction Amulet"
+msgstr "Будівельний амулет"
+
+msgid "Green Gem"
+msgstr "Зелений самоцвіт"
+
+msgid "Green Moonlens"
+msgstr "Зелена місячна лінза"
+
+msgid "Deconstruction Staff"
+msgstr "Жезл руйнації"
+
+msgid "Green Cap"
+msgstr "Зелений гриб"
+
+msgid "Cooked Green Cap"
+msgstr "Приготований зелений гриб"
+
+msgid "Green Mushroom"
+msgstr "Зелений гриб"
+
+msgid "Green Funcap"
+msgstr "Зелена шапинка"
+
+msgid "Vitreoasis"
+msgstr "Скляна оаза"
+
+msgid "Small Vitreoasis"
+msgstr "Мала скляна оаза"
+
+msgid "Guacamole"
+msgstr "Гуакамоле"
+
+msgid "Guano"
+msgstr "Гуано"
+
+msgid "Gunpowder"
+msgstr "Порох"
+
+msgid "Maximum Health"
+msgstr "Максимальне здоров'я"
+
+msgid "Maximum Sanity"
+msgstr "Максимальний глузд"
+
+msgid "Candy Apple"
+msgstr "Карамельне яблуко"
+
+msgid "Tentacle Lolli"
+msgstr "Мацак на паличці"
+
+msgid "Choco Pigs"
+msgstr "Шокосвинки"
+
+msgid "Candy Lice"
+msgstr "Цукрові воші"
+
+msgid "Otherworldly Jawbreaker"
+msgstr "Неземне міцне драже"
+
+msgid "Lava Pepper"
+msgstr "Лавовий перець"
+
+msgid "Candy Corn"
+msgstr "Солодка кукурудза"
+
+msgid "Not-So-Candy Corn"
+msgstr "Не дуже солодка кукурудза"
+
+msgid "Gummy Spider"
+msgstr "Павук-жуйка"
+
+msgid "Catcoon Candy"
+msgstr "Єнотокотова цукерка"
+
+msgid "\"Raisins\""
+msgstr "«Родзинки»"
+
+msgid "Raisins"
+msgstr "Родзинки"
+
+msgid "Ghost Pop"
+msgstr "Примарний льодяник"
+
+msgid "Jelly Worm"
+msgstr "Желейний хробак"
+
+msgid "Brew of Phobic Abrogation"
+msgstr "Відвар подолання фобій"
+
+msgid "Brew of Phobic Abatement"
+msgstr "Відвар ослаблення фобій"
+
+msgid "Sulfuric Crystals of Lime"
+msgstr "Сірчано-вапняні кристали"
+
+msgid "Canteen of Sanguine Mixture"
+msgstr "Фляга кровотворної мікстури"
+
+msgid "Flask of Sanguine Mixture"
+msgstr "Фляжка кровотворної мікстури"
+
+msgid "Steeped Lunar Essence"
+msgstr "Настояна місячна есенція"
+
+msgid "Tumblerful of Psychic Fortitude"
+msgstr "Келих психічної стійкості"
+
+msgid "Dram of Psychic Fortitude"
+msgstr "Ковток психічної стійкості"
+
+msgid "Sulfuric Crystals of Saltpeter"
+msgstr "Сірчано-селітрові кристали"
+
+msgid "Phobic Experiment"
+msgstr "Фобічний експеримент"
+
+msgid "Sanguine Experiment"
+msgstr "Кровотворний експеримент"
+
+msgid "Lunar Experiment"
+msgstr "Місячний експеримент"
+
+msgid "Arboretum Experiment"
+msgstr "Ботанічний експеримент"
+
+msgid "Psychosis Experiment"
+msgstr "Психічний експеримент"
+
+msgid "Sulfuric Experiment"
+msgstr "Сірчаний експеримент"
+
+msgid "Ghost Decoration"
+msgstr "Привид-прикраса"
+
+msgid "Bat Decoration"
+msgstr "Кажан-прикраса"
+
+msgid "Spider Decoration"
+msgstr "Павук-прикраса"
+
+msgid "Tentacle Decoration"
+msgstr "Мацак-прикраса"
+
+msgid "Dangling Depth Dweller Decoration"
+msgstr "Прикраса павука-глибинника"
+
+msgid "Crow Decoration"
+msgstr "Ворона-прикраса"
+
+msgid "Ham Bat"
+msgstr "Шинкова бита"
+
+msgid "Hammer"
+msgstr "Молот"
+
+msgid "Forging Hammer"
+msgstr "Ковальський молот"
+
+msgid "Beefalo Wool Pillow"
+msgstr "Подушка із шерсті біфало"
+
+msgid "Kelp-Stuffed Pillow"
+msgstr "Подушка з ламінарії"
+
+msgid "Flowery Pillow"
+msgstr "Подушка з пелюсток"
+
+msgid "Steel Wool Pillow"
+msgstr "Подушка зі сталевої вовни"
+
+msgid "Hare Ball"
+msgstr "Заяча купка"
+
+msgid "Floral Shirt"
+msgstr "Квіткова сорочка"
+
+msgid "Healing Salve"
+msgstr "Загоювальна мазь"
+
+msgid "Slimy Salve"
+msgstr "Слизова мазь"
+
+msgid "Living Staff"
+msgstr "Рослинний жезл"
+
+msgid "Thermal Stone"
+msgstr "Термальний камінь"
+
+msgid "Briar Wolf"
+msgstr "Трояндовий гончак"
+
+msgid "Briar"
+msgstr "Трояндовий кущ"
+
+msgid "Crabby Hermit"
+msgstr "Краб-відлюдниця"
+
+msgid "Pearl"
+msgstr "Перлинка"
+
+msgid "Hermit Home"
+msgstr "Оселя відлюдниці"
+
+msgid "Pearl's Place"
+msgstr "Дім Перлинки"
+
+msgid "Bundle of Thanks"
+msgstr "Пакунок подяки"
+
+msgid "Shell Bell Bundle"
+msgstr "Пакунок музичних мушель"
+
+msgid "Cracked Pearl"
+msgstr "Тріснута перлина"
+
+msgid "Pearl's Pearl"
+msgstr "Перлина Перлинки"
+
+msgid "Bee Queen Crown"
+msgstr "Корона королеви бджіл"
+
+msgid "Sign"
+msgstr "Табличка"
+
+msgid "Honey"
+msgstr "Мед"
+
+msgid "Honeycomb"
+msgstr "Стільник"
+
+msgid "Honey Ham"
+msgstr "Медова шинка"
+
+msgid "Honey Nuggets"
+msgstr "Медові нагетси"
+
+msgid "Beefalo Horn"
+msgstr "Ріг біфало"
+
+msgid "Pure Horror"
+msgstr "Чистий кошмар"
+
+msgid "Overheating"
+msgstr "Перегрівання"
+
+msgid "Spicy Chili"
+msgstr "Гострий чилі"
+
+msgid "Hot Spring"
+msgstr "Гаряче джерело"
+
+msgid "Hound"
+msgstr "Гончак"
+
+msgid "Bones"
+msgstr "Кістки"
+
+msgid "Hound Mound"
+msgstr "Курган гончаків"
+
+msgid "Hound's Tooth"
+msgstr "Ікло гончака"
+
+msgid "Howlitzer"
+msgstr "Гавубиця"
+
+msgid "Lucky Whistle"
+msgstr "Щасливий свисток"
+
+msgid "Long Pig"
+msgstr "Людське м'ясо"
+
+msgid "Cooked Long Pig"
+msgstr "Приготоване людське м'ясо"
+
+msgid "Long Pig Jerky"
+msgstr "В'ялене людське м'ясо"
+
+msgid "Starvation"
+msgstr "Голод"
+
+msgid "Hutch"
+msgstr "Сховчик"
+
+msgid "Star-sky"
+msgstr "Зірчик"
+
+msgid "Ice"
+msgstr "Крига"
+
+msgid "Mini Iceberg"
+msgstr "Мініайсберг"
+
+msgid "Melted Iceberg"
+msgstr "Талий айсберг"
+
+msgid "Ice Box"
+msgstr "Холодильник"
+
+msgid "Ice Cream"
+msgstr "Морозиво"
+
+msgid "Ice Cube"
+msgstr "Куб льоду"
+
+msgid "Blue Hound"
+msgstr "Синій гончак"
+
+msgid "Insulated Pack"
+msgstr "Терморюкзак"
+
+msgid "Ice Staff"
+msgstr "Крижаний жезл"
+
+msgid "Frostbitten Costume Pattern"
+msgstr "Викрійка підмерзлого костюма"
+
+msgid "Obelisk"
+msgstr "Обеліск"
+
+msgid "Cachebox"
+msgstr "Ящик даних"
+
+msgid "Advanced Cachebox"
+msgstr "Досконалий ящик даних"
+
+msgid "Inspectacles"
+msgstr "Оглядокуляри"
+
+msgid "Syrup of Ipecaca"
+msgstr "Сироп з іпекакуани"
+
+msgid "Ipecaca Poisoning"
+msgstr "Отруєння іпекакуаною"
+
+msgid "Mimicreep"
+msgstr "Мімікрад"
+
+msgid "Binding Roots"
+msgstr "В'юнкі корені"
+
+msgid "Fist Full of Jam"
+msgstr "Жменя джему"
+
+msgid "Jellybeans"
+msgstr "Желейні боби"
+
+msgid "Junk Pile"
+msgstr "Купа брухту"
+
+msgid "Teetering Junk Pile"
+msgstr "Хитка купа брухту"
+
+msgid "Plain Omelette"
+msgstr "Звичайний омлет"
+
+msgid "Kabobs"
+msgstr "Кебаби"
+
+msgid "Kelp Fronds"
+msgstr "Ламінарія"
+
+msgid "Seawreath"
+msgstr "Морський вінок"
+
+msgid "Cooked Kelp Fronds"
+msgstr "Приготована ламінарія"
+
+msgid "Dried Kelp Fronds"
+msgstr "В'ялена ламінарія"
+
+msgid "Killer Bee"
+msgstr "Бджола-вбивця"
+
+msgid "Gobbler Wobbler"
+msgstr "Трухан"
+
+msgid "Gobbler Wobbler Kit"
+msgstr "Набір для трухана"
+
+msgid "Kit Teaser"
+msgstr "Котяча дражнилка"
+
+msgid "Kit Teaser Kit"
+msgstr "Набір для котячої дражнилки"
+
+msgid "Kitcoon Nursery"
+msgstr "Ясла для єнотокошенят"
+
+msgid "Kitcoon Nursery Kit"
+msgstr "Набір для ясел єнотокошенят"
+
+msgid "Kitcoon"
+msgstr "Єнотокошеня"
+
+msgid "Kit Collar"
+msgstr "Котячий нашийник"
+
+msgid "Klaus"
+msgstr "Клаус"
+
+msgid "Stag Antler"
+msgstr "Ріг оленя-самця"
+
+msgid "Loot Stash"
+msgstr "Сховок здобичі"
+
+msgid "Clockwork Knight"
+msgstr "Механічний кінь"
+
+msgid "Damaged Knight"
+msgstr "Пошкоджений кінь"
+
+msgid "Asparagus Seeds"
+msgstr "Насіння спаржі"
+
+msgid "Carrot Seeds"
+msgstr "Насіння моркви"
+
+msgid "Corn Seeds"
+msgstr "Насіння кукурудзи"
+
+msgid "Dragon Fruit Seeds"
+msgstr "Насіння фрукта дракона"
+
+msgid "Durian Seeds"
+msgstr "Насіння дуріану"
+
+msgid "Eggplant Seeds"
+msgstr "Насіння баклажана"
+
+msgid "Garlic Seeds"
+msgstr "Насіння часнику"
+
+msgid "Onion Seeds"
+msgstr "Насіння цибулі"
+
+msgid "Pepper Seeds"
+msgstr "Насіння перцю"
+
+msgid "Pomegranate Seeds"
+msgstr "Насіння граната"
+
+msgid "Potato Seeds"
+msgstr "Насіння картоплі"
+
+msgid "Pumpkin Seeds"
+msgstr "Насіння гарбуза"
+
+msgid "Toma Root Seeds"
+msgstr "Насіння помідора"
+
+msgid "Turnip Seeds"
+msgstr "Насіння ріпи"
+
+msgid "Watermelon Seeds"
+msgstr "Насіння кавуна"
+
+msgid "Koalefant Carcass"
+msgstr "Туша коалослона"
+
+msgid "Koalefant"
+msgstr "Коалослон"
+
+msgid "Fig-Stuffed Trunk"
+msgstr "Начинений інжиром хобот"
+
+msgid "Krampus"
+msgstr "Крампус"
+
+msgid "Krampus Sack"
+msgstr "Мішок Крампуса"
+
+msgid "Lantern"
+msgstr "Ліхтар"
+
+msgid "Latkes"
+msgstr "Деруни"
+
+msgid "Steadfast Stone Armor"
+msgstr "Непохитна кам'яна броня"
+
+msgid "Stone Splint Mail"
+msgstr "Кам'яна кольчуга"
+
+msgid "Reed Tunic"
+msgstr "Рогозова туніка"
+
+msgid "Feathered Reed Tunic"
+msgstr "Рогозова туніка з пером"
+
+msgid "Wood Armor"
+msgstr "Дерев'яна броня"
+
+msgid "Jagged Wood Armor"
+msgstr "Зубчаста дерев'яна броня"
+
+msgid "Silken Wood Armor"
+msgstr "Шовкова дерев'яна броня"
+
+msgid "Jagged Grand Armor"
+msgstr "Зубчаста велична броня"
+
+msgid "Steadfast Grand Armor"
+msgstr "Непохитна велична броня"
+
+msgid "Whispering Grand Armor"
+msgstr "Велична броня шелесту"
+
+msgid "Silken Grand Armor"
+msgstr "Шовковиста велична броня"
+
+msgid "Battle Standard"
+msgstr "Бойовий штандарт"
+
+msgid "Battlemaster Pugna"
+msgstr "Ватаг Пуґна"
+
+msgid "Resplendent Nox Helm"
+msgstr "Несамовитий шолом невіла"
+
+msgid "Magma Golem"
+msgstr "Магматичний ґолем"
+
+msgid "Clairvoyant Crown"
+msgstr "Корона провидця"
+
+msgid "Feathered Wreath"
+msgstr "Вінок із пір'я"
+
+msgid "Hearthsfire Crystals"
+msgstr "Полум'яні кристали"
+
+msgid "Flower Headband"
+msgstr "Квітковий обідок"
+
+msgid "Blossomed Wreath"
+msgstr "Квітучий вінок"
+
+msgid "Blacksmith's Edge"
+msgstr "Ковальське лезо"
+
+msgid "Ancient Anchor"
+msgstr "Стародавня кітвиця"
+
+msgid "Barbed Helm"
+msgstr "Колючий шолом"
+
+msgid "Riled Lucy"
+msgstr "Розлючена Люсі"
+
+msgid "Meteor"
+msgstr "Метеор"
+
+msgid "Crystal Tiara"
+msgstr "Кришталева діадема"
+
+msgid "Forge Portal"
+msgstr "Портал Кузні"
+
+msgid "Nox Helm"
+msgstr "Шолом невіла"
+
+msgid "Woven Garland"
+msgstr "Плетений вінок"
+
+msgid "Lavae"
+msgstr "Лавочинка"
+
+msgid "Chilled Lavae"
+msgstr "Охолоджена лавочинка"
+
+msgid "Lavae Egg"
+msgstr "Яйце лавочинки"
+
+msgid "Extra-Adorable Lavae"
+msgstr "Екстрамила лавочинка"
+
+msgid "Lavae Tooth"
+msgstr "Зуб лавочинки"
+
+msgid "Dragonfly Saliva"
+msgstr "Слина дракономухи"
+
+msgid "Magma"
+msgstr "Магма"
+
+msgid "Rock"
+msgstr "Камінь"
+
+msgid "Leafy Meatloaf"
+msgstr "Листяний холодець"
+
+msgid "Veggie Burger"
+msgstr "Овочевий бургер"
+
+msgid "Jelly Salad"
+msgstr "Желейний салат"
+
+msgid "Treeguard"
+msgstr "Вартовий лісу"
+
+msgid "Treeguard Idol"
+msgstr "Ідол вартового лісу"
+
+msgid "Cave Lichen"
+msgstr "Печерний лишайник"
+
+msgid "Booster Shot"
+msgstr "Ін'єкція"
+
+msgid "Light Bulb"
+msgstr "Лампочка"
+
+msgid "Crustashine"
+msgstr "Рак-світляк"
+
+msgid "Willow's Lighter"
+msgstr "Запальничка Віллоу"
+
+msgid "Bulbous Lightbug"
+msgstr "Лампокрил"
+
+msgid "Lightning"
+msgstr "Блискавка"
+
+msgid "Volt Goat"
+msgstr "Вольткоза"
+
+msgid "Volt Goat Horn"
+msgstr "Ріг вольткози"
+
+msgid "Lightning Rod"
+msgstr "Блискавичник"
+
+msgid "Wee MacTusk"
+msgstr "Мак-Бивень молодший"
+
+msgid "Living Log"
+msgstr "Жива колода"
+
+msgid "Totally Normal Tree"
+msgstr "Звичайнісіньке дерево"
+
+msgid "Totally Normal Root"
+msgstr "Звичайнісіньке коріння"
+
+msgid "Totally Normal Sapling"
+msgstr "Звичайнісінький паросток"
+
+msgid "Lobster Bisque"
+msgstr "Лобстерний суп"
+
+msgid "Lobster Dinner"
+msgstr "Вечеря з лобстера"
+
+msgid "Log"
+msgstr "Колода"
+
+msgid "Lord of the Fruit Flies"
+msgstr "Володар плодових мух"
+
+msgid "Lost Marbles"
+msgstr "Втрачені кульки"
+
+msgid "Missing Teeth"
+msgstr "Загублений зубний протез"
+
+msgid "Cherished Toy Robot"
+msgstr "Омріяний іграшковий робот"
+
+msgid "Mother's Favorite Teacup"
+msgstr "Улюблена чашка матері"
+
+msgid "Treasured Toy Trojan Horse"
+msgstr "Цінний іграшковий троянський кінь"
+
+msgid "Favorite Spinning Top"
+msgstr "Мила серцю дзиґа"
+
+msgid "Sentimental Kazoo"
+msgstr "Сентиментальний казу"
+
+msgid "Misplaced Toy Cobra"
+msgstr "Загублена іграшкова кобра"
+
+msgid "Beloved Crocodile Toy"
+msgstr "Улюблений іграшковий крокодил"
+
+msgid "Prized Ball and Cup"
+msgstr "Дороге більбоке"
+
+msgid "Lucky Gold Nugget"
+msgstr "Щасливий золотий самородок"
+
+msgid "Lucy the Axe"
+msgstr "Сокира Люсі"
+
+msgid "Lumpy Sapling"
+msgstr "Пухнастий паросток"
+
+msgid "Bright-Eyed Frog"
+msgstr "Світлоока жаба"
+
+msgid "Brightshade Helm"
+msgstr "Ясноквітний шолом"
+
+msgid "Brightshade Husk"
+msgstr "Ясноквітне лушпиння"
+
+msgid "Brightshade Repair Kit"
+msgstr "Ясноквітний ремонтний набір"
+
+msgid "Ryftstal"
+msgstr "Кристал розлому"
+
+msgid "Rift"
+msgstr "Розлом"
+
+msgid "Lunaform Burst"
+msgstr "Місяцетворний вибух"
+
+msgid "Deadly Brightshade"
+msgstr "Отруйний ясноквіт"
+
+msgid "Brightshade Gestalt"
+msgstr "Ясноквітний ґештальт"
+
+msgid "Tunneling Vine"
+msgstr "Тунельна лоза"
+
+msgid "Brightsmithy"
+msgstr "Яснокузня"
+
+msgid "Brightsmithy Kit"
+msgstr "Набір для яснокузні"
+
+msgid "Grazer"
+msgstr "Ґрейзер"
+
+msgid "Lureplant"
+msgstr "М'ясоцвіт"
+
+msgid "Fleshy Bulb"
+msgstr "М'ясиста цибулина"
+
+msgid "Lutefisk"
+msgstr "Лютефіск"
+
+msgid "Mad Scientist Lab"
+msgstr "Лабораторія божевільного науковця"
+
+msgid "Magician's Chest"
+msgstr "Скриня фокусника"
+
+msgid "Blank Blueprint"
+msgstr "Порожнє креслення"
+
+msgid "Malbatross"
+msgstr "Мальбатрос"
+
+msgid "Malbatross Bill"
+msgstr "Дзьоб мальбатроса"
+
+msgid "Malbatross Feather"
+msgstr "Перо мальбатроса"
+
+msgid "Feathery Canvas"
+msgstr "Пір'яна парусина"
+
+msgid "Mandrake"
+msgstr "Мандрагора"
+
+msgid "Mandrake Soup"
+msgstr "Мандрагоровий суп"
+
+msgid "Bunny Puff"
+msgstr "Заячий хвіст"
+
+msgid "Map Scroll"
+msgstr "Згорнута мапа"
+
+msgid "Marble"
+msgstr "Мармур"
+
+msgid "Marble Bean"
+msgstr "Мармуровий біб"
+
+msgid "Marble Sprout"
+msgstr "Мармуровий паросток"
+
+msgid "Marble Pillar"
+msgstr "Мармурова колона"
+
+msgid "Marble Shrub"
+msgstr "Мармуровий кущ"
+
+msgid "Marble Tree"
+msgstr "Мармурове дерево"
+
+msgid "Spiky Tree"
+msgstr "Колюче дерево"
+
+msgid "Creamy Potato Purée"
+msgstr "Ніжне картопляне пюре"
+
+msgid "Blacksmith Mask"
+msgstr "Маска коваля"
+
+msgid "Cracked Doll Mask"
+msgstr "Тріснута маска ляльки"
+
+msgid "Doll Mask"
+msgstr "Маска ляльки"
+
+msgid "Shattered Doll Mask"
+msgstr "Розбита маска ляльки"
+
+msgid "Fool Mask"
+msgstr "Маска блазня"
+
+msgid "Halfwit's Masque"
+msgstr "Маска ідіота"
+
+msgid "King Mask"
+msgstr "Маска короля"
+
+msgid "Mirror Mask"
+msgstr "Маска дзеркала"
+
+msgid "Queen Mask"
+msgstr "Маска королеви"
+
+msgid "Sage's Masque"
+msgstr "Маска мудреця"
+
+msgid "Toady's Masque"
+msgstr "Маска підлесника"
+
+msgid "Tree Mask"
+msgstr "Маска дерева"
+
+msgid "Mast"
+msgstr "Щогла"
+
+msgid "Deck Illuminator"
+msgstr "Палубний світильник"
+
+msgid "Dragonfly Light Kit"
+msgstr "Набір для ліхтаря дракономухи"
+
+msgid "Dragonfly Light"
+msgstr "Ліхтар дракономухи"
+
+msgid "Lightning Conductor"
+msgstr "Блискавкоприймач"
+
+msgid "Mast Kit"
+msgstr "Набір для щогли"
+
+msgid "Winged Sail"
+msgstr "Крилате вітрило"
+
+msgid "Winged Sail Kit"
+msgstr "Набір для крилатого вітрила"
+
+msgid "Dragonfly Wing Mast"
+msgstr "Крилата щогла дракономухи"
+
+msgid "Dragonfly Wing Mast Kit"
+msgstr "Набір для крилатої щогли дракономухи"
+
+msgid "Maxwell"
+msgstr "Максвелл"
+
+msgid "Maxwell's Head"
+msgstr "Голова Максвелла"
+
+msgid "Shadow Key"
+msgstr "Тіньовий ключ"
+
+msgid "Maxwell's Light"
+msgstr "Вогонь Максвелла"
+
+msgid "Nightmare Lock"
+msgstr "Замок жаху"
+
+msgid "Maxwell's Phonograph"
+msgstr "Фонограф Максвелла"
+
+msgid "Nightmare Throne"
+msgstr "Трон жаху"
+
+msgid "Meat"
+msgstr "М'ясо"
+
+msgid "Meatballs"
+msgstr "Тюфтельки"
+
+msgid "Drying Rack"
+msgstr "В'ялка"
+
+msgid "Beefy Greens"
+msgstr "М'ясиста зелень"
+
+msgid "Jerky"
+msgstr "В'ялене м'ясо"
+
+msgid "Hostile Flare"
+msgstr "Недружня сигнальна ракета"
+
+msgid "Merm"
+msgstr "Мерм"
+
+msgid "Swamp Brawler Helmet"
+msgstr "Шолом болотного забіяки"
+
+msgid "Swamp Warrior Helmet"
+msgstr "Шолом болотного воїна"
+
+msgid "Loyal Merm Guard"
+msgstr "Відданий мерм-вартовий"
+
+msgid "Mutated Merm Guard"
+msgstr "Мутований мерм-вартовий"
+
+msgid "Shadow Merm Guard"
+msgstr "Тіньовий мерм-вартовий"
+
+msgid "Clever Disguise"
+msgstr "Кмітливе маскування"
+
+msgid "Merm Head"
+msgstr "Голова мерма"
+
+msgid "Leaky Shack"
+msgstr "Хитка хижка"
+
+msgid "Craftsmerm House"
+msgstr "Змермована хатка"
+
+msgid "King of the Merms"
+msgstr "Король мермів"
+
+msgid "Royal Tapestry"
+msgstr "Королівський гобелен"
+
+msgid "DIY Royalty Kit"
+msgstr "Королівський набір «Зроби сам»"
+
+msgid "Merm Flort-ifications"
+msgstr "Мермова блоб-тифікація"
+
+msgid "Armermry"
+msgstr "Мермсенал"
+
+msgid "Superior Armermry"
+msgstr "Ліпший мермсенал"
+
+msgid "Mutated Merm"
+msgstr "Мутований мерм"
+
+msgid "Royal-In-Progress"
+msgstr "Майже король"
+
+msgid "Shadow Merm"
+msgstr "Тіньовий мерм"
+
+msgid "Shoddy Tool"
+msgstr "Вбогий інструмент"
+
+msgid "Shoddy Tool Shed"
+msgstr "Вбогий сарай"
+
+msgid "Slightly Less Shoddy Tool Shed"
+msgstr "Дещо менш убогий сарай"
+
+msgid "Slightly Less Shoddy Tool"
+msgstr "Дещо менш убогий інструмент"
+
+msgid "Message in a Bottle"
+msgstr "Повідомлення в пляшці"
+
+msgid "Empty Bottle"
+msgstr "Порожня пляшка"
+
+msgid "Miasma"
+msgstr "Міазми"
+
+msgid "Mighty Gym"
+msgstr "Тренажер могутності"
+
+msgid "Friend-O-Matic Portal"
+msgstr "Дружб-о-матичний портал"
+
+msgid "Milky Whites"
+msgstr "Молочні білки"
+
+msgid "Miner Hat"
+msgstr "Капелюх шахтаря"
+
+msgid "Floating Lantern"
+msgstr "Надводний ліхтар"
+
+msgid "Whirly Fan"
+msgstr "Вітрячок"
+
+msgid "Flare"
+msgstr "Сигнальна ракета"
+
+msgid "Mini Sign"
+msgstr "Мінітабличка"
+
+msgid "{item} Sign"
+msgstr "Табличка «{item}»"
+
+msgid "Ancient Guardian"
+msgstr "Стародавній вартовий"
+
+msgid "Large Ornate Chest"
+msgstr "Велика оздоблена скриня"
+
+msgid "Guardian's Horn"
+msgstr "Ріг вартового"
+
+msgid "Moleworm"
+msgstr "Кроточерв"
+
+msgid "Naked Mole Bat"
+msgstr "Голий земленюх"
+
+msgid "Naked Mole Bat Burrow"
+msgstr "Нора голого земленюха"
+
+msgid "Moggles"
+msgstr "Кротокуляри"
+
+msgid "Burrow"
+msgstr "Кротова нора"
+
+msgid "Raised Dirt"
+msgstr "Рухлива купка землі"
+
+msgid "Splumonkey"
+msgstr "Гротомавпа"
+
+msgid "Splumonkey Pod"
+msgstr "Лігвище гротомавп"
+
+msgid "Monkey Hut"
+msgstr "Мавпяча хижа"
+
+msgid "Unnatural Portal"
+msgstr "Ненатуральний портал"
+
+msgid "Broken Machinery"
+msgstr "Зламана машинерія"
+
+msgid "Monkey Bar"
+msgstr "Мавпячий стовп"
+
+msgid "Queen of Moon Quay"
+msgstr "Королева Місячної пристані"
+
+msgid "Captain's Tricorn"
+msgstr "Трикутка капітана"
+
+msgid "Pirate's Bandana"
+msgstr "Піратська бандана"
+
+msgid "Monster Lasagna"
+msgstr "Лазанья з потвори"
+
+msgid "Monster Meat"
+msgstr "М'ясо потвори"
+
+msgid "Monster Jerky"
+msgstr "В'ялене м'ясо потвори"
+
+msgid "Monster Tartare"
+msgstr "Тартар із потвори"
+
+msgid "Moon Stone"
+msgstr "Місячний камінь"
+
+msgid "Moon Moth"
+msgstr "Місячна міль"
+
+msgid "Moon Moth Wings"
+msgstr "Крила місячної молі"
+
+msgid "Lune Tree Sapling"
+msgstr "Паросток місячного дерева"
+
+msgid "Moon Dial"
+msgstr "Місячний годинник"
+
+msgid "Moon Shard"
+msgstr "Місячний уламок"
+
+msgid "Moon Glass Axe"
+msgstr "Сокира з місячного скла"
+
+msgid "Moon Axe Blueprint"
+msgstr "Креслення місячної сокири"
+
+msgid "Infused Moon Shard"
+msgstr "Заряджений місячний уламок"
+
+msgid "Moon Glass"
+msgstr "Місячне скло"
+
+msgid "Moon Glass Mound"
+msgstr "Курган із місячного скла"
+
+msgid "Cratered Moonrock"
+msgstr "Місячний камінь з отвором"
+
+msgid "Moon Rock Idol"
+msgstr "Ідол із місячного каменю"
+
+msgid "Moon Rock"
+msgstr "Місячний камінь"
+
+msgid "Celestial Orb"
+msgstr "Небесна сфера"
+
+msgid "Moon Rubble"
+msgstr "Місячний уламок"
+
+msgid "Shattered Spider Hole"
+msgstr "Нора павуків-шиповиків"
+
+msgid "Shattered Spider"
+msgstr "Павук-шиповик"
+
+msgid "Charged Glassy Rock"
+msgstr "Заряджена скляна брила"
+
+msgid "Glassy Rock"
+msgstr "Скляна брила"
+
+msgid "Astroggles"
+msgstr "Астрокуляри"
+
+msgid "Moongleam"
+msgstr "Місячний проблиск"
+
+msgid "Energetic Static"
+msgstr "Енергетична статика"
+
+msgid "Restrained Static"
+msgstr "Ізольована статика"
+
+msgid "Celestial Altar"
+msgstr "Небесний вівтар"
+
+msgid "Celestial Sanctum"
+msgstr "Небесне святилище"
+
+msgid "Partially Assembled Sanctum"
+msgstr "Частково зібране святилище"
+
+msgid "Celestial Tribute"
+msgstr "Небесна данина"
+
+msgid "Inactive Celestial Tribute"
+msgstr "Неактивна небесна данина"
+
+msgid "Celestial Altar Base"
+msgstr "Основа небесного вівтаря"
+
+msgid "Celestial Sanctum Icon"
+msgstr "Ікона небесного святилища"
+
+msgid "Celestial Altar Idol"
+msgstr "Ідол небесного вівтаря"
+
+msgid "Mysterious Energy"
+msgstr "Таємнича енергія"
+
+msgid "Inviting Formation"
+msgstr "Принадне утворення"
+
+msgid "Celestial Altar Orb"
+msgstr "Сфера небесного вівтаря"
+
+msgid "Celestial Sanctum Ward"
+msgstr "Оберіг небесного святилища"
+
+msgid "Partially Assembled Altar"
+msgstr "Частково зібраний вівтар"
+
+msgid "Moon Shroom"
+msgstr "Місячний гриб"
+
+msgid "Cooked Moon Shroom"
+msgstr "Приготований місячний гриб"
+
+msgid "Lunar Siphonator"
+msgstr "Місячний сифонатор"
+
+msgid "Incomplete Experiment"
+msgstr "Незавершений експеримент"
+
+msgid "Nearly Completed Experiment"
+msgstr "Майже завершений експеримент"
+
+msgid "Celestial Fissure"
+msgstr "Небесний пролом"
+
+msgid "Plugged Fissure"
+msgstr "Завалений пролом"
+
+msgid "Lunar Funcap"
+msgstr "Місячна шапинка"
+
+msgid "Lune Tree"
+msgstr "Місячне дерево"
+
+msgid "Lune Tree Blossom"
+msgstr "Цвіт місячного дерева"
+
+msgid "Moose"
+msgstr "Лосегуска"
+
+msgid "Goose"
+msgstr "Лосегуска"
+
+msgid "Moose Egg"
+msgstr "Яйце лосегуски"
+
+msgid "Goose Egg"
+msgstr "Яйце лосегуски"
+
+msgid "Moose Nest"
+msgstr "Гніздо лосегуски"
+
+msgid "Goose Nest"
+msgstr "Гніздо лосегуски"
+
+msgid "Moqueca"
+msgstr "Мокека"
+
+msgid "Mosquito"
+msgstr "Комар"
+
+msgid "Skeeter Bomb"
+msgstr "Комашина бомба"
+
+msgid "Fertilizzzer"
+msgstr "Комарине добриво"
+
+msgid "Blood Shot"
+msgstr "Кров'яна ін'єкція"
+
+msgid "Lil' Itchy"
+msgstr "Сверблючка"
+
+msgid "Mosquito Sack"
+msgstr "Черевце комара"
+
+msgid "Mosling"
+msgstr "Лусеня"
+
+msgid "Grave"
+msgstr "Могила"
+
+msgid "Mulled Punch"
+msgstr "Глінтвейн"
+
+msgid "Florid Postern"
+msgstr "Химерна потерна"
+
+msgid "Celestial Portal"
+msgstr "Небесний портал"
+
+msgid "Portal Paraphernalia"
+msgstr "Портальне приладдя"
+
+msgid "Pick/Axe"
+msgstr "СоКирка"
+
+msgid "Mush Gnome"
+msgstr "Грибний гном"
+
+msgid "Boomshroom"
+msgstr "Вибухогриб"
+
+msgid "Misery Boomshroom"
+msgstr "Стражденний вибухогриб"
+
+msgid "Funcap"
+msgstr "Шапинка"
+
+msgid "Sporecap"
+msgstr "Спорогриб"
+
+msgid "Misery Sporecap"
+msgstr "Стражденний спорогриб"
+
+msgid "Mushroom Planter"
+msgstr "Грибна колода"
+
+msgid "Mushlight"
+msgstr "Лампогриб"
+
+msgid "Glowcap"
+msgstr "Сяйвогриб"
+
+msgid "Red Mushtree"
+msgstr "Червоний дендрогриб"
+
+msgid "Lunar Mushtree"
+msgstr "Місячний дендрогриб"
+
+msgid "Green Mushtree"
+msgstr "Зелений дендрогриб"
+
+msgid "Blue Mushtree"
+msgstr "Синій дендрогриб"
+
+msgid "Webbed Blue Mushtree"
+msgstr "Оплетений синій дендрогриб"
+
+msgid "Armored Bearger"
+msgstr "Броньований борсуковедмідь"
+
+msgid "Crystal Deerclops"
+msgstr "Кристальний оленециклоп"
+
+msgid "Horror Hound"
+msgstr "Страхітливий гончак"
+
+msgid "Possessed Varg"
+msgstr "Одержимий варґ"
+
+msgid "Moonrock Pengull"
+msgstr "Місячний маргвін"
+
+msgid "Dangler Switcherdoodle"
+msgstr "Змінокоржик глибинника"
+
+msgid "Nurse Switcherdoodle"
+msgstr "Змінокоржик медика"
+
+msgid "Cave Switcherdoodle"
+msgstr "Змінокоржик печерника"
+
+msgid "Shatter Switcherdoodle"
+msgstr "Змінокоржик шиповика"
+
+msgid "Spitter Switcherdoodle"
+msgstr "Змінокоржик плюваки"
+
+msgid "Warrior Switcherdoodle"
+msgstr "Змінокоржик вояки"
+
+msgid "Strider Switcherdoodle"
+msgstr "Змінокоржик морекосця"
+
+msgid "Flowery Costume Pattern"
+msgstr "Викрійка квіткового костюма"
+
+msgid "Nightcap"
+msgstr "Нічний ковпак"
+
+msgid "Night Light"
+msgstr "Світло ночі"
+
+msgid "Nightmarebeak"
+msgstr "Жаходзьоб"
+
+msgid "Nightmare Fuel"
+msgstr "Паливо жаху"
+
+msgid "Nightmare Rampart"
+msgstr "Твердиня жаху"
+
+msgid "Nightmare Light"
+msgstr "Світло жаху"
+
+msgid "Grim Galette"
+msgstr "Зловісний пиріг"
+
+msgid "Thulecite Medallion"
+msgstr "Тулецитовий медальйон"
+
+msgid "Morning Star"
+msgstr "Зірниця"
+
+msgid "Dark Sword"
+msgstr "Темний меч"
+
+msgid "Nitre"
+msgstr "Селітра"
+
+msgid "Nitre Formation"
+msgstr "Селітрове утворення"
+
+msgid "Nothing"
+msgstr "Нічого"
+
+msgid "Premier Gardeneer Hat"
+msgstr "Капелюх городника-авангардиста"
+
+msgid "Oar"
+msgstr "Весло"
+
+msgid "Driftwood Oar"
+msgstr "Корчове весло"
+
+msgid "Battle Paddle"
+msgstr "Бойове весло"
+
+msgid "Lake"
+msgstr "Озеро"
+
+msgid "Ocean Debris"
+msgstr "Океанічне сміття"
+
+msgid "Wooden Ball Bobber"
+msgstr "Дерев'яний поплавець-кулька"
+
+msgid "Saffron Quill Float"
+msgstr "Поплавець із шафранового пера"
+
+msgid "Jet Quill Float"
+msgstr "Поплавець із гагатового пера"
+
+msgid "Down Quill Float"
+msgstr "Поплавець із пухового пера"
+
+msgid "Malbatross Quill Float"
+msgstr "Поплавець із пера мальбатроса"
+
+msgid "Fish Hook"
+msgstr "Риболовний гачок"
+
+msgid "Hardened Slip Bobber"
+msgstr "Морений поплавець-крапля"
+
+msgid "Crimson Quill Float"
+msgstr "Поплавець із багряного пера"
+
+msgid "Azure Quill Float"
+msgstr "Поплавець із лазурного пера"
+
+msgid "Stupefying Lure"
+msgstr "Приголомшлива наживка"
+
+msgid "Heavy Weighted Lure"
+msgstr "Наживка для важкої риби"
+
+msgid "Rainy Day Lure"
+msgstr "Наживка для дощової погоди"
+
+msgid "Snow Day Lure"
+msgstr "Наживка для сніжної погоди"
+
+msgid "Nightflyer Spinnerbait"
+msgstr "Нічна обертова блешня"
+
+msgid "Dusky Spinnerbait"
+msgstr "Сутінкова обертова блешня"
+
+msgid "not used"
+msgstr "не використовується"
+
+msgid "Sunrise Spinnerbait"
+msgstr "Ранкова обертова блешня"
+
+msgid "Nightflyer Spoon"
+msgstr "Нічна блешня"
+
+msgid "Dusky Spoon"
+msgstr "Сутінкова блешня"
+
+msgid "Sunrise Spoon"
+msgstr "Ранкова блешня"
+
+msgid "Sea Fishing Rod"
+msgstr "Морська вудка"
+
+msgid "Antchovy"
+msgstr "Анчоус"
+
+msgid "Mudfish"
+msgstr "Мулова риба"
+
+msgid "Deep Bass"
+msgstr "Глибоководний окунь"
+
+msgid "Dandy Lionfish"
+msgstr "Чепурна крилатка"
+
+msgid "Black Catfish"
+msgstr "Чорний сом"
+
+msgid "Corn Cod"
+msgstr "Кукурудзяна тріска"
+
+msgid "Dappled Koi"
+msgstr "Плямистий короп"
+
+msgid "Golden Koi"
+msgstr "Золотистий короп"
+
+msgid "Ice Bream"
+msgstr "Морозний лящ"
+
+msgid "Sweetish Fish"
+msgstr "Солодкувата риба"
+
+msgid "Runty Guppy"
+msgstr "Маленька гупі"
+
+msgid "Needlenosed Squirt"
+msgstr "Голконосик"
+
+msgid "Bitty Baitfish"
+msgstr "Рибка-наживка"
+
+msgid "Smolt Fry"
+msgstr "Дрібний мальок"
+
+msgid "Popperfish"
+msgstr "Попкороп"
+
+msgid "Fallounder"
+msgstr "Глосінь"
+
+msgid "Bloomfin Tuna"
+msgstr "Квітковий тунець"
+
+msgid "Scorching Sunfish"
+msgstr "Пекуча риба-сонце"
+
+msgid "Spittlefish"
+msgstr "Плюй-риба"
+
+msgid "Terrorclaw"
+msgstr "Страхоклешні"
+
+msgid "Knobbly Tree"
+msgstr "Вузлувате дерево"
+
+msgid "Knobbly Tree Nut"
+msgstr "Горіх вузлуватого дерева"
+
+msgid "Above-Average Tree Trunk"
+msgstr "Стовбур надзвичайного дерева"
+
+msgid "Mossy Vine"
+msgstr "Моховита лоза"
+
+msgid "Sea Strider Nest"
+msgstr "Гніздо павука-морекосця"
+
+msgid "Whirlportal"
+msgstr "Порталоворот"
+
+msgid "Ocean Trawler"
+msgstr "Океанський тральник"
+
+msgid "Ocean Trawler Kit"
+msgstr "Набір океанського тральника"
+
+msgid "Communal Kelp Dish"
+msgstr "Общинна чаша для ламінарії"
+
+msgid "Superior Communal Kelp Dish"
+msgstr "Ліпша общинна чаша для ламінарії"
+
+msgid "the passage of time"
+msgstr "Плин часу"
+
+msgid "One-man Band"
+msgstr "Сам собі оркестр"
+
+msgid "Onion"
+msgstr "Цибуля"
+
+msgid "Roasted Onion"
+msgstr "Смажена цибуля"
+
+msgid "Giant Onion"
+msgstr "Цибулище"
+
+msgid "Giant Rotting Onion"
+msgstr "Гниле цибулище"
+
+msgid "Pointy Seeds"
+msgstr "Гострувате насіння"
+
+msgid "Iridescent Gem"
+msgstr "Переливчастий самоцвіт"
+
+msgid "Moon Caller's Staff"
+msgstr "Місяцетворний жезл"
+
+msgid "The Lazy Forager"
+msgstr "Лінивий збирач"
+
+msgid "Orange Gem"
+msgstr "Помаранчевий самоцвіт"
+
+msgid "Orange Moonlens"
+msgstr "Помаранчева місячна лінза"
+
+msgid "The Lazy Explorer"
+msgstr "Лінивий дослідник"
+
+msgid "Marotter"
+msgstr "Видра-злодюжка"
+
+msgid "Marotter Den"
+msgstr "Лігво видри-злодюжки"
+
+msgid "Demolished Marotter Den"
+msgstr "Знищене лігво видри-злодюжки"
+
+msgid "Palmcone Tree"
+msgstr "Шишкопальма"
+
+msgid "Palmcone Sapling"
+msgstr "Паросток шишкопальми"
+
+msgid "Palmcone Scale"
+msgstr "Шишкопальмова луска"
+
+msgid "Palmcone Sprout"
+msgstr "Паросток шишкопальми"
+
+msgid "Panettone"
+msgstr "Панетоне"
+
+msgid "Pan Flute"
+msgstr "Флейта Пана"
+
+msgid "Papyrus"
+msgstr "Папірус"
+
+msgid "Pavlova"
+msgstr "Павлова"
+
+msgid "Scorpeon"
+msgstr "Скорпеон"
+
+msgid "Scorpeon Acid"
+msgstr "Кислота скорпеона"
+
+msgid "Pengull"
+msgstr "Маргвін"
+
+msgid "Pepper"
+msgstr "Перець"
+
+msgid "Stuffed Pepper Poppers"
+msgstr "Фаршировані перці"
+
+msgid "Roasted Pepper"
+msgstr "Смажений перець"
+
+msgid "Giant Pepper"
+msgstr "Перцище"
+
+msgid "Giant Rotting Pepper"
+msgstr "Гниле перцище"
+
+msgid "Lumpy Seeds"
+msgstr "Грудкувате насіння"
+
+msgid "Gobbler"
+msgstr "Індик"
+
+msgid "Lucky Fan"
+msgstr "Щасливе віяло"
+
+msgid "Gobbler Shrine"
+msgstr "Вівтар індика"
+
+msgid "Pierogi"
+msgstr "Вареники"
+
+msgid "Petals"
+msgstr "Пелюстки"
+
+msgid "Dark Petals"
+msgstr "Темні пелюстки"
+
+msgid "Phlegm"
+msgstr "Слиз"
+
+msgid "Gramophone"
+msgstr "Грамофон"
+
+msgid "Pickaxe"
+msgstr "Кайло"
+
+msgid "Brightshade Smasher"
+msgstr "Ясноквітна кувалда"
+
+msgid "Pickled Herring"
+msgstr "Маринований оселедець"
+
+msgid "Wade"
+msgstr "Вейд"
+
+msgid "Ignatius"
+msgstr "Ігнатій"
+
+msgid "Dmitri"
+msgstr "Димитрій"
+
+msgid "Sawyer"
+msgstr "Соєр"
+
+msgid "Guard Pig"
+msgstr "Свин-вартовий"
+
+msgid "Piggyback"
+msgstr "Хрюкзак"
+
+msgid "Pig Head"
+msgstr "Голова свині"
+
+msgid "Pig House"
+msgstr "Свиняча хатка"
+
+msgid "Pig King"
+msgstr "Король свиней"
+
+msgid "Pig Man"
+msgstr "Свин"
+
+msgid "Pig Shrine"
+msgstr "Вівтар свина"
+
+msgid "Pig Skin"
+msgstr "Свиняча шкіра"
+
+msgid "Pig Torch"
+msgstr "Свинячий смолоскип"
+
+msgid "Clout Snout"
+msgstr "П'ятак впливу"
+
+msgid "Golden Belt"
+msgstr "Золотий пояс"
+
+msgid "Pine Cone"
+msgstr "Шишка"
+
+msgid "Evergreen Sapling"
+msgstr "Паросток ялини"
+
+msgid "Moon Quay Pirate Banner"
+msgstr "Стяг піратів Місячної пристані"
+
+msgid "X"
+msgstr "X"
+
+msgid "Pitchfork"
+msgstr "Вила"
+
+msgid "Leafy Meat"
+msgstr "Листяне м'ясо"
+
+msgid "Cooked Leafy Meat"
+msgstr "Приготоване листяне м'ясо"
+
+msgid "Gardeneer Hat"
+msgstr "Капелюх городника"
+
+msgid "Wild Crop"
+msgstr "Дика культура"
+
+msgid "The Enchanted Doll\\nA Stage Play"
+msgstr "«Зачарована лялька»\\nП'єса"
+
+msgid "The Pall\\nA Stage Play"
+msgstr "Покров\\nП'єса"
+
+msgid "Inthralled Corpse"
+msgstr "Мрець-бранець"
+
+msgid "Deadelgänger"
+msgstr "Мрець-дублер"
+
+msgid "Clockmaker's Tools"
+msgstr "Інструменти годинникарки"
+
+msgid "Ageless Watch"
+msgstr "Годинник омолодження"
+
+msgid "Time Pieces"
+msgstr "Шматочки часу"
+
+msgid "Rift Watch"
+msgstr "Годинник розлому"
+
+msgid "Time Rift"
+msgstr "Часовий розлом"
+
+msgid "Backtrek Watch"
+msgstr "Годинник повернення"
+
+msgid "Second Chance Watch"
+msgstr "Годинник другого шансу"
+
+msgid "Backstep Watch"
+msgstr "Годинник відступу"
+
+msgid "Alarming Clock"
+msgstr "Будильник"
+
+msgid "Pocket Scale"
+msgstr "Кишенькові ваги"
+
+msgid "Polish Cookies"
+msgstr "Польське печиво"
+
+msgid "Polly Roger"
+msgstr "Поллі Роджер"
+
+msgid "Polly Roger's Hat"
+msgstr "Капелюх Поллі Роджер"
+
+msgid "Pomegranate"
+msgstr "Гранат"
+
+msgid "Sliced Pomegranate"
+msgstr "Нарізаний гранат"
+
+msgid "Giant Pomegranate"
+msgstr "Гранатище"
+
+msgid "Giant Rotting Pomegranate"
+msgstr "Гниле гранатище"
+
+msgid "Windblown Seeds"
+msgstr "Летюче насіння"
+
+msgid "Pond"
+msgstr "Ставок"
+
+msgid "Live Eel"
+msgstr "Живий вугор"
+
+msgid "Freshwater Fish"
+msgstr "Прісноводна риба"
+
+msgid "Algae"
+msgstr "Водорості"
+
+msgid "Manure"
+msgstr "Гній"
+
+msgid "Portable Grinding Mill"
+msgstr "Портативний млинок"
+
+msgid "Portable Crock Pot"
+msgstr "Портативний казан"
+
+msgid "Portable Seasoning Station"
+msgstr "Портативна спецівниця"
+
+msgid "Camper's Tent"
+msgstr "Туристичний намет"
+
+msgid "Tent Roll"
+msgstr "Згорнений намет"
+
+msgid "Potato"
+msgstr "Картопля"
+
+msgid "Potato Sack"
+msgstr "Мішок картоплі"
+
+msgid "Puffed Potato Soufflé"
+msgstr "Пухке картопляне суфле"
+
+msgid "Fancy Spiralled Tubers"
+msgstr "Вишукана спіральна бульба"
+
+msgid "Roasted Potato"
+msgstr "Смажена картопля"
+
+msgid "Giant Potato"
+msgstr "Картоплянище"
+
+msgid "Giant Rotting Potato"
+msgstr "Гниле картоплянище"
+
+msgid "Fluffy Seeds"
+msgstr "Пухке насіння"
+
+msgid "Potted Fern"
+msgstr "Папороть у горщику"
+
+msgid "Powdercake"
+msgstr "Вічне тістечко"
+
+msgid "Powder Monkey"
+msgstr "Порохова мавпа"
+
+msgid "Empty Waterfowl Can"
+msgstr "Порожня водоплавна лійка"
+
+msgid "Waterfowl Can"
+msgstr "Водоплавна лійка"
+
+msgid "Prime Mate"
+msgstr "Капітан Оран Гутан"
+
+msgid "Puffin"
+msgstr "Іпатка"
+
+msgid "Pumpkin"
+msgstr "Гарбуз"
+
+msgid "Pumpkin Scooper"
+msgstr "Гарбузова лопатка"
+
+msgid "Pumpkin Knife"
+msgstr "Гарбузовий ніж"
+
+msgid "Pumpkin Saw"
+msgstr "Гарбузова пила"
+
+msgid "Pumpkin Cookies"
+msgstr "Гарбузове печиво"
+
+msgid "Pumpkin Pie"
+msgstr "Гарбузовий пиріг"
+
+msgid "Hot Pumpkin"
+msgstr "Гарячий гарбуз"
+
+msgid "Pumpkin Lantern"
+msgstr "Гарбузовий ліхтар"
+
+msgid "Giant Pumpkin"
+msgstr "Гарбузище"
+
+msgid "Giant Rotting Pumpkin"
+msgstr "Гниле гарбузище"
+
+msgid "Sharp Seeds"
+msgstr "Гостре насіння"
+
+msgid "Punching Bag"
+msgstr "Мішок для биття"
+
+msgid "Bright Boxer"
+msgstr "Ясний боксер"
+
+msgid "Shadow Boxer"
+msgstr "Тіньовий боксер"
+
+msgid "Pure Brilliance"
+msgstr "Чистий блиск"
+
+msgid "Nightmare Amulet"
+msgstr "Амулет жаху"
+
+msgid "Purple Gem"
+msgstr "Фіолетовий самоцвіт"
+
+msgid "Purple Moonlens"
+msgstr "Фіолетова місячна лінза"
+
+msgid "The Altar of Gnaw"
+msgstr "Вівтар Глоду"
+
+msgid "Post"
+msgstr "Стовп"
+
+msgid "Ivy"
+msgstr "Плющ"
+
+msgid "Queen Beast"
+msgstr "Королева бестій"
+
+msgid "Beast of Hunger"
+msgstr "Бестія голоду"
+
+msgid "Old Beefalo"
+msgstr "Старий біфало"
+
+msgid "Silver Bowl"
+msgstr "Срібна миска"
+
+msgid "Large Casserole Dish"
+msgstr "Керамічна каструля"
+
+msgid "Small Casserole Dish"
+msgstr "Керамічна каструлька"
+
+msgid "Old Coin"
+msgstr "Стара монета"
+
+msgid "Sapphire Medallion"
+msgstr "Сапфіровий медальйон"
+
+msgid "Red Mark"
+msgstr "Червона марка"
+
+msgid "Gnaw's Favor"
+msgstr "Ласка Глоду"
+
+msgid "Cooked Meat Scraps"
+msgstr "Приготовані шматочки м'яса"
+
+msgid "Crab Meat"
+msgstr "М'ясо краба"
+
+msgid "Cooked Crab Meat"
+msgstr "Приготоване м'ясо краба"
+
+msgid "Crab Trap"
+msgstr "Пастка для крабів"
+
+msgid "Large Grill Kit"
+msgstr "Набір для великого гриля"
+
+msgid "Grill Kit"
+msgstr "Набір для гриля"
+
+msgid "Oven Kit"
+msgstr "Набір для печі"
+
+msgid "Cookpot Kit"
+msgstr "Набір для казана"
+
+msgid "Flour"
+msgstr "Борошно"
+
+msgid "Cooked Foliage"
+msgstr "Приготоване листя"
+
+msgid "Loaf of Bread"
+msgstr "Буханець хліба"
+
+msgid "Potato Chips"
+msgstr "Картопляні чипси"
+
+msgid "Vegetable Soup"
+msgstr "Овочевий суп"
+
+msgid "Jelly Sandwich"
+msgstr "Желейний сендвіч"
+
+msgid "Fish Stew"
+msgstr "Рибна юшка"
+
+msgid "Turnip Cake"
+msgstr "Пиріг із ріпи"
+
+msgid "Potato Pancakes"
+msgstr "Деруни"
+
+msgid "Potato Soup"
+msgstr "Картопляний суп"
+
+msgid "Fishball Skewers"
+msgstr "Рибні шпажки"
+
+msgid "Meat Skewers"
+msgstr "М'ясні шпажки"
+
+msgid "Stone Soup"
+msgstr "Кам'яний суп"
+
+msgid "Croquette"
+msgstr "Крокети"
+
+msgid "Roast Vegetables"
+msgstr "Смажені овочі"
+
+msgid "Meatloaf"
+msgstr "М'ясний рулет"
+
+msgid "Carrot Soup"
+msgstr "Морквяний суп"
+
+msgid "Fish Pie"
+msgstr "Рибний пиріг"
+
+msgid "Fish and Chips"
+msgstr "Риба та картопля фрі"
+
+msgid "Meat Pie"
+msgstr "М'ясний пиріг"
+
+msgid "Sliders"
+msgstr "Мінібургери"
+
+msgid "Jelly Roll"
+msgstr "Желейний рулет"
+
+msgid "Carrot Cake"
+msgstr "Морквяний торт"
+
+msgid "Garlic Mashed Potatoes"
+msgstr "Пюре із часником"
+
+msgid "Garlic Bread"
+msgstr "Часниковий хліб"
+
+msgid "Tomato Soup"
+msgstr "Томатний суп"
+
+msgid "Sausage"
+msgstr "Сосиски"
+
+msgid "Candied Fish"
+msgstr "Карамелізована риба"
+
+msgid "Stuffed Mushroom"
+msgstr "Фаршировані гриби"
+
+msgid "Ratatouille"
+msgstr "Рататуй"
+
+msgid "Bruschetta"
+msgstr "Брускети"
+
+msgid "Meat Stew"
+msgstr "М'ясна юшка"
+
+msgid "Hamburger"
+msgstr "Гамбургер"
+
+msgid "Fish Burger"
+msgstr "Рибний бургер"
+
+msgid "Mushroom Burger"
+msgstr "Грибний бургер"
+
+msgid "Curry"
+msgstr "Карі"
+
+msgid "Spaghetti and Meatball"
+msgstr "Спагеті з тюфтелькою"
+
+msgid "Lasagna"
+msgstr "Лазанья"
+
+msgid "Poached Fish"
+msgstr "Риба пашот"
+
+msgid "Shepherd's Pie"
+msgstr "Вівчарський пиріг"
+
+msgid "Candy"
+msgstr "Цукерки"
+
+msgid "Bread Pudding"
+msgstr "Хлібний пудинг"
+
+msgid "Waffles"
+msgstr "Вафлі"
+
+msgid "Berry Tart"
+msgstr "Ягідне тістечко"
+
+msgid "Macaroni and Cheese"
+msgstr "Макарони із сиром"
+
+msgid "Bagel and Fish"
+msgstr "Бейґель із рибою"
+
+msgid "Grilled Cheese"
+msgstr "Гарячий бутерброд"
+
+msgid "Cream of Mushroom Soup"
+msgstr "Грибний крем-суп"
+
+msgid "Manicotti"
+msgstr "Манікоті"
+
+msgid "Cheeseburger"
+msgstr "Чизбургер"
+
+msgid "Creamy Fettuccine"
+msgstr "Ніжні фетучіне"
+
+msgid "Onion Soup"
+msgstr "Цибулевий суп"
+
+msgid "Breaded Cutlet"
+msgstr "Відбивна"
+
+msgid "Creamy Fish"
+msgstr "Риба у вершковому соусі"
+
+msgid "Pizza"
+msgstr "Піца"
+
+msgid "Pot Roast"
+msgstr "Печеня"
+
+msgid "Crab Cake"
+msgstr "Крабовий пиріг"
+
+msgid "Steak Frites"
+msgstr "Стейк із картоплею фрі"
+
+msgid "Shooter Sandwich"
+msgstr "Мисливський сендвіч"
+
+msgid "Bacon Wrapped Meat"
+msgstr "М'ясо в беконі"
+
+msgid "Crab Roll"
+msgstr "Крабовий рулет"
+
+msgid "Meat Wellington"
+msgstr "М'ясо «Веллінґтон»"
+
+msgid "Crab Ravioli"
+msgstr "Крабові равіолі"
+
+msgid "Caramel Cube"
+msgstr "Карамельний куб"
+
+msgid "Scone"
+msgstr "Скон"
+
+msgid "Trifle"
+msgstr "Трайфл"
+
+msgid "Cheesecake"
+msgstr "Чизкейк"
+
+msgid "Bowl"
+msgstr "Миска"
+
+msgid "Burnt Food"
+msgstr "Підгоріла їжа"
+
+msgid "Plate"
+msgstr "Тарілка"
+
+msgid "Roast Garlic"
+msgstr "Смажений часник"
+
+msgid "Billy"
+msgstr "Біллі"
+
+msgid "Goat Milk"
+msgstr "Козяче молоко"
+
+msgid "Mumsy"
+msgstr "Мамзі"
+
+msgid "Large Grill"
+msgstr "Великий гриль"
+
+msgid "Small Grill"
+msgstr "Малий гриль"
+
+msgid "Hoe"
+msgstr "Мотика"
+
+msgid "Key"
+msgstr "Ключ"
+
+msgid "Iron Key"
+msgstr "Залізний ключ"
+
+msgid "Streetlight"
+msgstr "Вуличний ліхтар"
+
+msgid "Small Streetlight"
+msgstr "Малий вуличний ліхтар"
+
+msgid "Mealing Stone"
+msgstr "Жорна"
+
+msgid "Bog Merm"
+msgstr "Мерм трясовини"
+
+msgid "Rundown House"
+msgstr "Занедбаний будинок"
+
+msgid "Sammy's Wagon"
+msgstr "Візок Семмі"
+
+msgid "Pipton's Cart"
+msgstr "Візок Піптона"
+
+msgid "Mushroom"
+msgstr "Гриб"
+
+msgid "Cooked Mushroom"
+msgstr "Приготований гриб"
+
+msgid "Roast Onion"
+msgstr "Смажена цибуля"
+
+msgid "Oven"
+msgstr "Піч"
+
+msgid "Iron Fence"
+msgstr "Залізний паркан"
+
+msgid "Gnaw Worshipper"
+msgstr "Послідовник Глоду"
+
+msgid "Fountain"
+msgstr "Фонтан"
+
+msgid "Iron Gate"
+msgstr "Залізні ворота"
+
+msgid "Locked Iron Gate"
+msgstr "Замкнені залізні ворота"
+
+msgid "Stone Pillar"
+msgstr "Кам'яний стовп"
+
+msgid "Urn"
+msgstr "Урна"
+
+msgid "Pebble Crab"
+msgstr "Гальковий краб"
+
+msgid "Pigeon"
+msgstr "Голуб"
+
+msgid "Silver Plate"
+msgstr "Срібна тарілка"
+
+msgid "Salt Pond"
+msgstr "Солона водойма"
+
+msgid "Large Cookpot"
+msgstr "Великий казан"
+
+msgid "Roast Potato"
+msgstr "Смажена картопля"
+
+msgid "Pot Hanger"
+msgstr "Підвіс для казана"
+
+msgid "Cookpot"
+msgstr "Казанок"
+
+msgid "Syrup Pot"
+msgstr "Горщик для сиропу"
+
+msgid "Rotten Crop"
+msgstr "Гнилий урожай"
+
+msgid "Wrecked Bicycle"
+msgstr "Зламаний велосипед"
+
+msgid "Broken Carriage"
+msgstr "Зламана карета"
+
+msgid "Dilapidated Cathedral"
+msgstr "Зруйнований собор"
+
+msgid "Dilapidated Chimney"
+msgstr "Зруйнований димар"
+
+msgid "Smashed Clock"
+msgstr "Потрощений годинник"
+
+msgid "Dilapidated Clocktower"
+msgstr "Зруйнована годинникова вежа"
+
+msgid "Dilapidated House"
+msgstr "Зруйнований будинок"
+
+msgid "Dilapidated Door"
+msgstr "Зруйновані двері"
+
+msgid "Dilapidated Roof"
+msgstr "Зруйнований дах"
+
+msgid "Safe"
+msgstr "Сейф"
+
+msgid "Locked Safe"
+msgstr "Замкнений сейф"
+
+msgid "Salmon"
+msgstr "Лосось"
+
+msgid "Cooked Salmon"
+msgstr "Приготований лосось"
+
+msgid "Salt"
+msgstr "Сіль"
+
+msgid "Salted {food}"
+msgstr "{food} із сіллю"
+
+msgid "Salt Crystals"
+msgstr "Кристали солі"
+
+msgid "Salty {food}"
+msgstr "{food} із сіллю"
+
+msgid "Salt Rack"
+msgstr "Стійка для солі"
+
+msgid "Sap"
+msgstr "Сік"
+
+msgid "Tree Tapping Kit"
+msgstr "Набір для збору соку"
+
+msgid "Ruined Sap"
+msgstr "Зіпсований сік"
+
+msgid "Packet of Blue Seeds"
+msgstr "Пакет синього насіння"
+
+msgid "Packet of Fluffy Seeds"
+msgstr "Пакет пухкого насіння"
+
+msgid "Packet of Spiky Seeds"
+msgstr "Пакет колючого насіння"
+
+msgid "Packet of Pointy Seeds"
+msgstr "Пакет гоструватого насіння"
+
+msgid "Packet of Round Seeds"
+msgstr "Пакет круглого насіння"
+
+msgid "Packet of Oblong Seeds"
+msgstr "Пакет довгастого насіння"
+
+msgid "Packet of Seed Pods"
+msgstr "Пакет насіннєвих коробочок"
+
+msgid "Packet of Mixed Seeds"
+msgstr "Пакет змішаного насіння"
+
+msgid "Blue Seeds"
+msgstr "Синє насіння"
+
+msgid "Spiky Seeds"
+msgstr "Колюче насіння"
+
+msgid "Round Seeds"
+msgstr "Кругле насіння"
+
+msgid "Slaughter Tools"
+msgstr "Знаряддя для забою"
+
+msgid "Meat Scraps"
+msgstr "Шматочки м'яса"
+
+msgid "Spot Spice"
+msgstr "Плямиста пряність"
+
+msgid "Spotty Shrub"
+msgstr "Плямистий чагарник"
+
+msgid "Spotty Sprig"
+msgstr "Плямистий пагін"
+
+msgid "Sugarwood Tree"
+msgstr "Цукрове дерево"
+
+msgid "Swamp Pig Elder"
+msgstr "Старійшина болотних свиней"
+
+msgid "Worn Pig House"
+msgstr "Старий будинок свині"
+
+msgid "House Rubble"
+msgstr "Зруйнований будинок"
+
+msgid "Syrup"
+msgstr "Сироп"
+
+msgid "Toma Root"
+msgstr "Помідор"
+
+msgid "Roast Toma Root"
+msgstr "Смажений помідор"
+
+msgid "Sammy\\nThe Lucid Bog Merm"
+msgstr "Семмі\\nмерм Світлої трясовини"
+
+msgid "Pipton\\nThe Cognizant Bog Merm"
+msgstr "Піптон\\nмерм Знаної трясовини"
+
+msgid "Turnip"
+msgstr "Ріпа"
+
+msgid "Roast Turnip"
+msgstr "Смажена ріпа"
+
+msgid "Wheat"
+msgstr "Пшениця"
+
+msgid "Rabbit"
+msgstr "Кролик"
+
+msgid "Warren Wreath"
+msgstr "Кролячий вінок"
+
+msgid "Rabbit Hole"
+msgstr "Кроляча нора"
+
+msgid "Rabbit Hutch"
+msgstr "Заяча хатка"
+
+msgid "Burrowing Horn"
+msgstr "Нороріг"
+
+msgid "Portable Den"
+msgstr "Портативна нора"
+
+msgid "Royal Rabbit Enforcer"
+msgstr "Придворний заєць-охоронець"
+
+msgid "Rabbit King Cudgel"
+msgstr "Костур короля кроликів"
+
+msgid "Wrathful Rabbit King"
+msgstr "Злостивий король кроликів"
+
+msgid "Fortuitous Rabbit"
+msgstr "Кролик-оказія"
+
+msgid "Benevolent Rabbit King"
+msgstr "Добродійний король кроликів"
+
+msgid "Short Circuit"
+msgstr "Коротке замикання"
+
+msgid "Rain Coat"
+msgstr "Дощовик"
+
+msgid "Rain Hat"
+msgstr "Капелюх від дощу"
+
+msgid "Rainometer"
+msgstr "Дощометр"
+
+msgid "Razor"
+msgstr "Бритва"
+
+msgid "Record"
+msgstr "Платівка"
+
+msgid "Creepy Forest"
+msgstr "Creepy Forest"
+
+msgid "D.R. Style"
+msgstr "D.R. Style"
+
+msgid "E.F.S."
+msgstr "E.F.S."
+
+msgid "Hallowed Night"
+msgstr "Ніч усіх святих"
+
+msgid "Red Gem"
+msgstr "Червоний самоцвіт"
+
+msgid "Red Lantern"
+msgstr "Червоний ліхтар"
+
+msgid "Red Moonlens"
+msgstr "Червона місячна лінза"
+
+msgid "Red Pouch"
+msgstr "Червоний мішечок"
+
+msgid "Red Cap"
+msgstr "Червоний гриб"
+
+msgid "Cooked Red Cap"
+msgstr "Приготований червоний гриб"
+
+msgid "Red Mushroom"
+msgstr "Червоний гриб"
+
+msgid "Red Funcap"
+msgstr "Червона шапинка"
+
+msgid "Reeds"
+msgstr "Рогіз"
+
+msgid "Collected Dust"
+msgstr "Зібраний пил"
+
+msgid "Summer Frest"
+msgstr "Літній свіжилет"
+
+msgid "Relic"
+msgstr "Реліквія"
+
+msgid "Science Machine"
+msgstr "Наукова машина"
+
+msgid "Alchemy Engine"
+msgstr "Алхімічний рушій"
+
+msgid "Shadow Manipulator"
+msgstr "Тіньовий маніпулятор"
+
+msgid "Prestihatitator"
+msgstr "Шляпабракадабра"
+
+msgid "Clean Sweeper"
+msgstr "Підметілка"
+
+msgid "Meat Effigy"
+msgstr "М'ясне опудало"
+
+msgid "Touch Stone"
+msgstr "Кам'яний вівтар"
+
+msgid "Resurrection Sickness"
+msgstr "Хворобливість через відродження"
+
+msgid "Telltale Heart"
+msgstr "Серце турботи"
+
+msgid "Rhinocebro Snapback"
+msgstr "Бросоріг Хрустоспин"
+
+msgid "Rhinocebro Flatbrim"
+msgstr "Бросоріг Пласкобрюх"
+
+msgid "Roasted Turkey"
+msgstr "Смажена індичка"
+
+msgid "Redbird"
+msgstr "Червоний птах"
+
+msgid "Snowbird"
+msgstr "Сніжний птах"
+
+msgid "Ironclad Costume Pattern"
+msgstr "Викрійка армованого костюма"
+
+msgid "Rocks"
+msgstr "Каміння"
+
+msgid "Rock Lobster"
+msgstr "Кам'яний лобстер"
+
+msgid "Stone Fruit"
+msgstr "Кам'яний фрукт"
+
+msgid "Ripe Stone Fruit"
+msgstr "Стиглий кам'яний фрукт"
+
+msgid "Cooked Stone Fruit"
+msgstr "Приготований кам'яний фрукт"
+
+msgid "Sprouting Stone Fruit"
+msgstr "Паросток кам'яного куща"
+
+msgid "Mini Glacier"
+msgstr "Мінільодовик"
+
+msgid "Melted Mini Glacier"
+msgstr "Талий мінільодовик"
+
+msgid "Lava Pit"
+msgstr "Лавова яма"
+
+msgid "Suspicious Boulder"
+msgstr "Підозріла брила"
+
+msgid "Petrified Tree"
+msgstr "Скам'яніле дерево"
+
+msgid "Clockwork Rook"
+msgstr "Механічна тура"
+
+msgid "Damaged Rook"
+msgstr "Пошкоджена тура"
+
+msgid "Rope"
+msgstr "Мотузка"
+
+msgid "Spelunker's Bridge Kit"
+msgstr "Набір для моста дослідника печер"
+
+msgid "Rose-Colored Glasses"
+msgstr "Трояндові окуляри"
+
+msgid "Rotten Egg"
+msgstr "Тухле яйце"
+
+msgid "Royal Jelly"
+msgstr "Маточне молочко"
+
+msgid "Rubble"
+msgstr "Уламок"
+
+msgid "Thulecite Crown"
+msgstr "Тулецитова корона"
+
+msgid "Lurking Nightmare"
+msgstr "Скрадливий жах"
+
+msgid "Replica Relic Bowl"
+msgstr "Копія реліктової чаші"
+
+msgid "Replica Relic Chair"
+msgstr "Копія реліктового стільця"
+
+msgid "Replica Relic Dish"
+msgstr "Копія реліктової миски"
+
+msgid "Replica Relic Plate"
+msgstr "Копія реліктової тарілки"
+
+msgid "Replica Relic Table"
+msgstr "Копія реліктового стола"
+
+msgid "Replica Relic Vase"
+msgstr "Копія реліктової вази"
+
+msgid "Thulecite Club"
+msgstr "Тулецитова палиця"
+
+msgid "Blocky Ruins"
+msgstr "Уламок руїн"
+
+msgid "Broken Relic"
+msgstr "Побита реліквія"
+
+msgid "Resting Horror"
+msgstr "Безтурботний кошмар"
+
+msgid "Ancient Chest"
+msgstr "Стародавня скриня"
+
+msgid "Saddlehorn"
+msgstr "Гак для сідла"
+
+msgid "Saddle"
+msgstr "Сідло"
+
+msgid "Glossamer Saddle"
+msgstr "Полегшене сідло"
+
+msgid "Nightmare Saddle"
+msgstr "Сідло жаху"
+
+msgid "War Saddle"
+msgstr "Войовниче сідло"
+
+msgid "Battle Saddle"
+msgstr "Бойове сідло"
+
+msgid "Salsa Fresca"
+msgstr "Сальса фреска"
+
+msgid "Salt Box"
+msgstr "Сільник"
+
+msgid "Salt Lick"
+msgstr "Сіль-лизунець"
+
+msgid "Gourmet Salt Lick"
+msgstr "Сіль-лизунець для гурманів"
+
+msgid "Salt Formation"
+msgstr "Соляне утворення"
+
+msgid "Sand Castle"
+msgstr "Піщаний замок"
+
+msgid "Sand Spike"
+msgstr "Піщаний шип"
+
+msgid "Bio Data"
+msgstr "Біодані"
+
+msgid "Friendly Scarecrow"
+msgstr "Привітне опудало"
+
+msgid "Crispy Skeleton"
+msgstr "Хрусткий скелет"
+
+msgid "Lost Scrapbook Page"
+msgstr "Загублена сторінка нотатника"
+
+msgid "{name} Scrapbook Page"
+msgstr "Сторінка нотатника «{name}»"
+
+msgid "Scrappy Chapauldron"
+msgstr "Брухтовий шапоплічник"
+
+msgid "Horizon Expandinator"
+msgstr "Розширювач горизонту"
+
+msgid "Potter's Wheel"
+msgstr "Гончарський круг"
+
+msgid "Sculpting Block"
+msgstr "Блок для скульптур"
+
+msgid "Marble Sculpture"
+msgstr "Мармурова скульптура"
+
+msgid "Suspicious Marble"
+msgstr "Підозрілий мармур"
+
+msgid "Sea Cocoon"
+msgstr "Морський кокон"
+
+msgid "Think Tank"
+msgstr "Дослідницький маяк"
+
+msgid "Seafood Gumbo"
+msgstr "Гамбо з морепродуктів"
+
+msgid "Sea Stack"
+msgstr "Морська скеля"
+
+msgid "Spark Ark"
+msgstr "Ковчег з іскрою"
+
+msgid "Seed Pack-It"
+msgstr "Клунок для насіння"
+
+msgid "Seeds"
+msgstr "Насіння"
+
+msgid "Toasted Seeds"
+msgstr "Підсмажене насіння"
+
+msgid "Ocuvigil"
+msgstr "Вартогляд"
+
+msgid "Sewing Kit"
+msgstr "Швейний набір"
+
+msgid "Mannequin"
+msgstr "Манекен"
+
+msgid "Trusty Tape"
+msgstr "Надійна клейка стрічка"
+
+msgid "Unseen Hand"
+msgstr "Невидима рука"
+
+msgid "Shadow Dancer"
+msgstr "Тіньовий танцюрист"
+
+msgid "Shadow Digger"
+msgstr "Тіньовий копач"
+
+msgid "Shadow Duelist"
+msgstr "Тіньовий дуелянт"
+
+msgid "Shadow Atrium"
+msgstr "Тіньове передсердя"
+
+msgid "Possessed Shadow Atrium"
+msgstr "Одержиме тіньове передсердя"
+
+msgid "Shadow Logger"
+msgstr "Тіньовий лісоруб"
+
+msgid "Shadow Miner"
+msgstr "Тіньовий шахтар"
+
+msgid "Shadow Tentacle"
+msgstr "Тіньовий мацак"
+
+msgid "Ink Blight"
+msgstr "Чорнильна пошесть"
+
+msgid "Jitters"
+msgstr "Переляк"
+
+msgid "Rasp"
+msgstr "Скрегіт"
+
+msgid "Rictus"
+msgstr "Гримаса"
+
+msgid "Void Masque"
+msgstr "Маска порожнечі"
+
+msgid "Herald of Tenebrau"
+msgstr "Геральд Тінебрю"
+
+msgid "Shriek"
+msgstr "Вереск"
+
+msgid "Shadow"
+msgstr "Тінь"
+
+msgid "Shadow Maul"
+msgstr "Тіньовий топір"
+
+msgid "Beefalo Gloom Bell"
+msgstr "Темний дзвіночок біфало"
+
+msgid "Shadow Bishop"
+msgstr "Тіньовий слон"
+
+msgid "Shadowcraft Plinth"
+msgstr "Постамент тіньового ремесла"
+
+msgid "Shadowcraft Plinth Kit"
+msgstr "Набір для постаменту тіньового ремесла"
+
+msgid "Shadow Knight"
+msgstr "Тіньовий кінь"
+
+msgid "Parasitic Shadeling"
+msgstr "Паразитична тінь"
+
+msgid "Shadow Rook"
+msgstr "Тіньова тура"
+
+msgid "Rockjaw"
+msgstr "Пащебрил"
+
+msgid "Frostjaw"
+msgstr "Пащекриг"
+
+msgid "Shell Cluster"
+msgstr "Скупчення мушель"
+
+msgid "Shenanigans"
+msgstr "Махінації"
+
+msgid "Shield of Terror"
+msgstr "Щит терору"
+
+msgid "Shovel"
+msgstr "Лопата"
+
+msgid "Brightshade Shoevel"
+msgstr "Ясноквітна лопатика"
+
+msgid "Stuffed Night Cap"
+msgstr "Снодійний фарш"
+
+msgid "Mushy Cake"
+msgstr "Грибний торт"
+
+msgid "Shroom Skin"
+msgstr "Грибна шкіра"
+
+msgid "Siesta Lean-to"
+msgstr "Навіс для сієсти"
+
+msgid "Silk"
+msgstr "Павутиння"
+
+msgid "Baritone Shell Bell"
+msgstr "Мушля баритон"
+
+msgid "Alto Shell Bell"
+msgstr "Мушля альт"
+
+msgid "Soprano Shell Bell"
+msgstr "Мушля сопрано"
+
+msgid "Sisturn"
+msgstr "Сестурна"
+
+msgid "Skeleton"
+msgstr "Скелет"
+
+msgid "Bone Helm"
+msgstr "Кістяний шолом"
+
+msgid "{item} Sketch"
+msgstr "Замальовка «{item}»"
+
+msgid "Sketch"
+msgstr "Замальовка"
+
+msgid "Skullchest"
+msgstr "Скриня-череп"
+
+msgid "Napsack"
+msgstr "Дрімотомішок"
+
+msgid "Trusty Slingshot"
+msgstr "Вірна рогатка"
+
+msgid "Freeze Rounds"
+msgstr "Крижані кульки"
+
+msgid "Gold Rounds"
+msgstr "Золоті кульки"
+
+msgid "Marbles"
+msgstr "Мармурові кульки"
+
+msgid "Poop Pellets"
+msgstr "Ка-кульки"
+
+msgid "Pebbles"
+msgstr "Галька"
+
+msgid "Slow-Down Rounds"
+msgstr "Сповільнювальні кульки"
+
+msgid "Cursed Rounds"
+msgstr "Прокляті кульки"
+
+msgid "Basic Farm"
+msgstr "Звичайна ферма"
+
+msgid "Slurper"
+msgstr "Ковтач"
+
+msgid "Slurper Pelt"
+msgstr "Хутро ковтача"
+
+msgid "Slurtle"
+msgstr "Слизопаха"
+
+msgid "Shelmet"
+msgstr "Шоломцир"
+
+msgid "Slurtle Mound"
+msgstr "Курган слизопах"
+
+msgid "Slurtle Slime"
+msgstr "Слиз слизопахи"
+
+msgid "Broken Shell"
+msgstr "Розбитий панцир"
+
+msgid "Smallbird"
+msgstr "Малий птах"
+
+msgid "Pipspook"
+msgstr "Химерчик"
+
+msgid "Morsel"
+msgstr "Кавалок м'яса"
+
+msgid "Small Jerky"
+msgstr "В'ялений кавалок м'яса"
+
+msgid "Crocommander"
+msgstr "Крокомандир"
+
+msgid "Snurtle"
+msgstr "Равлипаха"
+
+msgid "Growth Formula Starter"
+msgstr "Заготовка формули росту"
+
+msgid "Super Growth Formula"
+msgstr "Суперформула росту"
+
+msgid "Fermented Growth Formula"
+msgstr "Ферментована формула росту"
+
+msgid "Fermenting Growth Formula"
+msgstr "Напівферментована формула росту"
+
+msgid "Ewecus"
+msgstr "Слизівця"
+
+msgid "Spear"
+msgstr "Спис"
+
+msgid "Pith Pike"
+msgstr "Серцевинна піка"
+
+msgid "Spiral Spear"
+msgstr "Спіральний спис"
+
+msgid "Battle Spear"
+msgstr "Бойовий спис"
+
+msgid "Elding Spear"
+msgstr "Блискавичний спис"
+
+msgid "Charged Elding Spear"
+msgstr "Заряджений блискавичний спис"
+
+msgid "Chef Pouch"
+msgstr "Торбинка шефа"
+
+msgid "Chili Flakes"
+msgstr "Пластівці чилі"
+
+msgid "Spicy {food}"
+msgstr "{food} із чилі"
+
+msgid "Garlic Powder"
+msgstr "Часниковий порошок"
+
+msgid "Garlic {food}"
+msgstr "{food} із часником"
+
+msgid "Seasoning Salt"
+msgstr "Кухонна сіль"
+
+msgid "Honey Crystals"
+msgstr "Медові кристали"
+
+msgid "Sweet {food}"
+msgstr "{food} з медом"
+
+msgid "Spider"
+msgstr "Павук"
+
+msgid "Spider Den"
+msgstr "Гніздо павуків"
+
+msgid "Den Decorating Set"
+msgstr "Набір для прикрашання гнізда"
+
+msgid "Spider Eggs"
+msgstr "Павучі яйця"
+
+msgid "Spider Gland"
+msgstr "Павуча залоза"
+
+msgid "Spiderhat"
+msgstr "Павукопелюх"
+
+msgid "Spilagmite"
+msgstr "Арахміт"
+
+msgid "Spider Queen"
+msgstr "Королева павуків"
+
+msgid "Dangling Depth Dweller"
+msgstr "Павук-глибинник"
+
+msgid "Nurse Spider"
+msgstr "Павук-медик"
+
+msgid "Healing Glop"
+msgstr "Лікувальна жижа"
+
+msgid "Cave Spider"
+msgstr "Павук-печерник"
+
+msgid "Shoo Box"
+msgstr "Брязкало"
+
+msgid "Spitter"
+msgstr "Павук-плювака"
+
+msgid "Spider Warrior"
+msgstr "Павук-вояка"
+
+msgid "Sea Strider"
+msgstr "Павук-морекосець"
+
+msgid "Webby Whistle"
+msgstr "Павутинний свисток"
+
+msgid "Spoiled Fish"
+msgstr "Зіпсована риба"
+
+msgid "Spoiled Fish Morsel"
+msgstr "Зіпсований кавалок риби"
+
+msgid "Rot"
+msgstr "Гниль"
+
+msgid "Spore Cloud"
+msgstr "Хмара спор"
+
+msgid "Red Spore"
+msgstr "Червона спора"
+
+msgid "Lunar Spore"
+msgstr "Місячна спора"
+
+msgid "Green Spore"
+msgstr "Зелена спора"
+
+msgid "Blue Spore"
+msgstr "Синя спора"
+
+msgid "Skittersquid"
+msgstr "Крутькальмар"
+
+msgid "Polar Light"
+msgstr "Полярне сяйво"
+
+msgid "Dwarf Star"
+msgstr "Карликова зоря"
+
+msgid "Brightshade Staff"
+msgstr "Ясноквітний жезл"
+
+msgid "Weather Pain"
+msgstr "Вітровій"
+
+msgid "Stagehand"
+msgstr "Підручний реквізит"
+
+msgid "Prickly Stagehand"
+msgstr "Колючий підручний реквізит"
+
+msgid "Stalagmite"
+msgstr "Сталагміт"
+
+msgid "Reanimated Skeleton"
+msgstr "Відроджений скелет"
+
+msgid "Ancient Fuelweaver"
+msgstr "Стародавній паливоткач"
+
+msgid "Woven Shadow"
+msgstr "Виткана тінь"
+
+msgid "Pirate Map"
+msgstr "Піратська мапа"
+
+msgid "Glommer's Statue"
+msgstr "Статуя Ґломмера"
+
+msgid "Harp Statue"
+msgstr "Статуя арфіста"
+
+msgid "Overgrown Statue"
+msgstr "Поросла статуя"
+
+msgid "Maxwell Statue"
+msgstr "Статуя Максвелла"
+
+msgid "Steel Wool"
+msgstr "Сталева вовна"
+
+msgid "Steering Wheel"
+msgstr "Штурвал"
+
+msgid "Steering Wheel Kit"
+msgstr "Набір для штурвала"
+
+msgid "Stinger"
+msgstr "Жало"
+
+msgid "Stone Chair"
+msgstr "Кам'яний стілець"
+
+msgid "Stone Stool"
+msgstr "Кам'яний табурет"
+
+msgid "Stone Round Table"
+msgstr "Круглий кам'яний стіл"
+
+msgid "Stone Square Table"
+msgstr "Квадратний кам'яний стіл"
+
+msgid "W.O.B.O.T."
+msgstr "В.О.Б.О.Т."
+
+msgid "Straw Hat"
+msgstr "Солом'яний капелюх"
+
+msgid "Stuffed Eggplant"
+msgstr "Фарширований баклажан"
+
+msgid "Stuffing"
+msgstr "Начинка"
+
+msgid "Succulent"
+msgstr "Сукулент"
+
+msgid "Potted Succulent"
+msgstr "Сукулент у горщику"
+
+msgid "Sunken Chest"
+msgstr "Затонула скриня"
+
+msgid "Spectackler Box"
+msgstr "Коробка для снастей"
+
+msgid "Support Pillar"
+msgstr "Опорна колона"
+
+msgid "Support Pillar Wreckage"
+msgstr "Уламки опорної колони"
+
+msgid "Reinforced Support Pillar"
+msgstr "Зміцнена опорна колона"
+
+msgid "Dreadstone Pillar"
+msgstr "Колона з лячнокаменю"
+
+msgid "Dreadstone Pillar Wreckage"
+msgstr "Уламки колони з лячнокаменю"
+
+msgid "Reinforced Dreadstone Pillar"
+msgstr "Зміцнена колона з лячнокаменю"
+
+msgid "Dreadstone Pillar Scaffold"
+msgstr "Каркас колони з лячнокаменю"
+
+msgid "Pillar Scaffold"
+msgstr "Каркас опорної колони"
+
+msgid "Surf 'n' Turf"
+msgstr "Риба та стейк"
+
+msgid "Dapper Vest"
+msgstr "Ошатний жилет"
+
+msgid "Sweet Potato Casserole"
+msgstr "Запіканка з батату"
+
+msgid "Soothing Tea"
+msgstr "Заспокійливий чай"
+
+msgid "Brightshade Sword"
+msgstr "Ясноквітний меч"
+
+msgid "Winter's Feast Table"
+msgstr "Стіл Зимового бенкету"
+
+msgid "Tackle Box"
+msgstr "Коробочка для снастей"
+
+msgid "{item} Advert"
+msgstr "Буклет «{item}»"
+
+msgid "Advert"
+msgstr "Буклет"
+
+msgid "Tackle Receptacle"
+msgstr "Сховок риболовок"
+
+msgid "Taffy"
+msgstr "Іриски"
+
+msgid "Tallbird"
+msgstr "Високий птах"
+
+msgid "Tallbird Egg"
+msgstr "Яйце високого птаха"
+
+msgid "Fried Tallbird Egg"
+msgstr "Смажене яйце високого птаха"
+
+msgid "Hatching Tallbird Egg"
+msgstr "Потріскане яйце високого птаха"
+
+msgid "Tallbird Nest"
+msgstr "Гніздо високого птаха"
+
+msgid "Tall Scotch Eggs"
+msgstr "Яйце по-шотландськи"
+
+msgid "Tamales"
+msgstr "Тамале"
+
+msgid "Team Leader"
+msgstr "Лідер команди"
+
+msgid "Smallish Tallbird"
+msgstr "Невисокий птах"
+
+msgid "Telelocator Focus"
+msgstr "Осередок телелокації"
+
+msgid "Wooden Thing"
+msgstr "Якийсь шмат дерева"
+
+msgid "Box Thing"
+msgstr "Якась коробка"
+
+msgid "Crank Thing"
+msgstr "Якийсь важіль"
+
+msgid "Metal Potato Thing"
+msgstr "Якась металева картоплина"
+
+msgid "Ring Thing"
+msgstr "Якесь кільце"
+
+msgid "Telelocator Staff"
+msgstr "Жезл телелокації"
+
+msgid "Tent"
+msgstr "Намет"
+
+msgid "Tentacle"
+msgstr "Мацак"
+
+msgid "Tentacle Spike"
+msgstr "Шип мацака"
+
+msgid "Tentacle Spots"
+msgstr "Шмат мацака"
+
+msgid "Big Tentacle"
+msgstr "Великий мацак"
+
+msgid "Baby Tentacle"
+msgstr "Мацачок"
+
+msgid "Big Slimy Pit"
+msgstr "Велика слизька яма"
+
+msgid "Terrarium"
+msgstr "Терарій"
+
+msgid "Conspicuous Chest"
+msgstr "Примітна скриня"
+
+msgid "Terrorbeak"
+msgstr "Страходзьоб"
+
+msgid "Thulecite"
+msgstr "Тулецит"
+
+msgid "Thulecite Fragments"
+msgstr "Шматочки тулециту"
+
+msgid "Shadow Thurible"
+msgstr "Тіньове кадило"
+
+msgid "Ticoon"
+msgstr "Єнототигр"
+
+msgid "Tillweeds"
+msgstr "Бур'ян"
+
+msgid "Tillweed Salve"
+msgstr "Мазь із бур'яну"
+
+msgid "Toadstool"
+msgstr "Ропуха-поганка"
+
+msgid "Misery Toadstool"
+msgstr "Стражденна ропуха-поганка"
+
+msgid "Hole"
+msgstr "Діра"
+
+msgid "Roasted Toma Root"
+msgstr "Смажений помідор"
+
+msgid "Giant Toma Root"
+msgstr "Помідорище"
+
+msgid "Giant Rotting Toma Root"
+msgstr "Гниле помідорище"
+
+msgid "Top Hat"
+msgstr "Циліндр"
+
+msgid "Magician's Top Hat"
+msgstr "Циліндр фокусника"
+
+msgid "Torch"
+msgstr "Смолоскип"
+
+msgid "Tornado"
+msgstr "Торнадо"
+
+msgid "Tourtiere"
+msgstr "Туртьєр"
+
+msgid "The Lazy Deserter"
+msgstr "Лінивий пустельник"
+
+msgid "Desert Stone"
+msgstr "Пустельний камінь"
+
+msgid "Trail Mix"
+msgstr "Горіхово-фруктова суміш"
+
+msgid "Boarilla"
+msgstr "Кабанорила"
+
+msgid "Electrical Doodad"
+msgstr "Електрична штукенція"
+
+msgid "Trap"
+msgstr "Пастка"
+
+msgid "Bramble Trap"
+msgstr "Ожинова пастка"
+
+msgid "Anenemy"
+msgstr "Злоктинія"
+
+msgid "Tooth Trap"
+msgstr "Зубата пастка"
+
+msgid "Maxwell's Tooth Trap"
+msgstr "Зубата пастка Максвелла"
+
+msgid "Chest"
+msgstr "Скриня"
+
+msgid "Treasure Chest"
+msgstr "Скриня зі скарбами"
+
+msgid "Tree Jam"
+msgstr "Деревний джем"
+
+msgid "Strident Trident"
+msgstr "Триклятий тризубець"
+
+msgid "Melty Marbles"
+msgstr "Оплавлені кульки"
+
+msgid "Second-hand Dentures"
+msgstr "Вживаний зубний протез"
+
+msgid "Lying Robot"
+msgstr "Робот-брехун"
+
+msgid "Dessicated Tentacle"
+msgstr "Засушений мацак"
+
+msgid "Gnomette"
+msgstr "Гнометта"
+
+msgid "Leaky Teacup"
+msgstr "Дірява чашка"
+
+msgid "White Bishop"
+msgstr "Білий слон"
+
+msgid "Black Bishop"
+msgstr "Чорний слон"
+
+msgid "Bent Spork"
+msgstr "Зігнута ложковиделка"
+
+msgid "Toy Trojan Horse"
+msgstr "Іграшковий троянський кінь"
+
+msgid "Unbalanced Top"
+msgstr "Нестійка дзиґа"
+
+msgid "Fake Kazoo"
+msgstr "Несправжній казу"
+
+msgid "Back Scratcher"
+msgstr "Чесалка для спини"
+
+msgid "Beaten Beater"
+msgstr "Побита збивачка"
+
+msgid "Frayed Yarn"
+msgstr "Пошарпана пряжа"
+
+msgid "Shoe Horn"
+msgstr "Ріжок для взуття"
+
+msgid "Lucky Cat Jar"
+msgstr "Щаслива скарбничка"
+
+msgid "Air Unfreshener"
+msgstr "Забруднювач повітря"
+
+msgid "Potato Cup"
+msgstr "Чашка з картоплини"
+
+msgid "Wire Hanger"
+msgstr "Вішалка з дроту"
+
+msgid "White Rook"
+msgstr "Біла тура"
+
+msgid "Black Rook"
+msgstr "Чорна тура"
+
+msgid "Gord's Knot"
+msgstr "Гордіїв вузол"
+
+msgid "White Knight"
+msgstr "Білий кінь"
+
+msgid "Black Knight"
+msgstr "Чорний кінь"
+
+msgid "Cubic Zirconia Ball"
+msgstr "Фіанітова куля"
+
+msgid "Spider Ring"
+msgstr "Павучий перстень"
+
+msgid "Monkey Paw"
+msgstr "Мавпяча лапка"
+
+msgid "Empty Elixir"
+msgstr "Порожня колба"
+
+msgid "Faux Fangs"
+msgstr "Несправжні ікла"
+
+msgid "Broken Stake"
+msgstr "Зламаний кіл"
+
+msgid "Binoculars"
+msgstr "Бінокль"
+
+msgid "Lone Glove"
+msgstr "Самотня рукавичка"
+
+msgid "Gnome"
+msgstr "Гном"
+
+msgid "Snail Scale"
+msgstr "Равликові ваги"
+
+msgid "Goop Canister"
+msgstr "Пляшка з в'язкою рідиною"
+
+msgid "Toy Cobra"
+msgstr "Іграшкова кобра"
+
+msgid "Crocodile Toy"
+msgstr "Іграшковий крокодил"
+
+msgid "Broken Terrarium"
+msgstr "Зламаний терарій"
+
+msgid "Odd Radio"
+msgstr "Дивне радіо"
+
+msgid "Broken Hairdryer"
+msgstr "Зламаний фен"
+
+msgid "Tiny Rocketship"
+msgstr "Крихітна ракета"
+
+msgid "Frazzled Wires"
+msgstr "Зношені дроти"
+
+msgid "Ball and Cup"
+msgstr "Більбоке"
+
+msgid "Hardened Rubber Bung"
+msgstr "Гумова пробка"
+
+msgid "Mismatched Buttons"
+msgstr "Непарні ґудзики"
+
+msgid "Fish Scale-O-Matic"
+msgstr "Риб-о-мір"
+
+msgid "Produce Scale"
+msgstr "Продуктові ваги"
+
+msgid "Breezy Vest"
+msgstr "Легкий жилет"
+
+msgid "Puffy Vest"
+msgstr "Пухкий жилет"
+
+msgid "Koalefant Trunk Steak"
+msgstr "Стейк із хобота"
+
+msgid "Koalefant Trunk"
+msgstr "Хобот коалослона"
+
+msgid "Winter Koalefant Trunk"
+msgstr "Хобот зимового коалослона"
+
+msgid "Tumbleweed"
+msgstr "Перекотиполе"
+
+msgid "Terra Firma Tamper"
+msgstr "Тераформувач"
+
+msgid "Ancient Stonework"
+msgstr "Стародавня кам'яна підлога"
+
+msgid "Beard Hair Rug"
+msgstr "Килим із бороди"
+
+msgid "Carpeted Flooring"
+msgstr "Килим"
+
+msgid "Lush Carpet"
+msgstr "Розкішний килим"
+
+msgid "Guano Turf"
+msgstr "Гуано ґрунт"
+
+msgid "Checkered Flooring"
+msgstr "Шахівниця"
+
+msgid "Brick Flooring"
+msgstr "Цегляна підлога"
+
+msgid "Gold Flooring"
+msgstr "Золота підлога"
+
+msgid "Deciduous Turf"
+msgstr "Листяний ґрунт"
+
+msgid "Sandy Turf"
+msgstr "Піщаний ґрунт"
+
+msgid "Dirt Turf"
+msgstr "Безґрунтя"
+
+msgid "Scaled Flooring"
+msgstr "Луската підлога"
+
+msgid "Forest Turf"
+msgstr "Лісовий ґрунт"
+
+msgid "Fungal Turf"
+msgstr "Грибний ґрунт"
+
+msgid "Mutated Fungal Turf"
+msgstr "Мутований грибний ґрунт"
+
+msgid "Grass Turf"
+msgstr "Трав'янистий ґрунт"
+
+msgid "Marsh Turf"
+msgstr "Болотяний ґрунт"
+
+msgid "Moon Crater Turf"
+msgstr "Кратериста місячна порода"
+
+msgid "Crater Turf Blueprint"
+msgstr "Креслення кратеристої породи"
+
+msgid "Moon Quay Beach Turf"
+msgstr "Ґрунт пляжу Місячної пристані"
+
+msgid "Blue Mosaic Flooring"
+msgstr "Синя мозаїчна підлога"
+
+msgid "Grey Mosaic Flooring"
+msgstr "Сіра мозаїчна підлога"
+
+msgid "Red Mosaic Flooring"
+msgstr "Червона мозаїчна підлога"
+
+msgid "Mud Turf"
+msgstr "Багнистий ґрунт"
+
+msgid "Rocky Beach Turf"
+msgstr "Ґрунт кам'янистого пляжу"
+
+msgid "Cobblestones"
+msgstr "Бруківка"
+
+msgid "Rocky Turf"
+msgstr "Кам'яна порода"
+
+msgid "Ancient Flooring"
+msgstr "Стародавня підлога"
+
+msgid "Imitation Ancient Flooring"
+msgstr "Імітація стародавньої підлоги"
+
+msgid "Ancient Tilework"
+msgstr "Стародавній кахель"
+
+msgid "Imitation Ancient Tilework"
+msgstr "Імітація стародавнього кахлю"
+
+msgid "Ancient Brickwork"
+msgstr "Стародавня бруківка"
+
+msgid "Imitation Ancient Brickwork"
+msgstr "Імітація стародавньої бруківки"
+
+msgid "Savanna Turf"
+msgstr "Ґрунт савани"
+
+msgid "Shell Beach Turf"
+msgstr "Ґрунт мушлевого пляжу"
+
+msgid "Shell Turf Blueprint"
+msgstr "Креслення мушлевого ґрунту"
+
+msgid "Slimy Turf"
+msgstr "Слизуватий ґрунт"
+
+msgid "Cave Rock Turf"
+msgstr "Печерна кам'яна порода"
+
+msgid "Wooden Flooring"
+msgstr "Дерев'яна підлога"
+
+msgid "Turkey Dinner"
+msgstr "Вечеря з індички"
+
+msgid "Roasted Turnip"
+msgstr "Смажена ріпа"
+
+msgid "Snortoise"
+msgstr "Бронепаха"
+
+msgid "Twiggy Tree"
+msgstr "Гілчасте дерево"
+
+msgid "Twiggy Tree Cone"
+msgstr "Шишка гілчастого дерева"
+
+msgid "Twiggy Sapling"
+msgstr "Гілчастий паросток"
+
+msgid "Twigs"
+msgstr "Гілки"
+
+msgid "Retinazor"
+msgstr "Ретиназор"
+
+msgid "Spazmatism"
+msgstr "Спазматизм"
+
+msgid "Umbrella"
+msgstr "Парасолька"
+
+msgid "Unagi"
+msgstr "Унаґі"
+
+msgid "Unknown"
+msgstr "Невідомо"
+
+msgid "Breakfast Skillet"
+msgstr "Сніданок на пательні"
+
+msgid "Vegetable Stinger"
+msgstr "Овочевий стінгер"
+
+msgid "Victorian Costume Pattern"
+msgstr "Викрійка старомодного костюма"
+
+msgid "Dark Tatters"
+msgstr "Темне дрантя"
+
+msgid "Void Cowl"
+msgstr "Каптур порожнечі"
+
+msgid "Gloomerang"
+msgstr "Мрякоранг"
+
+msgid "Void Repair Kit"
+msgstr "Ремонтний набір порожнечі"
+
+msgid "Shadow Reaper"
+msgstr "Тіньовий жнець"
+
+msgid "Umbralla"
+msgstr "Тіньосолька"
+
+msgid "Volt Goat Chaud-Froid"
+msgstr "Желе з вольткози"
+
+msgid "Auto-Mat-O-Chanic"
+msgstr "Авто-мат-о-ханік"
+
+msgid "W.A.R.B.I.S. Head Gear"
+msgstr "Головний убір В.А.Р.Б.І.С."
+
+msgid "Scrap"
+msgstr "Брухт"
+
+msgid "Abandoned Junk"
+msgstr "Покинутий брухт"
+
+msgid "Research Notes"
+msgstr "Дослідницькі нотатки"
+
+msgid "Grainy Transmission"
+msgstr "Зерниста проєкція"
+
+msgid "Reticulating Buffer"
+msgstr "Мембранний буфер"
+
+msgid "Odd Tool"
+msgstr "Дивний прилад"
+
+msgid "Widget Deflubber"
+msgstr "Дефлаберний модуль"
+
+msgid "Weird Tool"
+msgstr "Чудернацький прилад"
+
+msgid "Grommet Scriber"
+msgstr "Аудіовізуальний самописець"
+
+msgid "Strange Tool"
+msgstr "Незвичайний прилад"
+
+msgid "Conceptual Scrubber"
+msgstr "Концептуальний скрубер"
+
+msgid "Funky Tool"
+msgstr "Дивацький прилад"
+
+msgid "Calibrated Perceiver"
+msgstr "Калібрований сприймач"
+
+msgid "Bizarre Tool"
+msgstr "Химерний прилад"
+
+msgid "Plank"
+msgstr "Дошка"
+
+msgid "Archaic Plank"
+msgstr "Архаїчна дошка"
+
+msgid "Scaled Plank"
+msgstr "Луската дошка"
+
+msgid "Wooden Walking Stick"
+msgstr "Дерев'яний ціпок"
+
+msgid "Dreadstone Wall"
+msgstr "Стіна з лячнокаменю"
+
+msgid "Hay Wall"
+msgstr "Солом'яна стіна"
+
+msgid "Moon Rock Wall"
+msgstr "Стіна з місячного каменю"
+
+msgid "Thulecite Wall"
+msgstr "Тулецитова стіна"
+
+msgid "Archival Thulecite Wall"
+msgstr "Архівна тулецитова стіна"
+
+msgid "Scrap Wall"
+msgstr "Стіна з брухту"
+
+msgid "Stone Wall"
+msgstr "Кам'яна стіна"
+
+msgid "Archival Stone Wall"
+msgstr "Архівна кам'яна стіна"
+
+msgid "Wood Wall"
+msgstr "Дерев'яна стіна"
+
+msgid "MacTusk"
+msgstr "Мак-Бивень"
+
+msgid "Tam o' Shanter"
+msgstr "Там о' шантер"
+
+msgid "Walrus Camp"
+msgstr "Моржевий табір"
+
+msgid "Walrus Tusk"
+msgstr "Бивень моржа"
+
+msgid "Walter"
+msgstr "Волтер"
+
+msgid "Pinetree Pioneer Hat"
+msgstr "Капелюх скаута Шишколісся"
+
+msgid "Wanda"
+msgstr "Ванда"
+
+msgid "Wardrobe"
+msgstr "Гардероб"
+
+msgid "Varg"
+msgstr "Варґ"
+
+msgid "Varglet"
+msgstr "Варженя"
+
+msgid "Varg Shrine"
+msgstr "Вівтар варґа"
+
+msgid "Warly"
+msgstr "Варлі"
+
+msgid "Warrior Costume Pattern"
+msgstr "Викрійка войовничого костюма"
+
+msgid "Killer Bee Hive"
+msgstr "Гніздо бджіл-убивць"
+
+msgid "Waterballoon"
+msgstr "Кулька з водою"
+
+msgid "Empty Watering Can"
+msgstr "Порожня лійка"
+
+msgid "Watering Can"
+msgstr "Лійка"
+
+msgid "Watermelon"
+msgstr "Кавун"
+
+msgid "Fashion Melon"
+msgstr "Модний кавун"
+
+msgid "Melonsicle"
+msgstr "Кавуновий лід"
+
+msgid "Grilled Watermelon"
+msgstr "Кавун-гриль"
+
+msgid "Giant Watermelon"
+msgstr "Кавунище"
+
+msgid "Giant Rotting Watermelon"
+msgstr "Гниле кавунище"
+
+msgid "Square Seeds"
+msgstr "Квадратне насіння"
+
+msgid "Sea Weed"
+msgstr "Морський бур'ян"
+
+msgid "Sea Sprout"
+msgstr "Морський паросток"
+
+msgid "Seedshell"
+msgstr "Морська колючка"
+
+msgid "Sea Sprout Starter"
+msgstr "Морське коріння"
+
+msgid "Fire Pump"
+msgstr "Пожежна помпа"
+
+msgid "Great Tree Trunk"
+msgstr "Стовбур величезного дерева"
+
+msgid "Great Tree Root"
+msgstr "Корінь величезного дерева"
+
+msgid "Sea Turtle"
+msgstr "Морська черепаха"
+
+msgid "Wigfrid"
+msgstr "Віґфрід"
+
+msgid "Battle Helm"
+msgstr "Бойовий шолом"
+
+msgid "Commander's Helm"
+msgstr "Шолом полководця"
+
+msgid "Battle Rönd"
+msgstr "Бойовий рöнд"
+
+msgid "Wax Paper"
+msgstr "Восковий папір"
+
+msgid "Codex Umbra"
+msgstr "«Кодекс умбра»"
+
+msgid "Webber"
+msgstr "Веббер"
+
+msgid "Webber's Skull"
+msgstr "Череп Веббера"
+
+msgid "Baby Spider"
+msgstr "Павучатко"
+
+msgid "Fire Nettles"
+msgstr "Вогняна кропива"
+
+msgid "Spiny Bindweed"
+msgstr "Колючий в'юнок"
+
+msgid "Tillweed"
+msgstr "Бур'ян"
+
+msgid "Wendy"
+msgstr "Венді"
+
+msgid "Kitschy Beaver Idol"
+msgstr "Кітчевий ідол бобра"
+
+msgid "Kitschy Goose Idol"
+msgstr "Кітчевий ідол гусака"
+
+msgid "Kitschy Moose Idol"
+msgstr "Кітчевий ідол лося"
+
+msgid "Wes"
+msgstr "Вес"
+
+msgid "Wet Goop"
+msgstr "Бурда"
+
+msgid "Paper"
+msgstr "Папір"
+
+msgid "Crumpled Package"
+msgstr "Зім'ятий пакет"
+
+msgid "Tail o' Three Cats"
+msgstr "Батіг із трьох хвостів"
+
+msgid "Wickerbottom"
+msgstr "Вікерботтом"
+
+msgid "Willow"
+msgstr "Віллоу"
+
+msgid "Ethereal Ember"
+msgstr "Етерна жаринка"
+
+msgid "Wilson"
+msgstr "Вілсон"
+
+msgid "Pinchin' Winch"
+msgstr "Щипач-підіймач"
+
+msgid "Pinchin' Winch Blueprint"
+msgstr "Креслення щипача-підіймача"
+
+msgid "Winona"
+msgstr "Вінона"
+
+msgid "Winona's G.E.M.erator"
+msgstr "Самоцвітний генератор Вінони"
+
+msgid "Winona's Generator"
+msgstr "Генератор Вінони"
+
+msgid "Winona's Catapult"
+msgstr "Катапульта Вінони"
+
+msgid "Unstable Transmission"
+msgstr "Нестабільна проєкція"
+
+msgid "Doohickey"
+msgstr "Запчастина"
+
+msgid "Gizmo"
+msgstr "Деталь"
+
+msgid "Handy Remote"
+msgstr "Корисний пульт"
+
+msgid "Winona's Spotlight"
+msgstr "Прожектор Вінони"
+
+msgid "W.I.N.bot"
+msgstr "В.І.Н.бот"
+
+msgid "Portasol"
+msgstr "Портасоля"
+
+msgid "Teletransport Station"
+msgstr "Телетранспортаційна станція"
+
+msgid "Winter Hat"
+msgstr "Зимова шапка"
+
+msgid "Thermal Measurer"
+msgstr "Термальний вимірювач"
+
+msgid "Holiday Cheer"
+msgstr "Святковий дух"
+
+msgid "Masonry Oven"
+msgstr "Кам'яна піч"
+
+msgid "Gingerbread Cookie"
+msgstr "Імбирне печиво"
+
+msgid "Sugar Cookie"
+msgstr "Цукрове печиво"
+
+msgid "Candy Cane"
+msgstr "Карамельна тростина"
+
+msgid "Eternal Fruitcake"
+msgstr "Вічний фруктовий кекс"
+
+msgid "Chocolate Log Cake"
+msgstr "Шоколадна колода"
+
+msgid "Plum Pudding"
+msgstr "Сливовий пудинг"
+
+msgid "Apple Cider"
+msgstr "Яблучний сидр"
+
+msgid "Hot Cocoa"
+msgstr "Гарячий шоколад"
+
+msgid "Heavenly Eggnog"
+msgstr "Райський ґоґель-моґель"
+
+msgid "Festive Bauble"
+msgstr "Святкова іграшка"
+
+msgid "Magnificent Adornment"
+msgstr "Велична прикраса"
+
+msgid "Champion Adornment"
+msgstr "Чемпіонська прикраса"
+
+msgid "Appeasing Adornment"
+msgstr "Жертовна прикраса"
+
+msgid "Festive Light"
+msgstr "Святковий вогник"
+
+msgid "Sentimental Adornment"
+msgstr "Сентиментальна прикраса"
+
+msgid "Winter's Feast Tree"
+msgstr "Дерево Зимового бенкету"
+
+msgid "Festive Tree Planter"
+msgstr "Горщик для святкового дерева"
+
+msgid "Wobster Mound"
+msgstr "Курган вобстерів"
+
+msgid "Lunar Wobster"
+msgstr "Місячний вобстер"
+
+msgid "Wobster"
+msgstr "Вобстер"
+
+msgid "Dead Wobster"
+msgstr "Мертвий вобстер"
+
+msgid "Delicious Wobster"
+msgstr "Смачний вобстер"
+
+msgid "Woby"
+msgstr "Вобі"
+
+msgid "Wolfgang"
+msgstr "Вольфґанґ"
+
+msgid "Coaching Whistle"
+msgstr "Тренерський свисток"
+
+msgid "Wonkey"
+msgstr "Вонкі"
+
+msgid "Hardwood Hat"
+msgstr "Дерев'яна каска"
+
+msgid "Woodie"
+msgstr "Вуді"
+
+msgid "Wooden Chair"
+msgstr "Дерев'яний стілець"
+
+msgid "Wooden Stool"
+msgstr "Дерев'яний табурет"
+
+msgid "Round Wooden Table"
+msgstr "Круглий дерев'яний стіл"
+
+msgid "Square Wooden Table"
+msgstr "Квадратний дерев'яний стіл"
+
+msgid "The World"
+msgstr "Світ"
+
+msgid "Depths Worm"
+msgstr "Глибинний черв"
+
+msgid "Worm Hole"
+msgstr "Червоточина"
+
+msgid "Sick Worm Hole"
+msgstr "Хвора червоточина"
+
+msgid "Glow Berry"
+msgstr "Сяй-ягода"
+
+msgid "Lesser Glow Berry"
+msgstr "Бліда сяй-ягода"
+
+msgid "Mysterious Plant"
+msgstr "Загадкова рослина"
+
+msgid "Wormwood"
+msgstr "Вормвуд"
+
+msgid "Great Depths Worm"
+msgstr "Величезний глибинний черв"
+
+msgid "Dirt Mound"
+msgstr "Купка землі"
+
+msgid "Wortox"
+msgstr "Вортокс"
+
+msgid "Soul"
+msgstr "Душа"
+
+msgid "Wurt"
+msgstr "Вурт"
+
+msgid "Brilliant Mudslinger"
+msgstr "Блискучий оббруднювач"
+
+msgid "Dreaded Mudslinger"
+msgstr "Лячний оббруднювач"
+
+msgid "WX-78"
+msgstr "WX-78"
+
+msgid "Beanbooster Circuit"
+msgstr "Модуль королівської величі"
+
+msgid "Refrigerant Circuit"
+msgstr "Модуль охолодження"
+
+msgid "Thermal Circuit"
+msgstr "Модуль підігріву"
+
+msgid "Illumination Circuit"
+msgstr "Модуль освітлення"
+
+msgid "Hardy Circuit"
+msgstr "Модуль витривалості"
+
+msgid "Super-Hardy Circuit"
+msgstr "Модуль надвитривалості"
+
+msgid "Super-Gastrogain Circuit"
+msgstr "Модуль надгастроекспансії"
+
+msgid "Gastrogain Circuit"
+msgstr "Модуль гастроекспансії"
+
+msgid "Super-Processing Circuit"
+msgstr "Модуль надобробки"
+
+msgid "Processing Circuit"
+msgstr "Модуль обробки"
+
+msgid "Acceleration Circuit"
+msgstr "Модуль прискорення"
+
+msgid "Super-Acceleration Circuit"
+msgstr "Модуль надприскорення"
+
+msgid "Chorusbox Circuit"
+msgstr "Модуль музики"
+
+msgid "Optoelectronic Circuit"
+msgstr "Модуль оптоелектроніки"
+
+msgid "Electrification Circuit"
+msgstr "Модуль електризації"
+
+msgid "Circuit Extractor"
+msgstr "Виймач модулів"
+
+msgid "Bio Scanalyzer"
+msgstr "Біосканалізатор"
+
+msgid "Magiluminescence"
+msgstr "Маголюмінесценція"
+
+msgid "Yellow Gem"
+msgstr "Жовтий самоцвіт"
+
+msgid "Yellow Moonlens"
+msgstr "Жовта місячна лінза"
+
+msgid "Star Caller's Staff"
+msgstr "Зоретворний жезл"
+
+msgid "Beefalo Shrine"
+msgstr "Вівтар біфало"
+
+msgid "Lucky Beast Beefalo Doll"
+msgstr "Щаслива лялька біфало"
+
+msgid "Dolled-Up Beefalo Doll"
+msgstr "Чепурна лялька біфало"
+
+msgid "Festive Beefalo Doll"
+msgstr "Святкова лялька біфало"
+
+msgid "Formal Beefalo Doll"
+msgstr "Урочиста лялька біфало"
+
+msgid "Frostbitten Beefalo Doll"
+msgstr "Підмерзла лялька біфало"
+
+msgid "Flowery Beefalo Doll"
+msgstr "Квіткова лялька біфало"
+
+msgid "Ironclad Beefalo Doll"
+msgstr "Армована лялька біфало"
+
+msgid "Victorian Beefalo Doll"
+msgstr "Старомодна лялька біфало"
+
+msgid "Warrior Beefalo Doll"
+msgstr "Войовнича лялька біфало"
+
+msgid "Fearsome Pattern Scrap"
+msgstr "Страшний шматок викрійки"
+
+msgid "Formal Pattern Scrap"
+msgstr "Урочистий шматок викрійки"
+
+msgid "Festive Pattern Scrap"
+msgstr "Святковий шматок викрійки"
+
+msgid "Beefalo Stage"
+msgstr "Подіум для біфало"
+
+msgid "Sewing Machine"
+msgstr "Швейна машина"
+
+msgid "Sewing Machine Kit"
+msgstr "Набір для швейної машини"
+
+msgid "Judge's Booth"
+msgstr "Будка судді"
+
+msgid "Navigation Gym"
+msgstr "Тренажер орієнтування"
+
+msgid "Navigation Gym Kit"
+msgstr "Набір для тренажера орієнтування"
+
+msgid "Reflex Gym"
+msgstr "Тренажер рефлексів"
+
+msgid "Reflex Gym Kit"
+msgstr "Набір для тренажера рефлексів"
+
+msgid "Speed Gym"
+msgstr "Тренажер швидкості"
+
+msgid "Speed Gym Kit"
+msgstr "Набір для тренажера швидкості"
+
+msgid "Endurance Gym"
+msgstr "Тренажер витривалості"
+
+msgid "Endurance Gym Kit"
+msgstr "Набір для тренажера витривалості"
+
+msgid "Checkpoint"
+msgstr "Контрольна точка"
+
+msgid "Checkpoint Kit"
+msgstr "Набір для контрольної точки"
+
+msgid "Finish Line"
+msgstr "Фінішна лінія"
+
+msgid "Finish Line Kit"
+msgstr "Набір для фінішної лінії"
+
+msgid "Starting Point"
+msgstr "Стартова точка"
+
+msgid "Starting Point Kit"
+msgstr "Набір для стартової точки"
+
+msgid "Carrat Scale"
+msgstr "Вимірювач щурквини"
+
+msgid "Carrat Scale Kit"
+msgstr "Набір для вимірювача щурквини"
+
+msgid "{trainer}'s Carrat"
+msgstr "Щурквина тренера {trainer}"
+
+msgid "Packet of Seeds"
+msgstr "Пакет насіння"
+
+msgid "Premium Seed Packet"
+msgstr "Пакет якісного насіння"
+
+msgid "Claw Anchor"
+msgstr "Пазуристий якір"
+
+msgid "Claw Anchor Kit"
+msgstr "Набір для пазуристого якоря"
+
+msgid "Dragonfly Shrine"
+msgstr "Вівтар дракономухи"
+
+msgid "Claw Oar"
+msgstr "Пазуристе весло"
+
+msgid "Dragonfly Boat Wheel"
+msgstr "Штурвал дракономухи"
+
+msgid "Dragonfly Boat Wheel Kit"
+msgstr "Набір для штурвала дракономухи"
+
+msgid "Tribute Roast"
+msgstr "Печена данина"
+
+msgid "Eight Treasure Mud Pie"
+msgstr "Пиріг із бруду «Вісім скарбів»"
+
+msgid "Fish Heads on a Stick"
+msgstr "Риб'ячі голови на паличці"
+
+msgid "Short Rabbit Lamp"
+msgstr "Низька лампа-кролик"
+
+msgid "Tall Rabbit Lamp"
+msgstr "Висока лампа-кролик"
+
+msgid "Pillow Fight Pit"
+msgstr "Подушкова арена"
+
+msgid "Pillow Fight Bell"
+msgstr "Дзвін подушкової арени"
+
+msgid "Pillow Fight Pit Kit"
+msgstr "Набір для подушкової арени"
+
+msgid "Bunnyman Torch"
+msgstr "Заячий смолоскип"
+
+msgid "Bunny Roll"
+msgstr "Заячий рулет"
+
+msgid "Moon Cake"
+msgstr "Місячний пиріг"
+
+msgid "Moon Jelly"
+msgstr "Місячне желе"
+
+msgid "Skewered Puffs"
+msgstr "Пампушки на шпажці"
+
+msgid "Bunnyman Shrine"
+msgstr "Вівтар зайця"
+
+msgid "Glove of Challenge"
+msgstr "Рукавиця виклику"
+
+msgid "Catcoon Shrine"
+msgstr "Вівтар єнотокота"
+
+msgid "90% Protection\\n-15% Move Speed\\nKnockback Resistance"
+msgstr "90% захисту\\n-15% швидкості пересування\\nСтійкість до збиття з ніг"
+
+msgid "85% Protection"
+msgstr "85% захисту"
+
+msgid "50% Protection\\n+5% Faster Cooldown"
+msgstr "50% захисту\\n+5% швидкості перезаряджання"
+
+msgid "60% Protection\\n+10% Move Speed"
+msgstr "60% захисту\\n+10 швидкості пересування"
+
+msgid "75% Protection"
+msgstr "75% захисту"
+
+msgid "75% Protection\\n+10% Physical Damage"
+msgstr "75% захисту\\n+10% фізичної шкоди"
+
+msgid "75% Protection\\n+10% Faster Cooldown"
+msgstr "75% захисту\\n+10 швидкості перезаряджання"
+
+msgid "80% Protection\\n+50 Max Health\\n+20% Physical Damage"
+msgstr "80% захисту\\n+50 макс. здоров'я\\n+20% фізичної шкоди"
+
+msgid "90% Protection\\n+100 Max Health\\nKnockback Resistance"
+msgstr "90% захисту\\n+100 макс. здоров'я\\nСтійкість до збиття з ніг"
+
+msgid "80% Protection\\n+75 Max Health\\nCompanion Buff"
+msgstr "80% захисту\\n+75 макс. здоров'я\\nПідсилення приятелів"
+
+msgid "80% Protection\\n+50 Max Health\\n+15% Faster Cooldown"
+msgstr "80% захисту\\n+50 макс. здоров'я\\n+15% швидкості перезаряджання"
+
+msgid "+15% Physical Damage\\n+10% Faster Cooldown\\n+10% Move Speed"
+msgstr "+15% фізичної шкоди\\n+10% швидкості перезаряджання\\n+10% швидкості пересування"
+
+msgid "+25% Magic Damage\\n+10% Faster Cooldown\\n+10% Move Speed"
+msgstr "+25% магічної шкоди\\n+10% швидкості перезаряджання\\n+10% швидкості пересування"
+
+msgid "+20% Move Speed"
+msgstr "+20% швидкості пересування"
+
+msgid "+25% Healing Received"
+msgstr "+25% отримуваного зцілення"
+
+msgid "+2 HP/s (80% HP Max)\\n+10% Faster Cooldown\\n+10% Move Speed"
+msgstr "+2 ОЗ/с (80% макс. ОЗ)\\n+10% швидкості перезаряджання\\n+10% швидкості пересування"
+
+msgid "+10% Physical Damage"
+msgstr "+10% фізичної шкоди"
+
+msgid "+10% Faster Cooldown"
+msgstr "+10% швидкості перезаряджання"
+
+msgid "+15% Physical Damage"
+msgstr "+15% фізичної шкоди"
+
+msgid "+20% Healing Dealt"
+msgstr "+20% ефективності зцілення"
+
