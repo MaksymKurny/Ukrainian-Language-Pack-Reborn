@@ -1,0 +1,20 @@
+// Exporter Code
+const translatedContent = JSON.parse(content);
+
+for (const stringObj of strings) {
+  if (translatedContent[stringObj.identifier]) {
+    translatedContent[stringObj.identifier].message = stringObj.text;
+
+    // If exporting translations
+    if (stringObj.translations) {
+      for (const lang in stringObj.translations) {
+        if (stringObj.translations[lang] && stringObj.translations[lang].text) {
+          translatedContent[stringObj.identifier].message = stringObj.translations[lang].text;
+        }
+      }
+    }
+  }
+}
+
+// Overwrite content with the translated content
+content = JSON.stringify(translatedContent, null, 2);
