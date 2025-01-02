@@ -97,6 +97,8 @@ msgctxt "STRINGS.NAMES.ANCHOR_ITEM"
 msgid "Anchor Kit"
 msgstr "Набір для якоря"
 
+#. STRINGS.NAMES.ANCHOR_SKETCH
+msgctxt "STRINGS.NAMES.ANCHOR_SKETCH"
 msgid "\"Moon\" Sketch"
 msgstr "Замальовка «місяця»"
 
@@ -2170,9 +2172,13 @@ msgctxt "STRINGS.NAMES.CHESSPIECE_MINOTAUR"
 msgid "Ancient Guardian Figure"
 msgstr "Фігура стародавнього вартового"
 
+#. STRINGS.NAMES.CHESSPIECE_MOON
+msgctxt "STRINGS.NAMES.CHESSPIECE_MOON"
 msgid "\"Moon\" Figure"
 msgstr "Фігура «місяця»"
 
+#. STRINGS.NAMES.CHESSPIECE_MOON_SKETCH
+msgctxt "STRINGS.NAMES.CHESSPIECE_MOON_SKETCH"
 msgid "\"Moon\" Figure Sketch"
 msgstr "Замальовка фігури «місяця»"
 
@@ -3956,6 +3962,8 @@ msgctxt "STRINGS.NAMES.HALLOWEENCANDY_5"
 msgid "Catcoon Candy"
 msgstr "Єнотокотова цукерка"
 
+#. STRINGS.NAMES.HALLOWEENCANDY_6
+msgctxt "STRINGS.NAMES.HALLOWEENCANDY_6"
 msgid "\"Raisins\""
 msgstr "«Родзинки»"
 
