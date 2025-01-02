@@ -25,20 +25,20 @@ jobs:
           python <<EOF
           import polib
 
-          # Load files
+          # Завантаження файлів
           untranslated = polib.pofile('ukrainian.po')
           original = polib.pofile('strings.pot')
 
-          # Map original entries by msgid
-          original_dict = {entry.msgid: entry for entry in original}
+          # Створення мапи оригінальних записів з урахуванням msgctxt
+          original_dict = {(entry.msgctxt, entry.msgid): entry for entry in original}
 
-          # Sync missing translations
+          # Синхронізація відсутніх перекладів
           for entry in untranslated:
-              if not entry.msgstr:  # Check if translation is missing
-                  if entry.msgid in original_dict:
-                      entry.msgstr = original_dict[entry.msgid].msgstr
+              key = (entry.msgctxt, entry.msgid)  # Враховуємо контекст
+              if not entry.msgstr and key in original_dict:
+                  entry.msgstr = original_dict[key].msgstr
 
-          # Save updated file
+          # Збереження оновленого файлу
           untranslated.save('ukrainian.po')
           EOF
 
