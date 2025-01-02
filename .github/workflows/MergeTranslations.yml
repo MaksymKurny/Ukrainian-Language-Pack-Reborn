@@ -18,6 +18,7 @@ jobs:
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v5
         with:
+          ref: ${{ github.base_ref }}
           python-version: ${{ matrix.python-version }}
 
       - name: Display Python version
@@ -56,6 +57,5 @@ jobs:
           git add uk/ukrainian.po
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git commit -m "Add missing translations with context from strings.pot" || echo "No changes to commit"
-          git pull origin ${{ github.head_ref }} --rebase
           git push origin HEAD:${{ github.head_ref }}
 
