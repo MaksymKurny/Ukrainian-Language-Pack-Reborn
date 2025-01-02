@@ -1,0 +1,49 @@
+name: Sync Missing Translations
+
+on:
+  pull_request:
+    types: [opened, synchronize]
+
+jobs:
+  sync-translations:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install polib
+
+      - name: Sync Missing Translations
+        run: |
+          python <<EOF
+          import polib
+
+          # Load files
+          untranslated = polib.pofile('ukrainian.po')
+          original = polib.pofile('strings.pot')
+
+          # Map original entries by msgid
+          original_dict = {entry.msgid: entry for entry in original}
+
+          # Sync missing translations
+          for entry in untranslated:
+              if not entry.msgstr:  # Check if translation is missing
+                  if entry.msgid in original_dict:
+                      entry.msgstr = original_dict[entry.msgid].msgstr
+
+          # Save updated file
+          untranslated.save('ukrainian.po')
+          EOF
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'Sync missing translations from strings.pot'
+          file_pattern: 'ukrainian.po'
