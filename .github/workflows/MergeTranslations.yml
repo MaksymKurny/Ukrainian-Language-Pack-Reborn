@@ -44,14 +44,21 @@ jobs:
       
           for entry in po_file:
               if entry.msgid:
-                  matching_entry = next((e for e in pot_file if e.msgid == entry.msgid), None)
+                  matching_entry = next((e for e in pot_file if polib.escape(e.msgid) == entry.msgid), None)
                   if matching_entry:
                       entry.comment = matching_entry.msgctxt
                       entry.msgctxt = matching_entry.msgctxt
-              entry.msgid = entry.msgid.replace('\\\\\\\\', '\\\\')
-              entry.msgstr = entry.msgstr.replace('\\\\\\\\', '\\\\')
       
           po_file.save("uk/ukrainian.po")
+          with open("uk/ukrainian.po", "r", encoding="utf-8") as file:
+              file_content = file.read()
+          
+          # Заміна \\n на \n
+          file_content = file_content.replace('\\\\\\\\', '\\\\')
+          
+          # Зберігаємо файл після заміни
+          with open("uk/ukrainian.po", "w", encoding="utf-8") as file:
+              file.write(file_content)
           EOF
           python merge_translations.py
       - name: Commit Changes
