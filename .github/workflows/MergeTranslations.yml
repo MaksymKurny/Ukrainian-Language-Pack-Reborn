@@ -44,7 +44,7 @@ jobs:
       
           for entry in po_file:
               if entry.msgid:
-                  matching_entry = next((e for e in pot_file if e.msgid == entry.msgid), None)
+                  matching_entry = next((e for e in pot_file if polib.escape(e.msgid) == entry.msgid), None)
                   if matching_entry:
                       entry.comment = matching_entry.msgctxt
                       entry.msgctxt = matching_entry.msgctxt
