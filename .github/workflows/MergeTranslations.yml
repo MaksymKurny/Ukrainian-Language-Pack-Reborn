@@ -35,6 +35,7 @@ jobs:
           cat <<EOF > convert_translations.py
           import xml.etree.ElementTree as ET
           import re
+          import os
           
           def xliff_to_po(xliff_file, po_file):
               tree = ET.parse(xliff_file)
@@ -54,12 +55,12 @@ jobs:
                       target_text = ""
           
                   # Escape double quotes
-                  source_text = source_text.replace('"', '\\"')
-                  target_text = target_text.replace('"', '\\"')
+                  source_text = source_text.replace('"', '\\\\"')
+                  target_text = target_text.replace('"', '\\\\"')
           
                   # Replace newline characters with \n
-                  source_text = source_text.replace('\n', '\\n')
-                  target_text = target_text.replace('\n', '\\n')
+                  source_text = source_text.replace('\\n', '\\\\n')
+                  target_text = target_text.replace('\\n', '\\\\n')
           
                   # Extract contexts
                   context_group = trans_unit.find("xliff:context-group", ns)
@@ -84,6 +85,9 @@ jobs:
                       po.write(f"msgctxt \"{msgctxt}\"\n")
                       po.write(f"msgid \"{msgid}\"\n")
                       po.write(f"msgstr \"{msgstr}\"\n\n")
+              
+              # Remove temp file
+              os.remove(xliff_file)
           
           xliff_to_po("uk/temp.xliff", "ukrainian.po")
 
@@ -93,6 +97,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git rm uk/temp.xliff
           git add ukrainian.po
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git commit -m "Convert xliff to po" || echo "No changes to commit"
