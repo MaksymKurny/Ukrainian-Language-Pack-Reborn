@@ -4,8 +4,8 @@ on:
   pull_request:
     types: [opened, synchronize]  # Виконання при створенні та оновленні PR
     paths:
-      - 'uk/**/ukrainian.po'  # Шлях до файлів українських перекладів
-      - 'uk/**/strings.pot'   # Шлях до оригінальних файлів
+      - 'uk/**/ukrainian.po'
+      - 'uk/**/temp.xliff'
 
 jobs:
   merge_translations:
@@ -27,46 +27,75 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install polib
-          if  [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Checkout Source Branch (l10n_test)
         uses: actions/checkout@v4
         with:
           ref: '${{ github.head_ref }}'
-      - name: Merge Missing Translations
+      - name: Convert xliff to po
         run: |
-          cat <<EOF > merge_translations.py
-          import polib
+          cat <<EOF > convert_translations.py
+          import xml.etree.ElementTree as ET
           import re
-      
-          pot_file = polib.pofile("uk/strings.pot", wrapwidth = 0)
-          po_file = polib.pofile("uk/ukrainian.po", wrapwidth = 0)
-      
-          for entry in po_file:
-              if entry.msgid:
-                  matching_entry = next((e for e in pot_file if (polib.escape(e.msgid) if "\"" not in entry.msgid else e.msgid) == entry.msgid), None)
-                  if matching_entry:
-                      entry.comment = matching_entry.msgctxt
-                      entry.msgctxt = matching_entry.msgctxt
-      
-          po_file.save("uk/ukrainian.po")
-          with open("uk/ukrainian.po", "r", encoding="utf-8") as file:
-              file_content = file.read()
           
-          # Заміна \\n на \n
-          file_content = file_content.replace('\\\\\\\\', '\\\\')
+          def xliff_to_po(xliff_file, po_file):
+              tree = ET.parse(xliff_file)
+              root = tree.getroot()
           
-          # Зберігаємо файл після заміни
-          with open("uk/ukrainian.po", "w", encoding="utf-8") as file:
-              file.write(file_content)
+              # Namespace handling
+              ns = {'xliff': 'urn:oasis:names:tc:xliff:document:1.2'}
+          
+              # Parse translations
+              translations = []
+              for trans_unit in root.findall(".//xliff:trans-unit", ns):
+                  source_text = trans_unit.find("xliff:source", ns).text
+                  target_text = trans_unit.find("xliff:target", ns).text
+          
+                  # Handle None target_text
+                  if target_text is None:
+                      target_text = ""
+          
+                  # Escape double quotes
+                  source_text = source_text.replace('"', '\\"')
+                  target_text = target_text.replace('"', '\\"')
+          
+                  # Replace newline characters with \n
+                  source_text = source_text.replace('\n', '\\n')
+                  target_text = target_text.replace('\n', '\\n')
+          
+                  # Extract contexts
+                  context_group = trans_unit.find("xliff:context-group", ns)
+                  if context_group is not None:
+                      contexts = context_group.findall("xliff:context", ns)
+                      for context in contexts:
+                          if context.text:
+                              lines = context.text.split("\n")
+                              for line in lines:
+                                  line = re.sub(r'&#13;', '', line)  # Remove XML encoded line breaks
+                                  if line.startswith("#. "):
+                                      msgctxt = line[3:].strip()
+                                      translations.append((msgctxt, source_text, target_text))
+          
+              # Sort translations by msgctxt
+              translations.sort(key=lambda x: x[0])
+          
+              # Write to .po file
+              with open(po_file, 'w', encoding='utf-8') as po:
+                  for msgctxt, msgid, msgstr in translations:
+                      po.write(f"#. {msgctxt}\n")
+                      po.write(f"msgctxt \"{msgctxt}\"\n")
+                      po.write(f"msgid \"{msgid}\"\n")
+                      po.write(f"msgstr \"{msgstr}\"\n\n")
+          
+          xliff_to_po("uk/temp.xliff", "ukrainian.po")
+
           EOF
-          python merge_translations.py
+          python convert_translations.py
       - name: Commit Changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add uk/ukrainian.po
+          git add ukrainian.po
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git commit -m "Add missing translations with context from strings.pot" || echo "No changes to commit"
+          git commit -m "Convert xliff to po" || echo "No changes to commit"
           git pull origin ${{ github.head_ref }} --rebase
           git push origin HEAD:${{ github.head_ref }}
