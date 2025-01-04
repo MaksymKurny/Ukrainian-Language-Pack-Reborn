@@ -81,13 +81,13 @@ jobs:
               with open(po_file, 'w', encoding='utf-8') as po:
                   po.write('msgid ""\n')
                   po.write('msgstr ""\n')
-                  po.write('"Language: ua\\n"\n')
-                  po.write('"Project-Id-Version: ULP Reborn\\n"\n')
-                  po.write('"Language-Team: ULP Reborn Team\\n"\n')
-                  po.write(f'"PO-Revision-Date: {revision_date}\\n"\n')
-                  po.write('"Content-Type: text/plain; charset=utf-8\\n"\n')
-                  po.write('"Content-Transfer-Encoding: 8bit\\n"\n')
-                  po.write('"POT Version: 2.0\\n"\n\n')
+                  po.write('"Language: ua\\\n"\n')
+                  po.write('"Project-Id-Version: ULP Reborn\\\n"\n')
+                  po.write('"Language-Team: ULP Reborn Team\\\n"\n')
+                  po.write(f'"PO-Revision-Date: {revision_date}\\\n"\n')
+                  po.write('"Content-Type: text/plain; charset=utf-8\\\n"\n')
+                  po.write('"Content-Transfer-Encoding: 8bit\\\n"\n')
+                  po.write('"POT Version: 2.0\\\n"\n\n')
 
                   # Write translations
                   for msgctxt, msgid, msgstr in translations:
