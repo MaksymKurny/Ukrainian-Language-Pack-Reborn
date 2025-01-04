@@ -17,7 +17,6 @@ jobs:
       - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v5
         with:
-          ref: '${{ github.head_ref }}'
           python-version: ${{ matrix.python-version }}
 
       - name: Display Python version
@@ -26,16 +25,13 @@ jobs:
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-      - name: Checkout Source Branch (l10n_test)
-        uses: actions/checkout@v4
-        with:
-          ref: '${{ github.head_ref }}'
       - name: Convert xliff to po
         run: |
           cat <<EOF > convert_translations.py
           import xml.etree.ElementTree as ET
           import re
           import os
+          from datetime import datetime
           
           def xliff_to_po(xliff_file, po_file):
               tree = ET.parse(xliff_file)
@@ -78,8 +74,22 @@ jobs:
               # Sort translations by msgctxt
               translations.sort(key=lambda x: x[0])
           
-              # Write to .po file
+              # Get current date and time for header
+              revision_date = datetime.now().strftime("%Y-%m-%d %H:%M%z")
+          
+              # Write header to .po file
               with open(po_file, 'w', encoding='utf-8') as po:
+                  po.write('msgid ""\n')
+                  po.write('msgstr ""\n')
+                  po.write('"Language: ua\\n"\n')
+                  po.write('"Project-Id-Version: ULP Reborn\\n"\n')
+                  po.write('"Language-Team: ULP Reborn Team\\n"\n')
+                  po.write(f'"PO-Revision-Date: {revision_date}\\n"\n')
+                  po.write('"Content-Type: text/plain; charset=utf-8\\n"\n')
+                  po.write('"Content-Transfer-Encoding: 8bit\\n"\n')
+                  po.write('"POT Version: 2.0\\n"\n\n')
+
+                  # Write translations
                   for msgctxt, msgid, msgstr in translations:
                       po.write(f"#. {msgctxt}\n")
                       po.write(f"msgctxt \"{msgctxt}\"\n")
@@ -97,9 +107,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git rm uk/temp.xliff
-          git add ukrainian.po
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git commit -m "Convert xliff to po" || echo "No changes to commit"
+          git add -A  # Додає всі зміни включно з новими і видаленими файлами
+          git commit -m "Convert xliff to po and remove temp file" || echo "No changes to commit"
           git pull origin ${{ github.head_ref }} --rebase
           git push origin HEAD:${{ github.head_ref }}
