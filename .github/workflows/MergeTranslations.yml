@@ -54,12 +54,12 @@ jobs:
                       target_text = ""
           
                   # Escape double quotes
-                  source_text = source_text.replace('"', '\\"')
-                  target_text = target_text.replace('"', '\\"')
+                  source_text = source_text.replace('"', '\\\\"')
+                  target_text = target_text.replace('"', '\\\\"')
           
                   # Replace newline characters with \n
-                  source_text = source_text.replace('\n', '\\n')
-                  target_text = target_text.replace('\n', '\\n')
+                  source_text = source_text.replace('\\n', '\\\\n')
+                  target_text = target_text.replace('\\n', '\\\\n')
           
                   # Extract contexts
                   context_group = trans_unit.find("xliff:context-group", ns)
