@@ -84,6 +84,9 @@ jobs:
                       po.write(f"msgctxt \"{msgctxt}\"\n")
                       po.write(f"msgid \"{msgid}\"\n")
                       po.write(f"msgstr \"{msgstr}\"\n\n")
+              
+              # Remove temp file
+              os.remove(xliff_file)
           
           xliff_to_po("uk/temp.xliff", "ukrainian.po")
 
