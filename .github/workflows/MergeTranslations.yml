@@ -35,6 +35,7 @@ jobs:
           cat <<EOF > convert_translations.py
           import xml.etree.ElementTree as ET
           import re
+          import os
           
           def xliff_to_po(xliff_file, po_file):
               tree = ET.parse(xliff_file)
