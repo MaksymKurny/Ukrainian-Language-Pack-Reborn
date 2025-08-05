@@ -2,39 +2,114 @@ name: XliffToPo
 
 on:
   pull_request:
-    types: [opened, synchronize]
+    types: [opened, synchronize]  # Виконання при створенні та оновленні PR
     paths:
       - 'uk/**/temp.xliff'
-
-permissions:
-  contents: write
 
 jobs:
   merge_translations:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: [ "3.12" ]
     steps:
       - uses: actions/checkout@v4
-
-      - name: Set up Python & install pip
+      - name: Set up Python ${{ matrix.python-version }}
         uses: actions/setup-python@v5
         with:
-          python-version: 3.12
+          python-version: ${{ matrix.python-version }}
 
-      - run: |
+      - name: Display Python version
+        run: python -c "import sys; print(sys.version)"
+
+      - name: Install Dependencies
+        run: |
           python -m pip install --upgrade pip
-          echo "Python version: $(python --version)"
-
       - name: Convert xliff to po
-        run: python .github/scripts/convert_translations.py
+        run: |
+          cat <<EOF > convert_translations.py
+          import xml.etree.ElementTree as ET
+          import re
+          import os
+          from datetime import datetime
+          
+          def xliff_to_po(xliff_file, po_file):
+              tree = ET.parse(xliff_file)
+              root = tree.getroot()
+          
+              # Namespace handling
+              ns = {'xliff': 'urn:oasis:names:tc:xliff:document:1.2'}
+          
+              # Parse translations
+              translations = []
+              for trans_unit in root.findall(".//xliff:trans-unit", ns):
+                  source_text = trans_unit.find("xliff:source", ns).text
+                  target_text = trans_unit.find("xliff:target", ns).text
+          
+                  # Handle None target_text
+                  if target_text is None:
+                      target_text = ""
+          
+                  # Escape double quotes
+                  source_text = source_text.replace('"', '\\\\"')
+                  target_text = target_text.replace('"', '\\\\"')
+          
+                  # Replace newline characters with \n
+                  source_text = source_text.replace('\\n', '\\\\n')
+                  target_text = target_text.replace('\\n', '\\\\n')
+          
+                  # Extract contexts
+                  context_group = trans_unit.find("xliff:context-group", ns)
+                  if context_group is not None:
+                      contexts = context_group.findall("xliff:context", ns)
+                      for context in contexts:
+                          if context.text:
+                              lines = context.text.split("\n")
+                              for line in lines:
+                                  line = re.sub(r'&#13;', '', line)  # Remove XML encoded line breaks
+                                  if line.startswith("#. "):
+                                      msgctxt = line[3:].strip()
+                                      translations.append((msgctxt, source_text, target_text))
+          
+              # Sort translations by msgctxt
+              translations.sort(key=lambda x: x[0])
+          
+              # Get current date and time for header
+              revision_date = datetime.now().strftime("%Y-%m-%d %H:%M%z")
+          
+              # Write header to .po file
+              with open(po_file, 'w', encoding='utf-8') as po:
+                  po.write('msgid ""\n')
+                  po.write('msgstr ""\n')
+                  po.write('"Language: ua\\\n"\n')
+                  po.write('"Project-Id-Version: ULP Reborn\\\n"\n')
+                  po.write('"Language-Team: ULP Reborn Team\\\n"\n')
+                  po.write(f'"PO-Revision-Date: {revision_date}\\\n"\n')
+                  po.write('"Content-Type: text/plain; charset=utf-8\\\n"\n')
+                  po.write('"Content-Transfer-Encoding: 8bit\\\n"\n')
+                  po.write('"POT Version: 2.0\\\n"\n\n')
 
-      - name: Check PO file
-        run: test -s ukrainian.po || (echo "PO file is empty or missing" && exit 1)
+                  # Write translations
+                  for msgctxt, msgid, msgstr in translations:
+                      po.write(f"#. {msgctxt}\n")
+                      po.write(f"msgctxt \"{msgctxt}\"\n")
+                      po.write(f"msgid \"{msgid}\"\n")
+                      po.write(f"msgstr \"{msgstr}\"\n\n")
+              
+              # Remove temp file
+              os.remove(xliff_file)
+          
+          xliff_to_po("uk/temp.xliff", "ukrainian.po")
 
+          EOF
+          python convert_translations.py
       - name: Commit Changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git rm uk/temp.xliff
           git add ukrainian.po
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git commit -m "Convert xliff to po" || echo "No changes to commit"
+          git pull origin ${{ github.head_ref }} --rebase
           git push origin HEAD:${{ github.head_ref }}
