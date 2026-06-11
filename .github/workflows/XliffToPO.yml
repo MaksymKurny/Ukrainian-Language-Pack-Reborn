@@ -1,21 +1,31 @@
+```yml
 name: XliffToPo
 
 on:
   push:
     branches:
-      - main  # Виконання при створенні та оновленні PR
+      - main
     paths:
       - 'uk/**/temp.xliff'
+
+permissions:
+  contents: write
 
 jobs:
   merge_translations:
     runs-on: ubuntu-latest
+
     strategy:
       matrix:
-        python-version: [ "3.12" ]
+        python-version: ["3.12"]
+
     steps:
-      - uses: actions/checkout@v4
-      - name: Set up Python ${{ matrix.python-version }}
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python-version }}
@@ -23,94 +33,108 @@ jobs:
       - name: Display Python version
         run: python -c "import sys; print(sys.version)"
 
-      - name: Install Dependencies
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
+
       - name: Convert xliff to po
         run: |
-          cat <<EOF > convert_translations.py
+          cat <<'EOF' > convert_translations.py
           import xml.etree.ElementTree as ET
           import re
-          import os
+          from pathlib import Path
           from datetime import datetime
-          
+
           def xliff_to_po(xliff_file, po_file):
               tree = ET.parse(xliff_file)
               root = tree.getroot()
-          
-              # Namespace handling
+
               ns = {'xliff': 'urn:oasis:names:tc:xliff:document:1.2'}
-          
-              # Parse translations
+
               translations = []
+
               for trans_unit in root.findall(".//xliff:trans-unit", ns):
-                  source_text = trans_unit.find("xliff:source", ns).text
-                  target_text = trans_unit.find("xliff:target", ns).text
-          
-                  # Handle None target_text
-                  if target_text is None:
-                      target_text = ""
-          
-                  # Escape double quotes
-                  source_text = source_text.replace('"', '\\\\"')
-                  target_text = target_text.replace('"', '\\\\"')
-          
-                  # Replace newline characters with \n
-                  source_text = source_text.replace('\\n', '\\\\n')
-                  target_text = target_text.replace('\\n', '\\\\n')
-          
-                  # Extract contexts
+                  source = trans_unit.find("xliff:source", ns)
+                  target = trans_unit.find("xliff:target", ns)
+
+                  source_text = source.text if source is not None and source.text else ""
+                  target_text = target.text if target is not None and target.text else ""
+
+                  source_text = source_text.replace('"', '\\"')
+                  target_text = target_text.replace('"', '\\"')
+
+                  source_text = source_text.replace('\n', '\\n')
+                  target_text = target_text.replace('\n', '\\n')
+
                   context_group = trans_unit.find("xliff:context-group", ns)
+
                   if context_group is not None:
                       contexts = context_group.findall("xliff:context", ns)
+
                       for context in contexts:
                           if context.text:
                               lines = context.text.split("\n")
+
                               for line in lines:
-                                  line = re.sub(r'&#13;', '', line)  # Remove XML encoded line breaks
+                                  line = re.sub(r'&#13;', '', line)
+
                                   if line.startswith("#. "):
                                       msgctxt = line[3:].strip()
-                                      translations.append((msgctxt, source_text, target_text))
-          
-              # Sort translations by msgctxt
+                                      translations.append(
+                                          (msgctxt, source_text, target_text)
+                                      )
+
               translations.sort(key=lambda x: x[0])
-          
-              # Get current date and time for header
+
               revision_date = datetime.now().strftime("%Y-%m-%d %H:%M%z")
-          
-              # Write header to .po file
+
               with open(po_file, 'w', encoding='utf-8') as po:
                   po.write('msgid ""\n')
                   po.write('msgstr ""\n')
-                  po.write('"Language: ua\\\n"\n')
-                  po.write('"Project-Id-Version: ULP Reborn\\\n"\n')
-                  po.write('"Language-Team: ULP Reborn Team\\\n"\n')
-                  po.write(f'"PO-Revision-Date: {revision_date}\\\n"\n')
-                  po.write('"Content-Type: text/plain; charset=utf-8\\\n"\n')
-                  po.write('"Content-Transfer-Encoding: 8bit\\\n"\n')
-                  po.write('"POT Version: 2.0\\\n"\n\n')
+                  po.write('"Language: uk\\n"\n')
+                  po.write('"Project-Id-Version: ULP Reborn\\n"\n')
+                  po.write('"Language-Team: ULP Reborn Team\\n"\n')
+                  po.write(f'"PO-Revision-Date: {revision_date}\\n"\n')
+                  po.write('"Content-Type: text/plain; charset=utf-8\\n"\n')
+                  po.write('"Content-Transfer-Encoding: 8bit\\n"\n')
+                  po.write('"POT Version: 2.0\\n"\n\n')
 
-                  # Write translations
                   for msgctxt, msgid, msgstr in translations:
                       po.write(f"#. {msgctxt}\n")
-                      po.write(f"msgctxt \"{msgctxt}\"\n")
-                      po.write(f"msgid \"{msgid}\"\n")
-                      po.write(f"msgstr \"{msgstr}\"\n\n")
-              
-              # Remove temp file
-              os.remove(xliff_file)
-          
-          xliff_to_po("uk/temp.xliff", "ukrainian.po")
+                      po.write(f'msgctxt "{msgctxt}"\n')
+                      po.write(f'msgid "{msgid}"\n')
+                      po.write(f'msgstr "{msgstr}"\n\n')
 
+          xliff_files = list(Path("uk").rglob("temp.xliff"))
+
+          if not xliff_files:
+              raise Exception("No temp.xliff files found")
+
+          for xliff_path in xliff_files:
+              po_path = xliff_path.parent / "ukrainian.po"
+
+              print(f"Converting: {xliff_path} -> {po_path}")
+
+              xliff_to_po(
+                  str(xliff_path),
+                  str(po_path)
+              )
           EOF
+
           python convert_translations.py
-      - name: Commit Changes
+
+      - name: Commit changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git rm uk/temp.xliff
-          git add ukrainian.po
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git commit -m "Convert xliff to po" || echo "No changes to commit"
-          git pull origin ${{ github.head_ref }} --rebase
-          git push origin HEAD:${{ github.head_ref }}
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add uk
+
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+
+          git commit -m "Convert xliff to po [skip ci]"
+
+          git pull --rebase origin main
+
+          git push origin HEAD:main
+```
