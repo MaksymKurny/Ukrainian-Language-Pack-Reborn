@@ -1,8 +1,9 @@
 name: XliffToPo
 
 on:
-  pull_request:
-    types: [opened, synchronize]  # Виконання при створенні та оновленні PR
+  push:
+    branches:
+      - main  # Виконання при створенні та оновленні PR
     paths:
       - 'uk/**/temp.xliff'
 
