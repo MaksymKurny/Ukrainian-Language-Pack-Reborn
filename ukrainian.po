@@ -3,7 +3,7 @@ msgstr ""
 "Language: ua\n"
 "Project-Id-Version: ULP Reborn\n"
 "Language-Team: ULP Reborn Team\n"
-"PO-Revision-Date: 2026-08-20 11:28\n"
+"PO-Revision-Date: 2026-08-23 18:51\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0\n"
@@ -50166,7 +50166,7 @@ msgstr "Не думала, що мускатний горіх та кориця 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.FESTIVE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.FESTIVE_BLUEPRINT"
 msgid "This outfit's louder than a chiming grandfather clock."
-msgstr "Це вбрання гучніше за дзвін дідусевого годинника."
+msgstr "Це вбрання гарніше за дзвін старовинного годинника."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.FIG
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.FIG"
