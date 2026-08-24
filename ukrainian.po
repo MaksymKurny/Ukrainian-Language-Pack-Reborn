@@ -3,7 +3,7 @@ msgstr ""
 "Language: ua\n"
 "Project-Id-Version: ULP Reborn\n"
 "Language-Team: ULP Reborn Team\n"
-"PO-Revision-Date: 2026-08-23 18:51\n"
+"PO-Revision-Date: 2026-08-24 19:38\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0\n"
@@ -61,7 +61,7 @@ msgstr "Переодягнутися"
 #. STRINGS.ACTIONS.ACTIVATE.EXCHANGEKNOWLEDGE
 msgctxt "STRINGS.ACTIONS.ACTIVATE.EXCHANGEKNOWLEDGE"
 msgid "Transfer Consciousness"
-msgstr "Transfer Consciousness"
+msgstr "Передати свідомість"
 
 #. STRINGS.ACTIONS.ACTIVATE.FAKE_PICKUP
 msgctxt "STRINGS.ACTIONS.ACTIVATE.FAKE_PICKUP"
@@ -581,12 +581,12 @@ msgstr "Рубати"
 #. STRINGS.ACTIONS.CLIMB.GENERIC
 msgctxt "STRINGS.ACTIONS.CLIMB.GENERIC"
 msgid "Climb Up"
-msgstr "Climb Up"
+msgstr "Піднятися"
 
 #. STRINGS.ACTIONS.CLIMB.HAUNT
 msgctxt "STRINGS.ACTIONS.CLIMB.HAUNT"
 msgid "Haunt"
-msgstr "Haunt"
+msgstr "Вселитися"
 
 #. STRINGS.ACTIONS.CLOSESPELLBOOK.GENERIC
 msgctxt "STRINGS.ACTIONS.CLOSESPELLBOOK.GENERIC"
@@ -756,7 +756,7 @@ msgstr "Розмістити ділянку"
 #. STRINGS.ACTIONS.DEPLOY.HOT_ROCKS
 msgctxt "STRINGS.ACTIONS.DEPLOY.HOT_ROCKS"
 msgid "Scatter Rocks"
-msgstr "Scatter Rocks"
+msgstr "Розкидати камені"
 
 #. STRINGS.ACTIONS.DEPLOY.PORTABLE
 msgctxt "STRINGS.ACTIONS.DEPLOY.PORTABLE"
@@ -1161,7 +1161,7 @@ msgstr "Активувати"
 #. STRINGS.ACTIONS.JOUST
 msgctxt "STRINGS.ACTIONS.JOUST"
 msgid "Charge"
-msgstr "Charge"
+msgstr "Зарядити"
 
 #. STRINGS.ACTIONS.JUMPIN.GENERIC
 msgctxt "STRINGS.ACTIONS.JUMPIN.GENERIC"
@@ -1261,22 +1261,22 @@ msgstr "Загасити"
 #. STRINGS.ACTIONS.MAPDELIVER_MAP
 msgctxt "STRINGS.ACTIONS.MAPDELIVER_MAP"
 msgid "Send"
-msgstr "Send"
+msgstr "Відправити"
 
 #. STRINGS.ACTIONS.MAPSCOUTSELECT_MAP
 msgctxt "STRINGS.ACTIONS.MAPSCOUTSELECT_MAP"
 msgid "Explore"
-msgstr "Explore"
+msgstr "Дослідити"
 
 #. STRINGS.ACTIONS.MAPSCOUT_MAP
 msgctxt "STRINGS.ACTIONS.MAPSCOUT_MAP"
 msgid "Send"
-msgstr "Send"
+msgstr "Відправити"
 
 #. STRINGS.ACTIONS.MAPSCOUT_MAP_TOOFAR
 msgctxt "STRINGS.ACTIONS.MAPSCOUT_MAP_TOOFAR"
 msgid "Out of Range"
-msgstr "Out of Range"
+msgstr "Поза зоною дії"
 
 #. STRINGS.ACTIONS.MARK.GENERIC
 msgctxt "STRINGS.ACTIONS.MARK.GENERIC"
@@ -1336,7 +1336,7 @@ msgstr "Нагодувати"
 #. STRINGS.ACTIONS.NABBAG
 msgctxt "STRINGS.ACTIONS.NABBAG"
 msgid "Knab"
-msgstr "Knab"
+msgstr "Цапнути"
 
 #. STRINGS.ACTIONS.NET
 msgctxt "STRINGS.ACTIONS.NET"
@@ -1461,7 +1461,7 @@ msgstr "Використати"
 #. STRINGS.ACTIONS.PEEKBUNDLE
 msgctxt "STRINGS.ACTIONS.PEEKBUNDLE"
 msgid "Peek"
-msgstr "Peek"
+msgstr "Зазирнути"
 
 #. STRINGS.ACTIONS.PERFORM
 msgctxt "STRINGS.ACTIONS.PERFORM"
@@ -1796,12 +1796,12 @@ msgstr "Сісти"
 #. STRINGS.ACTIONS.SLAUGHTER.BUTCHER
 msgctxt "STRINGS.ACTIONS.SLAUGHTER.BUTCHER"
 msgid "Politely Butcher"
-msgstr "Politely Butcher"
+msgstr "Люб'язно обробити"
 
 #. STRINGS.ACTIONS.SLAUGHTER.DISEMBOWEL
 msgctxt "STRINGS.ACTIONS.SLAUGHTER.DISEMBOWEL"
 msgid "Gently Disembowel"
-msgstr "Gently Disembowel"
+msgstr "Лагідно випотрошити"
 
 #. STRINGS.ACTIONS.SLAUGHTER.EVISCERATE
 msgctxt "STRINGS.ACTIONS.SLAUGHTER.EVISCERATE"
@@ -1821,7 +1821,7 @@ msgstr "Убити зі смаком"
 #. STRINGS.ACTIONS.SLAUGHTER.SLAUGHTER
 msgctxt "STRINGS.ACTIONS.SLAUGHTER.SLAUGHTER"
 msgid "Gingerly Slaughter"
-msgstr "Gingerly Slaughter"
+msgstr "Делікатно забити"
 
 #. STRINGS.ACTIONS.SLEEPIN
 msgctxt "STRINGS.ACTIONS.SLEEPIN"
@@ -3436,362 +3436,362 @@ msgstr "Зламаний"
 #. STRINGS.BUNNYMANNAMES.1
 msgctxt "STRINGS.BUNNYMANNAMES.1"
 msgid "Brassica"
-msgstr "Brassica"
+msgstr "Капустина"
 
 #. STRINGS.BUNNYMANNAMES.10
 msgctxt "STRINGS.BUNNYMANNAMES.10"
 msgid "Radish"
-msgstr "Radish"
+msgstr "Редька"
 
 #. STRINGS.BUNNYMANNAMES.11
 msgctxt "STRINGS.BUNNYMANNAMES.11"
 msgid "Sium"
-msgstr "Sium"
+msgstr "Вех"
 
 #. STRINGS.BUNNYMANNAMES.12
 msgctxt "STRINGS.BUNNYMANNAMES.12"
 msgid "Tragopogon"
-msgstr "Tragopogon"
+msgstr "Козелець"
 
 #. STRINGS.BUNNYMANNAMES.13
 msgctxt "STRINGS.BUNNYMANNAMES.13"
 msgid "Ipomoea"
-msgstr "Ipomoea"
+msgstr "Іпомея"
 
 #. STRINGS.BUNNYMANNAMES.14
 msgctxt "STRINGS.BUNNYMANNAMES.14"
 msgid "Manihot"
-msgstr "Manihot"
+msgstr "Маніок"
 
 #. STRINGS.BUNNYMANNAMES.15
 msgctxt "STRINGS.BUNNYMANNAMES.15"
 msgid "Mirabilis"
-msgstr "Mirabilis"
+msgstr "Мірабіліс"
 
 #. STRINGS.BUNNYMANNAMES.16
 msgctxt "STRINGS.BUNNYMANNAMES.16"
 msgid "Psoralea"
-msgstr "Psoralea"
+msgstr "Псоралея"
 
 #. STRINGS.BUNNYMANNAMES.17
 msgctxt "STRINGS.BUNNYMANNAMES.17"
 msgid "Canna"
-msgstr "Canna"
+msgstr "Канна"
 
 #. STRINGS.BUNNYMANNAMES.18
 msgctxt "STRINGS.BUNNYMANNAMES.18"
 msgid "Typha"
-msgstr "Typha"
+msgstr "Очерет"
 
 #. STRINGS.BUNNYMANNAMES.19
 msgctxt "STRINGS.BUNNYMANNAMES.19"
 msgid "Zingiber"
-msgstr "Zingiber"
+msgstr "Імбир"
 
 #. STRINGS.BUNNYMANNAMES.2
 msgctxt "STRINGS.BUNNYMANNAMES.2"
 msgid "Bunium"
-msgstr "Bunium"
+msgstr "Бульбокмин"
 
 #. STRINGS.BUNNYMANNAMES.20
 msgctxt "STRINGS.BUNNYMANNAMES.20"
 msgid "Oxalis"
-msgstr "Oxalis"
+msgstr "Квасениця"
 
 #. STRINGS.BUNNYMANNAMES.21
 msgctxt "STRINGS.BUNNYMANNAMES.21"
 msgid "Solanum"
-msgstr "Solanum"
+msgstr "Паслін"
 
 #. STRINGS.BUNNYMANNAMES.22
 msgctxt "STRINGS.BUNNYMANNAMES.22"
 msgid "Ullucus"
-msgstr "Ullucus"
+msgstr "Ульюко"
 
 #. STRINGS.BUNNYMANNAMES.23
 msgctxt "STRINGS.BUNNYMANNAMES.23"
 msgid "Cuperus"
-msgstr "Cuperus"
+msgstr "Кипарис"
 
 #. STRINGS.BUNNYMANNAMES.24
 msgctxt "STRINGS.BUNNYMANNAMES.24"
 msgid "Apios"
-msgstr "Apios"
+msgstr "Горішок"
 
 #. STRINGS.BUNNYMANNAMES.25
 msgctxt "STRINGS.BUNNYMANNAMES.25"
 msgid "Yam Daisy"
-msgstr "Yam Daisy"
+msgstr "Стокротка"
 
 #. STRINGS.BUNNYMANNAMES.26
 msgctxt "STRINGS.BUNNYMANNAMES.26"
 msgid "Altrincham"
-msgstr "Altrincham"
+msgstr "Олтрінгем"
 
 #. STRINGS.BUNNYMANNAMES.27
 msgctxt "STRINGS.BUNNYMANNAMES.27"
 msgid "Barwon"
-msgstr "Barwon"
+msgstr "Барвон"
 
 #. STRINGS.BUNNYMANNAMES.28
 msgctxt "STRINGS.BUNNYMANNAMES.28"
 msgid "Bolero"
-msgstr "Bolero"
+msgstr "Болеро"
 
 #. STRINGS.BUNNYMANNAMES.29
 msgctxt "STRINGS.BUNNYMANNAMES.29"
 msgid "Chantenay"
-msgstr "Chantenay"
+msgstr "Шантене"
 
 #. STRINGS.BUNNYMANNAMES.3
 msgctxt "STRINGS.BUNNYMANNAMES.3"
 msgid "Burdock"
-msgstr "Burdock"
+msgstr "Лопух"
 
 #. STRINGS.BUNNYMANNAMES.30
 msgctxt "STRINGS.BUNNYMANNAMES.30"
 msgid "Crusader"
-msgstr "Crusader"
+msgstr "Хрестоносець"
 
 #. STRINGS.BUNNYMANNAMES.31
 msgctxt "STRINGS.BUNNYMANNAMES.31"
 msgid "Danvers"
-msgstr "Danvers"
+msgstr "Денверс"
 
 #. STRINGS.BUNNYMANNAMES.32
 msgctxt "STRINGS.BUNNYMANNAMES.32"
 msgid "Doucer"
-msgstr "Doucer"
+msgstr "Дусер"
 
 #. STRINGS.BUNNYMANNAMES.33
 msgctxt "STRINGS.BUNNYMANNAMES.33"
 msgid "Flakee"
-msgstr "Flakee"
+msgstr "Флакі"
 
 #. STRINGS.BUNNYMANNAMES.34
 msgctxt "STRINGS.BUNNYMANNAMES.34"
 msgid "Guerande"
-msgstr "Guerande"
+msgstr "Ґеранд"
 
 #. STRINGS.BUNNYMANNAMES.35
 msgctxt "STRINGS.BUNNYMANNAMES.35"
 msgid "Hipak"
-msgstr "Hipak"
+msgstr "Гіпак"
 
 #. STRINGS.BUNNYMANNAMES.36
 msgctxt "STRINGS.BUNNYMANNAMES.36"
 msgid "Imperator"
-msgstr "Imperator"
+msgstr "Імператор"
 
 #. STRINGS.BUNNYMANNAMES.37
 msgctxt "STRINGS.BUNNYMANNAMES.37"
 msgid "Juwarot"
-msgstr "Juwarot"
+msgstr "Джуварот"
 
 #. STRINGS.BUNNYMANNAMES.38
 msgctxt "STRINGS.BUNNYMANNAMES.38"
 msgid "Karotan"
-msgstr "Karotan"
+msgstr "Каротан"
 
 #. STRINGS.BUNNYMANNAMES.39
 msgctxt "STRINGS.BUNNYMANNAMES.39"
 msgid "Magno"
-msgstr "Magno"
+msgstr "Маґно"
 
 #. STRINGS.BUNNYMANNAMES.4
 msgctxt "STRINGS.BUNNYMANNAMES.4"
 msgid "Carrot"
-msgstr "Carrot"
+msgstr "Морквина"
 
 #. STRINGS.BUNNYMANNAMES.40
 msgctxt "STRINGS.BUNNYMANNAMES.40"
 msgid "Crandice"
-msgstr "Crandice"
+msgstr "Крендіс"
 
 #. STRINGS.BUNNYMANNAMES.41
 msgctxt "STRINGS.BUNNYMANNAMES.41"
 msgid "Nantes"
-msgstr "Nantes"
+msgstr "Нант"
 
 #. STRINGS.BUNNYMANNAMES.42
 msgctxt "STRINGS.BUNNYMANNAMES.42"
 msgid "Nelson"
-msgstr "Nelson"
+msgstr "Нельсон"
 
 #. STRINGS.BUNNYMANNAMES.43
 msgctxt "STRINGS.BUNNYMANNAMES.43"
 msgid "Onward"
-msgstr "Onward"
+msgstr "Онворд"
 
 #. STRINGS.BUNNYMANNAMES.44
 msgctxt "STRINGS.BUNNYMANNAMES.44"
 msgid "Oxheart"
-msgstr "Oxheart"
+msgstr "Оксхарт"
 
 #. STRINGS.BUNNYMANNAMES.45
 msgctxt "STRINGS.BUNNYMANNAMES.45"
 msgid "Pimpernel"
-msgstr "Pimpernel"
+msgstr "Пімпернель"
 
 #. STRINGS.BUNNYMANNAMES.46
 msgctxt "STRINGS.BUNNYMANNAMES.46"
 msgid "Redhild"
-msgstr "Redhild"
+msgstr "Редгільд"
 
 #. STRINGS.BUNNYMANNAMES.47
 msgctxt "STRINGS.BUNNYMANNAMES.47"
 msgid "Redland"
-msgstr "Redland"
+msgstr "Редленд"
 
 #. STRINGS.BUNNYMANNAMES.48
 msgctxt "STRINGS.BUNNYMANNAMES.48"
 msgid "Suko"
-msgstr "Suko"
+msgstr "Суко"
 
 #. STRINGS.BUNNYMANNAMES.49
 msgctxt "STRINGS.BUNNYMANNAMES.49"
 msgid "Thumbelina"
-msgstr "Thumbelina"
+msgstr "Дюймовочка"
 
 #. STRINGS.BUNNYMANNAMES.5
 msgctxt "STRINGS.BUNNYMANNAMES.5"
 msgid "Celeriac"
-msgstr "Celeriac"
+msgstr "Селера"
 
 #. STRINGS.BUNNYMANNAMES.50
 msgctxt "STRINGS.BUNNYMANNAMES.50"
 msgid "Topweight"
-msgstr "Topweight"
+msgstr "Топвейт"
 
 #. STRINGS.BUNNYMANNAMES.51
 msgctxt "STRINGS.BUNNYMANNAMES.51"
 msgid "Touchon"
-msgstr "Touchon"
+msgstr "Тушон"
 
 #. STRINGS.BUNNYMANNAMES.52
 msgctxt "STRINGS.BUNNYMANNAMES.52"
 msgid "Uchon"
-msgstr "Uchon"
+msgstr "Юшон"
 
 #. STRINGS.BUNNYMANNAMES.53
 msgctxt "STRINGS.BUNNYMANNAMES.53"
 msgid "Valery"
-msgstr "Valery"
+msgstr "Валері"
 
 #. STRINGS.BUNNYMANNAMES.54
 msgctxt "STRINGS.BUNNYMANNAMES.54"
 msgid "Yellow"
-msgstr "Yellow"
+msgstr "Жовтець"
 
 #. STRINGS.BUNNYMANNAMES.55
 msgctxt "STRINGS.BUNNYMANNAMES.55"
 msgid "Zino"
-msgstr "Zino"
+msgstr "Зиновій"
 
 #. STRINGS.BUNNYMANNAMES.56
 msgctxt "STRINGS.BUNNYMANNAMES.56"
 msgid "Scandius"
-msgstr "Scandius"
+msgstr "Скандій"
 
 #. STRINGS.BUNNYMANNAMES.57
 msgctxt "STRINGS.BUNNYMANNAMES.57"
 msgid "Yttria"
-msgstr "Yttria"
+msgstr "Ітрій"
 
 #. STRINGS.BUNNYMANNAMES.58
 msgctxt "STRINGS.BUNNYMANNAMES.58"
 msgid "Lanthan"
-msgstr "Lanthan"
+msgstr "Лантан"
 
 #. STRINGS.BUNNYMANNAMES.59
 msgctxt "STRINGS.BUNNYMANNAMES.59"
 msgid "Cerium"
-msgstr "Cerium"
+msgstr "Церій"
 
 #. STRINGS.BUNNYMANNAMES.6
 msgctxt "STRINGS.BUNNYMANNAMES.6"
 msgid "Daikon"
-msgstr "Daikon"
+msgstr "Дайкон"
 
 #. STRINGS.BUNNYMANNAMES.60
 msgctxt "STRINGS.BUNNYMANNAMES.60"
 msgid "Praseodymia"
-msgstr "Praseodymia"
+msgstr "Празеодим"
 
 #. STRINGS.BUNNYMANNAMES.61
 msgctxt "STRINGS.BUNNYMANNAMES.61"
 msgid "Neodymia"
-msgstr "Neodymia"
+msgstr "Неодим"
 
 #. STRINGS.BUNNYMANNAMES.62
 msgctxt "STRINGS.BUNNYMANNAMES.62"
 msgid "Promethia"
-msgstr "Promethia"
+msgstr "Прометей"
 
 #. STRINGS.BUNNYMANNAMES.63
 msgctxt "STRINGS.BUNNYMANNAMES.63"
 msgid "Samari"
-msgstr "Samari"
+msgstr "Самарі"
 
 #. STRINGS.BUNNYMANNAMES.64
 msgctxt "STRINGS.BUNNYMANNAMES.64"
 msgid "Europia"
-msgstr "Europia"
+msgstr "Європій"
 
 #. STRINGS.BUNNYMANNAMES.65
 msgctxt "STRINGS.BUNNYMANNAMES.65"
 msgid "Gadolin"
-msgstr "Gadolin"
+msgstr "Ґадолін"
 
 #. STRINGS.BUNNYMANNAMES.66
 msgctxt "STRINGS.BUNNYMANNAMES.66"
 msgid "Terbia"
-msgstr "Terbia"
+msgstr "Тербій"
 
 #. STRINGS.BUNNYMANNAMES.67
 msgctxt "STRINGS.BUNNYMANNAMES.67"
 msgid "Dyspros"
-msgstr "Dyspros"
+msgstr "Диспроз"
 
 #. STRINGS.BUNNYMANNAMES.68
 msgctxt "STRINGS.BUNNYMANNAMES.68"
 msgid "Holmia"
-msgstr "Holmia"
+msgstr "Гольмій"
 
 #. STRINGS.BUNNYMANNAMES.69
 msgctxt "STRINGS.BUNNYMANNAMES.69"
 msgid "Erbium"
-msgstr "Erbium"
+msgstr "Ербій"
 
 #. STRINGS.BUNNYMANNAMES.7
 msgctxt "STRINGS.BUNNYMANNAMES.7"
 msgid "Lepidium"
-msgstr "Lepidium"
+msgstr "Хрінниця"
 
 #. STRINGS.BUNNYMANNAMES.70
 msgctxt "STRINGS.BUNNYMANNAMES.70"
 msgid "Thulium"
-msgstr "Thulium"
+msgstr "Тулій"
 
 #. STRINGS.BUNNYMANNAMES.71
 msgctxt "STRINGS.BUNNYMANNAMES.71"
 msgid "Ytterbia"
-msgstr "Ytterbia"
+msgstr "Ітербій"
 
 #. STRINGS.BUNNYMANNAMES.72
 msgctxt "STRINGS.BUNNYMANNAMES.72"
 msgid "Lutetium"
-msgstr "Lutetium"
+msgstr "Лютецій"
 
 #. STRINGS.BUNNYMANNAMES.8
 msgctxt "STRINGS.BUNNYMANNAMES.8"
 msgid "Microseris"
-msgstr "Microseris"
+msgstr "Кульбабка"
 
 #. STRINGS.BUNNYMANNAMES.9
 msgctxt "STRINGS.BUNNYMANNAMES.9"
 msgid "Parsnip"
-msgstr "Parsnip"
+msgstr "Пастернак"
 
 #. STRINGS.CARNIVAL_CROWKID_ACCEPTGIFT.1
 msgctxt "STRINGS.CARNIVAL_CROWKID_ACCEPTGIFT.1"
@@ -50166,7 +50166,7 @@ msgstr "Не думала, що мускатний горіх та кориця 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.FESTIVE_BLUEPRINT
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.FESTIVE_BLUEPRINT"
 msgid "This outfit's louder than a chiming grandfather clock."
-msgstr "Це вбрання гарніше за дзвін старовинного годинника."
+msgstr "Це вбрання дзеленчить гучніше, ніж старовинний підлоговий годинник."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.FIG
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.FIG"
@@ -328686,7 +328686,7 @@ msgstr "Вівторок"
 #. STRINGS.KITCOON_NAMING.NAMES.20
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.20"
 msgid "Ginger"
-msgstr "Імбир"
+msgstr "Рудик"
 
 #. STRINGS.KITCOON_NAMING.NAMES.21
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.21"
@@ -385136,7 +385136,7 @@ msgstr "Князівський плащ"
 #. STRINGS.SKIN_NAMES.body_wes_magma
 msgctxt "STRINGS.SKIN_NAMES.body_wes_magma"
 msgid "Sulphur Pimpernel's Blouse"
-msgstr "Первоцвітово-сіркова блуза"
+msgstr "Сіркова блуза Пімпернеля"
 
 #. STRINGS.SKIN_NAMES.body_wes_mandrake
 msgctxt "STRINGS.SKIN_NAMES.body_wes_mandrake"
@@ -388126,7 +388126,7 @@ msgstr "Сандалі дуелянта"
 #. STRINGS.SKIN_NAMES.feet_wes_magma
 msgctxt "STRINGS.SKIN_NAMES.feet_wes_magma"
 msgid "Sulphur Pimpernel's Boots"
-msgstr "Первоцвітово-сіркові чоботи"
+msgstr "Сіркові чоботи Пімпернеля"
 
 #. STRINGS.SKIN_NAMES.feet_wes_nature
 msgctxt "STRINGS.SKIN_NAMES.feet_wes_nature"
@@ -389466,7 +389466,7 @@ msgstr "Рукавиці дуелянта"
 #. STRINGS.SKIN_NAMES.hand_wes_magma
 msgctxt "STRINGS.SKIN_NAMES.hand_wes_magma"
 msgid "Sulphur Pimpernel's Gloves"
-msgstr "Первоцвітово-сіркові рукавиці"
+msgstr "Сіркові рукавиці Пімпернеля"
 
 #. STRINGS.SKIN_NAMES.hand_wes_nature
 msgctxt "STRINGS.SKIN_NAMES.hand_wes_nature"
@@ -410891,12 +410891,12 @@ msgstr "Бенкет"
 #. STRINGS.TAGS.CLAN
 msgctxt "STRINGS.TAGS.CLAN"
 msgid "group"
-msgstr "group"
+msgstr "група"
 
 #. STRINGS.TAGS.FRIENDSONLY
 msgctxt "STRINGS.TAGS.FRIENDSONLY"
 msgid "friendsonly"
-msgstr "friendsonly"
+msgstr "тільки друзі"
 
 #. STRINGS.TAGS.GAMEMODE.LAVAARENA
 msgctxt "STRINGS.TAGS.GAMEMODE.LAVAARENA"
@@ -410906,12 +410906,12 @@ msgstr "кузня"
 #. STRINGS.TAGS.GAMEMODE.QUAGMIRE
 msgctxt "STRINGS.TAGS.GAMEMODE.QUAGMIRE"
 msgid "the_gorge"
-msgstr "the_gorge"
+msgstr "паща"
 
 #. STRINGS.TAGS.LOCAL
 msgctxt "STRINGS.TAGS.LOCAL"
 msgid "localonly"
-msgstr "localonly"
+msgstr "локально"
 
 #. STRINGS.TAGS.LOCATION.CAVE
 msgctxt "STRINGS.TAGS.LOCATION.CAVE"
@@ -410921,7 +410921,7 @@ msgstr "печери"
 #. STRINGS.TAGS.MULTISERVER
 msgctxt "STRINGS.TAGS.MULTISERVER"
 msgid "multilevel"
-msgstr "multilevel"
+msgstr "мульти-сервер"
 
 #. STRINGS.TAGS.PVP
 msgctxt "STRINGS.TAGS.PVP"
@@ -410931,7 +410931,7 @@ msgstr "Гравець проти гравця"
 #. STRINGS.TAGS.VOTE
 msgctxt "STRINGS.TAGS.VOTE"
 msgid "vote"
-msgstr "vote"
+msgstr "голосування"
 
 #. STRINGS.TEMP_BETA_MSG.RIFTS5_BASIC
 msgctxt "STRINGS.TEMP_BETA_MSG.RIFTS5_BASIC"
@@ -411026,12 +411026,12 @@ msgstr "Дякуємо за покупку доповнення «Reign of Giant
 #. STRINGS.THANKS_POPUP.ROT2
 msgctxt "STRINGS.THANKS_POPUP.ROT2"
 msgid "Sending well wishes\nand shell fishes!"
-msgstr "Sending well wishes\nand shell fishes!"
+msgstr "Надсилаю найкращі побажання\nта молюсків!"
 
 #. STRINGS.THANKS_POPUP.RW
 msgctxt "STRINGS.THANKS_POPUP.RW"
 msgid "Thanks for playing"
-msgstr "Thanks for playing"
+msgstr "Дякуємо за гру"
 
 #. STRINGS.THANKS_POPUP.STORE
 msgctxt "STRINGS.THANKS_POPUP.STORE"
@@ -411051,7 +411051,7 @@ msgstr "Дякуємо за покупку доповнення «ShipWrecked»"
 #. STRINGS.THANKS_POPUP.TOT
 msgctxt "STRINGS.THANKS_POPUP.TOT"
 msgid "Wishing you fair winds and following seas\non the Turn of Tides!"
-msgstr "Wishing you fair winds and following seas\non the Turn of Tides!"
+msgstr "Бажаємо вам сприятливого вітру та спокійного моря\nпід час «Зміни припливів»!"
 
 #. STRINGS.THANKS_POPUP.TWITCH
 msgctxt "STRINGS.THANKS_POPUP.TWITCH"
