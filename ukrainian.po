@@ -3,7 +3,7 @@ msgstr ""
 "Language: ua\n"
 "Project-Id-Version: ULP Reborn\n"
 "Language-Team: ULP Reborn Team\n"
-"PO-Revision-Date: 2026-08-24 19:38\n"
+"PO-Revision-Date: 2026-08-26 12:45\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0\n"
@@ -3696,7 +3696,7 @@ msgstr "Скандій"
 #. STRINGS.BUNNYMANNAMES.57
 msgctxt "STRINGS.BUNNYMANNAMES.57"
 msgid "Yttria"
-msgstr "Ітрій"
+msgstr "Ітрія"
 
 #. STRINGS.BUNNYMANNAMES.58
 msgctxt "STRINGS.BUNNYMANNAMES.58"
@@ -3716,17 +3716,17 @@ msgstr "Дайкон"
 #. STRINGS.BUNNYMANNAMES.60
 msgctxt "STRINGS.BUNNYMANNAMES.60"
 msgid "Praseodymia"
-msgstr "Празеодим"
+msgstr "Празеодимія"
 
 #. STRINGS.BUNNYMANNAMES.61
 msgctxt "STRINGS.BUNNYMANNAMES.61"
 msgid "Neodymia"
-msgstr "Неодим"
+msgstr "Неодимія"
 
 #. STRINGS.BUNNYMANNAMES.62
 msgctxt "STRINGS.BUNNYMANNAMES.62"
 msgid "Promethia"
-msgstr "Прометей"
+msgstr "Прометія"
 
 #. STRINGS.BUNNYMANNAMES.63
 msgctxt "STRINGS.BUNNYMANNAMES.63"
@@ -3736,7 +3736,7 @@ msgstr "Самарі"
 #. STRINGS.BUNNYMANNAMES.64
 msgctxt "STRINGS.BUNNYMANNAMES.64"
 msgid "Europia"
-msgstr "Європій"
+msgstr "Європія"
 
 #. STRINGS.BUNNYMANNAMES.65
 msgctxt "STRINGS.BUNNYMANNAMES.65"
@@ -3746,7 +3746,7 @@ msgstr "Ґадолін"
 #. STRINGS.BUNNYMANNAMES.66
 msgctxt "STRINGS.BUNNYMANNAMES.66"
 msgid "Terbia"
-msgstr "Тербій"
+msgstr "Тербія"
 
 #. STRINGS.BUNNYMANNAMES.67
 msgctxt "STRINGS.BUNNYMANNAMES.67"
@@ -3756,7 +3756,7 @@ msgstr "Диспроз"
 #. STRINGS.BUNNYMANNAMES.68
 msgctxt "STRINGS.BUNNYMANNAMES.68"
 msgid "Holmia"
-msgstr "Гольмій"
+msgstr "Гольмія"
 
 #. STRINGS.BUNNYMANNAMES.69
 msgctxt "STRINGS.BUNNYMANNAMES.69"
@@ -3776,7 +3776,7 @@ msgstr "Тулій"
 #. STRINGS.BUNNYMANNAMES.71
 msgctxt "STRINGS.BUNNYMANNAMES.71"
 msgid "Ytterbia"
-msgstr "Ітербій"
+msgstr "Ітербія"
 
 #. STRINGS.BUNNYMANNAMES.72
 msgctxt "STRINGS.BUNNYMANNAMES.72"
