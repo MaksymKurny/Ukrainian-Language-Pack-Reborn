@@ -3,7 +3,7 @@ msgstr ""
 "Language: ua\n"
 "Project-Id-Version: ULP Reborn\n"
 "Language-Team: ULP Reborn Team\n"
-"PO-Revision-Date: 2026-08-26 12:45\n"
+"PO-Revision-Date: 2026-08-27 12:46\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0\n"
@@ -2691,7 +2691,7 @@ msgstr "ДВІ ПАРИ"
 #. STRINGS.BALATRO.JIMBO_BECKON.1
 msgctxt "STRINGS.BALATRO.JIMBO_BECKON.1"
 msgid "YOU'D BE A FOOL TO MISS THIS GAME!"
-msgstr "НЕ БУДЬ БЛАЗНЕМ, НЕ ПРОПУСТИ ГРУ!"
+msgstr "ЛИШЕ ДУРЕНЬ ПРОЙДЕ ПОВЗ ТАКУ ГРУ!"
 
 #. STRINGS.BALATRO.JIMBO_BECKON.10
 msgctxt "STRINGS.BALATRO.JIMBO_BECKON.10"
@@ -328616,7 +328616,7 @@ msgstr "Скасувати"
 #. STRINGS.KITCOON_NAMING.MENU_PROMPT
 msgctxt "STRINGS.KITCOON_NAMING.MENU_PROMPT"
 msgid "Give this Kitcoon a name"
-msgstr "Дайте ім'я цьому єнотокошеняті"
+msgstr "Дати ім'я єнотокошеняті"
 
 #. STRINGS.KITCOON_NAMING.MENU_RANDOM
 msgctxt "STRINGS.KITCOON_NAMING.MENU_RANDOM"
@@ -328716,17 +328716,17 @@ msgstr "Спайк"
 #. STRINGS.KITCOON_NAMING.NAMES.26
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.26"
 msgid "Skinny"
-msgstr "Скіні"
+msgstr "Худик"
 
 #. STRINGS.KITCOON_NAMING.NAMES.27
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.27"
 msgid "Chubby"
-msgstr "Товстун"
+msgstr "Пухлик"
 
 #. STRINGS.KITCOON_NAMING.NAMES.28
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.28"
 msgid "Mikey"
-msgstr "Мікі"
+msgstr "Майкі"
 
 #. STRINGS.KITCOON_NAMING.NAMES.29
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.29"
@@ -328766,7 +328766,7 @@ msgstr "Піко"
 #. STRINGS.KITCOON_NAMING.NAMES.35
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.35"
 msgid "Hedge"
-msgstr "Хедж"
+msgstr "Гедж"
 
 #. STRINGS.KITCOON_NAMING.NAMES.36
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.36"
@@ -328776,7 +328776,7 @@ msgstr "Сніжок"
 #. STRINGS.KITCOON_NAMING.NAMES.37
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.37"
 msgid "Tuffy"
-msgstr "Таффі"
+msgstr "Тафі"
 
 #. STRINGS.KITCOON_NAMING.NAMES.38
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.38"
@@ -328801,7 +328801,7 @@ msgstr "Шуті"
 #. STRINGS.KITCOON_NAMING.NAMES.41
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.41"
 msgid "Thumpy"
-msgstr "Пушок"
+msgstr "Тампі"
 
 #. STRINGS.KITCOON_NAMING.NAMES.42
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.42"
@@ -328811,17 +328811,17 @@ msgstr "Чучу"
 #. STRINGS.KITCOON_NAMING.NAMES.43
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.43"
 msgid "Ivy"
-msgstr "Іві"
+msgstr "Айві"
 
 #. STRINGS.KITCOON_NAMING.NAMES.44
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.44"
 msgid "Sprout"
-msgstr "Спрут"
+msgstr "Спраут"
 
 #. STRINGS.KITCOON_NAMING.NAMES.45
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.45"
 msgid "Cocoa"
-msgstr "Какао"
+msgstr "Коко"
 
 #. STRINGS.KITCOON_NAMING.NAMES.46
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.46"
@@ -328831,7 +328831,7 @@ msgstr "Рубі"
 #. STRINGS.KITCOON_NAMING.NAMES.47
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.47"
 msgid "George"
-msgstr "Ґеорґ"
+msgstr "Джордж"
 
 #. STRINGS.KITCOON_NAMING.NAMES.48
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.48"
@@ -328851,7 +328851,7 @@ msgstr "Райлі"
 #. STRINGS.KITCOON_NAMING.NAMES.50
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.50"
 msgid "Sparkle"
-msgstr "Спаркл"
+msgstr "Іскорка"
 
 #. STRINGS.KITCOON_NAMING.NAMES.51
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.51"
@@ -328866,7 +328866,7 @@ msgstr "Луна"
 #. STRINGS.KITCOON_NAMING.NAMES.53
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.53"
 msgid "Mister Bojangles"
-msgstr "Містер Боджанґлс"
+msgstr "Містер Боджанґлз"
 
 #. STRINGS.KITCOON_NAMING.NAMES.54
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.54"
@@ -328876,7 +328876,7 @@ msgstr "Бу"
 #. STRINGS.KITCOON_NAMING.NAMES.55
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.55"
 msgid "Custard"
-msgstr "Кремко"
+msgstr "Пундик"
 
 #. STRINGS.KITCOON_NAMING.NAMES.56
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.56"
@@ -328921,7 +328921,7 @@ msgstr "Чуї"
 #. STRINGS.KITCOON_NAMING.NAMES.63
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.63"
 msgid "Turnip"
-msgstr "Ріпа"
+msgstr "Ріпка"
 
 #. STRINGS.KITCOON_NAMING.NAMES.64
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.64"
@@ -328951,7 +328951,7 @@ msgstr "Бам Бам"
 #. STRINGS.KITCOON_NAMING.NAMES.69
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.69"
 msgid "Bammers"
-msgstr "Баммерс"
+msgstr "Бамерз"
 
 #. STRINGS.KITCOON_NAMING.NAMES.7
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.7"
@@ -328981,7 +328981,7 @@ msgstr "Мускат"
 #. STRINGS.KITCOON_NAMING.NAMES.74
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.74"
 msgid "Xiao Long Meow"
-msgstr "Сяо Лонг Мяу"
+msgstr "Сяо Лун Няв"
 
 #. STRINGS.KITCOON_NAMING.NAMES.75
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.75"
@@ -328991,7 +328991,7 @@ msgstr "Канапка"
 #. STRINGS.KITCOON_NAMING.NAMES.76
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.76"
 msgid "Daisy"
-msgstr "Дейзі"
+msgstr "Маргаритка"
 
 #. STRINGS.KITCOON_NAMING.NAMES.77
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.77"
@@ -329036,7 +329036,7 @@ msgstr "Кума"
 #. STRINGS.KITCOON_NAMING.NAMES.84
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.84"
 msgid "Cherry"
-msgstr "Черрі"
+msgstr "Вишенька"
 
 #. STRINGS.KITCOON_NAMING.NAMES.85
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.85"
@@ -329051,12 +329051,12 @@ msgstr "Кіра"
 #. STRINGS.KITCOON_NAMING.NAMES.87
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.87"
 msgid "Finch"
-msgstr "Фінч"
+msgstr "Зяблик"
 
 #. STRINGS.KITCOON_NAMING.NAMES.88
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.88"
 msgid "Mango"
-msgstr "Манго"
+msgstr "Манґо"
 
 #. STRINGS.KITCOON_NAMING.NAMES.89
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.89"
@@ -329076,7 +329076,7 @@ msgstr "Армелло"
 #. STRINGS.KITCOON_NAMING.NAMES.91
 msgctxt "STRINGS.KITCOON_NAMING.NAMES.91"
 msgid "Dineide"
-msgstr "Дінеїда"
+msgstr "Динеїд"
 
 #. STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.random
 msgctxt "STRINGS.LAVAARENA_CHARACTER_DESCRIPTIONS.random"
