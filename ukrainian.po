@@ -3,7 +3,7 @@ msgstr ""
 "Language: ua\n"
 "Project-Id-Version: ULP Reborn\n"
 "Language-Team: ULP Reborn Team\n"
-"PO-Revision-Date: 2026-08-27 12:46\n"
+"PO-Revision-Date: 2026-08-31 13:32\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0\n"
@@ -3516,7 +3516,7 @@ msgstr "Кипарис"
 #. STRINGS.BUNNYMANNAMES.24
 msgctxt "STRINGS.BUNNYMANNAMES.24"
 msgid "Apios"
-msgstr "Горішок"
+msgstr "Апіос"
 
 #. STRINGS.BUNNYMANNAMES.25
 msgctxt "STRINGS.BUNNYMANNAMES.25"
