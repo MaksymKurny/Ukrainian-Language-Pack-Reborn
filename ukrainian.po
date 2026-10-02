@@ -3,7 +3,7 @@ msgstr ""
 "Language: ua\n"
 "Project-Id-Version: ULP Reborn\n"
 "Language-Team: ULP Reborn Team\n"
-"PO-Revision-Date: 2026-10-01 10:35\n"
+"PO-Revision-Date: 2026-10-02 10:32\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0\n"
@@ -396011,7 +396011,7 @@ msgstr "Тло «Срібний ріг достатку»"
 #. STRINGS.SKIN_NAMES.playerportrait_bg_rabbithouseyule
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_rabbithouseyule"
 msgid "Topsy-Turvy Treehouse Portrait"
-msgstr "Тло «Перевернутий дім у дереві»"
+msgstr "Тло «Дім догори корінням»"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_rainometercircus
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_rainometercircus"
@@ -397091,7 +397091,7 @@ msgstr "«Кролик»"
 #. STRINGS.SKIN_NAMES.profileflair_rabbithouse_yule
 msgctxt "STRINGS.SKIN_NAMES.profileflair_rabbithouse_yule"
 msgid "Topsy-Turvy Treehouse"
-msgstr "«Перевернутий дім у дереві»"
+msgstr "«Дім догори корінням»"
 
 #. STRINGS.SKIN_NAMES.profileflair_rainometer_circus
 msgctxt "STRINGS.SKIN_NAMES.profileflair_rainometer_circus"
@@ -397721,7 +397721,7 @@ msgstr "Морквофаг"
 #. STRINGS.SKIN_NAMES.rabbithouse_yule
 msgctxt "STRINGS.SKIN_NAMES.rabbithouse_yule"
 msgid "Topsy-Turvy Treehouse"
-msgstr "Перевернутий дім у дереві"
+msgstr "Дім догори корінням"
 
 #. STRINGS.SKIN_NAMES.raincoat_poncho
 msgctxt "STRINGS.SKIN_NAMES.raincoat_poncho"
