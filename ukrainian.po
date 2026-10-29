@@ -3,7 +3,7 @@ msgstr ""
 "Language: ua\n"
 "Project-Id-Version: ULP Reborn\n"
 "Language-Team: ULP Reborn Team\n"
-"PO-Revision-Date: 2026-10-28 13:54\n"
+"PO-Revision-Date: 2026-10-29 15:12\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0\n"
@@ -1086,7 +1086,7 @@ msgstr "Йти додому"
 #. STRINGS.ACTIONS.GOLF_START_AIMING
 msgctxt "STRINGS.ACTIONS.GOLF_START_AIMING"
 msgid "Aim"
-msgstr "Aim"
+msgstr "Прицілитися"
 
 #. STRINGS.ACTIONS.GOLF_START_CHARGING
 msgctxt "STRINGS.ACTIONS.GOLF_START_CHARGING"
@@ -1096,7 +1096,7 @@ msgstr "Putt (Hold)"
 #. STRINGS.ACTIONS.GOLF_STOP_AIMING
 msgctxt "STRINGS.ACTIONS.GOLF_STOP_AIMING"
 msgid "Stop Aiming"
-msgstr "Stop Aiming"
+msgstr "Перестати цілитися"
 
 #. STRINGS.ACTIONS.GRAVEDIG
 msgctxt "STRINGS.ACTIONS.GRAVEDIG"
@@ -10221,7 +10221,7 @@ msgstr "Азарт відкриттів!"
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
 msgid "The thrill of discovery!"
-msgstr "The thrill of discovery!"
+msgstr "Азарт відкриттів!"
 
 #. STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.GENERIC.DESCRIBE.CARNIVALDECOR_LAMP"
@@ -29611,17 +29611,17 @@ msgstr "Вона піде в мою колекцію!"
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
 msgid "The suspense is killing me!"
-msgstr "Не можу дочекатися дізнатися, що там усередині!"
+msgstr "Та дайте вже взнати, що ж там у ній!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "The suspense is killing me!"
-msgstr "Не можу дочекатися дізнатися, що там усередині!"
+msgstr "Та дайте вже взнати, що ж там у ній!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
 msgid "The suspense is killing me!"
-msgstr "The suspense is killing me!"
+msgstr "Та дайте вже взнати, що ж там у ній!"
 
 #. STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WALTER.DESCRIBE.CARNIVALDECOR_LAMP"
@@ -48801,7 +48801,7 @@ msgstr "Я не змогла стриматися — стрибнула в ма
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
 msgid "I couldn't help it, I looked ahead and took a peek..."
-msgstr "I couldn't help it, I looked ahead and took a peek..."
+msgstr "Я не змогла стриматися — стрибнула в майбутнє й зазирнула всередину..."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.CARNIVALDECOR_LAMP"
@@ -67846,7 +67846,7 @@ msgstr "Цікаво, що ж там усередині?"
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
 msgid "I wonder what could be inside?"
-msgstr "I wonder what could be inside?"
+msgstr "Цікаво, що ж там усередині?"
 
 #. STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WARLY.DESCRIBE.CARNIVALDECOR_LAMP"
@@ -86091,7 +86091,7 @@ msgstr "Коробка таємниць."
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
 msgid "A box of mystery."
-msgstr "A box of mystery."
+msgstr "Коробка таємниць."
 
 #. STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WATHGRITHR.DESCRIBE.CARNIVALDECOR_LAMP"
@@ -105171,7 +105171,7 @@ msgstr "Допитливість завжди брала наді мною ве�
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
 msgid "Curiosity always seems to get the better of me."
-msgstr "Curiosity always seems to get the better of me."
+msgstr "Допитливість завжди брала наді мною верх."
 
 #. STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WAXWELL.DESCRIBE.CARNIVALDECOR_LAMP"
@@ -124161,7 +124161,7 @@ msgstr "Не можемо дочекатися побачити, що там у�
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
 msgid "We can't wait to see what's inside!"
-msgstr "We can't wait to see what's inside!"
+msgstr "Не можемо дочекатися побачити, що там усередині!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.CARNIVALDECOR_LAMP"
@@ -143196,7 +143196,7 @@ msgstr "Які таємниці вона приховує?"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
 msgid "What secrets does it hide?"
-msgstr "What secrets does it hide?"
+msgstr "Які таємниці вона приховує?"
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.CARNIVALDECOR_LAMP"
@@ -162231,7 +162231,7 @@ msgstr "Яка інтрига! Цікаво, що ж усередині?"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
 msgid "How intriguing! I wonder what's inside?"
-msgstr "How intriguing! I wonder what's inside?"
+msgstr "Яка інтрига! Цікаво, що ж усередині?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALDECOR_LAMP"
@@ -181226,7 +181226,7 @@ msgstr "О-о-о, а що там у коробці?"
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
 msgid "Ooooh what's in the box?"
-msgstr "Ooooh what's in the box?"
+msgstr "О-о-о, а що там у коробці?"
 
 #. STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WILLOW.DESCRIBE.CARNIVALDECOR_LAMP"
@@ -219336,7 +219336,7 @@ msgstr "Що у крихітній таємничій коробочці?"
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
 msgid "What is in tiny secret box?"
-msgstr "What is in tiny secret box?"
+msgstr "Що у крихітній таємничій коробочці?"
 
 #. STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.DESCRIBE.CARNIVALDECOR_LAMP"
@@ -238301,7 +238301,7 @@ msgstr "Мене зжирає цікавість, що ж там усереди�
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
 msgid "I can't stop wondering what's inside..."
-msgstr "I can't stop wondering what's inside..."
+msgstr "Мене зжирає цікавість, що ж там усередині..."
 
 #. STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WOODIE.DESCRIBE.CARNIVALDECOR_LAMP"
@@ -257306,7 +257306,7 @@ msgstr "Сюрприз"
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
 msgid "Surprise"
-msgstr "Surprise"
+msgstr "Сюрприз"
 
 #. STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WORMWOOD.DESCRIBE.CARNIVALDECOR_LAMP"
@@ -295566,7 +295566,7 @@ msgstr "Відкривайся!"
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
 msgid "Open up!"
-msgstr "Open up!"
+msgstr "Відкривайся!"
 
 #. STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WURT.DESCRIBE.CARNIVALDECOR_LAMP"
@@ -314711,7 +314711,7 @@ msgstr "ЇЇ ВМІСТ БУЛО ЗАСЕКРЕЧЕНО"
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
 msgid "ITS CONTENTS HAVE BEEN OBFUSCATED"
-msgstr "ITS CONTENTS HAVE BEEN OBFUSCATED"
+msgstr "ЇЇ ВМІСТ БУЛО ЗАСЕКРЕЧЕНО"
 
 #. STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_LAMP
 msgctxt "STRINGS.CHARACTERS.WX78.DESCRIBE.CARNIVALDECOR_LAMP"
@@ -339131,22 +339131,22 @@ msgstr "Набір для мінівежі падіння"
 #. STRINGS.NAMES.CARNIVALDECOR_EGGRIDE5
 msgctxt "STRINGS.NAMES.CARNIVALDECOR_EGGRIDE5"
 msgid "Mini Spinning Eggcups"
-msgstr "Mini Spinning Eggcups"
+msgstr "Обертовий мініатракціон"
 
 #. STRINGS.NAMES.CARNIVALDECOR_EGGRIDE5_KIT
 msgctxt "STRINGS.NAMES.CARNIVALDECOR_EGGRIDE5_KIT"
 msgid "Mini Spinning Eggcups Kit"
-msgstr "Mini Spinning Eggcups Kit"
+msgstr "Набір для обертового мініатракціону"
 
 #. STRINGS.NAMES.CARNIVALDECOR_EGGRIDE6
 msgctxt "STRINGS.NAMES.CARNIVALDECOR_EGGRIDE6"
 msgid "Mini Rollercoaster"
-msgstr "Mini Rollercoaster"
+msgstr "Американські мінігірки"
 
 #. STRINGS.NAMES.CARNIVALDECOR_EGGRIDE6_KIT
 msgctxt "STRINGS.NAMES.CARNIVALDECOR_EGGRIDE6_KIT"
 msgid "Mini Rollercoaster Kit"
-msgstr "Mini Rollercoaster Kit"
+msgstr "Набір для американських мінігірок"
 
 #. STRINGS.NAMES.CARNIVALDECOR_FIGURE_COMMON
 msgctxt "STRINGS.NAMES.CARNIVALDECOR_FIGURE_COMMON"
@@ -339161,12 +339161,12 @@ msgstr "Загадкова зелена коробка"
 #. STRINGS.NAMES.CARNIVALDECOR_FIGURE_KIT_SEASON2
 msgctxt "STRINGS.NAMES.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "Yellow Mystery Box"
-msgstr "Yellow Mystery Box"
+msgstr "Загадкова жовта коробка"
 
 #. STRINGS.NAMES.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.NAMES.CARNIVALDECOR_FIGURE_KIT_SEASON3"
 msgid "Red Mystery Box"
-msgstr "Red Mystery Box"
+msgstr "Загадкова червона коробка"
 
 #. STRINGS.NAMES.CARNIVALDECOR_FIGURE_RARE
 msgctxt "STRINGS.NAMES.CARNIVALDECOR_FIGURE_RARE"
@@ -339231,177 +339231,177 @@ msgstr "Гра «Метушня через черв'ячка»"
 #. STRINGS.NAMES.CARNIVALGAME_GOLFBALL
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFBALL"
 msgid "Golf Ball"
-msgstr "Golf Ball"
+msgstr "М'ячик для гольфа"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFCLUB
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFCLUB"
 msgid "Putter"
-msgstr "Putter"
+msgstr "Ключка"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFGAME_KIT_DIY
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFGAME_KIT_DIY"
 msgid "Custom Mini-Golf Kit"
-msgstr "Custom Mini-Golf Kit"
+msgstr "Власний набір для мінігольфа"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFGAME_KIT_EASY
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFGAME_KIT_EASY"
 msgid "Beginner Mini-Golf Kit"
-msgstr "Beginner Mini-Golf Kit"
+msgstr "Початковий набір для мінігольфа"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFGAME_KIT_HARD
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFGAME_KIT_HARD"
 msgid "Expert Mini-Golf Kit"
-msgstr "Expert Mini-Golf Kit"
+msgstr "Експертний набір для мінігольфа"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
 msgid "Standard Mini-Golf Kit"
-msgstr "Standard Mini-Golf Kit"
+msgstr "Звичайний набір для мінігольфа"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT1
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT1"
 msgid "Carrot Obstacle"
-msgstr "Carrot Obstacle"
+msgstr "Морква-перешкода"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT10
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT10"
 msgid "Tentacle Obstacle"
-msgstr "Tentacle Obstacle"
+msgstr "Мацак-перешкода"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT2
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT2"
 msgid "Rose Obstacle"
-msgstr "Rose Obstacle"
+msgstr "Троянда-перешкода"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT3
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT3"
 msgid "Ham Bat Obstacle"
-msgstr "Ham Bat Obstacle"
+msgstr "Шинкова бита-перешкода"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT4
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT4"
 msgid "Corn Obstacle"
-msgstr "Corn Obstacle"
+msgstr "Кукурудза-перешкода"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT5
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT5"
 msgid "Mushroom Obstacle"
-msgstr "Mushroom Obstacle"
+msgstr "Гриб-перешкода"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT6
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT6"
 msgid "Bearger Obstacle"
-msgstr "Bearger Obstacle"
+msgstr "Борсуковедмідь-перешкода"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT7
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT7"
 msgid "Deerclops Obstacle"
-msgstr "Deerclops Obstacle"
+msgstr "Оленециклоп-перешкода"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT8
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT8"
 msgid "Spider Obstacle"
-msgstr "Spider Obstacle"
+msgstr "Павук-перешкода"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT9
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_CUTOUT9"
 msgid "Dragonfly Obstacle"
-msgstr "Dragonfly Obstacle"
+msgstr "Дракономуха-перешкода"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_FAN
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_FAN"
 msgid "Fan"
-msgstr "Fan"
+msgstr "Вітрогон"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_FENCE
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_FENCE"
 msgid "Mini-Golf Boundary Fence"
-msgstr "Mini-Golf Boundary Fence"
+msgstr "Огорожа для мінігольфа"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_MEDIUMSPINNER_CCW
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_MEDIUMSPINNER_CCW"
 msgid "Counter Clockwise Medium Spin Plate"
-msgstr "Counter Clockwise Medium Spin Plate"
+msgstr "Середня обертова платформа (вліво)"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_MEDIUMSPINNER_CW
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_MEDIUMSPINNER_CW"
 msgid "Clockwise Medium Spin Plate"
-msgstr "Clockwise Medium Spin Plate"
+msgstr "Середня обертова платформа (вправо)"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_MOVINGWALL_BLUE
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_MOVINGWALL_BLUE"
 msgid "Blue Pop-up Blocker"
-msgstr "Blue Pop-up Blocker"
+msgstr "Синя висувна загорода"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_MOVINGWALL_RED
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_MOVINGWALL_RED"
 msgid "Red Pop-up Blocker"
-msgstr "Red Pop-up Blocker"
+msgstr "Червона висувна загорода"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SMALLSPINNER_CCW
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SMALLSPINNER_CCW"
 msgid "Counter Clockwise Small Spin Plate"
-msgstr "Counter Clockwise Small Spin Plate"
+msgstr "Мала обертова платформа (вліво)"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SMALLSPINNER_CW
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SMALLSPINNER_CW"
 msgid "Clockwise Small Spin Plate"
-msgstr "Clockwise Small Spin Plate"
+msgstr "Мала обертова платформа (вправо)"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SPRING
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SPRING"
 msgid "Persistent Directional Springboard"
-msgstr "Persistent Directional Springboard"
+msgstr "Стійкий напрямний трамплін"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SPRING_NOFACED
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SPRING_NOFACED"
 msgid "Persistent Springboard"
-msgstr "Persistent Springboard"
+msgstr "Стійкий трамплін"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SPRING_NOFACED_ONETIME
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SPRING_NOFACED_ONETIME"
 msgid "Springboard"
-msgstr "Springboard"
+msgstr "Трамплін"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SPRING_ONETIME
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_SPRING_ONETIME"
 msgid "Directional Springboard"
-msgstr "Directional Springboard"
+msgstr "Напрямний трамплін"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_WORMHOLE
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_WORMHOLE"
 msgid "Mini Worm Hole"
-msgstr "Mini Worm Hole"
+msgstr "Мінічервоточина"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFPROP_WORMHOLE_LIMITED
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFPROP_WORMHOLE_LIMITED"
 msgid "Sick Mini Worm Hole"
-msgstr "Sick Mini Worm Hole"
+msgstr "Хвора мінічервоточина"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLF_HOLE
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLF_HOLE"
 msgid "Mini-Golf Flaghole"
-msgstr "Mini-Golf Flaghole"
+msgstr "Лунка для мінігольфа"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLF_HOLE_KIT
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLF_HOLE_KIT"
 msgid "Mini-Golf Flaghole Kit"
-msgstr "Mini-Golf Flaghole Kit"
+msgstr "Набір лунки для мінігольфа"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLF_SHAPE
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLF_SHAPE"
 msgid "Course Wall"
-msgstr "Course Wall"
+msgstr "Стінка для поля"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLF_TEE
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLF_TEE"
 msgid "Mini-Golf Ball Dropper"
-msgstr "Mini-Golf Ball Dropper"
+msgstr "Видавач м'ячика для мінігольфа"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLF_TEE_KIT
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLF_TEE_KIT"
 msgid "Mini-Golf Ball Dropper Kit"
-msgstr "Mini-Golf Ball Dropper Kit"
+msgstr "Набір видавача м'ячика для мінігольфа"
 
 #. STRINGS.NAMES.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.NAMES.CARNIVALGAME_HERDING_CHICK"
@@ -339506,7 +339506,7 @@ msgstr "Кар-р-рнавальний жетон"
 #. STRINGS.NAMES.CARNIVAL_GAMETOKEN_MULTIPLE
 msgctxt "STRINGS.NAMES.CARNIVAL_GAMETOKEN_MULTIPLE"
 msgid "Cawnival Tokens"
-msgstr "Cawnival Tokens"
+msgstr "Кар-р-рнавальні жетони"
 
 #. STRINGS.NAMES.CARNIVAL_HOST
 msgctxt "STRINGS.NAMES.CARNIVAL_HOST"
@@ -347586,7 +347586,7 @@ msgstr "Rock Master"
 #. STRINGS.NAMES.ROCKY_BOSS_BOULDER
 msgctxt "STRINGS.NAMES.ROCKY_BOSS_BOULDER"
 msgid "Boulder"
-msgstr "Boulder"
+msgstr "Брила"
 
 #. STRINGS.NAMES.ROCKY_BOSS_SHADOW
 msgctxt "STRINGS.NAMES.ROCKY_BOSS_SHADOW"
@@ -347596,7 +347596,7 @@ msgstr "Blighted Rock Master"
 #. STRINGS.NAMES.ROCKY_BOULDER
 msgctxt "STRINGS.NAMES.ROCKY_BOULDER"
 msgid "Boulder"
-msgstr "Boulder"
+msgstr "Брила"
 
 #. STRINGS.NAMES.ROCK_AVOCADO_BUSH
 msgctxt "STRINGS.NAMES.ROCK_AVOCADO_BUSH"
@@ -354906,12 +354906,12 @@ msgstr "Що може ховатися всередині цієї загадк�
 #. STRINGS.RECIPE_DESC.CARNIVALDECOR_FIGURE_KIT_SEASON2
 msgctxt "STRINGS.RECIPE_DESC.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "What could be inside this mysterious yellow box?"
-msgstr "What could be inside this mysterious yellow box?"
+msgstr "Що може ховатися всередині цієї загадкової жовтої коробки?"
 
 #. STRINGS.RECIPE_DESC.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.RECIPE_DESC.CARNIVALDECOR_FIGURE_KIT_SEASON3"
 msgid "What could be inside this mysterious red box?"
-msgstr "What could be inside this mysterious red box?"
+msgstr "Що може ховатися всередині цієї загадкової червоної коробки?"
 
 #. STRINGS.RECIPE_DESC.CARNIVALDECOR_LAMP_KIT
 msgctxt "STRINGS.RECIPE_DESC.CARNIVALDECOR_LAMP_KIT"
