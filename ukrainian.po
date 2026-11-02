@@ -3,7 +3,7 @@ msgstr ""
 "Language: ua\n"
 "Project-Id-Version: ULP Reborn\n"
 "Language-Team: ULP Reborn Team\n"
-"PO-Revision-Date: 2026-11-01 13:10\n"
+"PO-Revision-Date: 2026-11-02 13:15\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0\n"
@@ -331231,62 +331231,62 @@ msgstr ""
 #. STRINGS.GIBERISH_PRE.1
 msgctxt "STRINGS.GIBERISH_PRE.1"
 msgid "buhrg"
-msgstr ""
+msgstr "бурґ"
 
 #. STRINGS.GIBERISH_PRE.2
 msgctxt "STRINGS.GIBERISH_PRE.2"
 msgid "grog"
-msgstr ""
+msgstr "ґроґ"
 
 #. STRINGS.GIBERISH_PRE.3
 msgctxt "STRINGS.GIBERISH_PRE.3"
 msgid "krog"
-msgstr ""
+msgstr "кроґ"
 
 #. STRINGS.GIBERISH_PRE.4
 msgctxt "STRINGS.GIBERISH_PRE.4"
 msgid "gruhrd"
-msgstr ""
+msgstr "грурд"
 
 #. STRINGS.GIBERISH_PRE.5
 msgctxt "STRINGS.GIBERISH_PRE.5"
 msgid "blorg"
-msgstr ""
+msgstr "блорґ"
 
 #. STRINGS.GIBERISH_PRE.6
 msgctxt "STRINGS.GIBERISH_PRE.6"
 msgid "glog"
-msgstr ""
+msgstr "ґлоґ"
 
 #. STRINGS.GIBERISH_PRE.7
 msgctxt "STRINGS.GIBERISH_PRE.7"
 msgid "snurg"
-msgstr ""
+msgstr "снурґ"
 
 #. STRINGS.GIBERISH_PRE.8
 msgctxt "STRINGS.GIBERISH_PRE.8"
 msgid "dulg"
-msgstr ""
+msgstr "дулґ"
 
 #. STRINGS.GIBERISH_PST.1
 msgctxt "STRINGS.GIBERISH_PST.1"
 msgid "le"
-msgstr ""
+msgstr "ле"
 
 #. STRINGS.GIBERISH_PST.2
 msgctxt "STRINGS.GIBERISH_PST.2"
 msgid "lor"
-msgstr ""
+msgstr "лор"
 
 #. STRINGS.GIBERISH_PST.3
 msgctxt "STRINGS.GIBERISH_PST.3"
 msgid "ed"
-msgstr ""
+msgstr "ед"
 
 #. STRINGS.GIBERISH_PST.4
 msgctxt "STRINGS.GIBERISH_PST.4"
 msgid "end"
-msgstr ""
+msgstr "енд"
 
 #. STRINGS.GOATKID_TALK_CLOSED.1
 msgctxt "STRINGS.GOATKID_TALK_CLOSED.1"
@@ -413841,7 +413841,7 @@ msgstr "У-у-У-у-У-у-У"
 #. STRINGS.SMOLDERINGITEM
 msgctxt "STRINGS.SMOLDERINGITEM"
 msgid "Smoldering"
-msgstr ""
+msgstr "Тліючий"
 
 #. STRINGS.SONGS.WALTER_GLOMMER_GUTS.lines.1.duration
 msgctxt "STRINGS.SONGS.WALTER_GLOMMER_GUTS.lines.1.duration"
@@ -428296,17 +428296,17 @@ msgstr "Прожито"
 #. STRINGS.UI.HUD.CRITTER_TRAITS.COMBAT
 msgctxt "STRINGS.UI.HUD.CRITTER_TRAITS.COMBAT"
 msgid "Scrappy"
-msgstr "Вар'ятність"
+msgstr "Задиристий"
 
 #. STRINGS.UI.HUD.CRITTER_TRAITS.CRAFTY
 msgctxt "STRINGS.UI.HUD.CRITTER_TRAITS.CRAFTY"
 msgid "Crafty"
-msgstr "Хитрість"
+msgstr "Хитрий"
 
 #. STRINGS.UI.HUD.CRITTER_TRAITS.PLAYFUL
 msgctxt "STRINGS.UI.HUD.CRITTER_TRAITS.PLAYFUL"
 msgid "Peppy"
-msgstr "Грайливість"
+msgstr "Грайливий"
 
 #. STRINGS.UI.HUD.CRITTER_TRAITS.WELLFED
 msgctxt "STRINGS.UI.HUD.CRITTER_TRAITS.WELLFED"
@@ -428546,32 +428546,32 @@ msgstr "Вибрати"
 #. STRINGS.UI.HUD.SPOILED
 msgctxt "STRINGS.UI.HUD.SPOILED"
 msgid "Spoiled"
-msgstr "Зіпсоване "
+msgstr "Зіпсований"
 
 #. STRINGS.UI.HUD.SPOILED_FROZEN
 msgctxt "STRINGS.UI.HUD.SPOILED_FROZEN"
 msgid "Melted"
-msgstr "Талий "
+msgstr "Розталий"
 
 #. STRINGS.UI.HUD.SPOILED_POWER
 msgctxt "STRINGS.UI.HUD.SPOILED_POWER"
 msgid "Decayed"
-msgstr ""
+msgstr "Згаслий"
 
 #. STRINGS.UI.HUD.STALE
 msgctxt "STRINGS.UI.HUD.STALE"
 msgid "Stale"
-msgstr "Несвіже"
+msgstr "Несвіжий"
 
 #. STRINGS.UI.HUD.STALE_FROZEN
 msgctxt "STRINGS.UI.HUD.STALE_FROZEN"
 msgid "Melting"
-msgstr "Танення "
+msgstr "Танучий"
 
 #. STRINGS.UI.HUD.STALE_POWER
 msgctxt "STRINGS.UI.HUD.STALE_POWER"
 msgid "Waning"
-msgstr ""
+msgstr "Згасаючий"
 
 #. STRINGS.UI.HUD.START
 msgctxt "STRINGS.UI.HUD.START"
@@ -428661,7 +428661,7 @@ msgstr "Розблокувати ціль"
 #. STRINGS.UI.HUD.WAXED
 msgctxt "STRINGS.UI.HUD.WAXED"
 msgid "Waxed"
-msgstr "Завощено"
+msgstr "Завощений"
 
 #. STRINGS.UI.HUD.WHACK
 msgctxt "STRINGS.UI.HUD.WHACK"
@@ -442361,7 +442361,7 @@ msgstr "В.А.Р.Б.І.С. СИНХРОНІЗУЄТЬСЯ..."
 #. STRINGS.WAXEDPLANT
 msgctxt "STRINGS.WAXEDPLANT"
 msgid "Scared Stiff"
-msgstr ""
+msgstr "Заціпенілий"
 
 #. STRINGS.WENDY_EPITAPHS.1
 msgctxt "STRINGS.WENDY_EPITAPHS.1"
@@ -442391,12 +442391,12 @@ msgstr "Промоклий"
 #. STRINGS.WET_PREFIX.DESICCANT
 msgctxt "STRINGS.WET_PREFIX.DESICCANT"
 msgid "Damp"
-msgstr ""
+msgstr "Відсирілий"
 
 #. STRINGS.WET_PREFIX.DESICCANT_FULL
 msgctxt "STRINGS.WET_PREFIX.DESICCANT_FULL"
 msgid "Saturated"
-msgstr ""
+msgstr "Насичений"
 
 #. STRINGS.WET_PREFIX.FOOD
 msgctxt "STRINGS.WET_PREFIX.FOOD"
@@ -442431,12 +442431,12 @@ msgstr "Слизький"
 #. STRINGS.WET_PREFIX.WETGOOP
 msgctxt "STRINGS.WET_PREFIX.WETGOOP"
 msgid "Very"
-msgstr "Дуже"
+msgstr "Розмокла"
 
 #. STRINGS.WET_PREFIX.WX78_FOODBRICK
 msgctxt "STRINGS.WET_PREFIX.WX78_FOODBRICK"
 msgid "Moistened"
-msgstr ""
+msgstr "Зволожений"
 
 #. STRINGS.WITHEREDITEM
 msgctxt "STRINGS.WITHEREDITEM"
