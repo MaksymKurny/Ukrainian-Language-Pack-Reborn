@@ -3,7 +3,7 @@ msgstr ""
 "Language: ua\n"
 "Project-Id-Version: ULP Reborn\n"
 "Language-Team: ULP Reborn Team\n"
-"PO-Revision-Date: 2026-11-02 13:15\n"
+"PO-Revision-Date: 2026-11-03 14:19\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0\n"
@@ -337786,7 +337786,7 @@ msgstr "Ожиноквітна броня"
 #. STRINGS.NAMES.ARMOR_ROCKY
 msgctxt "STRINGS.NAMES.ARMOR_ROCKY"
 msgid "Craggy Carapace"
-msgstr ""
+msgstr "Кам'янистий панцир"
 
 #. STRINGS.NAMES.ARMOR_SANITY
 msgctxt "STRINGS.NAMES.ARMOR_SANITY"
@@ -337876,17 +337876,17 @@ msgstr "Стародавній обеліск"
 #. STRINGS.NAMES.ATRIUM_RITUAL_ORGAN_BAT
 msgctxt "STRINGS.NAMES.ATRIUM_RITUAL_ORGAN_BAT"
 msgid "Blighted Larynx"
-msgstr ""
+msgstr "Пошесна гортань"
 
 #. STRINGS.NAMES.ATRIUM_RITUAL_ORGAN_ROCKY
 msgctxt "STRINGS.NAMES.ATRIUM_RITUAL_ORGAN_ROCKY"
 msgid "Blighted Claw"
-msgstr ""
+msgstr "Пошесна клешня"
 
 #. STRINGS.NAMES.ATRIUM_RITUAL_ORGAN_WORM
 msgctxt "STRINGS.NAMES.ATRIUM_RITUAL_ORGAN_WORM"
 msgid "Blighted Guts"
-msgstr ""
+msgstr "Пошесні тельбухи"
 
 #. STRINGS.NAMES.ATRIUM_RUBBLE
 msgctxt "STRINGS.NAMES.ATRIUM_RUBBLE"
@@ -338031,7 +338031,7 @@ msgstr "Кажанова бита"
 #. STRINGS.NAMES.BATBOSSCAVE
 msgctxt "STRINGS.NAMES.BATBOSSCAVE"
 msgid "Big Bat Cave"
-msgstr ""
+msgstr "Велика печера кажанів"
 
 #. STRINGS.NAMES.BATCAVE
 msgctxt "STRINGS.NAMES.BATCAVE"
@@ -338131,17 +338131,17 @@ msgstr "Приготоване кажаліскове крило"
 #. STRINGS.NAMES.BAT_BOSS
 msgctxt "STRINGS.NAMES.BAT_BOSS"
 msgid "Hound Batilisk"
-msgstr ""
+msgstr "Кажаліск-гончак"
 
 #. STRINGS.NAMES.BAT_BOSSCORPSEHAT
 msgctxt "STRINGS.NAMES.BAT_BOSSCORPSEHAT"
 msgid "Bat Hat"
-msgstr ""
+msgstr "Кажановий капелюх"
 
 #. STRINGS.NAMES.BAT_BOSS_SHADOW
 msgctxt "STRINGS.NAMES.BAT_BOSS_SHADOW"
 msgid "Blighted Hound Batilisk"
-msgstr ""
+msgstr "Пошесний кажаліск-гончак"
 
 #. STRINGS.NAMES.BEARDHAIR
 msgctxt "STRINGS.NAMES.BEARDHAIR"
@@ -339731,12 +339731,12 @@ msgstr "Чарлі"
 #. STRINGS.NAMES.CHARLIEARENA_SPIKE
 msgctxt "STRINGS.NAMES.CHARLIEARENA_SPIKE"
 msgid "Dreadstone Outcrop"
-msgstr ""
+msgstr "Жила лячнокаменю"
 
 #. STRINGS.NAMES.CHARLIEARENA_TELEPORTER
 msgctxt "STRINGS.NAMES.CHARLIEARENA_TELEPORTER"
 msgid "Chasm"
-msgstr ""
+msgstr "Провалля"
 
 #. STRINGS.NAMES.CHARLIERESIDUE
 msgctxt "STRINGS.NAMES.CHARLIERESIDUE"
@@ -339751,17 +339751,17 @@ msgstr "Тендітна троянда"
 #. STRINGS.NAMES.CHARLIE_BOSS
 msgctxt "STRINGS.NAMES.CHARLIE_BOSS"
 msgid "Shrouded Queen"
-msgstr ""
+msgstr "Сповита Королева"
 
 #. STRINGS.NAMES.CHARLIE_BOSS_PROJECTILE
 msgctxt "STRINGS.NAMES.CHARLIE_BOSS_PROJECTILE"
 msgid "Swarming Horror"
-msgstr ""
+msgstr "Роїстий кошмар"
 
 #. STRINGS.NAMES.CHARLIE_BOSS_RUNNER
 msgctxt "STRINGS.NAMES.CHARLIE_BOSS_RUNNER"
 msgid "Grim Harrier"
-msgstr ""
+msgstr "Тіньовик"
 
 #. STRINGS.NAMES.CHARLIE_HAND
 msgctxt "STRINGS.NAMES.CHARLIE_HAND"
@@ -339836,17 +339836,17 @@ msgstr "Фігура мурашиного лева"
 #. STRINGS.NAMES.CHESSPIECE_BATBOSS_SHADOW
 msgctxt "STRINGS.NAMES.CHESSPIECE_BATBOSS_SHADOW"
 msgid "Blighted Hound Batilisk Figure"
-msgstr ""
+msgstr "Фігура пошесного кажаліска-гончака"
 
 #. STRINGS.NAMES.CHESSPIECE_BATBOSS_SHADOW_BUILDER
 msgctxt "STRINGS.NAMES.CHESSPIECE_BATBOSS_SHADOW_BUILDER"
 msgid "Blighted Hound Batilisk Figure"
-msgstr ""
+msgstr "Фігура пошесного кажаліска-гончака"
 
 #. STRINGS.NAMES.CHESSPIECE_BATBOSS_SHADOW_SKETCH
 msgctxt "STRINGS.NAMES.CHESSPIECE_BATBOSS_SHADOW_SKETCH"
 msgid "Blighted Hound Batilisk Figure Sketch"
-msgstr ""
+msgstr "Замальовка «Фігура пошесного кажаліска-гончака»"
 
 #. STRINGS.NAMES.CHESSPIECE_BEARGER
 msgctxt "STRINGS.NAMES.CHESSPIECE_BEARGER"
@@ -339956,17 +339956,17 @@ msgstr "Замальовка «Фігура єнотокота»"
 #. STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS
 msgctxt "STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS"
 msgid "Shrouded Queen Figure"
-msgstr ""
+msgstr "Фігура сповитої Королеви"
 
 #. STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS_BUILDER
 msgctxt "STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS_BUILDER"
 msgid "Shrouded Queen Figure"
-msgstr ""
+msgstr "Фігура сповитої Королеви"
 
 #. STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS_SKETCH
 msgctxt "STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS_SKETCH"
 msgid "Shrouded Queen Figure Sketch"
-msgstr ""
+msgstr "Замальовка «Фігура сповитої Королеви»"
 
 #. STRINGS.NAMES.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.NAMES.CHESSPIECE_CLAYHOUND"
@@ -340261,17 +340261,17 @@ msgstr "Люлька з бульбашками"
 #. STRINGS.NAMES.CHESSPIECE_ROCKYBOSS_SHADOW
 msgctxt "STRINGS.NAMES.CHESSPIECE_ROCKYBOSS_SHADOW"
 msgid "Blighted Rock Master Figure"
-msgstr ""
+msgstr "Фігура пошесного кам'яного владаря"
 
 #. STRINGS.NAMES.CHESSPIECE_ROCKYBOSS_SHADOW_BUILDER
 msgctxt "STRINGS.NAMES.CHESSPIECE_ROCKYBOSS_SHADOW_BUILDER"
 msgid "Blighted Rock Master Figure"
-msgstr ""
+msgstr "Фігура пошесного кам'яного владаря"
 
 #. STRINGS.NAMES.CHESSPIECE_ROCKYBOSS_SHADOW_SKETCH
 msgctxt "STRINGS.NAMES.CHESSPIECE_ROCKYBOSS_SHADOW_SKETCH"
 msgid "Blighted Rock Master Figure Sketch"
-msgstr ""
+msgstr "Замальовка «Фігура пошесного кам'яного владаря»"
 
 #. STRINGS.NAMES.CHESSPIECE_ROOK
 msgctxt "STRINGS.NAMES.CHESSPIECE_ROOK"
@@ -340301,17 +340301,17 @@ msgstr "Замальовка «Фігура пащекрига»"
 #. STRINGS.NAMES.CHESSPIECE_SHROUDEN
 msgctxt "STRINGS.NAMES.CHESSPIECE_SHROUDEN"
 msgid "Umbral Abomination Figure"
-msgstr ""
+msgstr "Фігура тіньового потворища"
 
 #. STRINGS.NAMES.CHESSPIECE_SHROUDEN_BUILDER
 msgctxt "STRINGS.NAMES.CHESSPIECE_SHROUDEN_BUILDER"
 msgid "Umbral Abomination Figure"
-msgstr ""
+msgstr "Фігура тіньового потворища"
 
 #. STRINGS.NAMES.CHESSPIECE_SHROUDEN_SKETCH
 msgctxt "STRINGS.NAMES.CHESSPIECE_SHROUDEN_SKETCH"
 msgid "Umbral Abomination Figure Sketch"
-msgstr ""
+msgstr "Замальовка «Фігура тіньового потворища»"
 
 #. STRINGS.NAMES.CHESSPIECE_STALKER
 msgctxt "STRINGS.NAMES.CHESSPIECE_STALKER"
@@ -340416,17 +340416,17 @@ msgstr "Фігура величезного глибинного черва"
 #. STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW
 msgctxt "STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW"
 msgid "Blighted Great Depths Worm Figure"
-msgstr ""
+msgstr "Фігура пошесного величезного глибинного черва"
 
 #. STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW_BUILDER
 msgctxt "STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW_BUILDER"
 msgid "Blighted Great Depths Worm Figure"
-msgstr ""
+msgstr "Фігура пошесного величезного глибинного черва"
 
 #. STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW_SKETCH
 msgctxt "STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW_SKETCH"
 msgid "Blighted Great Depths Worm Figure Sketch"
-msgstr ""
+msgstr "Замальовка «Фігура пошесного величезного глибинного черва»"
 
 #. STRINGS.NAMES.CHESSPIECE_YOTD
 msgctxt "STRINGS.NAMES.CHESSPIECE_YOTD"
@@ -343121,7 +343121,7 @@ msgstr "Бджола-вбивця"
 #. STRINGS.NAMES.KING_CANE
 msgctxt "STRINGS.NAMES.KING_CANE"
 msgid "King's Staff"
-msgstr ""
+msgstr "Жезл Короля"
 
 #. STRINGS.NAMES.KITCOONDECOR1
 msgctxt "STRINGS.NAMES.KITCOONDECOR1"
@@ -343996,7 +343996,7 @@ msgstr "Маска коваля"
 #. STRINGS.NAMES.MASK_CHARLIE_BOSSHAT
 msgctxt "STRINGS.NAMES.MASK_CHARLIE_BOSSHAT"
 msgid "Queen's Visage"
-msgstr ""
+msgstr "Лик Королеви"
 
 #. STRINGS.NAMES.MASK_DOLLBROKENHAT
 msgctxt "STRINGS.NAMES.MASK_DOLLBROKENHAT"
@@ -347306,7 +347306,7 @@ msgstr "Пшениця"
 #. STRINGS.NAMES.QUEEN_TORCH
 msgctxt "STRINGS.NAMES.QUEEN_TORCH"
 msgid "Queen's Torch"
-msgstr ""
+msgstr "Смолоскип Королеви"
 
 #. STRINGS.NAMES.RABBIT
 msgctxt "STRINGS.NAMES.RABBIT"
@@ -347476,7 +347476,7 @@ msgstr "Літній свіжилет"
 #. STRINGS.NAMES.REGEN_BAT_BOSSCORPSEHAT
 msgctxt "STRINGS.NAMES.REGEN_BAT_BOSSCORPSEHAT"
 msgid "Bat Hat"
-msgstr ""
+msgstr "Кажановий капелюх"
 
 #. STRINGS.NAMES.RELIC
 msgctxt "STRINGS.NAMES.RELIC"
@@ -347581,7 +347581,7 @@ msgstr "Кам'яний лобстер"
 #. STRINGS.NAMES.ROCKY_BOSS
 msgctxt "STRINGS.NAMES.ROCKY_BOSS"
 msgid "Rock Master"
-msgstr ""
+msgstr "Кам'яний владар"
 
 #. STRINGS.NAMES.ROCKY_BOSS_BOULDER
 msgctxt "STRINGS.NAMES.ROCKY_BOSS_BOULDER"
@@ -347591,7 +347591,7 @@ msgstr "Брила"
 #. STRINGS.NAMES.ROCKY_BOSS_SHADOW
 msgctxt "STRINGS.NAMES.ROCKY_BOSS_SHADOW"
 msgid "Blighted Rock Master"
-msgstr ""
+msgstr "Пошесний кам'яний владар"
 
 #. STRINGS.NAMES.ROCKY_BOULDER
 msgctxt "STRINGS.NAMES.ROCKY_BOULDER"
@@ -348036,7 +348036,7 @@ msgstr "Тіньова рука"
 #. STRINGS.NAMES.SHADOWHAND_SHROUDED
 msgctxt "STRINGS.NAMES.SHADOWHAND_SHROUDED"
 msgid "Horror Hand"
-msgstr ""
+msgstr "Рука жаху"
 
 #. STRINGS.NAMES.SHADOWHEART
 msgctxt "STRINGS.NAMES.SHADOWHEART"
@@ -348256,22 +348256,22 @@ msgstr "Грибна шкіра"
 #. STRINGS.NAMES.SHROUDEN
 msgctxt "STRINGS.NAMES.SHROUDEN"
 msgid "Umbral Abomination"
-msgstr ""
+msgstr "Тіньове потворище"
 
 #. STRINGS.NAMES.SHROUDEN_ALLEGIANCE
 msgctxt "STRINGS.NAMES.SHROUDEN_ALLEGIANCE"
 msgid "Shrouden"
-msgstr ""
+msgstr "Повивач"
 
 #. STRINGS.NAMES.SHROUDEN_OTHER
 msgctxt "STRINGS.NAMES.SHROUDEN_OTHER"
 msgid "The Other"
-msgstr ""
+msgstr "Інший"
 
 #. STRINGS.NAMES.SHROUDEN_VOIDMASQUE
 msgctxt "STRINGS.NAMES.SHROUDEN_VOIDMASQUE"
 msgid "Tenebrau"
-msgstr ""
+msgstr "Пітьма"
 
 #. STRINGS.NAMES.SIESTAHUT
 msgctxt "STRINGS.NAMES.SIESTAHUT"
@@ -351346,7 +351346,7 @@ msgstr "Величезний глибинний черв"
 #. STRINGS.NAMES.WORM_BOSS_SHADOW
 msgctxt "STRINGS.NAMES.WORM_BOSS_SHADOW"
 msgid "Blighted Great Depths Worm"
-msgstr ""
+msgstr "Пошесний величезний глибинний черв"
 
 #. STRINGS.NAMES.WORM_DIRT
 msgctxt "STRINGS.NAMES.WORM_DIRT"
