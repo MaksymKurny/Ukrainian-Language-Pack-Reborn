@@ -3,7 +3,7 @@ msgstr ""
 "Language: ua\n"
 "Project-Id-Version: ULP Reborn\n"
 "Language-Team: ULP Reborn Team\n"
-"PO-Revision-Date: 2026-11-03 14:19\n"
+"PO-Revision-Date: 2026-11-16 11:44\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0\n"
@@ -216076,7 +216076,7 @@ msgstr "Від дивної пшикалки шкірі приємно... і г�
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_GRUE_NOCHARLIE
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_GRUE_NOCHARLIE"
 msgid "Show yourself!"
-msgstr ""
+msgstr "Покажися!"
 
 #. STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_GRUE_NOCHARLIE_ATTACK
 msgctxt "STRINGS.CHARACTERS.WOLFGANG.ANNOUNCE_GRUE_NOCHARLIE_ATTACK"
@@ -282741,7 +282741,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OASISLAKE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OASISLAKE.GENERIC"
 msgid "Swimming gives me wet imp smell."
-msgstr ""
+msgstr "Після плавання я — наче мокре бісеня."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHABLEFLOTSAM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHABLEFLOTSAM"
@@ -286231,7 +286231,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPOILED_FOOD.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPOILED_FOOD.GENERIC"
 msgid "Oh jeez, oh yuck, a pile of muck."
-msgstr ""
+msgstr "Ой леле, гидота — гнила ця смакота."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPORE_MEDIUM.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPORE_MEDIUM.GENERIC"
@@ -287061,7 +287061,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TREASURECHEST.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TREASURECHEST.GENERIC"
 msgid "A storage place for bits and bobs."
-msgstr ""
+msgstr "Сховище для всяких штучок-дрючок."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TREASURECHEST.UPGRADED_STACKSIZE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TREASURECHEST.UPGRADED_STACKSIZE"
@@ -288371,12 +288371,12 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WANDERINGTRADER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WANDERINGTRADER.GENERIC"
 msgid "Whoa, uncanny beefalo!"
-msgstr ""
+msgstr "Овва, чудернацький біфало!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WANDERINGTRADER.REVEALED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WANDERINGTRADER.REVEALED"
 msgid "This guy's disguise! Hyuyu!"
-msgstr ""
+msgstr "Ну й замаскувався! Ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WARDROBE.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WARDROBE.BURNING"
@@ -368951,7 +368951,7 @@ msgstr "Залишайтеся холодним, немов мрець."
 #. STRINGS.SKIN_DESCRIPTIONS.amulet_blue_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_blue_shadow"
 msgid "Send a nice chill down your spine."
-msgstr ""
+msgstr "Від нього добряче продирає мороз поза шкірою."
 
 #. STRINGS.SKIN_DESCRIPTIONS.amulet_green_relic
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_green_relic"
@@ -368961,7 +368961,7 @@ msgstr "Будуйте на славу, витрачаючи вполовину 
 #. STRINGS.SKIN_DESCRIPTIONS.amulet_green_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_green_shadow"
 msgid "Build with a little bite."
-msgstr ""
+msgstr "Споруджуйте одним махом."
 
 #. STRINGS.SKIN_DESCRIPTIONS.amulet_orange_planet
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_orange_planet"
@@ -368976,7 +368976,7 @@ msgstr "Що під руку трапиться, те й візьметься."
 #. STRINGS.SKIN_DESCRIPTIONS.amulet_orange_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_orange_shadow"
 msgid "You will have your due."
-msgstr ""
+msgstr "Ви ще своє отримаєте."
 
 #. STRINGS.SKIN_DESCRIPTIONS.amulet_purple_relic
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_purple_relic"
@@ -368986,7 +368986,7 @@ msgstr "Іноді щоб щось знайти, спершу потрібно �
 #. STRINGS.SKIN_DESCRIPTIONS.amulet_purple_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_purple_shadow"
 msgid "Let the shadows in... for a while."
-msgstr ""
+msgstr "Впустіть тіні... на деякий час."
 
 #. STRINGS.SKIN_DESCRIPTIONS.amulet_red_heart
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_red_heart"
@@ -369011,7 +369011,7 @@ msgstr "Якісь троянди розквітають знов, якісь в
 #. STRINGS.SKIN_DESCRIPTIONS.amulet_red_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_red_shadow"
 msgid "A piece with undying style."
-msgstr ""
+msgstr "Невмируща прикраса, що не вийде з моди."
 
 #. STRINGS.SKIN_DESCRIPTIONS.amulet_yellow_an
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_yellow_an"
@@ -369036,7 +369036,7 @@ msgstr "Надія завжди є."
 #. STRINGS.SKIN_DESCRIPTIONS.amulet_yellow_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.amulet_yellow_shadow"
 msgid "For the dark days ahead."
-msgstr ""
+msgstr "На випадок, коли настануть темні часи."
 
 #. STRINGS.SKIN_DESCRIPTIONS.anchor_nautical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.anchor_nautical"
@@ -369146,7 +369146,7 @@ msgstr "Тривкий та незламний. Настільки ж грізн
 #. STRINGS.SKIN_DESCRIPTIONS.armor_ruins_chess
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.armor_ruins_chess"
 msgid "A sturdy armor is simply good strategy."
-msgstr ""
+msgstr "Міцний обладунок — це цілком добротна стратегія."
 
 #. STRINGS.SKIN_DESCRIPTIONS.armor_ruins_leaf
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.armor_ruins_leaf"
@@ -369201,12 +369201,12 @@ msgstr "Такий же теплий, як оригінальний жилет, 
 #. STRINGS.SKIN_DESCRIPTIONS.armor_voidcloth_ribbon
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.armor_voidcloth_ribbon"
 msgid "Show them how crafty you are."
-msgstr ""
+msgstr "Нехай усі бачать, з якого місця у вас руки ростуть."
 
 #. STRINGS.SKIN_DESCRIPTIONS.armor_voidcloth_spooky
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.armor_voidcloth_spooky"
 msgid "An evil piece loved down to the evil threads."
-msgstr ""
+msgstr "Хоч і лихе, та зношене до дір із любов'ю."
 
 #. STRINGS.SKIN_DESCRIPTIONS.armor_wood_fangedcollar
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.armor_wood_fangedcollar"
@@ -369426,7 +369426,7 @@ msgstr "Тримайте її язик за зубами, постійно го�
 #. STRINGS.SKIN_DESCRIPTIONS.backpack_minigolf
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.backpack_minigolf"
 msgid "For club members only."
-msgstr ""
+msgstr "Виключно для членів клубу."
 
 #. STRINGS.SKIN_DESCRIPTIONS.backpack_mushy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.backpack_mushy"
@@ -369486,7 +369486,7 @@ msgstr "Пахніть трояндами... навіть у борсукове�
 #. STRINGS.SKIN_DESCRIPTIONS.beargervest_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beargervest_shadow"
 msgid "Stay cozy in luxurious fur. The Bearger doesn't need it anymore."
-msgstr ""
+msgstr "Відчуйте тепло розкішного хутра. Борсуковедмедю воно все одно тепер ні до чого."
 
 #. STRINGS.SKIN_DESCRIPTIONS.beargervest_yule
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.beargervest_yule"
@@ -370071,7 +370071,7 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.boat_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.boat_shadow"
 msgid "Where it sails, the water runs red."
-msgstr ""
+msgstr "Він завжди лишає по собі кривавий слід на воді."
 
 #. STRINGS.SKIN_DESCRIPTIONS.boat_shadow_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.boat_shadow_item"
@@ -370296,47 +370296,47 @@ msgstr "Навіть міжпросторова аномалія не в змо�
 #. STRINGS.SKIN_DESCRIPTIONS.body_minigolf_black
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_minigolf_black"
 msgid "Be dashingly dressed while you putter around."
-msgstr ""
+msgstr "Вбирайтеся стильно навіть для неквапливих ігор."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_minigolf_blacktie
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_minigolf_blacktie"
 msgid "Be dashingly dressed while you putter around."
-msgstr ""
+msgstr "Вбирайтеся стильно навіть для неквапливих ігор."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_minigolf_mint
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_minigolf_mint"
 msgid "Be dashingly dressed while you putter around."
-msgstr ""
+msgstr "Вбирайтеся стильно навіть для неквапливих ігор."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_minigolf_minttie
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_minigolf_minttie"
 msgid "Be dashingly dressed while you putter around."
-msgstr ""
+msgstr "Вбирайтеся стильно навіть для неквапливих ігор."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_minigolf_red
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_minigolf_red"
 msgid "Be dashingly dressed while you putter around."
-msgstr ""
+msgstr "Вбирайтеся стильно навіть для неквапливих ігор."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_minigolf_redtie
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_minigolf_redtie"
 msgid "Be dashingly dressed while you putter around."
-msgstr ""
+msgstr "Вбирайтеся стильно навіть для неквапливих ігор."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_onepiece2_beach
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_onepiece2_beach"
 msgid "Spring into some beach day action!"
-msgstr ""
+msgstr "Пірнайте у відпочинок на пляжі з головою!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_onepiece3_beach
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_onepiece3_beach"
 msgid "Spring into some beach day action!"
-msgstr ""
+msgstr "Пірнайте у відпочинок на пляжі з головою!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_onepiece_beach
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_onepiece_beach"
 msgid "Spring into some beach day action!"
-msgstr ""
+msgstr "Пірнайте у відпочинок на пляжі з головою!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_oni_001
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_oni_001"
@@ -370481,17 +370481,17 @@ msgstr "Вигляд цієї куртки не тільки зачепить с
 #. STRINGS.SKIN_DESCRIPTIONS.body_sailor2_beach
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_sailor2_beach"
 msgid "It's your solemn duty to have some seaside fun!"
-msgstr ""
+msgstr "Розважатися на морі — це ваш урочистий обов'язок!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_sailor3_beach
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_sailor3_beach"
 msgid "It's your solemn duty to have some seaside fun!"
-msgstr ""
+msgstr "Розважатися на морі — це ваш урочистий обов'язок!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_sailor_beach
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_sailor_beach"
 msgid "It's your solemn duty to have some seaside fun!"
-msgstr ""
+msgstr "Розважатися на морі — це ваш урочистий обов'язок!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_silkbrocade_coat_green_laurel
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_silkbrocade_coat_green_laurel"
@@ -370541,17 +370541,17 @@ msgstr "Купайтеся у світлі молодого місяця з ко
 #. STRINGS.SKIN_DESCRIPTIONS.body_skirt2_beach
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_skirt2_beach"
 msgid "I fear you'll never find a finer frock for festive fun and frivolous frolicking."
-msgstr ""
+msgstr "Боюся, ви ніколи не купите кращої купальної сукні, хоч їх у світі купа."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_skirt3_beach
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_skirt3_beach"
 msgid "I fear you'll never find a finer frock for festive fun and frivolous frolicking."
-msgstr ""
+msgstr "Боюся, ви ніколи не купите кращої купальної сукні, хоч їх у світі купа."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_skirt_beach
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_skirt_beach"
 msgid "I fear you'll never find a finer frock for festive fun and frivolous frolicking."
-msgstr ""
+msgstr "Боюся, ви ніколи не купите кращої купальної сукні, хоч їх у світі купа."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_sleepgown_blue_ice
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_sleepgown_blue_ice"
@@ -370851,7 +370851,7 @@ msgstr "Йдете досліджувати незвідану природу �
 #. STRINGS.SKIN_DESCRIPTIONS.body_walter_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_walter_pirate"
 msgid "Go from Pioneer to Buccaneer! Just don't forget that red scarf!"
-msgstr ""
+msgstr "Киньте те скаутство та йдіть у пірати! Лишень про червону хустку не забудьте!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_walter_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_walter_rose"
@@ -370921,7 +370921,7 @@ msgstr "Ключем до спостереження за світом прир�
 #. STRINGS.SKIN_DESCRIPTIONS.body_wanda_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wanda_pirate"
 msgid "Frayed to pirate perfection."
-msgstr ""
+msgstr "Піратське життя добряче його потріпало."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wanda_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wanda_rose"
@@ -370941,12 +370941,12 @@ msgstr "Підігнана сукня для найкомфортнішої ро
 #. STRINGS.SKIN_DESCRIPTIONS.body_wanda_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wanda_survivor"
 msgid "Surviving is hard work, so roll up your sleeves and get to it."
-msgstr ""
+msgstr "Виживання — нелегка праця, тож час засукати рукава й братися до роботи."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wanda_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wanda_victorian"
 msgid "A dress for the journey and the destination."
-msgstr ""
+msgstr "Сукня для подорожі та для місця призначення."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wanda_western
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wanda_western"
@@ -370956,7 +370956,7 @@ msgstr "Цей комбінезон призначений для серйозн
 #. STRINGS.SKIN_DESCRIPTIONS.body_wanda_whiterabbit
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wanda_whiterabbit"
 msgid "Better late than poorly dressed."
-msgstr ""
+msgstr "Ліпше спізнитися, ніж погано вдягнутися."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wanda_yule
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wanda_yule"
@@ -372391,7 +372391,7 @@ msgstr "Стовбур, прикрашений молодим листям."
 #. STRINGS.SKIN_DESCRIPTIONS.body_wormwood_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wormwood_pirate"
 msgid "With luxurious jumbo pearls for when subtlety is not an option."
-msgstr ""
+msgstr "Оздоблений величезними розкішними перлинами — для тих, кому є що показати."
 
 #. STRINGS.SKIN_DESCRIPTIONS.body_wormwood_pumpkin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.body_wormwood_pumpkin"
@@ -372921,7 +372921,7 @@ msgstr "Їсти на ходу небезпечно для здоров'я."
 #. STRINGS.SKIN_DESCRIPTIONS.cane_chess
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.cane_chess"
 msgid "Make some rookie moves."
-msgstr ""
+msgstr "Зробіть свій хід у цій партії."
 
 #. STRINGS.SKIN_DESCRIPTIONS.cane_harlequin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.cane_harlequin"
@@ -373071,7 +373071,7 @@ msgstr "Що може бути більш авангардним, ніж збе�
 #. STRINGS.SKIN_DESCRIPTIONS.coldfirepit_chess
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.coldfirepit_chess"
 msgid "Stay frosty under pressure."
-msgstr ""
+msgstr "Тримайте голову холодною навіть під тиском."
 
 #. STRINGS.SKIN_DESCRIPTIONS.coldfirepit_flower
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.coldfirepit_flower"
@@ -373361,12 +373361,12 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chessblack
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chessblack"
 msgid "Place your post wisely."
-msgstr ""
+msgstr "Розміщуйте свої фігури з розумом."
 
 #. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chessblack2
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chessblack2"
 msgid "Place your post wisely."
-msgstr ""
+msgstr "Розміщуйте свої фігури з розумом."
 
 #. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chessblack2_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chessblack2_item"
@@ -373376,7 +373376,7 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chessblack3
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chessblack3"
 msgid "Place your post wisely."
-msgstr ""
+msgstr "Розміщуйте свої фігури з розумом."
 
 #. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chessblack3_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chessblack3_item"
@@ -373391,12 +373391,12 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chesswhite
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chesswhite"
 msgid "Place your post wisely."
-msgstr ""
+msgstr "Розміщуйте свої фігури з розумом."
 
 #. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chesswhite2
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chesswhite2"
 msgid "Place your post wisely."
-msgstr ""
+msgstr "Розміщуйте свої фігури з розумом."
 
 #. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chesswhite2_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chesswhite2_item"
@@ -373406,7 +373406,7 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chesswhite3
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chesswhite3"
 msgid "Place your post wisely."
-msgstr ""
+msgstr "Розміщуйте свої фігури з розумом."
 
 #. STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chesswhite3_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.dock_woodposts_chesswhite3_item"
@@ -373996,7 +373996,7 @@ msgstr "Маленький святковий стіл, який нагадув�
 #. STRINGS.SKIN_DESCRIPTIONS.endtable_chess
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.endtable_chess"
 msgid "A table fit for a knight, but not for chess."
-msgstr ""
+msgstr "Столик, гідний для коня, та не для шахів."
 
 #. STRINGS.SKIN_DESCRIPTIONS.endtable_dragonfly
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.endtable_dragonfly"
@@ -374361,7 +374361,7 @@ msgstr "Зручне взуття для стильного туриста."
 #. STRINGS.SKIN_DESCRIPTIONS.feet_walter_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_walter_pirate"
 msgid "Sport the spiffiest seafaring shoes!"
-msgstr ""
+msgstr "Похизуйтеся найошатнішими моряцькими черевиками!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_walter_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_walter_survivor"
@@ -374396,7 +374396,7 @@ msgstr "Небагато пішло шляхом місячної віщунки
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wanda_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wanda_pirate"
 msgid "For the deck or dance floor."
-msgstr ""
+msgstr "Для палуби або танцювального майданчика."
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wanda_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wanda_rose"
@@ -374406,17 +374406,17 @@ msgstr "Додайте весняної пружності своїй ході."
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wanda_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wanda_survivor"
 msgid "For long walks on deserted shores."
-msgstr ""
+msgstr "Для тривалих походеньок безлюдними берегами."
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wanda_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wanda_victorian"
 msgid "Stand up to the dirt and dust."
-msgstr ""
+msgstr "Встійте проти грязюки й піску."
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wanda_whiterabbit
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wanda_whiterabbit"
 msgid "For those always running late."
-msgstr ""
+msgstr "Для тих, хто завжди спізнюється."
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_warly_candyman
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_warly_candyman"
@@ -374871,7 +374871,7 @@ msgstr "Ці чудернацькі туристичні черевики зро
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wolfgang_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wolfgang_pirate"
 msgid "A swash-buckle is like a regular buckle, but with more roguish flair."
-msgstr "Харцизяка — це як звичайний харциз, тільки більш злодійкуватий."
+msgstr "Паливода — це як звичайний палій, тільки більш злодійкуватий."
 
 #. STRINGS.SKIN_DESCRIPTIONS.feet_wolfgang_yule
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.feet_wolfgang_yule"
@@ -375221,7 +375221,7 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.firepit_chess
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_chess"
 msgid "Worth the sacrifice."
-msgstr ""
+msgstr "Таке й не шкода розміняти."
 
 #. STRINGS.SKIN_DESCRIPTIONS.firepit_fanged
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.firepit_fanged"
@@ -375336,7 +375336,7 @@ msgstr "У пожеж не було жодного шансу."
 #. STRINGS.SKIN_DESCRIPTIONS.firesuppressor_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.firesuppressor_shadow"
 msgid "Extinguish the life of any flame."
-msgstr ""
+msgstr "Гасіть життя в будь-якому полум'ї."
 
 #. STRINGS.SKIN_DESCRIPTIONS.fishbox_nautical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.fishbox_nautical"
@@ -375591,7 +375591,7 @@ msgstr "Мистецьки руйнуйте старі концепції, аб�
 #. STRINGS.SKIN_DESCRIPTIONS.greenstaff_chess
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.greenstaff_chess"
 msgid "Dismantle with distinction."
-msgstr ""
+msgstr "Розбирайте з честю."
 
 #. STRINGS.SKIN_DESCRIPTIONS.greenstaff_clockwork
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.greenstaff_clockwork"
@@ -375791,7 +375791,7 @@ msgstr "З цими браслетами увага люду буде прику
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wanda_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wanda_pirate"
 msgid "Hard-working gloves with a playful touch."
-msgstr ""
+msgstr "Грайливі рукавиці для працьовитих рук."
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wanda_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wanda_rose"
@@ -375811,12 +375811,12 @@ msgstr "Вони зроблені з напрочуд тонкого матер�
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wanda_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wanda_survivor"
 msgid "One timezone for home, and one for where ever you're stranded."
-msgstr ""
+msgstr "Один годинник показує час удома, інший — час там, куди вас закине доля."
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wanda_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wanda_victorian"
 msgid "Travel may get dirty, your hands needn't."
-msgstr ""
+msgstr "У дорозі, либонь, можна забруднитися, та ліпше не бруднити руки."
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wanda_western
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wanda_western"
@@ -376431,7 +376431,7 @@ msgstr "Вони м'яко колихаються на теплому весня
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_pirate"
 msgid "Made with genuine algal blooms."
-msgstr ""
+msgstr "Створені з натуральних водоростей."
 
 #. STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_pumpkin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hand_wormwood_pumpkin"
@@ -376851,7 +376851,7 @@ msgstr "Який невдаха!"
 #. STRINGS.SKIN_DESCRIPTIONS.hivehat_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hivehat_shadow"
 msgid "They shall kneel before you."
-msgstr ""
+msgstr "Усі падуть перед вами на коліна."
 
 #. STRINGS.SKIN_DESCRIPTIONS.hutch_fantasy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.hutch_fantasy"
@@ -376996,7 +376996,7 @@ msgstr "Світ — це ваш сад, і він готовий до гаря�
 #. STRINGS.SKIN_DESCRIPTIONS.krampus_sack_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.krampus_sack_shadow"
 msgid "Reap what others have sown!"
-msgstr ""
+msgstr "Пожинайте плоди чужої праці!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.krampus_sack_voidbag
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.krampus_sack_voidbag"
@@ -377151,32 +377151,32 @@ msgstr "Ці штани буквально промовляють: «Купіт�
 #. STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_pants_black
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_pants_black"
 msgid "No one would ever suggest these pants are sub-par."
-msgstr ""
+msgstr "До цих штанів напрочуд добре пасують гольфи."
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_pants_purple
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_pants_purple"
 msgid "No one would ever suggest these pants are sub-par."
-msgstr ""
+msgstr "До цих штанів напрочуд добре пасують гольфи."
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_pants_red
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_pants_red"
 msgid "No one would ever suggest these pants are sub-par."
-msgstr ""
+msgstr "До цих штанів напрочуд добре пасують гольфи."
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_skirt_black
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_skirt_black"
 msgid "Check those socks, there might be a hole-in-one."
-msgstr ""
+msgstr "З такими шкарпетками м'яч завжди лишатиметься на вашому полі."
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_skirt_mint
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_skirt_mint"
 msgid "Check those socks, there might be a hole-in-one."
-msgstr ""
+msgstr "З такими шкарпетками м'яч завжди лишатиметься на вашому полі."
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_skirt_red
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_minigolf_skirt_red"
 msgid "Check those socks, there might be a hole-in-one."
-msgstr ""
+msgstr "З такими шкарпетками м'яч завжди лишатиметься на вашому полі."
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_oni
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_oni"
@@ -377491,7 +377491,7 @@ msgstr "Найбільша їхня перевага — на них не вид
 #. STRINGS.SKIN_DESCRIPTIONS.legs_walter_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_walter_pirate"
 msgid "Keep your sea legs looking smart!"
-msgstr ""
+msgstr "У цих ошатних штанах море ляже до ваших ніг!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.legs_walter_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.legs_walter_rose"
@@ -379026,7 +379026,7 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.mast_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_shadow"
 msgid "A sail dyed blood-red."
-msgstr ""
+msgstr "Вітрило, забарвлене в криваво-червоний колір."
 
 #. STRINGS.SKIN_DESCRIPTIONS.mast_shadow_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mast_shadow_item"
@@ -379131,7 +379131,7 @@ msgstr "Та в тих печерах повно золота!"
 #. STRINGS.SKIN_DESCRIPTIONS.minisign_cawnival
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_cawnival"
 msgid "Corvus Goodfeather humbly suggests writing a nice review for the Cawnival."
-msgstr ""
+msgstr "Крук Кар-р-рлеоне шанобливо радить написати схвальний відгук про Кар-р-рнавал."
 
 #. STRINGS.SKIN_DESCRIPTIONS.minisign_cawnival_drawn
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.minisign_cawnival_drawn"
@@ -379331,7 +379331,7 @@ msgstr "Цей лампогриб був створений для того, а�
 #. STRINGS.SKIN_DESCRIPTIONS.mushroom_light_cawnival
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light_cawnival"
 msgid "Eggsquisite illumination."
-msgstr ""
+msgstr "Світильник, який усе ж вартий виїденого яйця."
 
 #. STRINGS.SKIN_DESCRIPTIONS.mushroom_light_festive
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mushroom_light_festive"
@@ -379356,7 +379356,7 @@ msgstr "Ця скриня містить дарунок, з яким ви змо
 #. STRINGS.SKIN_DESCRIPTIONS.mysterybox_beach
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mysterybox_beach"
 msgid "This chest contains a bounty of beachwear."
-msgstr ""
+msgstr "Ця скриня містить ціле багатство пляжного одягу."
 
 #. STRINGS.SKIN_DESCRIPTIONS.mysterybox_beards
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.mysterybox_beards"
@@ -379626,7 +379626,7 @@ msgstr "Ця скриня містить усі надбання зі скрин
 #. STRINGS.SKIN_DESCRIPTIONS.pack_ancient2_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ancient2_items"
 msgid "This Archaic Artifacts Chest contains all the belongings skins from the Intrepid Chest, the Cottage Cache Chest, Part II, the Gardener Chest, and the Swashbuckler Loot Chest."
-msgstr "Ця скриня містить усі надбання з безбоязної скрині, скрині «Дачні запаси. Частина II», садової скрині та скрині «Здобич харцизяк»."
+msgstr "Ця скриня містить усі надбання з безбоязної скрині, скрині «Дачні запаси. Частина II», садової скрині та скрині «Здобич паливод»."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_ancient3
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_ancient3"
@@ -379706,7 +379706,7 @@ msgstr "Ця скриня містить наступні надбання: ка
 #. STRINGS.SKIN_DESCRIPTIONS.pack_cawnival_items2
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_cawnival_items2"
 msgid "This Cawnival Mini-Golf Chest contains a set of mini-golf themed clothing and item skins."
-msgstr ""
+msgstr "Ця скриня містить набір предметів гардероба та надбань для мінігольфа."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_character_wanda
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_character_wanda"
@@ -379731,12 +379731,12 @@ msgstr "Ця скриня містить ігрову персонажку — �
 #. STRINGS.SKIN_DESCRIPTIONS.pack_chess_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_chess_items"
 msgid "This Chess Chest contains the following skin items: Cavalier Grand Suit, Cold Gambit Firepit, Black Rook Post, Black Pawn Post, Black Bishop Post, White Rook Post, White Pawn Post, White Bishop Post, Knightstand, Pawnfire, Gallant Deconstructor, Castle Cane, Castle Explorer, King's Science Machine, Royal Alchemy Engine, Chess Club, Cavalier Crown, Royal Spear, Fiery Royal Staff, Icy Queen Staff, Piecemaker, Blazing Bishop Staff, Bishop's Moon Staff, Royal Position Marker, Royal Advance Staff, Royal Pavilion, and Knight's Thurible."
-msgstr ""
+msgstr "Ця скриня містить наступні надбання: ладний обладунок кавалериста, холодне гамбітне вогнище, чорну й білу туру-стовпа; чорного й білого пішака-стовпа; чорного й білого слона-стовпа; кінський столик, пішовогнище, доблесного руйнівника, замковий ціпок, замкового дослідника, наукову машину короля, королівський алхімічний рушій, шахову палицю, корону кавалериста, королівський спис, вогняний королівський жезл, крижаний жезл королеви, фігуротворця, пломенистий і місячний жезл-слон; королівський місцевказ і наступальний жезл; королівське шатро та кінське кадило."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_chess_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_chess_shadow"
 msgid "This Cursed Chess Chest contains the skin items from the Cursed Chest and the Chess Chest."
-msgstr ""
+msgstr "Ця скриня містить надбання з проклятої скрині та шахової скрині."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_constant_bundle
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_constant_bundle"
@@ -380036,7 +380036,7 @@ msgstr "Скриня «Базіка» містить повний набір е�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wanda
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_wanda"
 msgid "This White Rabbit Chest contains Wanda's complete set of Hallowed Nights skin items."
-msgstr ""
+msgstr "Скриня «Біла Кролиця» містить повний набір елементів гардероба Ночей усіх святих для Ванди."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_warly
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_hallowed_warly"
@@ -380286,7 +380286,7 @@ msgstr "Ця скриня містить наступні надбання: ро
 #. STRINGS.SKIN_DESCRIPTIONS.pack_lostandfound_items2
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_lostandfound_items2"
 msgid "The Favorite Things Chest includes the following belongings skins: Beach House Sisturn and Nested Sisturn; Axe n' Chain, Broad Axe, Lucille Alfresco, and Punk-Axe; Lavish Scanalyzer and Utility Scanalyzer; Armoire Nomade, Fine Chef Pouch, Kitchen Scraps Sack, and Twined Chef Pouch; Cast Iron, Porcelain, Silver, and Stoneware Grinding Mills; Cast Iron, Porcelain, Silver, and Stoneware Crock Pots; Cast Iron, Porcelain, Silver, and Stoneware Seasoning Stations; Thorny, Wasteland, Wicker, and Woodland Slingshots; and Bad Dog and Best in Show."
-msgstr "Ця скриня містить наступні надбання: пляжний будинок-сестурну та гніздо-сестурну; сокиру з ланцюгом, широку сокиру, Люсіль Альфреско та панк-сокиру; розкішний сканалізатор і практичний сканалізатор; комірчину для продуктів, вишукану торбинку шефа, мішечок для недоїдків і плетену торбинку шефа; чавунний / порцеляновий / срібний / череп'яний млинок; чавунний / порцеляновий / срібний / череп'яний казан; чавунну / порцелянову / срібну / череп'яну спецівницю; колючу / пустельну / плетену / лісову рогатку; та поганого песика і переможницю виставки."
+msgstr "Ця скриня містить наступні надбання: пляжний будинок-сестурну та гніздо-сестурну; сокиру з ланцюгом, широку сокиру, Люсіль Альфреско та панк-сокиру; розкішний сканалізатор і практичний сканалізатор; комірчину для продуктів, вишукану торбинку шефа, мішечок для недоїдків і плетену торбинку шефа; чавунний, порцеляновий, срібний, череп'яний млинок; чавунний, порцеляновий, срібний, череп'яний казан; чавунну, порцелянову, срібну, череп'яну спецівницю; колючу, пустельну, плетену, лісову рогатку; поганого песика й переможницю виставки."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_lost_1
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_lost_1"
@@ -380536,7 +380536,7 @@ msgstr "Ця скриня містить наступні надбання: сп
 #. STRINGS.SKIN_DESCRIPTIONS.pack_mystical_1_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_mystical_1_items"
 msgid "This Mystic Medley Chest contains the following skin items: Moonshrub Hat, Crystal Chester, Piercing Glass Cutter, Amethyst Lantern, Mystic Mushroom Farm, Luxurious Lean-to, Embellished Thermal Reader, Polar Pearl Bin, Mystic Marker, Mystic Staff, Mystic Merm Flort, Mystic Mermhouse, Mystic Nomad Hat, and Mystic Weave Wrap."
-msgstr "Ця скриня містить наступні надбання: місячний капелющ, Скриньчика з кристалом, гостролезий скляний різак, аметистовий ліхтар, розкішний навіс, прикрашений термальний вимірювач, полярний перлиноконтейнер, загадковий розсадник для грибів / маяк / жезл / мермовий флорт; загадкову хатку мерма / шапку кочівника / обгортку з візерунком."
+msgstr "Ця скриня містить наступні надбання: місячний капелющ, Скриньчика з кристалом, гостролезий скляний різак, аметистовий ліхтар, розкішний навіс, прикрашений термальний вимірювач, полярний перлиноконтейнер, загадковий розсадник для грибів, маяк, жезл, мермовий флорт; загадкову хатку мерма, шапку кочівника, обгортку з візерунком."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_nature_all
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_nature_all"
@@ -380671,7 +380671,7 @@ msgstr "Ця скриня містить елементи гардероба д�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_4
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_4"
 msgid "This Swashbuckler Trio III Chest contains skins for: Walter, Wanda and Wormwood."
-msgstr ""
+msgstr "Ця скриня містить елементи гардероба для вцілілих: Волтера, Ванди та Вормвуда."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_all
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_all"
@@ -380681,52 +380681,52 @@ msgstr "Ця скриня містить елементи гардероба д�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_all2
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_all2"
 msgid "This Swashbuckler Chest contains every survivor's complete set of Swashbuckler skin items."
-msgstr ""
+msgstr "Ця скриня містить повний набір елементів гардероба паливод для всіх уцілілих."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_warly
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_warly"
 msgid "This Swashbuckler Chest contains Warly's complete set of Swashbuckler skin items."
-msgstr "Ця скриня містить повний набір елементів гардероба харцизяки для Варлі."
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для Варлі."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wathgrithr
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wathgrithr"
 msgid "This Swashbuckler Chest contains Wigfrid's complete set of Swashbuckler skin items."
-msgstr "Ця скриня містить повний набір елементів гардероба харцизяки для Віґфрід."
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для Віґфрід."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wes
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wes"
 msgid "This Swashbuckler Chest contains Wes' complete set of Swashbuckler skin items."
-msgstr "Ця скриня містить повний набір елементів гардероба харцизяки для Веса."
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для Веса."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_willow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_willow"
 msgid "This Swashbuckler Chest contains Willow's complete set of Swashbuckler skin items."
-msgstr "Ця скриня містить повний набір елементів гардероба харцизяки для Віллоу."
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для Віллоу."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_winona
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_winona"
 msgid "This Swashbuckler Chest contains Winona's complete set of Swashbuckler skin items."
-msgstr "Ця скриня містить повний набір елементів гардероба харцизяки для Вінони."
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для Вінони."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wolfgang
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wolfgang"
 msgid "This Swashbuckler Chest contains Wolfgang's complete set of Swashbuckler skin items."
-msgstr "Ця скриня містить повний набір елементів гардероба харцизяки для Вольфґанґа."
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для Вольфґанґа."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_woodie
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_woodie"
 msgid "This Swashbuckler Chest contains Woodie's complete set of Swashbuckler skin items."
-msgstr "Ця скриня містить повний набір елементів гардероба харцизяки для Вуді."
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для Вуді."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wortox
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wortox"
 msgid "This Swashbuckler Chest contains Wortox's complete set of Swashbuckler skin items."
-msgstr "Ця скриня містить повний набір елементів гардероба харцизяки для Вортокса."
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для Вортокса."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wurt
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_pirate_wurt"
 msgid "This Swashbuckler Chest contains Wurt's complete set of Swashbuckler skin items."
-msgstr "Ця скриня містить повний набір елементів гардероба харцизяки для Вурт."
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для Вурт."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_relic
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_relic"
@@ -380756,7 +380756,7 @@ msgstr "Don't Starve: Подарунок «Reign of Giants»"
 #. STRINGS.SKIN_DESCRIPTIONS.pack_rosepirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_rosepirate"
 msgid "This Rosy Rogues Chest contains the Roseate Trio Chest and the Swashbuckler Trio Chest."
-msgstr "Ця скриня містить: скриню «Тріо трандафилей» і скриню «Тріо харцизяк»."
+msgstr "Ця скриня містить: скриню «Тріо трандафилей» і скриню «Тріо паливод»."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_rosewestern20s_total
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_rosewestern20s_total"
@@ -380776,7 +380776,7 @@ msgstr "Ця скриня містить елементи гардероба д�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_rose_furniture
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_rose_furniture"
 msgid "This Rosy Furniture Chest contains the following skin items: Rosewood Stool, Rosewood Round Table, Briarwood Chair, Briarwood Table, the Triple Bloom, A Singular Vase, Kitbloom Lamp, Gilded Rose Gramophone, Rose Tinted Frame, and The Wain."
-msgstr "Ця скриня містить наступні надбання: табурет / круглий стіл / стілець / стіл із трояндового дерева, «Потрійний цвіт», самітну вазу, єнотоквітну лампу, золочений грамофон-троянду, трояндову рамку та «Вейна»."
+msgstr "Ця скриня містить наступні надбання: табурет, круглий стіл, стілець, стіл із трояндового дерева; «Потрійний цвіт», самітну вазу, єнотоквітну лампу, золочений грамофон-троянду, трояндову рамку та «Вейна»."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_rose_furnitureitems
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_rose_furnitureitems"
@@ -380806,7 +380806,7 @@ msgstr "Ця скриня містить повний набір елемент�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_shadow_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_shadow_items"
 msgid "This Cursed Chest contains the following skin items: Brumal Amulet, Verdigris Amulet, Carnelian Amulet, Lolite Amulet, Sanguine Amulet, Orpiment Amulet, Sanguine Bearger Vest, Sanguine Skiff, Sanguine Suppressor, Sanguine Queen's Crown, Sanguine Sack, Sanguine Sail, Sanguine Pack, Sanguine Helm, Sanguine Thurible, Infernal Bonnet, Patched Void Robe, Cursed Cowl, and Void Rags."
-msgstr ""
+msgstr "Ця скриня містить наступні надбання: морозяний, ясно-зелений, сердоліковий, іолітовий, кривавий, аурипігментний амулети; кривавий борсуковедмежий жилет, кривавий ялик, кривавий гасильник, криваву корону королеви, кривавий мішок, криваве вітрило, кривавий рюкзак, кривавий штурвал, криваве кадило, пекельний чепець, латану мантію порожнечі, проклятий каптур і лахміття порожнечі."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_springadventure_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_springadventure_items"
@@ -380851,12 +380851,12 @@ msgstr "Ця скриня містить ігрового персонажа —
 #. STRINGS.SKIN_DESCRIPTIONS.pack_starter_2024
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_starter_2024"
 msgid "This Chest contains the playable character, Wurt: The Half-Pint, Wilson's Verdant skin set, Willow's Swashbuckler skin set, Wolfgang's Gladiator skin set, WX-78's Moonbound skin set, the Pastoral Chest, the Narwalrus Chester, and the Yawny Jammies Ensemble."
-msgstr "Ця скриня містить ігрову персонажку — коротунку Вурт, а також набори елементів гардероба: «Дитя лісу Вілсон», «Харцизяка Віллоу», «Гладіатор Вольфґанґ», «Місяцеликий WX-78», а ще пасторальну скриню, Скриньчика-нарваломоржа та піжамний комплект."
+msgstr "Ця скриня містить ігрову персонажку — коротунку Вурт, а також набори елементів гардероба: «Дитя лісу Вілсон», «Паливода Віллоу», «Гладіатор Вольфґанґ», «Місяцеликий WX-78», а ще пасторальну скриню, Скриньчика-нарваломоржа та піжамний комплект."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_starter_2025
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_starter_2025"
 msgid "This Chest contains the playable character, Wanda: The Timekeeper, Wilson's Swashbuckler skin set, Wendy's Triumphant skin set, Winona's Victorian skin set, Maxwell's Snowfallen skin set, the Fanged Firepit, the Catcoon Carryall, and the Sleepytime Ensemble."
-msgstr "Ця скриня містить ігрову персонажку — вартівницю часу Ванду, а також набори елементів гардероба: «Харцизяка Вілсон», «Тріумфаторка Венді», «Вікторіанка Вінона», «Сніговий Максвелл», а ще ікласте вогнище, ранець-єнотокота та комплект для сну."
+msgstr "Ця скриня містить ігрову персонажку — вартівницю часу Ванду, а також набори елементів гардероба: «Паливода Вілсон», «Тріумфаторка Венді», «Вікторіанка Вінона», «Сніговий Максвелл», а ще ікласте вогнище, ранець-єнотокота та комплект для сну."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_starter_2026
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_starter_2026"
@@ -380871,7 +380871,7 @@ msgstr "Ця скриня містить елементи гардероба д�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_survivorpirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_survivorpirate"
 msgid "This Surviving the Seas Chest contains the Survivor Trio Chest and the Swashbuckler Trio II Chest."
-msgstr "Ця скриня містить: скриню «Тріо вцілілих» і скриню «Тріо харцизяк II»."
+msgstr "Ця скриня містить: скриню «Тріо вцілілих» і скриню «Тріо паливод II»."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_survivor_complete
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_survivor_complete"
@@ -380886,7 +380886,7 @@ msgstr "Ця скриня містить: скриню «Для поцінову
 #. STRINGS.SKIN_DESCRIPTIONS.pack_swamp_bundle
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_swamp_bundle"
 msgid "This Swampy Swashbuckler Survivor Vacation Chest contains the Swamp-Lover's Chest, the Swashbuckler Trio II Chest, the Survivor Trio Chest, and the Vacation Chest."
-msgstr "Ця скриня містить: скриню «Для поціновувачів болота», скриню «Тріо харцизяк II», скриню «Тріо вцілілих» і скриню «Відпустка»."
+msgstr "Ця скриня містить: скриню «Для поціновувачів болота», скриню «Тріо паливод II», скриню «Тріо вцілілих» і скриню «Відпустка»."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_swamp_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_swamp_items"
@@ -381251,7 +381251,7 @@ msgstr "Ця скриня містить повний набір елемент�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_waxwell_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_waxwell_pirate"
 msgid "This Chest contains Maxwell's complete set of Swashbuckler skin items."
-msgstr "Ця скриня містить повний набір елементів гардероба харцизяки для Максвелла."
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для Максвелла."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_waxwell_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_waxwell_rose"
@@ -381336,7 +381336,7 @@ msgstr "Ця скриня містить повний набір елемент�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_webber_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_webber_pirate"
 msgid "This Chest contains Webber's complete set of Swashbuckler skin items."
-msgstr "Ця скриня містить повний набір елементів гардероба харцизяки для Веббера."
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для Веббера."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_webber_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_webber_rose"
@@ -381396,7 +381396,7 @@ msgstr "Ця скриня містить повний набір елемент�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wendy_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wendy_pirate"
 msgid "This Chest contains Wendy's complete set of Swashbuckler skin items."
-msgstr "Ця скриня містить повний набір елементів гардероба харцизяки для Венді."
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для Венді."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wendy_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wendy_rose"
@@ -381506,7 +381506,7 @@ msgstr "Ця скриня містить повний набір елемент�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wickerbottom_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wickerbottom_pirate"
 msgid "This Chest contains Wickerbottom's complete set of Swashbuckler skin items."
-msgstr "Ця скриня містить повний набір елементів гардероба харцизяки для Вікерботтом."
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для Вікерботтом."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wickerbottom_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wickerbottom_rose"
@@ -381591,7 +381591,7 @@ msgstr "Ця скриня містить повний набір елемент�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wilson_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wilson_pirate"
 msgid "This Chest contains Wilson's complete set of Swashbuckler skin items."
-msgstr "Ця скриня містить повний набір елементів гардероба харцизяки для Вілсона."
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для Вілсона."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wilson_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wilson_rose"
@@ -381956,7 +381956,7 @@ msgstr "Ця скриня містить повний набір елемент�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_gothicjewel
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_gothicjewel"
 msgid "This Chest contains the following WX-78 skin items: Dark Delivery Drone, Rococo Courier, Macabre Mapper, Rococo Reconnaissance, Gloomy Loomer Controller, Lacquered 'Lectrocuter Controller, Crimson-Forged Extractor, and Accented Extractor."
-msgstr "Ця скриня містить наступні надбання для WX-78: темного дрона-доставника, рококового посильного / розвідувача, макабричного картографа, пульт керування похмурим нависачем / лакованим електровражувачем, синяво-чорний кований виймач, прикрашений виймач."
+msgstr "Ця скриня містить наступні надбання для WX-78: темного дрона-доставника, рококового посильного та розвідувача; макабричного картографа, пульт керування похмурим нависачем і лакованим електровражувачем; синяво-чорний кований виймач і прикрашений виймач."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_gothicjewel_all
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_gothicjewel_all"
@@ -381976,7 +381976,7 @@ msgstr "Ця скриня містить повний набір елемент�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_pirate"
 msgid "This Chest contains WX-78's complete set of Swashbuckler skin items."
-msgstr "Ця скриня містить повний набір елементів гардероба харцизяки для WX-78."
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для WX-78."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wx78_retro
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wx78_retro"
@@ -385591,7 +385591,7 @@ msgstr "Розкрийте загадку місця призначення ва
 #. STRINGS.SKIN_DESCRIPTIONS.telestaff_chess
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.telestaff_chess"
 msgid "Make your move."
-msgstr ""
+msgstr "Час для вашого ходу."
 
 #. STRINGS.SKIN_DESCRIPTIONS.telestaff_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.telestaff_crystal"
@@ -386621,7 +386621,7 @@ msgstr "Його вигляд гріє серце."
 #. STRINGS.SKIN_DESCRIPTIONS.wardrobe_insect
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wardrobe_insect"
 msgid "At least it's not a moth."
-msgstr ""
+msgstr "Принаймні це не міль."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wardrobe_vine
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wardrobe_vine"
@@ -389486,7 +389486,7 @@ msgstr "Дитя лісу"
 #. STRINGS.SKIN_NAMES.abigail_flower_pirate
 msgctxt "STRINGS.SKIN_NAMES.abigail_flower_pirate"
 msgid "The Swashbuckler"
-msgstr "Харцизяка"
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.abigail_flower_rose
 msgctxt "STRINGS.SKIN_NAMES.abigail_flower_rose"
@@ -389566,7 +389566,7 @@ msgstr "Дитя лісу"
 #. STRINGS.SKIN_NAMES.abigail_pirate
 msgctxt "STRINGS.SKIN_NAMES.abigail_pirate"
 msgid "The Swashbuckler"
-msgstr "Харцизяка"
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.abigail_rose
 msgctxt "STRINGS.SKIN_NAMES.abigail_rose"
@@ -389606,7 +389606,7 @@ msgstr "Могильний амулет"
 #. STRINGS.SKIN_NAMES.amulet_blue_shadow
 msgctxt "STRINGS.SKIN_NAMES.amulet_blue_shadow"
 msgid "Brumal Amulet"
-msgstr ""
+msgstr "Морозяний амулет"
 
 #. STRINGS.SKIN_NAMES.amulet_green_relic
 msgctxt "STRINGS.SKIN_NAMES.amulet_green_relic"
@@ -389616,7 +389616,7 @@ msgstr "Могутній амулет"
 #. STRINGS.SKIN_NAMES.amulet_green_shadow
 msgctxt "STRINGS.SKIN_NAMES.amulet_green_shadow"
 msgid "Verdigris Amulet"
-msgstr ""
+msgstr "Ясно-зелений амулет"
 
 #. STRINGS.SKIN_NAMES.amulet_orange_planet
 msgctxt "STRINGS.SKIN_NAMES.amulet_orange_planet"
@@ -389631,7 +389631,7 @@ msgstr "Жниварський амулет"
 #. STRINGS.SKIN_NAMES.amulet_orange_shadow
 msgctxt "STRINGS.SKIN_NAMES.amulet_orange_shadow"
 msgid "Carnelian Amulet"
-msgstr ""
+msgstr "Сердоліковий амулет"
 
 #. STRINGS.SKIN_NAMES.amulet_purple_relic
 msgctxt "STRINGS.SKIN_NAMES.amulet_purple_relic"
@@ -389641,7 +389641,7 @@ msgstr "Сумнівний амулет"
 #. STRINGS.SKIN_NAMES.amulet_purple_shadow
 msgctxt "STRINGS.SKIN_NAMES.amulet_purple_shadow"
 msgid "Lolite Amulet"
-msgstr ""
+msgstr "Іолітовий амулет"
 
 #. STRINGS.SKIN_NAMES.amulet_red_heart
 msgctxt "STRINGS.SKIN_NAMES.amulet_red_heart"
@@ -389666,7 +389666,7 @@ msgstr "Трояндово-червоний амулет"
 #. STRINGS.SKIN_NAMES.amulet_red_shadow
 msgctxt "STRINGS.SKIN_NAMES.amulet_red_shadow"
 msgid "Sanguine Amulet"
-msgstr ""
+msgstr "Кривавий амулет"
 
 #. STRINGS.SKIN_NAMES.amulet_yellow_an
 msgctxt "STRINGS.SKIN_NAMES.amulet_yellow_an"
@@ -389691,7 +389691,7 @@ msgstr "Тьмяносяйний амулет"
 #. STRINGS.SKIN_NAMES.amulet_yellow_shadow
 msgctxt "STRINGS.SKIN_NAMES.amulet_yellow_shadow"
 msgid "Orpiment Amulet"
-msgstr ""
+msgstr "Аурипігментний амулет"
 
 #. STRINGS.SKIN_NAMES.anchor_nautical
 msgctxt "STRINGS.SKIN_NAMES.anchor_nautical"
@@ -389801,7 +389801,7 @@ msgstr "Непохитний величний обладунок"
 #. STRINGS.SKIN_NAMES.armor_ruins_chess
 msgctxt "STRINGS.SKIN_NAMES.armor_ruins_chess"
 msgid "Cavalier Grand Suit"
-msgstr ""
+msgstr "Ладний обладунок кавалериста"
 
 #. STRINGS.SKIN_NAMES.armor_ruins_leaf
 msgctxt "STRINGS.SKIN_NAMES.armor_ruins_leaf"
@@ -389856,12 +389856,12 @@ msgstr "Стьобаний пухкий жилет"
 #. STRINGS.SKIN_NAMES.armor_voidcloth_ribbon
 msgctxt "STRINGS.SKIN_NAMES.armor_voidcloth_ribbon"
 msgid "Patched Void Robe"
-msgstr ""
+msgstr "Латана мантія порожнечі"
 
 #. STRINGS.SKIN_NAMES.armor_voidcloth_spooky
 msgctxt "STRINGS.SKIN_NAMES.armor_voidcloth_spooky"
 msgid "Void Rags"
-msgstr ""
+msgstr "Лахміття порожнечі"
 
 #. STRINGS.SKIN_NAMES.armor_wood_fangedcollar
 msgctxt "STRINGS.SKIN_NAMES.armor_wood_fangedcollar"
@@ -390081,7 +390081,7 @@ msgstr "Ранець-мандрагора"
 #. STRINGS.SKIN_NAMES.backpack_minigolf
 msgctxt "STRINGS.SKIN_NAMES.backpack_minigolf"
 msgid "Cawnival Putter's Pack"
-msgstr ""
+msgstr "Кар-р-рнавальний рюкзак гольфіста"
 
 #. STRINGS.SKIN_NAMES.backpack_mushy
 msgctxt "STRINGS.SKIN_NAMES.backpack_mushy"
@@ -390141,7 +390141,7 @@ msgstr "Трояндовий борсуковедмежий жилет"
 #. STRINGS.SKIN_NAMES.beargervest_shadow
 msgctxt "STRINGS.SKIN_NAMES.beargervest_shadow"
 msgid "Sanguine Bearger Vest"
-msgstr ""
+msgstr "Кривавий борсуковедмежий жилет"
 
 #. STRINGS.SKIN_NAMES.beargervest_yule
 msgctxt "STRINGS.SKIN_NAMES.beargervest_yule"
@@ -390726,12 +390726,12 @@ msgstr "Піратський шлюп"
 #. STRINGS.SKIN_NAMES.boat_shadow
 msgctxt "STRINGS.SKIN_NAMES.boat_shadow"
 msgid "Sanguine Skiff"
-msgstr ""
+msgstr "Кривавий ялик"
 
 #. STRINGS.SKIN_NAMES.boat_shadow_item
 msgctxt "STRINGS.SKIN_NAMES.boat_shadow_item"
 msgid "Sanguine Skiff"
-msgstr ""
+msgstr "Кривавий ялик"
 
 #. STRINGS.SKIN_NAMES.boat_tesla
 msgctxt "STRINGS.SKIN_NAMES.boat_tesla"
@@ -390951,47 +390951,47 @@ msgstr "Каптан торговця"
 #. STRINGS.SKIN_NAMES.body_minigolf_black
 msgctxt "STRINGS.SKIN_NAMES.body_minigolf_black"
 msgid "Tee Time Sweater Vest"
-msgstr ""
+msgstr "Стартова безрукавка для гольфа"
 
 #. STRINGS.SKIN_NAMES.body_minigolf_blacktie
 msgctxt "STRINGS.SKIN_NAMES.body_minigolf_blacktie"
 msgid "Par None Sweater Vest"
-msgstr ""
+msgstr "Парна безрукавка для гольфа"
 
 #. STRINGS.SKIN_NAMES.body_minigolf_mint
 msgctxt "STRINGS.SKIN_NAMES.body_minigolf_mint"
 msgid "Fairway Sweater Vest"
-msgstr ""
+msgstr "Фейрвейна безрукавка для гольфа"
 
 #. STRINGS.SKIN_NAMES.body_minigolf_minttie
 msgctxt "STRINGS.SKIN_NAMES.body_minigolf_minttie"
 msgid "Mulligan Sweater Vest"
-msgstr ""
+msgstr "Малліганська безрукавка для гольфа"
 
 #. STRINGS.SKIN_NAMES.body_minigolf_red
 msgctxt "STRINGS.SKIN_NAMES.body_minigolf_red"
 msgid "Chipper Sweater Vest"
-msgstr ""
+msgstr "Чипперна безрукавка для гольфа"
 
 #. STRINGS.SKIN_NAMES.body_minigolf_redtie
 msgctxt "STRINGS.SKIN_NAMES.body_minigolf_redtie"
 msgid "Lucky Stroke Sweater Vest"
-msgstr ""
+msgstr "Везуча безрукавка для гольфа"
 
 #. STRINGS.SKIN_NAMES.body_onepiece2_beach
 msgctxt "STRINGS.SKIN_NAMES.body_onepiece2_beach"
 msgid "Blue-Striped Swimsie"
-msgstr ""
+msgstr "Синьо-смугастий купальний костюм"
 
 #. STRINGS.SKIN_NAMES.body_onepiece3_beach
 msgctxt "STRINGS.SKIN_NAMES.body_onepiece3_beach"
 msgid "Green-Striped Swimsie"
-msgstr ""
+msgstr "Зелено-смугастий купальний костюм"
 
 #. STRINGS.SKIN_NAMES.body_onepiece_beach
 msgctxt "STRINGS.SKIN_NAMES.body_onepiece_beach"
 msgid "Red-Striped Swimsie"
-msgstr ""
+msgstr "Червоно-смугастий купальний костюм"
 
 #. STRINGS.SKIN_NAMES.body_oni_001
 msgctxt "STRINGS.SKIN_NAMES.body_oni_001"
@@ -391136,17 +391136,17 @@ msgstr "Гармонічна куртка гітариста"
 #. STRINGS.SKIN_NAMES.body_sailor2_beach
 msgctxt "STRINGS.SKIN_NAMES.body_sailor2_beach"
 msgid "Charcoal Sailor Suit"
-msgstr ""
+msgstr "Вугляний матроський костюм"
 
 #. STRINGS.SKIN_NAMES.body_sailor3_beach
 msgctxt "STRINGS.SKIN_NAMES.body_sailor3_beach"
 msgid "Classic Combo Sailor Suit"
-msgstr ""
+msgstr "Класичний матроський костюм"
 
 #. STRINGS.SKIN_NAMES.body_sailor_beach
 msgctxt "STRINGS.SKIN_NAMES.body_sailor_beach"
 msgid "Navy Blue Sailor Suit"
-msgstr ""
+msgstr "Темно-синій матроський костюм"
 
 #. STRINGS.SKIN_NAMES.body_silkbrocade_coat_green_laurel
 msgctxt "STRINGS.SKIN_NAMES.body_silkbrocade_coat_green_laurel"
@@ -391196,17 +391196,17 @@ msgstr "Шовковий домашній халат"
 #. STRINGS.SKIN_NAMES.body_skirt2_beach
 msgctxt "STRINGS.SKIN_NAMES.body_skirt2_beach"
 msgid "Blue Swimming Frock"
-msgstr ""
+msgstr "Синя купальна сукня"
 
 #. STRINGS.SKIN_NAMES.body_skirt3_beach
 msgctxt "STRINGS.SKIN_NAMES.body_skirt3_beach"
 msgid "Green Swimming Frock"
-msgstr ""
+msgstr "Зелена купальна сукня"
 
 #. STRINGS.SKIN_NAMES.body_skirt_beach
 msgctxt "STRINGS.SKIN_NAMES.body_skirt_beach"
 msgid "Red Swimming Frock"
-msgstr ""
+msgstr "Червона купальна сукня"
 
 #. STRINGS.SKIN_NAMES.body_sleepgown_blue_ice
 msgctxt "STRINGS.SKIN_NAMES.body_sleepgown_blue_ice"
@@ -391506,7 +391506,7 @@ msgstr "Одежа шукача пригод"
 #. STRINGS.SKIN_NAMES.body_walter_pirate
 msgctxt "STRINGS.SKIN_NAMES.body_walter_pirate"
 msgid "Sea Coatee"
-msgstr ""
+msgstr "Морська куртка"
 
 #. STRINGS.SKIN_NAMES.body_walter_rose
 msgctxt "STRINGS.SKIN_NAMES.body_walter_rose"
@@ -391576,7 +391576,7 @@ msgstr "Кофта природознавиці"
 #. STRINGS.SKIN_NAMES.body_wanda_pirate
 msgctxt "STRINGS.SKIN_NAMES.body_wanda_pirate"
 msgid "Time Tattered Attire"
-msgstr ""
+msgstr "Потріпане часом убрання"
 
 #. STRINGS.SKIN_NAMES.body_wanda_rose
 msgctxt "STRINGS.SKIN_NAMES.body_wanda_rose"
@@ -391596,12 +391596,12 @@ msgstr "Сукня майстрині-ремісниці"
 #. STRINGS.SKIN_NAMES.body_wanda_survivor
 msgctxt "STRINGS.SKIN_NAMES.body_wanda_survivor"
 msgid "Stranded Scraps"
-msgstr ""
+msgstr "Вбоге манаття"
 
 #. STRINGS.SKIN_NAMES.body_wanda_victorian
 msgctxt "STRINGS.SKIN_NAMES.body_wanda_victorian"
 msgid "Coach Dress"
-msgstr ""
+msgstr "Каретна сукня"
 
 #. STRINGS.SKIN_NAMES.body_wanda_western
 msgctxt "STRINGS.SKIN_NAMES.body_wanda_western"
@@ -391611,7 +391611,7 @@ msgstr "Комбінезон коновалки"
 #. STRINGS.SKIN_NAMES.body_wanda_whiterabbit
 msgctxt "STRINGS.SKIN_NAMES.body_wanda_whiterabbit"
 msgid "Tea Time Threads"
-msgstr ""
+msgstr "Вбрання для чаювання"
 
 #. STRINGS.SKIN_NAMES.body_wanda_yule
 msgctxt "STRINGS.SKIN_NAMES.body_wanda_yule"
@@ -393046,7 +393046,7 @@ msgstr "Стовбур деревного духа"
 #. STRINGS.SKIN_NAMES.body_wormwood_pirate
 msgctxt "STRINGS.SKIN_NAMES.body_wormwood_pirate"
 msgid "Kelp Suit"
-msgstr ""
+msgstr "Ламінарієвий костюм"
 
 #. STRINGS.SKIN_NAMES.body_wormwood_pumpkin
 msgctxt "STRINGS.SKIN_NAMES.body_wormwood_pumpkin"
@@ -393576,7 +393576,7 @@ msgstr "Карамельна тростина"
 #. STRINGS.SKIN_NAMES.cane_chess
 msgctxt "STRINGS.SKIN_NAMES.cane_chess"
 msgid "Castle Cane"
-msgstr ""
+msgstr "Замковий ціпок"
 
 #. STRINGS.SKIN_NAMES.cane_harlequin
 msgctxt "STRINGS.SKIN_NAMES.cane_harlequin"
@@ -393726,7 +393726,7 @@ msgstr "Модернове холодне вогнище"
 #. STRINGS.SKIN_NAMES.coldfirepit_chess
 msgctxt "STRINGS.SKIN_NAMES.coldfirepit_chess"
 msgid "Cold Gambit Firepit"
-msgstr ""
+msgstr "Холодне гамбітне вогнище"
 
 #. STRINGS.SKIN_NAMES.coldfirepit_flower
 msgctxt "STRINGS.SKIN_NAMES.coldfirepit_flower"
@@ -394016,62 +394016,62 @@ msgstr "Мавпячий стовп"
 #. STRINGS.SKIN_NAMES.dock_woodposts_chessblack
 msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_chessblack"
 msgid "Black Rook Post"
-msgstr ""
+msgstr "Чорна тура-стовп"
 
 #. STRINGS.SKIN_NAMES.dock_woodposts_chessblack2
 msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_chessblack2"
 msgid "Black Pawn Post"
-msgstr ""
+msgstr "Чорний пішак-стовп"
 
 #. STRINGS.SKIN_NAMES.dock_woodposts_chessblack2_item
 msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_chessblack2_item"
 msgid "Black Pawn Post"
-msgstr ""
+msgstr "Чорний пішак-стовп"
 
 #. STRINGS.SKIN_NAMES.dock_woodposts_chessblack3
 msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_chessblack3"
 msgid "Black Bishop Post"
-msgstr ""
+msgstr "Чорний слон-стовп"
 
 #. STRINGS.SKIN_NAMES.dock_woodposts_chessblack3_item
 msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_chessblack3_item"
 msgid "Black Bishop Post"
-msgstr ""
+msgstr "Чорний слон-стовп"
 
 #. STRINGS.SKIN_NAMES.dock_woodposts_chessblack_item
 msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_chessblack_item"
 msgid "Black Rook Post"
-msgstr ""
+msgstr "Чорна тура-стовп"
 
 #. STRINGS.SKIN_NAMES.dock_woodposts_chesswhite
 msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_chesswhite"
 msgid "White Rook Post"
-msgstr ""
+msgstr "Біла тура-стовп"
 
 #. STRINGS.SKIN_NAMES.dock_woodposts_chesswhite2
 msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_chesswhite2"
 msgid "White Pawn Post"
-msgstr ""
+msgstr "Білий пішак-стовп"
 
 #. STRINGS.SKIN_NAMES.dock_woodposts_chesswhite2_item
 msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_chesswhite2_item"
 msgid "White Pawn Post"
-msgstr ""
+msgstr "Білий пішак-стовп"
 
 #. STRINGS.SKIN_NAMES.dock_woodposts_chesswhite3
 msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_chesswhite3"
 msgid "White Bishop Post"
-msgstr ""
+msgstr "Білий слон-стовп"
 
 #. STRINGS.SKIN_NAMES.dock_woodposts_chesswhite3_item
 msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_chesswhite3_item"
 msgid "White Bishop Post"
-msgstr ""
+msgstr "Білий слон-стовп"
 
 #. STRINGS.SKIN_NAMES.dock_woodposts_chesswhite_item
 msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_chesswhite_item"
 msgid "White Rook Post"
-msgstr ""
+msgstr "Біла тура-стовп"
 
 #. STRINGS.SKIN_NAMES.dock_woodposts_decorated
 msgctxt "STRINGS.SKIN_NAMES.dock_woodposts_decorated"
@@ -394651,7 +394651,7 @@ msgstr "Кар-р-рнавальний столик"
 #. STRINGS.SKIN_NAMES.endtable_chess
 msgctxt "STRINGS.SKIN_NAMES.endtable_chess"
 msgid "Knightstand"
-msgstr ""
+msgstr "Кінський столик"
 
 #. STRINGS.SKIN_NAMES.endtable_dragonfly
 msgctxt "STRINGS.SKIN_NAMES.endtable_dragonfly"
@@ -395016,7 +395016,7 @@ msgstr "Зручне взуття"
 #. STRINGS.SKIN_NAMES.feet_walter_pirate
 msgctxt "STRINGS.SKIN_NAMES.feet_walter_pirate"
 msgid "Latchet Shoes"
-msgstr ""
+msgstr "Черевики з ремінцями"
 
 #. STRINGS.SKIN_NAMES.feet_walter_survivor
 msgctxt "STRINGS.SKIN_NAMES.feet_walter_survivor"
@@ -395051,7 +395051,7 @@ msgstr "Туфлі віщунки"
 #. STRINGS.SKIN_NAMES.feet_wanda_pirate
 msgctxt "STRINGS.SKIN_NAMES.feet_wanda_pirate"
 msgid "Chime Charm Boots"
-msgstr ""
+msgstr "Чоботи з дзвіночками"
 
 #. STRINGS.SKIN_NAMES.feet_wanda_rose
 msgctxt "STRINGS.SKIN_NAMES.feet_wanda_rose"
@@ -395061,17 +395061,17 @@ msgstr "Багаторічні туфлі-човники"
 #. STRINGS.SKIN_NAMES.feet_wanda_survivor
 msgctxt "STRINGS.SKIN_NAMES.feet_wanda_survivor"
 msgid "Battered Boots"
-msgstr ""
+msgstr "Поношені чоботи"
 
 #. STRINGS.SKIN_NAMES.feet_wanda_victorian
 msgctxt "STRINGS.SKIN_NAMES.feet_wanda_victorian"
 msgid "Spat Boots"
-msgstr ""
+msgstr "Чоботи з гамашами"
 
 #. STRINGS.SKIN_NAMES.feet_wanda_whiterabbit
 msgctxt "STRINGS.SKIN_NAMES.feet_wanda_whiterabbit"
 msgid "Lucky Loafers"
-msgstr ""
+msgstr "Щасливі лофери"
 
 #. STRINGS.SKIN_NAMES.feet_warly_candyman
 msgctxt "STRINGS.SKIN_NAMES.feet_warly_candyman"
@@ -395526,7 +395526,7 @@ msgstr "Гірські туристичні черевики"
 #. STRINGS.SKIN_NAMES.feet_wolfgang_pirate
 msgctxt "STRINGS.SKIN_NAMES.feet_wolfgang_pirate"
 msgid "Swash-buckled Shoes"
-msgstr "Харцизяцькі черевики з пряжками"
+msgstr "Черевики з пряжками паливоди"
 
 #. STRINGS.SKIN_NAMES.feet_wolfgang_yule
 msgctxt "STRINGS.SKIN_NAMES.feet_wolfgang_yule"
@@ -395876,7 +395876,7 @@ msgstr "Старовинний бронзовий паркан"
 #. STRINGS.SKIN_NAMES.firepit_chess
 msgctxt "STRINGS.SKIN_NAMES.firepit_chess"
 msgid "Pawnfire"
-msgstr ""
+msgstr "Пішовогнище"
 
 #. STRINGS.SKIN_NAMES.firepit_fanged
 msgctxt "STRINGS.SKIN_NAMES.firepit_fanged"
@@ -395936,7 +395936,7 @@ msgstr "Вогняний джмільний жезл"
 #. STRINGS.SKIN_NAMES.firestaff_chess
 msgctxt "STRINGS.SKIN_NAMES.firestaff_chess"
 msgid "Fiery Royal Staff"
-msgstr ""
+msgstr "Вогняний королівський жезл"
 
 #. STRINGS.SKIN_NAMES.firestaff_flamelash
 msgctxt "STRINGS.SKIN_NAMES.firestaff_flamelash"
@@ -395991,7 +395991,7 @@ msgstr "Жбурляй-но-трон 4000"
 #. STRINGS.SKIN_NAMES.firesuppressor_shadow
 msgctxt "STRINGS.SKIN_NAMES.firesuppressor_shadow"
 msgid "Sanguine Suppressor"
-msgstr ""
+msgstr "Кривавий гасильник"
 
 #. STRINGS.SKIN_NAMES.fishbox_nautical
 msgctxt "STRINGS.SKIN_NAMES.fishbox_nautical"
@@ -396246,7 +396246,7 @@ msgstr "Модерновий руйнівник"
 #. STRINGS.SKIN_NAMES.greenstaff_chess
 msgctxt "STRINGS.SKIN_NAMES.greenstaff_chess"
 msgid "Gallant Deconstructor"
-msgstr ""
+msgstr "Доблесний руйнівник"
 
 #. STRINGS.SKIN_NAMES.greenstaff_clockwork
 msgctxt "STRINGS.SKIN_NAMES.greenstaff_clockwork"
@@ -396446,7 +396446,7 @@ msgstr "Важкі браслети з місячного каменю"
 #. STRINGS.SKIN_NAMES.hand_wanda_pirate
 msgctxt "STRINGS.SKIN_NAMES.hand_wanda_pirate"
 msgid "Chime Charm Gloves"
-msgstr ""
+msgstr "Рукавиці з дзвіночками"
 
 #. STRINGS.SKIN_NAMES.hand_wanda_rose
 msgctxt "STRINGS.SKIN_NAMES.hand_wanda_rose"
@@ -396466,12 +396466,12 @@ msgstr "Робочі рукавиці"
 #. STRINGS.SKIN_NAMES.hand_wanda_survivor
 msgctxt "STRINGS.SKIN_NAMES.hand_wanda_survivor"
 msgid "Dual Watch Bands"
-msgstr ""
+msgstr "Парні годинники з ремінцями"
 
 #. STRINGS.SKIN_NAMES.hand_wanda_victorian
 msgctxt "STRINGS.SKIN_NAMES.hand_wanda_victorian"
 msgid "Frilled Write Gloves"
-msgstr ""
+msgstr "Гофровані рукавиці для письма"
 
 #. STRINGS.SKIN_NAMES.hand_wanda_western
 msgctxt "STRINGS.SKIN_NAMES.hand_wanda_western"
@@ -397086,7 +397086,7 @@ msgstr "Руки деревного духа"
 #. STRINGS.SKIN_NAMES.hand_wormwood_pirate
 msgctxt "STRINGS.SKIN_NAMES.hand_wormwood_pirate"
 msgid "Algae Arms"
-msgstr ""
+msgstr "Водоростеві руки"
 
 #. STRINGS.SKIN_NAMES.hand_wormwood_pumpkin
 msgctxt "STRINGS.SKIN_NAMES.hand_wormwood_pumpkin"
@@ -397506,7 +397506,7 @@ msgstr "Корона блазня"
 #. STRINGS.SKIN_NAMES.hivehat_shadow
 msgctxt "STRINGS.SKIN_NAMES.hivehat_shadow"
 msgid "Sanguine Queen's Crown"
-msgstr ""
+msgstr "Кривава корона королеви"
 
 #. STRINGS.SKIN_NAMES.hutch_fantasy
 msgctxt "STRINGS.SKIN_NAMES.hutch_fantasy"
@@ -397566,7 +397566,7 @@ msgstr "Крижаний джмільний жезл"
 #. STRINGS.SKIN_NAMES.icestaff_chess
 msgctxt "STRINGS.SKIN_NAMES.icestaff_chess"
 msgid "Icy Queen Staff"
-msgstr ""
+msgstr "Крижаний жезл королеви"
 
 #. STRINGS.SKIN_NAMES.icestaff_gungnir
 msgctxt "STRINGS.SKIN_NAMES.icestaff_gungnir"
@@ -397651,7 +397651,7 @@ msgstr "Мішок для садовини"
 #. STRINGS.SKIN_NAMES.krampus_sack_shadow
 msgctxt "STRINGS.SKIN_NAMES.krampus_sack_shadow"
 msgid "Sanguine Sack"
-msgstr ""
+msgstr "Кривавий мішок"
 
 #. STRINGS.SKIN_NAMES.krampus_sack_voidbag
 msgctxt "STRINGS.SKIN_NAMES.krampus_sack_voidbag"
@@ -397806,32 +397806,32 @@ msgstr "Штани торговця"
 #. STRINGS.SKIN_NAMES.legs_minigolf_pants_black
 msgctxt "STRINGS.SKIN_NAMES.legs_minigolf_pants_black"
 msgid "Black Birdie Pants"
-msgstr ""
+msgstr "Чорні штани для гольфа"
 
 #. STRINGS.SKIN_NAMES.legs_minigolf_pants_purple
 msgctxt "STRINGS.SKIN_NAMES.legs_minigolf_pants_purple"
 msgid "Plum Birdie Pants"
-msgstr ""
+msgstr "Сливові штани для гольфа"
 
 #. STRINGS.SKIN_NAMES.legs_minigolf_pants_red
 msgctxt "STRINGS.SKIN_NAMES.legs_minigolf_pants_red"
 msgid "Red Birdie Pants"
-msgstr ""
+msgstr "Червоні штани для гольфа"
 
 #. STRINGS.SKIN_NAMES.legs_minigolf_skirt_black
 msgctxt "STRINGS.SKIN_NAMES.legs_minigolf_skirt_black"
 msgid "Black Mini-Golf Skirt"
-msgstr ""
+msgstr "Чорна спідниця для гольфа"
 
 #. STRINGS.SKIN_NAMES.legs_minigolf_skirt_mint
 msgctxt "STRINGS.SKIN_NAMES.legs_minigolf_skirt_mint"
 msgid "Green Mini-Golf Skirt"
-msgstr ""
+msgstr "Зелена спідниця для гольфа"
 
 #. STRINGS.SKIN_NAMES.legs_minigolf_skirt_red
 msgctxt "STRINGS.SKIN_NAMES.legs_minigolf_skirt_red"
 msgid "Red Mini-Golf Skirt"
-msgstr ""
+msgstr "Червона спідниця для гольфа"
 
 #. STRINGS.SKIN_NAMES.legs_oni
 msgctxt "STRINGS.SKIN_NAMES.legs_oni"
@@ -398146,7 +398146,7 @@ msgstr "Штани мандрівця"
 #. STRINGS.SKIN_NAMES.legs_walter_pirate
 msgctxt "STRINGS.SKIN_NAMES.legs_walter_pirate"
 msgid "Sailor Slacks"
-msgstr ""
+msgstr "Матроські штани"
 
 #. STRINGS.SKIN_NAMES.legs_walter_rose
 msgctxt "STRINGS.SKIN_NAMES.legs_walter_rose"
@@ -399681,12 +399681,12 @@ msgstr "Трояндове вітрило"
 #. STRINGS.SKIN_NAMES.mast_shadow
 msgctxt "STRINGS.SKIN_NAMES.mast_shadow"
 msgid "Sanguine Sail"
-msgstr ""
+msgstr "Криваве вітрило"
 
 #. STRINGS.SKIN_NAMES.mast_shadow_item
 msgctxt "STRINGS.SKIN_NAMES.mast_shadow_item"
 msgid "Sanguine Sail"
-msgstr ""
+msgstr "Криваве вітрило"
 
 #. STRINGS.SKIN_NAMES.meatrack_ancient
 msgctxt "STRINGS.SKIN_NAMES.meatrack_ancient"
@@ -399786,17 +399786,17 @@ msgstr "Старий налобний ліхтар шахтаря"
 #. STRINGS.SKIN_NAMES.minisign_cawnival
 msgctxt "STRINGS.SKIN_NAMES.minisign_cawnival"
 msgid "Cawnival Plaque"
-msgstr ""
+msgstr "Кар-р-рнавальна табличка"
 
 #. STRINGS.SKIN_NAMES.minisign_cawnival_drawn
 msgctxt "STRINGS.SKIN_NAMES.minisign_cawnival_drawn"
 msgid "Cawnival Plaque"
-msgstr ""
+msgstr "Кар-р-рнавальна табличка"
 
 #. STRINGS.SKIN_NAMES.minisign_cawnival_item
 msgctxt "STRINGS.SKIN_NAMES.minisign_cawnival_item"
 msgid "Cawnival Plaque"
-msgstr ""
+msgstr "Кар-р-рнавальна табличка"
 
 #. STRINGS.SKIN_NAMES.minisign_fantasy
 msgctxt "STRINGS.SKIN_NAMES.minisign_fantasy"
@@ -399916,7 +399916,7 @@ msgstr "Модерновий місячний годинник"
 #. STRINGS.SKIN_NAMES.moonstaff_chess
 msgctxt "STRINGS.SKIN_NAMES.moonstaff_chess"
 msgid "Bishop's Moon Staff"
-msgstr ""
+msgstr "Місячний жезл-слон"
 
 #. STRINGS.SKIN_NAMES.moonstaff_crystal
 msgctxt "STRINGS.SKIN_NAMES.moonstaff_crystal"
@@ -399986,7 +399986,7 @@ msgstr "Мозаїчний лампогриб"
 #. STRINGS.SKIN_NAMES.mushroom_light_cawnival
 msgctxt "STRINGS.SKIN_NAMES.mushroom_light_cawnival"
 msgid "Cawnival Egg Lamp"
-msgstr ""
+msgstr "Кар-р-рнавальна яєчна лампа"
 
 #. STRINGS.SKIN_NAMES.mushroom_light_festive
 msgctxt "STRINGS.SKIN_NAMES.mushroom_light_festive"
@@ -400011,7 +400011,7 @@ msgstr "Весела скриня"
 #. STRINGS.SKIN_NAMES.mysterybox_beach
 msgctxt "STRINGS.SKIN_NAMES.mysterybox_beach"
 msgid "Beach Day Chest"
-msgstr ""
+msgstr "Скриня «Пляжний день»"
 
 #. STRINGS.SKIN_NAMES.mysterybox_beards
 msgctxt "STRINGS.SKIN_NAMES.mysterybox_beards"
@@ -400216,7 +400216,7 @@ msgstr "Карамельний дослідник"
 #. STRINGS.SKIN_NAMES.orangestaff_chess
 msgctxt "STRINGS.SKIN_NAMES.orangestaff_chess"
 msgid "Castle Explorer"
-msgstr ""
+msgstr "Замковий дослідник"
 
 #. STRINGS.SKIN_NAMES.orangestaff_harlequin
 msgctxt "STRINGS.SKIN_NAMES.orangestaff_harlequin"
@@ -400246,7 +400246,7 @@ msgstr "Вигадливий дослідник"
 #. STRINGS.SKIN_NAMES.pack_20s_1
 msgctxt "STRINGS.SKIN_NAMES.pack_20s_1"
 msgid "The Roarer Chest"
-msgstr ""
+msgstr "Ревуча скриня"
 
 #. STRINGS.SKIN_NAMES.pack_adventure_1
 msgctxt "STRINGS.SKIN_NAMES.pack_adventure_1"
@@ -400311,22 +400311,22 @@ msgstr "Скриня «Модернова тераса»"
 #. STRINGS.SKIN_NAMES.pack_backpack_crab_resurrected
 msgctxt "STRINGS.SKIN_NAMES.pack_backpack_crab_resurrected"
 msgid "Crabpack Resurrected Chest"
-msgstr "Повернена скриня «Рюкзак-краб»"
+msgstr "Відроджена скриня «Рюкзак-краб»"
 
 #. STRINGS.SKIN_NAMES.pack_backpack_deerclops_resurrected
 msgctxt "STRINGS.SKIN_NAMES.pack_backpack_deerclops_resurrected"
 msgid "Deerclops Duffel Resurrected Chest"
-msgstr "Повернена скриня «Торба-оленециклоп»"
+msgstr "Відроджена скриня «Торба-оленециклоп»"
 
 #. STRINGS.SKIN_NAMES.pack_backpack_glommer_resurrected
 msgctxt "STRINGS.SKIN_NAMES.pack_backpack_glommer_resurrected"
 msgid "Glommer Pack Resurrected Chest"
-msgstr "Повернена скриня «Рюкзак-Ґломмер»"
+msgstr "Відроджена скриня «Рюкзак-Ґломмер»"
 
 #. STRINGS.SKIN_NAMES.pack_backpack_mandrake_resurrected
 msgctxt "STRINGS.SKIN_NAMES.pack_backpack_mandrake_resurrected"
 msgid "Meepsack Resurrected Chest"
-msgstr "Повернена скриня «Ранець-мандрагора»"
+msgstr "Відроджена скриня «Ранець-мандрагора»"
 
 #. STRINGS.SKIN_NAMES.pack_barber_items
 msgctxt "STRINGS.SKIN_NAMES.pack_barber_items"
@@ -400361,7 +400361,7 @@ msgstr "Скриня Кар-р-рнавалу середліття"
 #. STRINGS.SKIN_NAMES.pack_cawnival_items2
 msgctxt "STRINGS.SKIN_NAMES.pack_cawnival_items2"
 msgid "Cawnival Mini-Golf Chest"
-msgstr ""
+msgstr "Скриня «Кар-р-рнавальний мінігольф»"
 
 #. STRINGS.SKIN_NAMES.pack_character_wanda
 msgctxt "STRINGS.SKIN_NAMES.pack_character_wanda"
@@ -400386,12 +400386,12 @@ msgstr "Скриня «Вурт»"
 #. STRINGS.SKIN_NAMES.pack_chess_items
 msgctxt "STRINGS.SKIN_NAMES.pack_chess_items"
 msgid "Chess Chest"
-msgstr ""
+msgstr "Шахова скриня"
 
 #. STRINGS.SKIN_NAMES.pack_chess_shadow
 msgctxt "STRINGS.SKIN_NAMES.pack_chess_shadow"
 msgid "Cursed Chess Chest"
-msgstr ""
+msgstr "Проклята шахова скриня"
 
 #. STRINGS.SKIN_NAMES.pack_constant_bundle
 msgctxt "STRINGS.SKIN_NAMES.pack_constant_bundle"
@@ -400691,7 +400691,7 @@ msgstr "Скриня «Базіка»"
 #. STRINGS.SKIN_NAMES.pack_hallowed_wanda
 msgctxt "STRINGS.SKIN_NAMES.pack_hallowed_wanda"
 msgid "White Rabbit Chest"
-msgstr ""
+msgstr "Скриня «Біла Кролиця»"
 
 #. STRINGS.SKIN_NAMES.pack_hallowed_warly
 msgctxt "STRINGS.SKIN_NAMES.pack_hallowed_warly"
@@ -401046,7 +401046,7 @@ msgstr "Скриня «Місяцеликий WX-78»"
 #. STRINGS.SKIN_NAMES.pack_magician_chest_shadow_resurrected
 msgctxt "STRINGS.SKIN_NAMES.pack_magician_chest_shadow_resurrected"
 msgid "Nightmarish Magician's Chest Resurrected Chest"
-msgstr "Повернена скриня «Скриня кошмарного фокусника»"
+msgstr "Відроджена скриня «Скриня кошмарного фокусника»"
 
 #. STRINGS.SKIN_NAMES.pack_magma_all
 msgctxt "STRINGS.SKIN_NAMES.pack_magma_all"
@@ -401311,77 +401311,77 @@ msgstr "Бібліотечна скриня"
 #. STRINGS.SKIN_NAMES.pack_pirate_1
 msgctxt "STRINGS.SKIN_NAMES.pack_pirate_1"
 msgid "Swashbuckler Loot Chest"
-msgstr "Скриня «Здобич харцизяк»"
+msgstr "Скриня «Здобич паливод»"
 
 #. STRINGS.SKIN_NAMES.pack_pirate_2
 msgctxt "STRINGS.SKIN_NAMES.pack_pirate_2"
 msgid "Swashbuckler Trio Chest"
-msgstr "Скриня «Тріо харцизяк»"
+msgstr "Скриня «Тріо паливод»"
 
 #. STRINGS.SKIN_NAMES.pack_pirate_3
 msgctxt "STRINGS.SKIN_NAMES.pack_pirate_3"
 msgid "Swashbuckler Trio II Chest"
-msgstr "Скриня «Тріо харцизяк II»"
+msgstr "Скриня «Тріо паливод II»"
 
 #. STRINGS.SKIN_NAMES.pack_pirate_4
 msgctxt "STRINGS.SKIN_NAMES.pack_pirate_4"
 msgid "Swashbuckler Trio III Chest"
-msgstr ""
+msgstr "Скриня «Тріо паливод III»"
 
 #. STRINGS.SKIN_NAMES.pack_pirate_all
 msgctxt "STRINGS.SKIN_NAMES.pack_pirate_all"
 msgid "Swashbuckler Survivors Chest"
-msgstr "Скриня «Харцизяки»"
+msgstr "Скриня «Паливоди»"
 
 #. STRINGS.SKIN_NAMES.pack_pirate_all2
 msgctxt "STRINGS.SKIN_NAMES.pack_pirate_all2"
 msgid "Complete Swashbuckler Chest"
-msgstr ""
+msgstr "Повна скриня «Паливоди»"
 
 #. STRINGS.SKIN_NAMES.pack_pirate_warly
 msgctxt "STRINGS.SKIN_NAMES.pack_pirate_warly"
 msgid "Warly Swashbuckler Chest"
-msgstr "Скриня «Харцизяка Варлі»"
+msgstr "Скриня «Паливода Варлі»"
 
 #. STRINGS.SKIN_NAMES.pack_pirate_wathgrithr
 msgctxt "STRINGS.SKIN_NAMES.pack_pirate_wathgrithr"
 msgid "Wigfrid Swashbuckler Chest"
-msgstr "Скриня «Харцизяка Віґфрід»"
+msgstr "Скриня «Паливода Віґфрід»"
 
 #. STRINGS.SKIN_NAMES.pack_pirate_wes
 msgctxt "STRINGS.SKIN_NAMES.pack_pirate_wes"
 msgid "Wes Swashbuckler Chest"
-msgstr "Скриня «Харцизяка Вес»"
+msgstr "Скриня «Паливода Вес»"
 
 #. STRINGS.SKIN_NAMES.pack_pirate_willow
 msgctxt "STRINGS.SKIN_NAMES.pack_pirate_willow"
 msgid "Willow Swashbuckler Chest"
-msgstr "Скриня «Харцизяка Віллоу»"
+msgstr "Скриня «Паливода Віллоу»"
 
 #. STRINGS.SKIN_NAMES.pack_pirate_winona
 msgctxt "STRINGS.SKIN_NAMES.pack_pirate_winona"
 msgid "Winona Swashbuckler Chest"
-msgstr "Скриня «Харцизяка Вінона»"
+msgstr "Скриня «Паливода Вінона»"
 
 #. STRINGS.SKIN_NAMES.pack_pirate_wolfgang
 msgctxt "STRINGS.SKIN_NAMES.pack_pirate_wolfgang"
 msgid "Wolfgang Swashbuckler Chest"
-msgstr "Скриня «Харцизяка Вольфґанґ»"
+msgstr "Скриня «Паливода Вольфґанґ»"
 
 #. STRINGS.SKIN_NAMES.pack_pirate_woodie
 msgctxt "STRINGS.SKIN_NAMES.pack_pirate_woodie"
 msgid "Woodie Swashbuckler Chest"
-msgstr "Скриня «Харцизяка Вуді»"
+msgstr "Скриня «Паливода Вуді»"
 
 #. STRINGS.SKIN_NAMES.pack_pirate_wortox
 msgctxt "STRINGS.SKIN_NAMES.pack_pirate_wortox"
 msgid "Wortox Swashbuckler Chest"
-msgstr "Скриня «Харцизяка Вортокс»"
+msgstr "Скриня «Паливода Вортокс»"
 
 #. STRINGS.SKIN_NAMES.pack_pirate_wurt
 msgctxt "STRINGS.SKIN_NAMES.pack_pirate_wurt"
 msgid "Wurt Swashbuckler Chest"
-msgstr "Скриня «Харцизяка Вурт»"
+msgstr "Скриня «Паливода Вурт»"
 
 #. STRINGS.SKIN_NAMES.pack_relic
 msgctxt "STRINGS.SKIN_NAMES.pack_relic"
@@ -401396,7 +401396,7 @@ msgstr "Реліквійна скриня «Улюблені речі»"
 #. STRINGS.SKIN_NAMES.pack_researchlab2_science_resurrected
 msgctxt "STRINGS.SKIN_NAMES.pack_researchlab2_science_resurrected"
 msgid "All-Chemical Engine Resurrected Chest"
-msgstr "Повернена скриня «Всехімічний рушій»"
+msgstr "Відроджена скриня «Всехімічний рушій»"
 
 #. STRINGS.SKIN_NAMES.pack_retro_items
 msgctxt "STRINGS.SKIN_NAMES.pack_retro_items"
@@ -401451,7 +401451,7 @@ msgstr "Приморська скриня"
 #. STRINGS.SKIN_NAMES.pack_shadowchesspiratewanda
 msgctxt "STRINGS.SKIN_NAMES.pack_shadowchesspiratewanda"
 msgid "Motley Style Chest"
-msgstr ""
+msgstr "Скриня «Строкатий стиль»"
 
 #. STRINGS.SKIN_NAMES.pack_shadow_all
 msgctxt "STRINGS.SKIN_NAMES.pack_shadow_all"
@@ -401461,7 +401461,7 @@ msgstr "Повна скриня «Тріумфатори»"
 #. STRINGS.SKIN_NAMES.pack_shadow_items
 msgctxt "STRINGS.SKIN_NAMES.pack_shadow_items"
 msgid "Cursed Chest"
-msgstr ""
+msgstr "Проклята скриня"
 
 #. STRINGS.SKIN_NAMES.pack_springadventure_items
 msgctxt "STRINGS.SKIN_NAMES.pack_springadventure_items"
@@ -401541,7 +401541,7 @@ msgstr "Скриня «Відпустка на болоті»"
 #. STRINGS.SKIN_NAMES.pack_swamp_bundle
 msgctxt "STRINGS.SKIN_NAMES.pack_swamp_bundle"
 msgid "Swampy Swashbuckler Survivor Vacation Chest"
-msgstr "Скриня «Відпустка на болоті харцизяк-уцілілих»"
+msgstr "Скриня «Відпустка на болоті паливод-уцілілих»"
 
 #. STRINGS.SKIN_NAMES.pack_swamp_items
 msgctxt "STRINGS.SKIN_NAMES.pack_swamp_items"
@@ -401711,7 +401711,7 @@ msgstr "Скриня «Почесний гість Волтер»"
 #. STRINGS.SKIN_NAMES.pack_walter_pirate
 msgctxt "STRINGS.SKIN_NAMES.pack_walter_pirate"
 msgid "Walter Swashbuckler Chest"
-msgstr ""
+msgstr "Скриня «Паливода Волтер»"
 
 #. STRINGS.SKIN_NAMES.pack_walter_rose
 msgctxt "STRINGS.SKIN_NAMES.pack_walter_rose"
@@ -401736,7 +401736,7 @@ msgstr "Скриня «Святкувальник Волтер»"
 #. STRINGS.SKIN_NAMES.pack_wandapluspirates
 msgctxt "STRINGS.SKIN_NAMES.pack_wandapluspirates"
 msgid "Stylish Pirates Chest"
-msgstr ""
+msgstr "Скриня «Модні пірати»"
 
 #. STRINGS.SKIN_NAMES.pack_wanda_deluxe
 msgctxt "STRINGS.SKIN_NAMES.pack_wanda_deluxe"
@@ -401746,7 +401746,7 @@ msgstr "Розширена скриня «Ванда»"
 #. STRINGS.SKIN_NAMES.pack_wanda_deluxe2
 msgctxt "STRINGS.SKIN_NAMES.pack_wanda_deluxe2"
 msgid "Wanda Fashionably Late Wardrobe"
-msgstr ""
+msgstr "«Гардероб Ванди, що вийшов із моди»"
 
 #. STRINGS.SKIN_NAMES.pack_wanda_deluxealt
 msgctxt "STRINGS.SKIN_NAMES.pack_wanda_deluxealt"
@@ -401761,7 +401761,7 @@ msgstr "Скриня «Почесна гостя Ванда»"
 #. STRINGS.SKIN_NAMES.pack_wanda_pirate
 msgctxt "STRINGS.SKIN_NAMES.pack_wanda_pirate"
 msgid "Wanda Swashbuckler Chest"
-msgstr ""
+msgstr "Скриня «Паливода Ванда»"
 
 #. STRINGS.SKIN_NAMES.pack_wanda_rose
 msgctxt "STRINGS.SKIN_NAMES.pack_wanda_rose"
@@ -401781,12 +401781,12 @@ msgstr "Скриня «Майстриня-ремісниця Ванда»"
 #. STRINGS.SKIN_NAMES.pack_wanda_survivor
 msgctxt "STRINGS.SKIN_NAMES.pack_wanda_survivor"
 msgid "Wanda Survivor Chest"
-msgstr ""
+msgstr "Скриня «Вціліла Ванда»"
 
 #. STRINGS.SKIN_NAMES.pack_wanda_victorian
 msgctxt "STRINGS.SKIN_NAMES.pack_wanda_victorian"
 msgid "Wanda Victorian Chest"
-msgstr ""
+msgstr "Скриня «Вікторіанка Ванда»"
 
 #. STRINGS.SKIN_NAMES.pack_wanda_western
 msgctxt "STRINGS.SKIN_NAMES.pack_wanda_western"
@@ -401906,7 +401906,7 @@ msgstr "Скриня «Почесний гість Максвелл»"
 #. STRINGS.SKIN_NAMES.pack_waxwell_pirate
 msgctxt "STRINGS.SKIN_NAMES.pack_waxwell_pirate"
 msgid "Maxwell Swashbuckler Chest"
-msgstr "Скриня «Харцизяка Максвелл»"
+msgstr "Скриня «Паливода Максвелл»"
 
 #. STRINGS.SKIN_NAMES.pack_waxwell_rose
 msgctxt "STRINGS.SKIN_NAMES.pack_waxwell_rose"
@@ -401991,7 +401991,7 @@ msgstr "Скриня «Маскарадник Веббер»"
 #. STRINGS.SKIN_NAMES.pack_webber_pirate
 msgctxt "STRINGS.SKIN_NAMES.pack_webber_pirate"
 msgid "Webber Swashbuckler Chest"
-msgstr "Скриня «Харцизяка Веббер»"
+msgstr "Скриня «Паливода Веббер»"
 
 #. STRINGS.SKIN_NAMES.pack_webber_rose
 msgctxt "STRINGS.SKIN_NAMES.pack_webber_rose"
@@ -402051,7 +402051,7 @@ msgstr "Скриня «Маскарадниця Венді»"
 #. STRINGS.SKIN_NAMES.pack_wendy_pirate
 msgctxt "STRINGS.SKIN_NAMES.pack_wendy_pirate"
 msgid "Wendy Swashbuckler Chest"
-msgstr "Скриня «Харцизяка Венді»"
+msgstr "Скриня «Паливода Венді»"
 
 #. STRINGS.SKIN_NAMES.pack_wendy_rose
 msgctxt "STRINGS.SKIN_NAMES.pack_wendy_rose"
@@ -402161,7 +402161,7 @@ msgstr "Скриня «Літераторка Вікерботтом»"
 #. STRINGS.SKIN_NAMES.pack_wickerbottom_pirate
 msgctxt "STRINGS.SKIN_NAMES.pack_wickerbottom_pirate"
 msgid "Wickerbottom Swashbuckler Chest"
-msgstr "Скриня «Харцизяка Вікерботтом»"
+msgstr "Скриня «Паливода Вікерботтом»"
 
 #. STRINGS.SKIN_NAMES.pack_wickerbottom_rose
 msgctxt "STRINGS.SKIN_NAMES.pack_wickerbottom_rose"
@@ -402246,7 +402246,7 @@ msgstr "Скриня «Дитя лісу Вілсон»"
 #. STRINGS.SKIN_NAMES.pack_wilson_pirate
 msgctxt "STRINGS.SKIN_NAMES.pack_wilson_pirate"
 msgid "Wilson Swashbuckler Chest"
-msgstr "Скриня «Харцизяка Вілсон»"
+msgstr "Скриня «Паливода Вілсон»"
 
 #. STRINGS.SKIN_NAMES.pack_wilson_rose
 msgctxt "STRINGS.SKIN_NAMES.pack_wilson_rose"
@@ -402446,7 +402446,7 @@ msgstr "Скриня «Пустотіл Вормвуд»"
 #. STRINGS.SKIN_NAMES.pack_wormwood_pirate
 msgctxt "STRINGS.SKIN_NAMES.pack_wormwood_pirate"
 msgid "Wormwood Swashbuckler Chest"
-msgstr ""
+msgstr "Скриня «Паливода Вормвуд»"
 
 #. STRINGS.SKIN_NAMES.pack_wormwood_rose
 msgctxt "STRINGS.SKIN_NAMES.pack_wormwood_rose"
@@ -402631,7 +402631,7 @@ msgstr "Скриня «Маскарадник WX-78»"
 #. STRINGS.SKIN_NAMES.pack_wx78_pirate
 msgctxt "STRINGS.SKIN_NAMES.pack_wx78_pirate"
 msgid "WX-78 Swashbuckler Chest"
-msgstr "Скриня «Харцизяка WX-78»"
+msgstr "Скриня «Паливода WX-78»"
 
 #. STRINGS.SKIN_NAMES.pack_wx78_retro
 msgctxt "STRINGS.SKIN_NAMES.pack_wx78_retro"
@@ -402801,7 +402801,7 @@ msgstr "Первісна флейта Пана"
 #. STRINGS.SKIN_NAMES.parasol_polkadot
 msgctxt "STRINGS.SKIN_NAMES.parasol_polkadot"
 msgid "Polka Dot Parasol"
-msgstr ""
+msgstr "Парасолька в крапку"
 
 #. STRINGS.SKIN_NAMES.parasol_spring
 msgctxt "STRINGS.SKIN_NAMES.parasol_spring"
@@ -402916,7 +402916,7 @@ msgstr "Свинячий рюкзак"
 #. STRINGS.SKIN_NAMES.piggyback_shadow
 msgctxt "STRINGS.SKIN_NAMES.piggyback_shadow"
 msgid "Sanguine Pack"
-msgstr ""
+msgstr "Кривавий рюкзак"
 
 #. STRINGS.SKIN_NAMES.pighouse_cabin
 msgctxt "STRINGS.SKIN_NAMES.pighouse_cabin"
@@ -402936,7 +402936,7 @@ msgstr "Лісова хатина"
 #. STRINGS.SKIN_NAMES.pitchfork_fork
 msgctxt "STRINGS.SKIN_NAMES.pitchfork_fork"
 msgid "Giant's Fork"
-msgstr ""
+msgstr "Виделка велета"
 
 #. STRINGS.SKIN_NAMES.pitchfork_invisible
 msgctxt "STRINGS.SKIN_NAMES.pitchfork_invisible"
@@ -403581,12 +403581,12 @@ msgstr "Тло «Зимовий гардероб»"
 #. STRINGS.SKIN_NAMES.playerportrait_bg_wardrobe_insect
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_wardrobe_insect"
 msgid "Butterfly Wardrobe Portrait"
-msgstr ""
+msgstr "Тло «Метеликовий гардероб»"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_waterballoon_insect
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_waterballoon_insect"
 msgid "Bugburst Waterballoon Portrait"
-msgstr ""
+msgstr "Тло «Комашина кулька з водою»"
 
 #. STRINGS.SKIN_NAMES.playerportrait_bg_winter
 msgctxt "STRINGS.SKIN_NAMES.playerportrait_bg_winter"
@@ -404906,7 +404906,7 @@ msgstr "«Кристали»"
 #. STRINGS.SKIN_NAMES.profileflair_wardrobe_insect
 msgctxt "STRINGS.SKIN_NAMES.profileflair_wardrobe_insect"
 msgid "Butterfly Wardrobe"
-msgstr ""
+msgstr "«Метеликовий гардероб»"
 
 #. STRINGS.SKIN_NAMES.profileflair_wardrobe_yule
 msgctxt "STRINGS.SKIN_NAMES.profileflair_wardrobe_yule"
@@ -404916,7 +404916,7 @@ msgstr "«Зимовий гардероб»"
 #. STRINGS.SKIN_NAMES.profileflair_waterballoon_insect
 msgctxt "STRINGS.SKIN_NAMES.profileflair_waterballoon_insect"
 msgid "Bugburst Waterballoon"
-msgstr ""
+msgstr "«Комашина кулька з водою»"
 
 #. STRINGS.SKIN_NAMES.profileflair_watermelonhat_pumpkin
 msgctxt "STRINGS.SKIN_NAMES.profileflair_watermelonhat_pumpkin"
@@ -405251,7 +405251,7 @@ msgstr "Алхімічний стіл"
 #. STRINGS.SKIN_NAMES.researchlab2_chess
 msgctxt "STRINGS.SKIN_NAMES.researchlab2_chess"
 msgid "Royal Alchemy Engine"
-msgstr ""
+msgstr "Королівський алхімічний рушій"
 
 #. STRINGS.SKIN_NAMES.researchlab2_crystal
 msgctxt "STRINGS.SKIN_NAMES.researchlab2_crystal"
@@ -405371,17 +405371,17 @@ msgstr "Торгоцилітатор"
 #. STRINGS.SKIN_NAMES.researchlab4_minigolf_green
 msgctxt "STRINGS.SKIN_NAMES.researchlab4_minigolf_green"
 msgid "Egg Caddycapatator"
-msgstr ""
+msgstr "Зелений гольфокепкотатор"
 
 #. STRINGS.SKIN_NAMES.researchlab4_minigolf_purple
 msgctxt "STRINGS.SKIN_NAMES.researchlab4_minigolf_purple"
 msgid "Bow Caddycapatator"
-msgstr ""
+msgstr "Фіолетовий гольфокепкотатор"
 
 #. STRINGS.SKIN_NAMES.researchlab4_minigolf_red
 msgctxt "STRINGS.SKIN_NAMES.researchlab4_minigolf_red"
 msgid "Flag Caddycapatator"
-msgstr ""
+msgstr "Червоний гольфокепкотатор"
 
 #. STRINGS.SKIN_NAMES.researchlab4_tophat_circus
 msgctxt "STRINGS.SKIN_NAMES.researchlab4_tophat_circus"
@@ -405416,7 +405416,7 @@ msgstr "Престивідьмонатор"
 #. STRINGS.SKIN_NAMES.researchlab_chess
 msgctxt "STRINGS.SKIN_NAMES.researchlab_chess"
 msgid "King's Science Machine"
-msgstr ""
+msgstr "Наукова машина короля"
 
 #. STRINGS.SKIN_NAMES.researchlab_gothic
 msgctxt "STRINGS.SKIN_NAMES.researchlab_gothic"
@@ -405566,7 +405566,7 @@ msgstr "Таємний головний убір"
 #. STRINGS.SKIN_NAMES.ruinshat_chess
 msgctxt "STRINGS.SKIN_NAMES.ruinshat_chess"
 msgid "Cavalier Crown"
-msgstr ""
+msgstr "Корона кавалериста"
 
 #. STRINGS.SKIN_NAMES.ruinsrelic_chair_tesla
 msgctxt "STRINGS.SKIN_NAMES.ruinsrelic_chair_tesla"
@@ -405591,7 +405591,7 @@ msgstr "Палиця шелесту"
 #. STRINGS.SKIN_NAMES.ruins_bat_chess
 msgctxt "STRINGS.SKIN_NAMES.ruins_bat_chess"
 msgid "Chess Club"
-msgstr ""
+msgstr "Шахова палиця"
 
 #. STRINGS.SKIN_NAMES.ruins_bat_heavy
 msgctxt "STRINGS.SKIN_NAMES.ruins_bat_heavy"
@@ -405646,7 +405646,7 @@ msgstr "Темна колона"
 #. STRINGS.SKIN_NAMES.sculptingtable_chess
 msgctxt "STRINGS.SKIN_NAMES.sculptingtable_chess"
 msgid "Piecemaker"
-msgstr ""
+msgstr "Фігуротворець"
 
 #. STRINGS.SKIN_NAMES.sculptingtable_gothic
 msgctxt "STRINGS.SKIN_NAMES.sculptingtable_gothic"
@@ -405706,7 +405706,7 @@ msgstr "Квітчаста лопата"
 #. STRINGS.SKIN_NAMES.shovel_spoon
 msgctxt "STRINGS.SKIN_NAMES.shovel_spoon"
 msgid "Giant's Spoon"
-msgstr ""
+msgstr "Ложка велета"
 
 #. STRINGS.SKIN_NAMES.shovel_victorian
 msgctxt "STRINGS.SKIN_NAMES.shovel_victorian"
@@ -405866,7 +405866,7 @@ msgstr "Джмільний спис"
 #. STRINGS.SKIN_NAMES.spear_chess
 msgctxt "STRINGS.SKIN_NAMES.spear_chess"
 msgid "Royal Spear"
-msgstr ""
+msgstr "Королівський спис"
 
 #. STRINGS.SKIN_NAMES.spear_forge_gungnir
 msgctxt "STRINGS.SKIN_NAMES.spear_forge_gungnir"
@@ -406016,7 +406016,7 @@ msgstr "Старовинний підручний реквізит"
 #. STRINGS.SKIN_NAMES.starstaff_chess
 msgctxt "STRINGS.SKIN_NAMES.starstaff_chess"
 msgid "Blazing Bishop Staff"
-msgstr ""
+msgstr "Пломенистий жезл-слон"
 
 #. STRINGS.SKIN_NAMES.starstaff_crystal
 msgctxt "STRINGS.SKIN_NAMES.starstaff_crystal"
@@ -406051,22 +406051,22 @@ msgstr "Штурвал із крутькальмаром"
 #. STRINGS.SKIN_NAMES.steeringwheel_shadow
 msgctxt "STRINGS.SKIN_NAMES.steeringwheel_shadow"
 msgid "Sanguine Helm"
-msgstr ""
+msgstr "Кривавий штурвал"
 
 #. STRINGS.SKIN_NAMES.steeringwheel_shadow_item
 msgctxt "STRINGS.SKIN_NAMES.steeringwheel_shadow_item"
 msgid "Sanguine Helm"
-msgstr ""
+msgstr "Кривавий штурвал"
 
 #. STRINGS.SKIN_NAMES.steeringwheel_tesla
 msgctxt "STRINGS.SKIN_NAMES.steeringwheel_tesla"
 msgid "Arc Welded Helm"
-msgstr ""
+msgstr "Зварний штурвал"
 
 #. STRINGS.SKIN_NAMES.steeringwheel_tesla_item
 msgctxt "STRINGS.SKIN_NAMES.steeringwheel_tesla_item"
 msgid "Arc Welded Helm"
-msgstr ""
+msgstr "Зварний штурвал"
 
 #. STRINGS.SKIN_NAMES.steeringwheel_wagstaff
 msgctxt "STRINGS.SKIN_NAMES.steeringwheel_wagstaff"
@@ -406226,7 +406226,7 @@ msgstr "Мушлевий сховок риболовок"
 #. STRINGS.SKIN_NAMES.telebase_chess
 msgctxt "STRINGS.SKIN_NAMES.telebase_chess"
 msgid "Royal Position Marker"
-msgstr ""
+msgstr "Королівський місцевказ"
 
 #. STRINGS.SKIN_NAMES.telebase_crystal
 msgctxt "STRINGS.SKIN_NAMES.telebase_crystal"
@@ -406246,7 +406246,7 @@ msgstr "Загадковий маяк"
 #. STRINGS.SKIN_NAMES.telestaff_chess
 msgctxt "STRINGS.SKIN_NAMES.telestaff_chess"
 msgid "Royal Advance Staff"
-msgstr ""
+msgstr "Королівський наступальний жезл"
 
 #. STRINGS.SKIN_NAMES.telestaff_crystal
 msgctxt "STRINGS.SKIN_NAMES.telestaff_crystal"
@@ -406281,7 +406281,7 @@ msgstr "Пляжний намет"
 #. STRINGS.SKIN_NAMES.tent_chess
 msgctxt "STRINGS.SKIN_NAMES.tent_chess"
 msgid "Royal Pavilion"
-msgstr ""
+msgstr "Королівське шатро"
 
 #. STRINGS.SKIN_NAMES.tent_circus
 msgctxt "STRINGS.SKIN_NAMES.tent_circus"
@@ -406306,12 +406306,12 @@ msgstr "Вебвам"
 #. STRINGS.SKIN_NAMES.thurible_chess
 msgctxt "STRINGS.SKIN_NAMES.thurible_chess"
 msgid "Knight's Thurible"
-msgstr ""
+msgstr "Кінське кадило"
 
 #. STRINGS.SKIN_NAMES.thurible_shadow
 msgctxt "STRINGS.SKIN_NAMES.thurible_shadow"
 msgid "Sanguine Thurible"
-msgstr ""
+msgstr "Криваве кадило"
 
 #. STRINGS.SKIN_NAMES.tophat_chef
 msgctxt "STRINGS.SKIN_NAMES.tophat_chef"
@@ -406351,17 +406351,17 @@ msgstr "Циліндр торговця"
 #. STRINGS.SKIN_NAMES.tophat_minigolf_green
 msgctxt "STRINGS.SKIN_NAMES.tophat_minigolf_green"
 msgid "Egg Caddy Cap"
-msgstr ""
+msgstr "Зелена кепка для гольфа"
 
 #. STRINGS.SKIN_NAMES.tophat_minigolf_purple
 msgctxt "STRINGS.SKIN_NAMES.tophat_minigolf_purple"
 msgid "Bow Caddy Cap"
-msgstr ""
+msgstr "Фіолетова кепка для гольфа"
 
 #. STRINGS.SKIN_NAMES.tophat_minigolf_red
 msgctxt "STRINGS.SKIN_NAMES.tophat_minigolf_red"
 msgid "Flag Caddy Cap"
-msgstr ""
+msgstr "Червона кепка для гольфа"
 
 #. STRINGS.SKIN_NAMES.tophat_spiked
 msgctxt "STRINGS.SKIN_NAMES.tophat_spiked"
@@ -406401,7 +406401,7 @@ msgstr "Смолоскип щурквини"
 #. STRINGS.SKIN_NAMES.torch_cawnival
 msgctxt "STRINGS.SKIN_NAMES.torch_cawnival"
 msgid "Cawnival Torch"
-msgstr ""
+msgstr "Кар-р-рнавальний смолоскип"
 
 #. STRINGS.SKIN_NAMES.torch_nautical
 msgctxt "STRINGS.SKIN_NAMES.torch_nautical"
@@ -406736,12 +406736,12 @@ msgstr "Павутинна парасолька"
 #. STRINGS.SKIN_NAMES.voidclothhat_ribbon
 msgctxt "STRINGS.SKIN_NAMES.voidclothhat_ribbon"
 msgid "Infernal Bonnet"
-msgstr ""
+msgstr "Пекельний чепець"
 
 #. STRINGS.SKIN_NAMES.voidclothhat_spooky
 msgctxt "STRINGS.SKIN_NAMES.voidclothhat_spooky"
 msgid "Cursed Cowl"
-msgstr ""
+msgstr "Проклятий каптур"
 
 #. STRINGS.SKIN_NAMES.wagdrone_rolling_fancy
 msgctxt "STRINGS.SKIN_NAMES.wagdrone_rolling_fancy"
@@ -406751,7 +406751,7 @@ msgstr "Золочений теракліщ"
 #. STRINGS.SKIN_NAMES.wagdrone_rolling_fire
 msgctxt "STRINGS.SKIN_NAMES.wagdrone_rolling_fire"
 msgid "Alit Terramite"
-msgstr ""
+msgstr "Вогнистий теракліщ"
 
 #. STRINGS.SKIN_NAMES.wagdrone_rolling_spikey
 msgctxt "STRINGS.SKIN_NAMES.wagdrone_rolling_spikey"
@@ -406966,17 +406966,17 @@ msgstr "Ошатний «таммі»"
 #. STRINGS.SKIN_NAMES.walrushat_minigolf_green
 msgctxt "STRINGS.SKIN_NAMES.walrushat_minigolf_green"
 msgid "Egg Caddy Cap"
-msgstr ""
+msgstr "Зелена кепка для гольфа"
 
 #. STRINGS.SKIN_NAMES.walrushat_minigolf_purple
 msgctxt "STRINGS.SKIN_NAMES.walrushat_minigolf_purple"
 msgid "Bow Caddy Cap"
-msgstr ""
+msgstr "Фіолетова кепка для гольфа"
 
 #. STRINGS.SKIN_NAMES.walrushat_minigolf_red
 msgctxt "STRINGS.SKIN_NAMES.walrushat_minigolf_red"
 msgid "Flag Caddy Cap"
-msgstr ""
+msgstr "Червона кепка для гольфа"
 
 #. STRINGS.SKIN_NAMES.walrushat_party
 msgctxt "STRINGS.SKIN_NAMES.walrushat_party"
@@ -407031,7 +407031,7 @@ msgstr "Хустка шукача пригод"
 #. STRINGS.SKIN_NAMES.walterhat_pirate
 msgctxt "STRINGS.SKIN_NAMES.walterhat_pirate"
 msgid "Pirate's Tricorne"
-msgstr ""
+msgstr "Трикутка пірата"
 
 #. STRINGS.SKIN_NAMES.walterhat_rose
 msgctxt "STRINGS.SKIN_NAMES.walterhat_rose"
@@ -407126,7 +407126,7 @@ msgstr "Волтер"
 #. STRINGS.SKIN_NAMES.walter_pirate
 msgctxt "STRINGS.SKIN_NAMES.walter_pirate"
 msgid "The Swashbuckler"
-msgstr ""
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.walter_rose
 msgctxt "STRINGS.SKIN_NAMES.walter_rose"
@@ -407211,7 +407211,7 @@ msgstr "Основа для Ванди"
 #. STRINGS.SKIN_NAMES.wanda_pirate
 msgctxt "STRINGS.SKIN_NAMES.wanda_pirate"
 msgid "The Swashbuckler"
-msgstr ""
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.wanda_rose
 msgctxt "STRINGS.SKIN_NAMES.wanda_rose"
@@ -407231,12 +407231,12 @@ msgstr "Майстриня-ремісниця"
 #. STRINGS.SKIN_NAMES.wanda_survivor
 msgctxt "STRINGS.SKIN_NAMES.wanda_survivor"
 msgid "The Survivor"
-msgstr ""
+msgstr "Вціліла"
 
 #. STRINGS.SKIN_NAMES.wanda_victorian
 msgctxt "STRINGS.SKIN_NAMES.wanda_victorian"
 msgid "The Victorian"
-msgstr ""
+msgstr "Вікторіанка"
 
 #. STRINGS.SKIN_NAMES.wanda_western
 msgctxt "STRINGS.SKIN_NAMES.wanda_western"
@@ -407246,7 +407246,7 @@ msgstr "Стадниця"
 #. STRINGS.SKIN_NAMES.wanda_whiterabbit
 msgctxt "STRINGS.SKIN_NAMES.wanda_whiterabbit"
 msgid "The White Rabbit"
-msgstr ""
+msgstr "Біла Кролиця"
 
 #. STRINGS.SKIN_NAMES.wanda_yule
 msgctxt "STRINGS.SKIN_NAMES.wanda_yule"
@@ -407276,7 +407276,7 @@ msgstr "Гардероб коханця"
 #. STRINGS.SKIN_NAMES.wardrobe_insect
 msgctxt "STRINGS.SKIN_NAMES.wardrobe_insect"
 msgid "Butterfly Wardrobe"
-msgstr ""
+msgstr "Метеликовий гардероб"
 
 #. STRINGS.SKIN_NAMES.wardrobe_vine
 msgctxt "STRINGS.SKIN_NAMES.wardrobe_vine"
@@ -407356,7 +407356,7 @@ msgstr "Варлі"
 #. STRINGS.SKIN_NAMES.warly_pirate
 msgctxt "STRINGS.SKIN_NAMES.warly_pirate"
 msgid "The Swashbuckler"
-msgstr "Харцизяка"
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.warly_rose
 msgctxt "STRINGS.SKIN_NAMES.warly_rose"
@@ -407386,7 +407386,7 @@ msgstr "Святкувальник"
 #. STRINGS.SKIN_NAMES.waterballoon_insect
 msgctxt "STRINGS.SKIN_NAMES.waterballoon_insect"
 msgid "Bugburst Waterballoon"
-msgstr ""
+msgstr "Комашина кулька з водою"
 
 #. STRINGS.SKIN_NAMES.wateringcan_cactus
 msgctxt "STRINGS.SKIN_NAMES.wateringcan_cactus"
@@ -407546,7 +407546,7 @@ msgstr "Віґфрід"
 #. STRINGS.SKIN_NAMES.wathgrithr_pirate
 msgctxt "STRINGS.SKIN_NAMES.wathgrithr_pirate"
 msgid "The Swashbuckler"
-msgstr "Харцизяка"
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.wathgrithr_rose
 msgctxt "STRINGS.SKIN_NAMES.wathgrithr_rose"
@@ -407686,7 +407686,7 @@ msgstr "Максвелл"
 #. STRINGS.SKIN_NAMES.waxwell_pirate
 msgctxt "STRINGS.SKIN_NAMES.waxwell_pirate"
 msgid "The Swashbuckler"
-msgstr "Харцизяка"
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.waxwell_rose
 msgctxt "STRINGS.SKIN_NAMES.waxwell_rose"
@@ -407811,7 +407811,7 @@ msgstr "Павутинна борода дитяти лісу"
 #. STRINGS.SKIN_NAMES.webber_beard_pirate
 msgctxt "STRINGS.SKIN_NAMES.webber_beard_pirate"
 msgid "Silky Swashbuckler Beard"
-msgstr "Павутинна борода харцизяки"
+msgstr "Павутинна борода паливоди"
 
 #. STRINGS.SKIN_NAMES.webber_beard_punk
 msgctxt "STRINGS.SKIN_NAMES.webber_beard_punk"
@@ -407921,7 +407921,7 @@ msgstr "Веббер"
 #. STRINGS.SKIN_NAMES.webber_pirate
 msgctxt "STRINGS.SKIN_NAMES.webber_pirate"
 msgid "The Swashbuckler"
-msgstr "Харцизяка"
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.webber_punk
 msgctxt "STRINGS.SKIN_NAMES.webber_punk"
@@ -408071,7 +408071,7 @@ msgstr "Венді"
 #. STRINGS.SKIN_NAMES.wendy_pirate
 msgctxt "STRINGS.SKIN_NAMES.wendy_pirate"
 msgid "The Swashbuckler"
-msgstr "Харцизяка"
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.wendy_rose
 msgctxt "STRINGS.SKIN_NAMES.wendy_rose"
@@ -408201,7 +408201,7 @@ msgstr "Вес"
 #. STRINGS.SKIN_NAMES.wes_pirate
 msgctxt "STRINGS.SKIN_NAMES.wes_pirate"
 msgid "The Swashbuckler"
-msgstr "Харцизяка"
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.wes_rose
 msgctxt "STRINGS.SKIN_NAMES.wes_rose"
@@ -408341,7 +408341,7 @@ msgstr "Літераторка"
 #. STRINGS.SKIN_NAMES.wickerbottom_pirate
 msgctxt "STRINGS.SKIN_NAMES.wickerbottom_pirate"
 msgid "The Swashbuckler"
-msgstr "Харцизяка"
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.wickerbottom_rose
 msgctxt "STRINGS.SKIN_NAMES.wickerbottom_rose"
@@ -408481,7 +408481,7 @@ msgstr "Віллоу"
 #. STRINGS.SKIN_NAMES.willow_pirate
 msgctxt "STRINGS.SKIN_NAMES.willow_pirate"
 msgid "The Swashbuckler"
-msgstr "Харцизяка"
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.willow_rose
 msgctxt "STRINGS.SKIN_NAMES.willow_rose"
@@ -408586,7 +408586,7 @@ msgstr "Борода Свинсбері"
 #. STRINGS.SKIN_NAMES.wilson_beard_pirate
 msgctxt "STRINGS.SKIN_NAMES.wilson_beard_pirate"
 msgid "Swashbuckler Beard"
-msgstr "Борода харцизяки"
+msgstr "Борода паливоди"
 
 #. STRINGS.SKIN_NAMES.wilson_beard_rose
 msgctxt "STRINGS.SKIN_NAMES.wilson_beard_rose"
@@ -408701,7 +408701,7 @@ msgstr "Маска Свинсбері"
 #. STRINGS.SKIN_NAMES.wilson_pirate
 msgctxt "STRINGS.SKIN_NAMES.wilson_pirate"
 msgid "The Swashbuckler"
-msgstr "Харцизяка"
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.wilson_rose
 msgctxt "STRINGS.SKIN_NAMES.wilson_rose"
@@ -408911,7 +408911,7 @@ msgstr "Вінона"
 #. STRINGS.SKIN_NAMES.winona_pirate
 msgctxt "STRINGS.SKIN_NAMES.winona_pirate"
 msgid "The Swashbuckler"
-msgstr "Харцизяка"
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.winona_rose
 msgctxt "STRINGS.SKIN_NAMES.winona_rose"
@@ -408986,7 +408986,7 @@ msgstr "Святкувальниця"
 #. STRINGS.SKIN_NAMES.winterhat_bearger
 msgctxt "STRINGS.SKIN_NAMES.winterhat_bearger"
 msgid "Bearger Cap"
-msgstr ""
+msgstr "Борсуковедмежа шапка"
 
 #. STRINGS.SKIN_NAMES.winterhat_black_davys
 msgctxt "STRINGS.SKIN_NAMES.winterhat_black_davys"
@@ -409136,7 +409136,7 @@ msgstr "Вольфґанґ"
 #. STRINGS.SKIN_NAMES.wolfgang_pirate
 msgctxt "STRINGS.SKIN_NAMES.wolfgang_pirate"
 msgid "The Swashbuckler"
-msgstr "Харцизяка"
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.wolfgang_rose
 msgctxt "STRINGS.SKIN_NAMES.wolfgang_rose"
@@ -409296,7 +409296,7 @@ msgstr "Вуді"
 #. STRINGS.SKIN_NAMES.woodie_pirate
 msgctxt "STRINGS.SKIN_NAMES.woodie_pirate"
 msgid "The Swashbuckler"
-msgstr "Харцизяка"
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.woodie_rose
 msgctxt "STRINGS.SKIN_NAMES.woodie_rose"
@@ -409491,7 +409491,7 @@ msgstr "Основа для Вормвуда"
 #. STRINGS.SKIN_NAMES.wormwood_pirate
 msgctxt "STRINGS.SKIN_NAMES.wormwood_pirate"
 msgid "The Swashbuckler"
-msgstr ""
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.wormwood_pumpkin
 msgctxt "STRINGS.SKIN_NAMES.wormwood_pumpkin"
@@ -409611,7 +409611,7 @@ msgstr "Непорочний"
 #. STRINGS.SKIN_NAMES.wortox_pirate
 msgctxt "STRINGS.SKIN_NAMES.wortox_pirate"
 msgid "The Swashbuckler"
-msgstr "Харцизяка"
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.wortox_rose
 msgctxt "STRINGS.SKIN_NAMES.wortox_rose"
@@ -409686,7 +409686,7 @@ msgstr "Основа для Вурт"
 #. STRINGS.SKIN_NAMES.wurt_pirate
 msgctxt "STRINGS.SKIN_NAMES.wurt_pirate"
 msgid "The Swashbuckler"
-msgstr "Харцизяка"
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.wurt_rose
 msgctxt "STRINGS.SKIN_NAMES.wurt_rose"
@@ -409896,7 +409896,7 @@ msgstr ""
 #. STRINGS.SKIN_NAMES.wx78_pirate
 msgctxt "STRINGS.SKIN_NAMES.wx78_pirate"
 msgid "The Swashbuckler"
-msgstr "Харцизяка"
+msgstr "Паливода"
 
 #. STRINGS.SKIN_NAMES.wx78_retro
 msgctxt "STRINGS.SKIN_NAMES.wx78_retro"
@@ -410068,6 +410068,11 @@ msgctxt "STRINGS.SKIN_NAMES.w_radio_basic"
 msgid "B.U.D.D.Y."
 msgstr "Б.А.Д.Д.І."
 
+#. STRINGS.SKIN_QUOTES.walter_20s
+msgctxt "STRINGS.SKIN_QUOTES.walter_20s"
+msgid "\"Eyes on the horizon, Woby!\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.walter_ancient
 msgctxt "STRINGS.SKIN_QUOTES.walter_ancient"
 msgid "\"Where should we go on our next adventure, Woby?\""
@@ -410098,6 +410103,11 @@ msgctxt "STRINGS.SKIN_QUOTES.walter_formal"
 msgid "\"I'd wear it more often, but it's so heavy with all these badges...\""
 msgstr "«Я б вдягався так частіше, проте всі ці нашивки такі важкі...»"
 
+#. STRINGS.SKIN_QUOTES.walter_hazard
+msgctxt "STRINGS.SKIN_QUOTES.walter_hazard"
+msgid "\"Hrrm... mff! Mmmf!\""
+msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
+
 #. STRINGS.SKIN_QUOTES.walter_ice
 msgctxt "STRINGS.SKIN_QUOTES.walter_ice"
 msgid "\"Brrr... it's a good thing you already have your own winter coat, Woby!\""
@@ -410112,6 +410122,11 @@ msgstr "«Стережіться, лиходії, на моєму боці мі�
 msgctxt "STRINGS.SKIN_QUOTES.walter_nature"
 msgid "\"Every story needs a fearless adventurer and their trusty steed!\""
 msgstr "«Кожна історія потребує відважного мандрівця та вірного скакуна!»"
+
+#. STRINGS.SKIN_QUOTES.walter_pirate
+msgctxt "STRINGS.SKIN_QUOTES.walter_pirate"
+msgid "\"Think we'll find a sea-monster, Woby?\""
+msgstr ""
 
 #. STRINGS.SKIN_QUOTES.walter_rose
 msgctxt "STRINGS.SKIN_QUOTES.walter_rose"
@@ -410163,6 +410178,11 @@ msgctxt "STRINGS.SKIN_QUOTES.wanda_formal"
 msgid "\"Nothing is more fashionable than punctuality.\""
 msgstr "«Не існує нічого фешенебельнішого за пунктуальність»."
 
+#. STRINGS.SKIN_QUOTES.wanda_hazard
+msgctxt "STRINGS.SKIN_QUOTES.wanda_hazard"
+msgid "\"Hrrm... mff! Mmmf!\""
+msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
+
 #. STRINGS.SKIN_QUOTES.wanda_ice
 msgctxt "STRINGS.SKIN_QUOTES.wanda_ice"
 msgid "\"Oh botheration, where have I gotten myself this time?\""
@@ -410183,6 +410203,11 @@ msgctxt "STRINGS.SKIN_QUOTES.wanda_nature"
 msgid "\"Time seems to move slower in the depths of the forest.\""
 msgstr "«Таке враження, ніби час плине повільніше у глибинах лісу»."
 
+#. STRINGS.SKIN_QUOTES.wanda_pirate
+msgctxt "STRINGS.SKIN_QUOTES.wanda_pirate"
+msgid "\"I feel adrift on the sea of time.\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.wanda_rose
 msgctxt "STRINGS.SKIN_QUOTES.wanda_rose"
 msgid "\"I suppose I should make time to stop and smell the roses every so often.\""
@@ -410198,10 +410223,25 @@ msgctxt "STRINGS.SKIN_QUOTES.wanda_steampunk"
 msgid "\"Not enough people appreciate the minutiae of temporal tinkering.\""
 msgstr "«Мало хто здатен осягнути всю складність роботи з часом»."
 
+#. STRINGS.SKIN_QUOTES.wanda_survivor
+msgctxt "STRINGS.SKIN_QUOTES.wanda_survivor"
+msgid "\"I just need to get my bearings.\""
+msgstr ""
+
+#. STRINGS.SKIN_QUOTES.wanda_victorian
+msgctxt "STRINGS.SKIN_QUOTES.wanda_victorian"
+msgid "\"Constant travel is no excuse for being underdressed.\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.wanda_western
 msgctxt "STRINGS.SKIN_QUOTES.wanda_western"
 msgid "\"There's always more to do than there is time to do it.\""
 msgstr "«Роботи завжди більше, ніж часу її виконати»."
+
+#. STRINGS.SKIN_QUOTES.wanda_whiterabbit
+msgctxt "STRINGS.SKIN_QUOTES.wanda_whiterabbit"
+msgid "\"I'm late!\""
+msgstr ""
 
 #. STRINGS.SKIN_QUOTES.wanda_yule
 msgctxt "STRINGS.SKIN_QUOTES.wanda_yule"
@@ -410211,7 +410251,7 @@ msgstr "«Як багато іграшок потрібно зробити, і �
 #. STRINGS.SKIN_QUOTES.warly_candyman
 msgctxt "STRINGS.SKIN_QUOTES.warly_candyman"
 msgid "\"I'm thinking of opening a chocolate factory.\""
-msgstr "«Я подумую про відкриття шоколадної фабрики»."
+msgstr "«Я подумую щодо відкриття шоколадної фабрики»."
 
 #. STRINGS.SKIN_QUOTES.warly_carrat
 msgctxt "STRINGS.SKIN_QUOTES.warly_carrat"
@@ -410242,6 +410282,11 @@ msgstr "«Я на морській дієті»."
 msgctxt "STRINGS.SKIN_QUOTES.warly_formal"
 msgid "\"What a treat it is to rub shoulders with the creme de la creme!\""
 msgstr "«Яка насолода бути серед creme de la creme!»"
+
+#. STRINGS.SKIN_QUOTES.warly_hazard
+msgctxt "STRINGS.SKIN_QUOTES.warly_hazard"
+msgid "\"Hrrm... mff! Mmmf!\""
+msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
 
 #. STRINGS.SKIN_QUOTES.warly_ice
 msgctxt "STRINGS.SKIN_QUOTES.warly_ice"
@@ -410337,6 +410382,11 @@ msgstr "«Ми бенкетуватимем, неначе у Вальгаллі!
 msgctxt "STRINGS.SKIN_QUOTES.wathgrithr_gladiator"
 msgid "\"My skill in battle is withöut peer.\""
 msgstr "«Мöїй майстернöсті в бöю немає рівних»."
+
+#. STRINGS.SKIN_QUOTES.wathgrithr_hazard
+msgctxt "STRINGS.SKIN_QUOTES.wathgrithr_hazard"
+msgid "\"Hrrm... mff! Mmmf!\""
+msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
 
 #. STRINGS.SKIN_QUOTES.wathgrithr_ice
 msgctxt "STRINGS.SKIN_QUOTES.wathgrithr_ice"
@@ -410453,6 +410503,11 @@ msgctxt "STRINGS.SKIN_QUOTES.waxwell_gladiator"
 msgid "\"All those who oppose me shall perish!\""
 msgstr "«Кожен, хто стане мені на заваді, загине!»"
 
+#. STRINGS.SKIN_QUOTES.waxwell_hazard
+msgctxt "STRINGS.SKIN_QUOTES.waxwell_hazard"
+msgid "\"Hrrm... mff! Mmmf!\""
+msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
+
 #. STRINGS.SKIN_QUOTES.waxwell_ice
 msgctxt "STRINGS.SKIN_QUOTES.waxwell_ice"
 msgid "\"Nothing personal pal, the ice industry's a cold business.\""
@@ -410508,6 +410563,11 @@ msgctxt "STRINGS.SKIN_QUOTES.waxwell_rosep"
 msgid "\"The thorned rose cannot help but prick. It is its nature.\""
 msgstr "«Колюча троянда не може не колоти. Це її натура»."
 
+#. STRINGS.SKIN_QUOTES.waxwell_spring
+msgctxt "STRINGS.SKIN_QUOTES.waxwell_spring"
+msgid "\"One must either offer a tribute, or become the tribute.\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.waxwell_survivor
 msgctxt "STRINGS.SKIN_QUOTES.waxwell_survivor"
 msgid "\"Say, pal, I don't look so good.\""
@@ -410537,6 +410597,11 @@ msgstr "«Я ніколи не був із тих, хто цурався теа�
 msgctxt "STRINGS.SKIN_QUOTES.waxwell_victorian"
 msgid "\"Hmph.\""
 msgstr "«Кхм-кхм»."
+
+#. STRINGS.SKIN_QUOTES.waxwell_western
+msgctxt "STRINGS.SKIN_QUOTES.waxwell_western"
+msgid "\"You live fast out here... or not at all.\""
+msgstr ""
 
 #. STRINGS.SKIN_QUOTES.waxwell_wizard
 msgctxt "STRINGS.SKIN_QUOTES.waxwell_wizard"
@@ -410593,6 +410658,11 @@ msgctxt "STRINGS.SKIN_QUOTES.webber_gladiator"
 msgid "\"If you fight us, you will lose.\""
 msgstr "«Битимешся з нами — програєш»."
 
+#. STRINGS.SKIN_QUOTES.webber_hazard
+msgctxt "STRINGS.SKIN_QUOTES.webber_hazard"
+msgid "\"Hrrm... mff! Mmmf!\""
+msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
+
 #. STRINGS.SKIN_QUOTES.webber_ice
 msgctxt "STRINGS.SKIN_QUOTES.webber_ice"
 msgid "\"We love playing in the snow!\""
@@ -410647,6 +410717,11 @@ msgstr "«Підходь ближче... ми зголодніли!»"
 msgctxt "STRINGS.SKIN_QUOTES.webber_shadowp"
 msgid "\"Come closer - we are hungry!\""
 msgstr "«Підходь ближче... ми зголодніли!»"
+
+#. STRINGS.SKIN_QUOTES.webber_spring
+msgctxt "STRINGS.SKIN_QUOTES.webber_spring"
+msgid "\"We're going to play until the sun goes down, and then we're going to play some more.\""
+msgstr ""
 
 #. STRINGS.SKIN_QUOTES.webber_survivor
 msgctxt "STRINGS.SKIN_QUOTES.webber_survivor"
@@ -410712,6 +410787,11 @@ msgstr "«Від цього я не відчуваю жодної втіхи»."
 msgctxt "STRINGS.SKIN_QUOTES.wendy_handmedown"
 msgid "\"Abigail and I shared everything.\""
 msgstr "«Ми з Абіґейл завжди всім ділилися»."
+
+#. STRINGS.SKIN_QUOTES.wendy_hazard
+msgctxt "STRINGS.SKIN_QUOTES.wendy_hazard"
+msgid "\"Hrrm... mff! Mmmf!\""
+msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
 
 #. STRINGS.SKIN_QUOTES.wendy_ice
 msgctxt "STRINGS.SKIN_QUOTES.wendy_ice"
@@ -410822,6 +410902,11 @@ msgstr "«Навіть я час від часу розпускаю волосс
 msgctxt "STRINGS.SKIN_QUOTES.wickerbottom_gladiator"
 msgid "\"Goodness gracious, it seems you've been annihilated.\""
 msgstr "«Сили небесні, та від тебе й волосини не лишилось»."
+
+#. STRINGS.SKIN_QUOTES.wickerbottom_hazard
+msgctxt "STRINGS.SKIN_QUOTES.wickerbottom_hazard"
+msgid "\"Hrrm... mff! Mmmf!\""
+msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
 
 #. STRINGS.SKIN_QUOTES.wickerbottom_ice
 msgctxt "STRINGS.SKIN_QUOTES.wickerbottom_ice"
@@ -410973,6 +411058,11 @@ msgctxt "STRINGS.SKIN_QUOTES.willow_haunteddoll"
 msgid "\"Why did you leave me?\""
 msgstr "«Чому мене покинули?»"
 
+#. STRINGS.SKIN_QUOTES.willow_hazard
+msgctxt "STRINGS.SKIN_QUOTES.willow_hazard"
+msgid "\"Hrrm... mff! Mmmf!\""
+msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
+
 #. STRINGS.SKIN_QUOTES.willow_ice
 msgctxt "STRINGS.SKIN_QUOTES.willow_ice"
 msgid "\"Why couldn't it be warm fire?\""
@@ -411023,6 +411113,11 @@ msgctxt "STRINGS.SKIN_QUOTES.willow_shadowp"
 msgid "\"Shadows are just inverted flames.\""
 msgstr "«Тіні — це просто вогонь навпаки»."
 
+#. STRINGS.SKIN_QUOTES.willow_spring
+msgctxt "STRINGS.SKIN_QUOTES.willow_spring"
+msgid "\"That village was burnt before I got there.\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.willow_survivor
 msgctxt "STRINGS.SKIN_QUOTES.willow_survivor"
 msgid "\"Surviving just requires strength of will. (And fire.)\""
@@ -411072,6 +411167,11 @@ msgstr "«Ненавиджу вечірки»."
 msgctxt "STRINGS.SKIN_QUOTES.wilson_gladiator"
 msgid "\"I've the brains AND the brawn.\""
 msgstr "«Я сильний не тільки розумом, а й тілом»."
+
+#. STRINGS.SKIN_QUOTES.wilson_hazard
+msgctxt "STRINGS.SKIN_QUOTES.wilson_hazard"
+msgid "\"Hrrm... mff! Mmmf!\""
+msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
 
 #. STRINGS.SKIN_QUOTES.wilson_ice
 msgctxt "STRINGS.SKIN_QUOTES.wilson_ice"
@@ -411143,6 +411243,11 @@ msgctxt "STRINGS.SKIN_QUOTES.wilson_shadowp"
 msgid "\"Mwahahaha!\""
 msgstr "«Муа-ха-ха-ха!»"
 
+#. STRINGS.SKIN_QUOTES.wilson_spring
+msgctxt "STRINGS.SKIN_QUOTES.wilson_spring"
+msgid "\"No! I'm the village GENIUS!\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.wilson_survivor
 msgctxt "STRINGS.SKIN_QUOTES.wilson_survivor"
 msgid "\"There is a scientific solution, here. I know it.\""
@@ -411162,6 +411267,11 @@ msgstr "«Коренем усіх недуг є дисбаланс чотирь�
 msgctxt "STRINGS.SKIN_QUOTES.wilson_yule"
 msgid "\"After some experimentation, I've discovered the perfect ratio of holly and jolly.\""
 msgstr "«Після проведення дослідів я віднайшов ідеальне співвідношення між святковістю й різдвяністю»."
+
+#. STRINGS.SKIN_QUOTES.winona_20s
+msgctxt "STRINGS.SKIN_QUOTES.winona_20s"
+msgid "\"There's a time to work, and a time to Charleston!\""
+msgstr ""
 
 #. STRINGS.SKIN_QUOTES.winona_ancient
 msgctxt "STRINGS.SKIN_QUOTES.winona_ancient"
@@ -411218,6 +411328,11 @@ msgctxt "STRINGS.SKIN_QUOTES.winona_grassgecko_p"
 msgid "\"Heh heh, this thing's itchy.\""
 msgstr ""
 
+#. STRINGS.SKIN_QUOTES.winona_hazard
+msgctxt "STRINGS.SKIN_QUOTES.winona_hazard"
+msgid "\"Hrrm... mff! Mmmf!\""
+msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
+
 #. STRINGS.SKIN_QUOTES.winona_ice
 msgctxt "STRINGS.SKIN_QUOTES.winona_ice"
 msgid "\"There'll be no slip-ups while I'm in charge!\""
@@ -411266,6 +411381,11 @@ msgstr ""
 #. STRINGS.SKIN_QUOTES.winona_shadowp
 msgctxt "STRINGS.SKIN_QUOTES.winona_shadowp"
 msgid "\"You are but a cog in my machine.\""
+msgstr ""
+
+#. STRINGS.SKIN_QUOTES.winona_spring
+msgctxt "STRINGS.SKIN_QUOTES.winona_spring"
+msgid "\"So... does anyone work around here, or is it all festival all the time?\""
 msgstr ""
 
 #. STRINGS.SKIN_QUOTES.winona_survivor
@@ -411322,6 +411442,11 @@ msgstr "«Я намастив вуса особливим воском»."
 msgctxt "STRINGS.SKIN_QUOTES.wolfgang_gladiator"
 msgid "\"You will kneel before might of Wolfgang!\""
 msgstr "«Усі падатимуть на коліна перед могутністю Вольфґанґа!»"
+
+#. STRINGS.SKIN_QUOTES.wolfgang_hazard
+msgctxt "STRINGS.SKIN_QUOTES.wolfgang_hazard"
+msgid "\"Hrrm... mff! Mmmf!\""
+msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
 
 #. STRINGS.SKIN_QUOTES.wolfgang_ice
 msgctxt "STRINGS.SKIN_QUOTES.wolfgang_ice"
@@ -411403,6 +411528,11 @@ msgctxt "STRINGS.SKIN_QUOTES.wolfgang_walrus_p"
 msgid "\"Wolfgang is large moustache man! Ha ha!\""
 msgstr "«Вольфґанґ — великий вусатий чолов'яга! Ха-ха!»"
 
+#. STRINGS.SKIN_QUOTES.wolfgang_western
+msgctxt "STRINGS.SKIN_QUOTES.wolfgang_western"
+msgid "\"Wolfgang is mighty man of the land!\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.wolfgang_wolfman
 msgctxt "STRINGS.SKIN_QUOTES.wolfgang_wolfman"
 msgid "\"Something is different... Wolfgang's head feels fuzzy...\""
@@ -411447,6 +411577,11 @@ msgstr ""
 msgctxt "STRINGS.SKIN_QUOTES.woodie_gladiator"
 msgid "\"Don't start a tussle you can't finish.\""
 msgstr ""
+
+#. STRINGS.SKIN_QUOTES.woodie_hazard
+msgctxt "STRINGS.SKIN_QUOTES.woodie_hazard"
+msgid "\"Hrrm... mff! Mmmf!\""
+msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
 
 #. STRINGS.SKIN_QUOTES.woodie_hippie
 msgctxt "STRINGS.SKIN_QUOTES.woodie_hippie"
@@ -411558,6 +411693,11 @@ msgctxt "STRINGS.SKIN_QUOTES.wormwood_formal"
 msgid "\"Much, much handsome\""
 msgstr "«Дуже-дуже красивий»"
 
+#. STRINGS.SKIN_QUOTES.wormwood_hazard
+msgctxt "STRINGS.SKIN_QUOTES.wormwood_hazard"
+msgid "\"Hrrm... mff! Mmmf!\""
+msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
+
 #. STRINGS.SKIN_QUOTES.wormwood_ice
 msgctxt "STRINGS.SKIN_QUOTES.wormwood_ice"
 msgid "\"Ch-chilly...\""
@@ -411577,6 +411717,11 @@ msgstr "«У печера самотньо»"
 msgctxt "STRINGS.SKIN_QUOTES.wormwood_nature"
 msgid "\"Into woods, follow!\""
 msgstr "«У ліс... пішли!»"
+
+#. STRINGS.SKIN_QUOTES.wormwood_pirate
+msgctxt "STRINGS.SKIN_QUOTES.wormwood_pirate"
+msgid "\"Thanks, sea friends!\""
+msgstr ""
 
 #. STRINGS.SKIN_QUOTES.wormwood_pumpkin
 msgctxt "STRINGS.SKIN_QUOTES.wormwood_pumpkin"
@@ -411637,6 +411782,11 @@ msgstr ""
 msgctxt "STRINGS.SKIN_QUOTES.wortox_formal"
 msgid "\"Charmed, I'm sure.\""
 msgstr ""
+
+#. STRINGS.SKIN_QUOTES.wortox_hazard
+msgctxt "STRINGS.SKIN_QUOTES.wortox_hazard"
+msgid "\"Hrrm... mff! Mmmf!\""
+msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
 
 #. STRINGS.SKIN_QUOTES.wortox_ice
 msgctxt "STRINGS.SKIN_QUOTES.wortox_ice"
@@ -411728,6 +411878,11 @@ msgctxt "STRINGS.SKIN_QUOTES.wurt_formal"
 msgid "\"Frilly and gilly, florp!\""
 msgstr "«Гарна та ошатна, блоб!»"
 
+#. STRINGS.SKIN_QUOTES.wurt_hazard
+msgctxt "STRINGS.SKIN_QUOTES.wurt_hazard"
+msgid "\"Hrrm... mff! Mmmf!\""
+msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
+
 #. STRINGS.SKIN_QUOTES.wurt_ice
 msgctxt "STRINGS.SKIN_QUOTES.wurt_ice"
 msgid "\"Maybe fluff okay for wintertime, but scales better all other times!\""
@@ -411793,10 +411948,20 @@ msgctxt "STRINGS.SKIN_QUOTES.wurt_victorian"
 msgid "\"What... happening...? Feel... strange...\""
 msgstr "«Що... що це таке?.. Мені... дивно...»"
 
+#. STRINGS.SKIN_QUOTES.wurt_western
+msgctxt "STRINGS.SKIN_QUOTES.wurt_western"
+msgid "\"Yeee-flurp!\""
+msgstr ""
+
 #. STRINGS.SKIN_QUOTES.wurt_yule
 msgctxt "STRINGS.SKIN_QUOTES.wurt_yule"
 msgid "\"Am sugarplum fairy, florp. Gimme plums!\""
 msgstr "«Я — фея Драже, блоб. Дайте драже!»"
+
+#. STRINGS.SKIN_QUOTES.wx78_ancient
+msgctxt "STRINGS.SKIN_QUOTES.wx78_ancient"
+msgid "\"BOW BEFORE ME, FLESHLINGS!\""
+msgstr ""
 
 #. STRINGS.SKIN_QUOTES.wx78_combatant
 msgctxt "STRINGS.SKIN_QUOTES.wx78_combatant"
@@ -411822,6 +411987,11 @@ msgstr "\"ХОДОВУ ЧАСТИНУ БУЛО ВІДПОЛІРОВАНО З Н�
 msgctxt "STRINGS.SKIN_QUOTES.wx78_gladiator"
 msgid "\"ALL FLESHLINGS WILL BE CRUSHED\""
 msgstr "\"УСІХ М'ЯСОТІЛИХ БУДЕ РОЗЧАВЛЕНО\""
+
+#. STRINGS.SKIN_QUOTES.wx78_hazard
+msgctxt "STRINGS.SKIN_QUOTES.wx78_hazard"
+msgid "\"Hrrm... mff! Mmmf!\""
+msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
 
 #. STRINGS.SKIN_QUOTES.wx78_ice
 msgctxt "STRINGS.SKIN_QUOTES.wx78_ice"
@@ -412116,7 +412286,7 @@ msgstr "Колекція шеф-кухаря"
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CHESS
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CHESS"
 msgid "Royal Collection"
-msgstr ""
+msgstr "Королівська колекція"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CIRCUS
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.CIRCUS"
@@ -412296,7 +412466,7 @@ msgstr "Мушлева колекція"
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.PIRATE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.PIRATE"
 msgid "Swashbuckler Collection"
-msgstr "Колекція харцизяки"
+msgstr "Колекція паливоди"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.PLANETS
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.COLLECTION.PLANETS"
@@ -412611,7 +412781,7 @@ msgstr "Броня ночі"
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARMOR_VOIDCLOTH
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARMOR_VOIDCLOTH"
 msgid "Void Robe"
-msgstr ""
+msgstr "Мантія порожнечі"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARROWSIGN_POST
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.ARROWSIGN_POST"
@@ -413496,7 +413666,7 @@ msgstr "Намет"
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.THURIBLE
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.THURIBLE"
 msgid "Shadow Thurible"
-msgstr ""
+msgstr "Тіньове кадило"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.TOPHAT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.TOPHAT"
@@ -413556,7 +413726,7 @@ msgstr "Парасолька"
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.VOIDCLOTHHAT
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.VOIDCLOTHHAT"
 msgid "Void Cowl"
-msgstr ""
+msgstr "Каптур порожнечі"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WAGDRONE_ROLLING
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WAGDRONE_ROLLING"
@@ -413621,7 +413791,7 @@ msgstr "Гардероб"
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WATERBALLOON
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WATERBALLOON"
 msgid "Waterballoon"
-msgstr ""
+msgstr "Кулька з водою"
 
 #. STRINGS.SKIN_TAG_CATEGORIES.ITEM.WATERINGCAN
 msgctxt "STRINGS.SKIN_TAG_CATEGORIES.ITEM.WATERINGCAN"
@@ -420356,7 +420526,7 @@ msgstr "Цю цікавинку можна розіткати в {doodad_value} 
 #. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_GRIND_ENTITLEMENT
 msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_GRIND_ENTITLEMENT"
 msgid "Note: {entitlement_count} of the {total_owned} selected curio is linked to an owned DLC or a past event and can not be unraveled."
-msgstr ""
+msgstr "Примітка: {entitlement_count} із {total_owned} вибраних цікавинок пов'язані з придбаним DLC або минулою подією, тому їх не можна розіткати."
 
 #. STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NEVER
 msgctxt "STRINGS.UI.BARTERSCREEN.COMMERCE_INFO_NOBUY_NEVER"
@@ -420386,7 +420556,7 @@ msgstr "Використати {doodad_count} шпульок, щоб зітка�
 #. STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_DUPES_FMT
 msgctxt "STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_DUPES_FMT"
 msgid "Unravel {count} duplicates into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools."
-msgstr "Розіткати {count} копії у {doodad_count} шпульок?\n\nЗагалом ви матимете {doodad_net} шпульок."
+msgstr "Розіткати наступну кількість копій ({count}) у {doodad_count} шпульок?\n\nЗагалом ви матимете {doodad_net} шпульок."
 
 #. STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_DUPE_FMT
 msgctxt "STRINGS.UI.BARTERSCREEN.CONFIRM_GRIND_DUPE_FMT"
@@ -420411,7 +420581,7 @@ msgstr "Помилка з'єднання"
 #. STRINGS.UI.BARTERSCREEN.FAIL_BUY_FMT
 msgctxt "STRINGS.UI.BARTERSCREEN.FAIL_BUY_FMT"
 msgid "{doodad_count} Spools are required to weave item: {item_name}.\n\nYou need {doodad_net} more Spool(s) to weave this item.\nSpools can be obtained by unraveling curios."
-msgstr "Щоб зіткати {item_name} потрібно {doodad_count} шпульок.\nВам потрібно ще {doodad_net} шпульок, щоб зіткати цей предмет.\nШпульки можна отримати, розіткавши цікавинки."
+msgstr "Щоб зіткати {item_name}, потрібно {doodad_count} шпульок.\n\nВам бракує {doodad_net} шпульок.\nШпульки можна отримати за розіткання цікавинок."
 
 #. STRINGS.UI.BARTERSCREEN.NO_MARKET
 msgctxt "STRINGS.UI.BARTERSCREEN.NO_MARKET"
@@ -420431,12 +420601,12 @@ msgstr "Ткацький верстат цікавинок"
 #. STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_BODY
 msgctxt "STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_BODY"
 msgid "Unraveling this item will break your {ensemble_name} and cause you to lose access to the Reward item, {reward_name}."
-msgstr "Розіткання цього предмета знищить {ensemble_name}, через що ви втратите доступ до нагороди {reward_name}."
+msgstr "Розіткання цього предмета розірве комплект {ensemble_name}, через що ви втратите доступ до нагороди {reward_name}."
 
 #. STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_RESTRICTED_BODY
 msgctxt "STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_RESTRICTED_BODY"
 msgid "You will no longer be able to play as {character} if you unravel this item. You'll also lose access to all the items you own that are character-specific to {character}, although you'll be able to unravel them, if you wish."
-msgstr "Ви не зможете грати за {character}, якщо розітчете цей предмет. Опріч того, ви втратите доступ до всіх предметів, які належать {character}, хоча й зможете їх за бажанням розіткати."
+msgstr "Ви більше не зможете грати за {character}, якщо розітчете цей предмет. Також ви втратите доступ до всіх предметів, призначених лише для {character}, але за бажанням зможете їх розіткати."
 
 #. STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_TITLE
 msgctxt "STRINGS.UI.BARTERSCREEN.UNRAVEL_WARNING_TITLE"
@@ -420446,57 +420616,57 @@ msgstr "Увага!"
 #. STRINGS.UI.BARTER_QUEUE.CANCEL
 msgctxt "STRINGS.UI.BARTER_QUEUE.CANCEL"
 msgid "Stopping..."
-msgstr ""
+msgstr "Зупинка..."
 
 #. STRINGS.UI.BARTER_QUEUE.TOOLTIP_CANCEL
 msgctxt "STRINGS.UI.BARTER_QUEUE.TOOLTIP_CANCEL"
 msgid "Stop unraveling duplicate items"
-msgstr ""
+msgstr "Зупинити розіткання копій"
 
 #. STRINGS.UI.BARTER_QUEUE.TOOLTIP_UNRAVEL
 msgctxt "STRINGS.UI.BARTER_QUEUE.TOOLTIP_UNRAVEL"
 msgid "Unravel all duplicate items"
-msgstr ""
+msgstr "Розіткати всі копії"
 
 #. STRINGS.UI.BARTER_QUEUE.TOOLTIP_UNRAVEL_DISABLED
 msgctxt "STRINGS.UI.BARTER_QUEUE.TOOLTIP_UNRAVEL_DISABLED"
 msgid "No duplicate items to unravel"
-msgstr ""
+msgstr "Немає копій для розіткання"
 
 #. STRINGS.UI.BARTER_QUEUE.UNRAVEL_COMMAND
 msgctxt "STRINGS.UI.BARTER_QUEUE.UNRAVEL_COMMAND"
 msgid "Unraveling {skin_name}"
-msgstr ""
+msgstr "Розіткуємо {skin_name}"
 
 #. STRINGS.UI.BARTER_QUEUE.UNRAVEL_DUPES_BODY
 msgctxt "STRINGS.UI.BARTER_QUEUE.UNRAVEL_DUPES_BODY"
 msgid "Unravel {count} duplicates into {doodad_count} Spools?\n\nYou will have a total of {doodad_net} Spools."
-msgstr ""
+msgstr "Розіткати наступну кількість копій ({count}) у {doodad_count} шпульок?\n\nЗагалом ви матимете {doodad_net} шпульок."
 
 #. STRINGS.UI.BARTER_QUEUE.UNRAVEL_DUPES_NO
 msgctxt "STRINGS.UI.BARTER_QUEUE.UNRAVEL_DUPES_NO"
 msgid "Never mind"
-msgstr ""
+msgstr "Байдуже"
 
 #. STRINGS.UI.BARTER_QUEUE.UNRAVEL_DUPES_TITLE
 msgctxt "STRINGS.UI.BARTER_QUEUE.UNRAVEL_DUPES_TITLE"
 msgid "Unravel Duplicate Skins?"
-msgstr ""
+msgstr "Розіткати копії?"
 
 #. STRINGS.UI.BARTER_QUEUE.UNRAVEL_DUPES_YES
 msgctxt "STRINGS.UI.BARTER_QUEUE.UNRAVEL_DUPES_YES"
 msgid "Unravel!"
-msgstr ""
+msgstr "Розіткати!"
 
 #. STRINGS.UI.BARTER_QUEUE.UNRAVEL_ERROR_BODY
 msgctxt "STRINGS.UI.BARTER_QUEUE.UNRAVEL_ERROR_BODY"
 msgid "Something went wrong, please try again later"
-msgstr ""
+msgstr "Щось пішло не так. Спробуйте ще раз пізніше."
 
 #. STRINGS.UI.BARTER_QUEUE.UNRAVEL_ERROR_TITLE
 msgctxt "STRINGS.UI.BARTER_QUEUE.UNRAVEL_ERROR_TITLE"
 msgid "Unexpected Error"
-msgstr ""
+msgstr "Несподівана помилка"
 
 #. STRINGS.UI.BEARDSCREEN.BEARD_NAMES.1
 msgctxt "STRINGS.UI.BEARDSCREEN.BEARD_NAMES.1"
@@ -420686,12 +420856,12 @@ msgstr "Дивитися трансляцію"
 #. STRINGS.UI.BROADCASTING.WEBCAM
 msgctxt "STRINGS.UI.BROADCASTING.WEBCAM"
 msgid "Webcam Enabled"
-msgstr "Камера ввімкнена"
+msgstr "Вебкамера ввімкнена"
 
 #. STRINGS.UI.BROADCASTING.WEBCAMALPHA
 msgctxt "STRINGS.UI.BROADCASTING.WEBCAMALPHA"
 msgid "Webcam Alpha"
-msgstr "Основна камера"
+msgstr "Альфа-канал вебкамери"
 
 #. STRINGS.UI.BROADCASTING.YES
 msgctxt "STRINGS.UI.BROADCASTING.YES"
@@ -420916,7 +421086,7 @@ msgstr "Чи слід нам перегенерувати світ?"
 #. STRINGS.UI.BUILTINCOMMANDS.RESCUE.DESC
 msgctxt "STRINGS.UI.BUILTINCOMMANDS.RESCUE.DESC"
 msgid "If you ever find yourself stuck in the void, this will put you back on land."
-msgstr "Якщо ви колись застрягнете у безодні, це поверне вас назад на землю."
+msgstr "Якщо ви раптом застрягнете в безодні, це поверне вас назад на землю."
 
 #. STRINGS.UI.BUILTINCOMMANDS.RESCUE.PRETTYNAME
 msgctxt "STRINGS.UI.BUILTINCOMMANDS.RESCUE.PRETTYNAME"
@@ -420936,7 +421106,7 @@ msgstr "Скинути"
 #. STRINGS.UI.BUILTINCOMMANDS.ROLL.DESC
 msgctxt "STRINGS.UI.BUILTINCOMMANDS.ROLL.DESC"
 msgid "Random dice roll from 1 to 100."
-msgstr "Випадкове число від 1 до 100."
+msgstr "Випадковий кидок від 1 до 100."
 
 #. STRINGS.UI.BUILTINCOMMANDS.ROLL.PRETTYNAME
 msgctxt "STRINGS.UI.BUILTINCOMMANDS.ROLL.PRETTYNAME"
@@ -420946,7 +421116,7 @@ msgstr "Кинути кості"
 #. STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.DESC
 msgctxt "STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.DESC"
 msgid "Rollback the server to a previous save."
-msgstr "Відновлення сервера до попереднього збереження."
+msgstr "Повертає сервер до попереднього збереження."
 
 #. STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.PRETTYNAME
 msgctxt "STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.PRETTYNAME"
@@ -421456,7 +421626,7 @@ msgstr "Наблизити"
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.101
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.101"
 msgid "Toggle Alignment (mod)"
-msgstr "Перемкнути вирівнювання (модифікатор)"
+msgstr "Перемк. вирівнювання (модифікатор)"
 
 #. STRINGS.UI.CONTROLSSCREEN.CONTROLS.102
 msgctxt "STRINGS.UI.CONTROLSSCREEN.CONTROLS.102"
@@ -422156,7 +422326,7 @@ msgstr ""
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.273
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.273"
 msgid "Up"
-msgstr "Догори"
+msgstr "Вгору"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.274
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.274"
@@ -422506,7 +422676,7 @@ msgstr ""
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.91
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.91"
 msgid "Left Bracket"
-msgstr "Ліва дужка"
+msgstr "["
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.92
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.92"
@@ -422516,7 +422686,7 @@ msgstr "\\"
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.93
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.93"
 msgid "Right Bracket"
-msgstr "Права дужка"
+msgstr "]"
 
 #. STRINGS.UI.CONTROLSSCREEN.INPUTS.1.96
 msgctxt "STRINGS.UI.CONTROLSSCREEN.INPUTS.1.96"
@@ -422836,7 +423006,7 @@ msgstr ""
 #. STRINGS.UI.CONTROLSSCREEN.OVERRIDE_CONTROL_NAMES.CAMERA
 msgctxt "STRINGS.UI.CONTROLSSCREEN.OVERRIDE_CONTROL_NAMES.CAMERA"
 msgid "Camera Control"
-msgstr ""
+msgstr "Керування камерою"
 
 #. STRINGS.UI.CONTROLSSCREEN.OVERRIDE_CONTROL_NAMES.INV_ACTIONS
 msgctxt "STRINGS.UI.CONTROLSSCREEN.OVERRIDE_CONTROL_NAMES.INV_ACTIONS"
@@ -422851,12 +423021,12 @@ msgstr "Переміщення речей"
 #. STRINGS.UI.CONTROLSSCREEN.OVERRIDE_CONTROL_NAMES.MAP_ROTATE_LEFT
 msgctxt "STRINGS.UI.CONTROLSSCREEN.OVERRIDE_CONTROL_NAMES.MAP_ROTATE_LEFT"
 msgid "Map Rotate Left"
-msgstr ""
+msgstr "Повернути мапу ліворуч"
 
 #. STRINGS.UI.CONTROLSSCREEN.OVERRIDE_CONTROL_NAMES.MAP_ROTATE_RIGHT
 msgctxt "STRINGS.UI.CONTROLSSCREEN.OVERRIDE_CONTROL_NAMES.MAP_ROTATE_RIGHT"
 msgid "Map Rotate Right"
-msgstr ""
+msgstr "Повернути мапу праворуч"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.CIRCLE
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.CIRCLE"
@@ -422926,7 +423096,7 @@ msgstr "Керувати речами"
 #. STRINGS.UI.CONTROLSSCREEN.PS4.R3
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.R3"
 msgid "Social Menu"
-msgstr "Загальне меню"
+msgstr "Меню спілкування"
 
 #. STRINGS.UI.CONTROLSSCREEN.PS4.RSTICK
 msgctxt "STRINGS.UI.CONTROLSSCREEN.PS4.RSTICK"
@@ -423846,7 +424016,7 @@ msgstr "Виростити"
 #. STRINGS.UI.CRAFTING.RECIPEACTION.HERMITCRABSHOP
 msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.HERMITCRABSHOP"
 msgid "Trade"
-msgstr ""
+msgstr "Обмін"
 
 #. STRINGS.UI.CRAFTING.RECIPEACTION.MADSCIENCE
 msgctxt "STRINGS.UI.CRAFTING.RECIPEACTION.MADSCIENCE"
@@ -424251,7 +424421,7 @@ msgstr "Обмін пляшок"
 #. STRINGS.UI.CRAFTING_STATION_FILTERS.HERMITCRAB_TEASHOP
 msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.HERMITCRAB_TEASHOP"
 msgid "Tea Brewing"
-msgstr ""
+msgstr "Заварювання чаїв"
 
 #. STRINGS.UI.CRAFTING_STATION_FILTERS.LUNARFORGING
 msgctxt "STRINGS.UI.CRAFTING_STATION_FILTERS.LUNARFORGING"
@@ -425676,7 +425846,7 @@ msgstr "Косяки риб"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.FISSURE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FISSURE"
 msgid "Nightmare Fissures"
-msgstr "Жахливі проломи"
+msgstr "Розломи жаху"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.FLINT
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.FLINT"
@@ -425806,7 +425976,7 @@ msgstr "Вузли"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.PREFABSWAPS_START
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.PREFABSWAPS_START"
 msgid "Starting Resource Variety"
-msgstr "Різномаїття стартових ресурсів"
+msgstr "Різномаїття початк. ресурсів"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.SEASON_START
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.SEASON_START"
@@ -426331,7 +426501,7 @@ msgstr "Зміна ресурсів"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PREFABSWAPS_START
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PREFABSWAPS_START"
 msgid "Starting Resource Variety"
-msgstr "Різномаїття стартових ресурсів"
+msgstr "Різномаїття початк. ресурсів"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETEXISTS_BODY
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETEXISTS_BODY"
@@ -426676,22 +426846,22 @@ msgstr "Скасувати зміни"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_ENABLED
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_ENABLED"
 msgid "Wild Rifts"
-msgstr "Дикі розломи"
+msgstr "Стихійні розломи"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_ENABLED_CAVE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_ENABLED_CAVE"
 msgid "Wild Rifts"
-msgstr "Дикі розломи"
+msgstr "Стихійні розломи"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_FREQUENCY
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_FREQUENCY"
 msgid "Wild Rift Frequency"
-msgstr "Частота диких розломів"
+msgstr "Частота стихійних розломів"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_FREQUENCY_CAVE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.RIFTS_FREQUENCY_CAVE"
 msgid "Wild Rift Frequency"
-msgstr "Частота диких розломів"
+msgstr "Частота стихійних розломів"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.ROADS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ROADS"
@@ -427281,7 +427451,7 @@ msgstr "Роздягнуто {name}"
 #. STRINGS.UI.DRONE_ZAP_OVERLAY.ATTACK
 msgctxt "STRINGS.UI.DRONE_ZAP_OVERLAY.ATTACK"
 msgid "Shoot"
-msgstr ""
+msgstr "Вистрілити"
 
 #. STRINGS.UI.EMAILSCREEN.APR
 msgctxt "STRINGS.UI.EMAILSCREEN.APR"
@@ -427456,7 +427626,7 @@ msgstr "Злість"
 #. STRINGS.UI.EMOTES.BIGPET
 msgctxt "STRINGS.UI.EMOTES.BIGPET"
 msgid "Big Pet"
-msgstr ""
+msgstr "Пестощі"
 
 #. STRINGS.UI.EMOTES.BONESAW
 msgctxt "STRINGS.UI.EMOTES.BONESAW"
@@ -428046,12 +428216,12 @@ msgstr ""
 #. STRINGS.UI.GIVE_KEY_STONE.CANCEL
 msgctxt "STRINGS.UI.GIVE_KEY_STONE.CANCEL"
 msgid "Let me think about it."
-msgstr ""
+msgstr "Треба подумати..."
 
 #. STRINGS.UI.GIVE_KEY_STONE.OK
 msgctxt "STRINGS.UI.GIVE_KEY_STONE.OK"
 msgid "Ok"
-msgstr ""
+msgstr "Ок"
 
 #. STRINGS.UI.GIVE_KEY_STONE.TITLE
 msgctxt "STRINGS.UI.GIVE_KEY_STONE.TITLE"
@@ -428346,7 +428516,7 @@ msgstr ". %s стає примарним привидом!"
 #. STRINGS.UI.HUD.DEATH_PET_NAME
 msgctxt "STRINGS.UI.HUD.DEATH_PET_NAME"
 msgid "%s's %s"
-msgstr ""
+msgstr "%s %s"
 
 #. STRINGS.UI.HUD.DEPLOY
 msgctxt "STRINGS.UI.HUD.DEPLOY"
@@ -429046,7 +429216,7 @@ msgstr "Утримуйте {action}, щоб автоматично підійм�
 #. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_INSPECT
 msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_HOLD_INSPECT"
 msgid "Hold {inspect} to inspect the world around you."
-msgstr "Утримуйте {inspect}, щоб оглянути світ навколо себе."
+msgstr "Утримуйте {inspect}, щоб оглядати все навколо."
 
 #. STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROLLBACK
 msgctxt "STRINGS.UI.LOADING_SCREEN_CONTROL_TIPS.TIP_ROLLBACK"
@@ -429666,7 +429836,7 @@ msgstr ""
 #. STRINGS.UI.MAINSCREEN.BAD_HASHES_INSTRUCTIONS
 msgctxt "STRINGS.UI.MAINSCREEN.BAD_HASHES_INSTRUCTIONS"
 msgid "Instructions"
-msgstr ""
+msgstr "Інструкції"
 
 #. STRINGS.UI.MAINSCREEN.BAD_HASHES_PLAY
 msgctxt "STRINGS.UI.MAINSCREEN.BAD_HASHES_PLAY"
@@ -429686,7 +429856,7 @@ msgstr "Подія: Паща"
 #. STRINGS.UI.MAINSCREEN.BROADCASTING
 msgctxt "STRINGS.UI.MAINSCREEN.BROADCASTING"
 msgid "Broadcasting"
-msgstr ""
+msgstr "Трансляція"
 
 #. STRINGS.UI.MAINSCREEN.BROWSE
 msgctxt "STRINGS.UI.MAINSCREEN.BROWSE"
@@ -429986,7 +430156,7 @@ msgstr "Вас було запрошено приєднатися до гри я
 #. STRINGS.UI.MAINSCREEN.INVITED_USER_NOT_LOGGED_IN
 msgctxt "STRINGS.UI.MAINSCREEN.INVITED_USER_NOT_LOGGED_IN"
 msgid "Not Logged In"
-msgstr ""
+msgstr "Вхід не здійснено"
 
 #. STRINGS.UI.MAINSCREEN.INVITED_USER_NOT_LOGGED_IN_DESC
 msgctxt "STRINGS.UI.MAINSCREEN.INVITED_USER_NOT_LOGGED_IN_DESC"
@@ -430041,7 +430211,7 @@ msgstr "Увійти"
 #. STRINGS.UI.MAINSCREEN.LOGIN_REQUIRED_TITLE
 msgctxt "STRINGS.UI.MAINSCREEN.LOGIN_REQUIRED_TITLE"
 msgid "Login Required"
-msgstr ""
+msgstr "Потрібен вхід"
 
 #. STRINGS.UI.MAINSCREEN.LOGOUT
 msgctxt "STRINGS.UI.MAINSCREEN.LOGOUT"
@@ -430166,12 +430336,12 @@ msgstr "Знижки!"
 #. STRINGS.UI.MAINSCREEN.MOTD_SYNCING
 msgctxt "STRINGS.UI.MAINSCREEN.MOTD_SYNCING"
 msgid "Syncing Notifications"
-msgstr ""
+msgstr "Синхронізація сповіщень"
 
 #. STRINGS.UI.MAINSCREEN.MOTD_SYNCING_FAILED
 msgctxt "STRINGS.UI.MAINSCREEN.MOTD_SYNCING_FAILED"
 msgid "Unable to download notifications."
-msgstr "Неможливо завантажити новини."
+msgstr "Не вдалося завантажити сповіщення."
 
 #. STRINGS.UI.MAINSCREEN.MOVIE
 msgctxt "STRINGS.UI.MAINSCREEN.MOVIE"
@@ -431841,7 +432011,7 @@ msgstr "З'єднання було примусово закрито ігров�
 #. STRINGS.UI.NETWORKDISCONNECT.BODY.ID_ALREADY_CONNECTED
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.ID_ALREADY_CONNECTED"
 msgid "You are already connected to this server."
-msgstr "Ви вже приєднані до цього сервера."
+msgstr "Ви вже підключені до цього сервера."
 
 #. STRINGS.UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_ATTEMPT_FAILED
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.ID_CONNECTION_ATTEMPT_FAILED"
@@ -432036,7 +432206,7 @@ msgstr "Ваш напарник по розділеному екрану вий�
 #. STRINGS.UI.NETWORKDISCONNECT.BODY.INVALID_CLIENT_TOKEN
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.INVALID_CLIENT_TOKEN"
 msgid "A token error occurred. Please try again."
-msgstr "Виникла помилка токена. Будь ласка, спробуйте ще раз."
+msgstr "Виникла помилка з токеном. Спробуйте ще раз."
 
 #. STRINGS.UI.NETWORKDISCONNECT.BODY.INVALID_GAME_SESSION_TOKEN
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.BODY.INVALID_GAME_SESSION_TOKEN"
@@ -432161,7 +432331,7 @@ msgstr "Примусове від'єднання"
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_ALREADY_CONNECTED
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_ALREADY_CONNECTED"
 msgid "Duplicate Connection"
-msgstr ""
+msgstr "Повторне підключення"
 
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_ATTEMPT_FAILED
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_CONNECTION_ATTEMPT_FAILED"
@@ -432361,7 +432531,7 @@ msgstr "Гравець 2 вийшов"
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.INVALID_CLIENT_TOKEN
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.INVALID_CLIENT_TOKEN"
 msgid "Invalid Client Token"
-msgstr ""
+msgstr "Недійсний токен клієнта"
 
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.INVALID_GAME_SESSION_TOKEN
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.INVALID_GAME_SESSION_TOKEN"
@@ -432801,7 +432971,7 @@ msgstr "Закрити"
 #. STRINGS.UI.OPTIONS.COMMANDWHEEL
 msgctxt "STRINGS.UI.OPTIONS.COMMANDWHEEL"
 msgid "Social Menu Movement:"
-msgstr ""
+msgstr "Рух із меню спілк.:"
 
 #. STRINGS.UI.OPTIONS.CONSOLEAUTOPAUSE
 msgctxt "STRINGS.UI.OPTIONS.CONSOLEAUTOPAUSE"
@@ -432846,7 +433016,7 @@ msgstr "Автозакриття майстр.:"
 #. STRINGS.UI.OPTIONS.CRAFTINGMENUNUMPINPAGES
 msgctxt "STRINGS.UI.OPTIONS.CRAFTINGMENUNUMPINPAGES"
 msgid "Crafting Pin Pages:"
-msgstr "Кіл-сть сторін. майстр.:"
+msgstr "Сторінок майстр.:"
 
 #. STRINGS.UI.OPTIONS.CRAFTINGMENUSENSITIVITY
 msgctxt "STRINGS.UI.OPTIONS.CRAFTINGMENUSENSITIVITY"
@@ -432866,7 +433036,7 @@ msgstr "Усі рецепти"
 #. STRINGS.UI.OPTIONS.CRASHREPORTS
 msgctxt "STRINGS.UI.OPTIONS.CRASHREPORTS"
 msgid "Crash Reports:"
-msgstr ""
+msgstr "Звіти про збої:"
 
 #. STRINGS.UI.OPTIONS.CREDITS
 msgctxt "STRINGS.UI.OPTIONS.CREDITS"
@@ -432961,7 +433131,7 @@ msgstr "Ваші налаштування були змінені. Ви маєт
 #. STRINGS.UI.OPTIONS.EULA_RESPONSE_CHANGED_TITLE
 msgctxt "STRINGS.UI.OPTIONS.EULA_RESPONSE_CHANGED_TITLE"
 msgid "Login Required"
-msgstr "Потрібен ухід"
+msgstr "Потрібен вхід"
 
 #. STRINGS.UI.OPTIONS.FAINT
 msgctxt "STRINGS.UI.OPTIONS.FAINT"
@@ -433146,7 +433316,7 @@ msgstr "Більше"
 #. STRINGS.UI.OPTIONS.MOVEMENTPREDICTION
 msgctxt "STRINGS.UI.OPTIONS.MOVEMENTPREDICTION"
 msgid "Lag Compensation:"
-msgstr "Зрівноваж. затримки:"
+msgstr "Згладжування затримки:"
 
 #. STRINGS.UI.OPTIONS.MOVEMENTPREDICTION_DISABLED
 msgctxt "STRINGS.UI.OPTIONS.MOVEMENTPREDICTION_DISABLED"
@@ -433326,7 +433496,7 @@ msgstr "Малі текстури:"
 #. STRINGS.UI.OPTIONS.SNAPSHOTS
 msgctxt "STRINGS.UI.OPTIONS.SNAPSHOTS"
 msgid "Server Snapshots"
-msgstr ""
+msgstr "Знімки сервера"
 
 #. STRINGS.UI.OPTIONS.STEAM_CLOUD_SAVES
 msgctxt "STRINGS.UI.OPTIONS.STEAM_CLOUD_SAVES"
@@ -433341,7 +433511,7 @@ msgstr "Сильне"
 #. STRINGS.UI.OPTIONS.TARGETLOCKING
 msgctxt "STRINGS.UI.OPTIONS.TARGETLOCKING"
 msgid "Target Locking:"
-msgstr "Захват цілі:"
+msgstr "Фіксація цілі:"
 
 #. STRINGS.UI.OPTIONS.TEXTURESTREAMING
 msgctxt "STRINGS.UI.OPTIONS.TEXTURESTREAMING"
@@ -433406,7 +433576,7 @@ msgstr "Змінює місце розташування вмісту рюкза
 #. STRINGS.UI.OPTIONS.TOOLTIPS.BLOOM
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.BLOOM"
 msgid "Increases the visual intensity of lights."
-msgstr "Збільшення візуальної інтенсивності світла."
+msgstr "Збільшує візуальну інтенсивність світла."
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.BOATCAMERA
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.BOATCAMERA"
@@ -433426,7 +433596,7 @@ msgstr "Сідайте зручніше і насолоджуйтеся віде
 #. STRINGS.UI.OPTIONS.TOOLTIPS.COMMANDWHEEL
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.COMMANDWHEEL"
 msgid "Allows you to control your player movement and the Social Menu independently."
-msgstr ""
+msgstr "Дає змогу керувати персонажем під час використання меню спілкування."
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CONSOLEAUTOPAUSE
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CONSOLEAUTOPAUSE"
@@ -433551,7 +433721,7 @@ msgstr "Зменшити масштаб мапи."
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CONTROLS_EDITOR.87
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CONTROLS_EDITOR.87"
 msgid "Open and Close the Social Menu."
-msgstr ""
+msgstr "Відкрийте та закрийте меню спілкування."
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CONTROLS_EDITOR.88
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CONTROLS_EDITOR.88"
@@ -433606,22 +433776,22 @@ msgstr "Налаштувати розмір меню майстрування."
 #. STRINGS.UI.OPTIONS.TOOLTIPS.CRASHREPORTS
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.CRASHREPORTS"
 msgid "After a crash, offer to send a crash dump and the log to Klei so we can fix it. Turn this off and you will never be asked."
-msgstr ""
+msgstr "Після аварійного завершення гри буде запропоновано надіслати до Klei звіт про збій і журнал подій, щоб ми могли виправити проблему. Якщо вимкнути цю опцію, такі запити більше не з'являтимуться."
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.DATACOLLECTION
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.DATACOLLECTION"
 msgid "We collect metrics and telemetry on Don't Starve Together, including how long and how often you play. This information helps us troubleshoot the game, provide rewards, and improve your experience. Refer to https://www.klei.com/privacy-policy for more information."
-msgstr "Ми збираємо показники та телеметрію гравців Don't Starve Together, зокрема, як довго і як часто ви граєте. Ці дані допомагають нам усувати проблеми, нараховувати нагороди та поліпшувати ваш ігровий досвід. Докладніше: https://www.klei.com/privacy-policy."
+msgstr "Ми збираємо статистику та телеметричні дані про гравців Don't Starve Together, зокрема про те, скільки часу та як часто ви проводите в грі. Ці дані допомагають діагностувати проблеми, нараховувати нагороди та поліпшувати гру для вас. Докладніше: https://www.klei.com/privacy-policy."
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.DEFAULTCLOUDSAVES
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.DEFAULTCLOUDSAVES"
 msgid "Chooses whether new saves will be stored in the cloud or not by default."
-msgstr "Обирає чи будуть нові збереження зберігатися в Steam Cloud типово, чи ні."
+msgstr "Визначає, де зазвичай зберігатимуться нові збереження: в Steam Cloud або локально."
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.DISPLAY
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.DISPLAY"
 msgid "Got multiple screens? We've got you covered, choose where the game window goes when playing the game. (Fullscreen only)"
-msgstr "Маєте кілька моніторів? Ми про вас подбали, оберіть, де розташується вікно під час гри. (Лиш у повноекранному режимі)"
+msgstr "Користуєтеся кількома моніторами? Виберіть, на якому моніторі відображатиметься гра. (Лише в повноекранному режимі)"
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.DISPLAYAREA
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.DISPLAYAREA"
@@ -433631,12 +433801,12 @@ msgstr "Максимально збільште розмір екрана на �
 #. STRINGS.UI.OPTIONS.TOOLTIPS.DISTORTION
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.DISTORTION"
 msgid "Allows you to turn off screen distortions in the game, especially notable during moments of insanity."
-msgstr "Дозволяє вам вимкнути деформацію екрана у грі, особливо помітно у моменти божевілля."
+msgstr "Дозволяє вимкнути спотворення екрана під час гри, особливо помітні в стані божевілля."
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.DYNAMIC_TREE_SHADOWS
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.DYNAMIC_TREE_SHADOWS"
 msgid "Renders the ground shadow while under a canopy."
-msgstr "Створює тінь на землі під час перебування під верховіттям дерева."
+msgstr "Промальовує тінь на землі під час перебування під верховіттям дерева."
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.FULLSCREEN
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.FULLSCREEN"
@@ -433766,12 +433936,12 @@ msgstr ""
 #. STRINGS.UI.OPTIONS.TOOLTIPS.REFRESHRATE
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.REFRESHRATE"
 msgid "Customize how many times per second the game screen refreshes. (Fullscreen only)"
-msgstr "Налаштуйте частоту оновлення екрана за секунду. (Лиш у повноекранному режимі)"
+msgstr "Налаштуйте, скільки разів на секунду оновлюватиметься зображення гри. (Лише в повноекранному режимі)"
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.RESOLUTION
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.RESOLUTION"
 msgid "Change the game screen resolution. (Fullscreen only)"
-msgstr "Змінює роздільність екрана. (Лиш у повноекранному режимі)"
+msgstr "Змінює роздільність екрана. (Лише в повноекранному режимі)"
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.SCAPBOOKHUDDISPLAY
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.SCAPBOOKHUDDISPLAY"
@@ -433826,7 +433996,7 @@ msgstr "Зменшує якість текстур для ліпшої прод�
 #. STRINGS.UI.OPTIONS.TOOLTIPS.TARGETLOCKING
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.TARGETLOCKING"
 msgid "Focus on one target at a time."
-msgstr "Фокусує на одній цілі за раз."
+msgstr "Утримує фокус на одній цілі за раз."
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.TEXTURESTREAMING
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.TEXTURESTREAMING"
@@ -433836,7 +434006,7 @@ msgstr "Зменшує використання пам'яті для текст�
 #. STRINGS.UI.OPTIONS.TOOLTIPS.THREADEDRENDER
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.THREADEDRENDER"
 msgid "Renders the game on a different core. Enabling this should improve performance."
-msgstr "Рендерить гру на різних ядрах. Увімкнення має поліпшити продуктивність."
+msgstr "Гра оброблятиме рендеринг на іншому ядрі процесора. Увімкнення має поліпшити продуктивність."
 
 #. STRINGS.UI.OPTIONS.TOOLTIPS.VIBRATION
 msgctxt "STRINGS.UI.OPTIONS.TOOLTIPS.VIBRATION"
@@ -433946,7 +434116,7 @@ msgstr "Від'єднатися"
 #. STRINGS.UI.PAUSEMENU.DST_SUBTITLE
 msgctxt "STRINGS.UI.PAUSEMENU.DST_SUBTITLE"
 msgid "(Seriously! It's not.)"
-msgstr "(Серйозно! Справді.)"
+msgstr "(Серйозно! Жодних жартів.)"
 
 #. STRINGS.UI.PAUSEMENU.DST_TITLE
 msgctxt "STRINGS.UI.PAUSEMENU.DST_TITLE"
@@ -434726,7 +434896,7 @@ msgstr "Почни грати, щоб збирати предмети!"
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.OFFLINE_NO_ITEMS
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.OFFLINE_NO_ITEMS"
 msgid "Log in to start earning items."
-msgstr ""
+msgstr "Увійдіть, щоб почати отримувати предмети."
 
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.POINTS_LABEL
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.POINTS_LABEL"
@@ -434746,7 +434916,7 @@ msgstr "Колекція предметів"
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.TOOLTIP_HISTORY
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.TOOLTIP_HISTORY"
 msgid "View missed connections and revisit past lives"
-msgstr ""
+msgstr "Згадайте давні зустрічі та навідайте минулі життя"
 
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.TOOLTIP_MYSTERYBOX
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.TOOLTIP_MYSTERYBOX"
@@ -434891,7 +435061,7 @@ msgstr "Предмети"
 #. STRINGS.UI.PREMIUM_ONLINE.CANCEL
 msgctxt "STRINGS.UI.PREMIUM_ONLINE.CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 #. STRINGS.UI.PREMIUM_ONLINE.MEMBERSHIP_REQUIRED_BODY
 msgctxt "STRINGS.UI.PREMIUM_ONLINE.MEMBERSHIP_REQUIRED_BODY"
@@ -434901,7 +435071,7 @@ msgstr ""
 #. STRINGS.UI.PREMIUM_ONLINE.MEMBERSHIP_REQUIRED_TITLE
 msgctxt "STRINGS.UI.PREMIUM_ONLINE.MEMBERSHIP_REQUIRED_TITLE"
 msgid "Membership Required"
-msgstr ""
+msgstr "Необхідне членство"
 
 #. STRINGS.UI.PREMIUM_ONLINE.NINTENDO
 msgctxt "STRINGS.UI.PREMIUM_ONLINE.NINTENDO"
@@ -434926,7 +435096,7 @@ msgstr ""
 #. STRINGS.UI.PREMIUM_ONLINE.SUBSCRIBE
 msgctxt "STRINGS.UI.PREMIUM_ONLINE.SUBSCRIBE"
 msgid "Subscribe"
-msgstr ""
+msgstr "Підписатися"
 
 #. STRINGS.UI.PREMIUM_ONLINE.UPSELL_TEXT
 msgctxt "STRINGS.UI.PREMIUM_ONLINE.UPSELL_TEXT"
@@ -435426,7 +435596,7 @@ msgstr "Доказ придбання"
 #. STRINGS.UI.RARITY.Resurrected
 msgctxt "STRINGS.UI.RARITY.Resurrected"
 msgid "Resurrected (Merch Skin)"
-msgstr ""
+msgstr "Відроджений (предмет мерчу)"
 
 #. STRINGS.UI.RARITY.Reward
 msgctxt "STRINGS.UI.RARITY.Reward"
@@ -436421,17 +436591,17 @@ msgstr "Скасувати"
 #. STRINGS.UI.SAVELOAD.DATA_DAMAGED
 msgctxt "STRINGS.UI.SAVELOAD.DATA_DAMAGED"
 msgid "Oh no! Your saved data has become corrupt and cannot be used."
-msgstr ""
+msgstr "О ні! Збереження пошкодилося та більше не може бути використано."
 
 #. STRINGS.UI.SAVELOAD.DATA_DAMAGED_BODY
 msgctxt "STRINGS.UI.SAVELOAD.DATA_DAMAGED_BODY"
 msgid "Your saved data is damaged and cannot be used."
-msgstr ""
+msgstr "Збереження пошкоджено та не може бути використано."
 
 #. STRINGS.UI.SAVELOAD.DATA_DAMAGED_PS4
 msgctxt "STRINGS.UI.SAVELOAD.DATA_DAMAGED_PS4"
 msgid "Damaged saved data"
-msgstr ""
+msgstr "Збереження пошкоджено"
 
 #. STRINGS.UI.SAVELOAD.DELETE_FAILED
 msgctxt "STRINGS.UI.SAVELOAD.DELETE_FAILED"
@@ -436476,7 +436646,7 @@ msgstr ""
 #. STRINGS.UI.SAVELOAD.OVERWRITE_SAVEDATA_TITLE
 msgctxt "STRINGS.UI.SAVELOAD.OVERWRITE_SAVEDATA_TITLE"
 msgid "Overwrite saved data"
-msgstr ""
+msgstr "Перезаписати збереження"
 
 #. STRINGS.UI.SAVELOAD.RESTOREBACKUP_FAILED
 msgctxt "STRINGS.UI.SAVELOAD.RESTOREBACKUP_FAILED"
@@ -436656,7 +436826,7 @@ msgstr "Переглянути подробиці"
 #. STRINGS.UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT
 msgctxt "STRINGS.UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT"
 msgid "Restore Snapshot"
-msgstr ""
+msgstr "Відновити знімок"
 
 #. STRINGS.UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_BODY
 msgctxt "STRINGS.UI.SERVERADMINSCREEN.RESTORE_SNAPSHOT_BODY"
@@ -436681,7 +436851,7 @@ msgstr "Назва сервера:"
 #. STRINGS.UI.SERVERADMINSCREEN.SNAPSHOTS_TITLE
 msgctxt "STRINGS.UI.SERVERADMINSCREEN.SNAPSHOTS_TITLE"
 msgid "Snapshots: "
-msgstr "Снапшоти: "
+msgstr "Знімки: "
 
 #. STRINGS.UI.SERVERADMINSCREEN.SYSTEMMESSAGE
 msgctxt "STRINGS.UI.SERVERADMINSCREEN.SYSTEMMESSAGE"
@@ -436761,7 +436931,7 @@ msgstr "Печерний світ"
 #. STRINGS.UI.SERVERCREATIONSCREEN.CHANGE_MODE_TITLE
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CHANGE_MODE_TITLE"
 msgid "Change World Mode"
-msgstr ""
+msgstr "Змінити режим світу"
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.CHANGE_MODE_TO_OFFLINE
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.CHANGE_MODE_TO_OFFLINE"
@@ -437191,7 +437361,7 @@ msgstr "Відкрити папку світу"
 #. STRINGS.UI.SERVERCREATIONSCREEN.PLAYONLINE
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.PLAYONLINE"
 msgid "Play Online"
-msgstr ""
+msgstr "Грати в мережі"
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.PLAYSTYLE_TITLE
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.PLAYSTYLE_TITLE"
@@ -437326,7 +437496,7 @@ msgstr ""
 #. STRINGS.UI.SERVERCREATIONSCREEN.SIGNIN_REQUIRED_TITLE
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SIGNIN_REQUIRED_TITLE"
 msgid "Login Required"
-msgstr ""
+msgstr "Потрібен вхід"
 
 #. STRINGS.UI.SERVERCREATIONSCREEN.SLOT
 msgctxt "STRINGS.UI.SERVERCREATIONSCREEN.SLOT"
@@ -437456,7 +437626,7 @@ msgstr "Назад"
 #. STRINGS.UI.SERVERLISTINGSCREEN.BLOCKED_WORLD
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.BLOCKED_WORLD"
 msgid "Blocked World"
-msgstr ""
+msgstr "Заблокований світ"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.CANCEL
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.CANCEL"
@@ -437536,7 +437706,7 @@ msgstr "Продовжити"
 #. STRINGS.UI.SERVERLISTINGSCREEN.CREATED_BY
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.CREATED_BY"
 msgid "Created by:"
-msgstr ""
+msgstr "Створено:"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.CUSTOM
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.CUSTOM"
@@ -438031,7 +438201,7 @@ msgstr "Стиль гри:"
 #. STRINGS.UI.SERVERLISTINGSCREEN.PLAYSTYLE_TITLE
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.PLAYSTYLE_TITLE"
 msgid "Playstyle Selection"
-msgstr ""
+msgstr "Вибір стилю гри"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.PRIVATE
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.PRIVATE"
@@ -438666,7 +438836,7 @@ msgstr "Скасувати"
 #. STRINGS.UI.SNOWMAN_DECORATING_POPUP.FLIP
 msgctxt "STRINGS.UI.SNOWMAN_DECORATING_POPUP.FLIP"
 msgid "Flip"
-msgstr ""
+msgstr "Перевернути"
 
 #. STRINGS.UI.SNOWMAN_DECORATING_POPUP.MAX_DECOR
 msgctxt "STRINGS.UI.SNOWMAN_DECORATING_POPUP.MAX_DECOR"
@@ -438676,7 +438846,7 @@ msgstr ""
 #. STRINGS.UI.SNOWMAN_DECORATING_POPUP.PLACE
 msgctxt "STRINGS.UI.SNOWMAN_DECORATING_POPUP.PLACE"
 msgid "Place"
-msgstr ""
+msgstr "Розмістити"
 
 #. STRINGS.UI.SNOWMAN_DECORATING_POPUP.SET
 msgctxt "STRINGS.UI.SNOWMAN_DECORATING_POPUP.SET"
@@ -440136,22 +440306,22 @@ msgstr "Так"
 #. STRINGS.UI.UNRAVELDUPESSCREEN.CANCEL
 msgctxt "STRINGS.UI.UNRAVELDUPESSCREEN.CANCEL"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 #. STRINGS.UI.UNRAVELDUPESSCREEN.SELECTED
 msgctxt "STRINGS.UI.UNRAVELDUPESSCREEN.SELECTED"
 msgid "Selected"
-msgstr ""
+msgstr "Обрано"
 
 #. STRINGS.UI.UNRAVELDUPESSCREEN.TITLE
 msgctxt "STRINGS.UI.UNRAVELDUPESSCREEN.TITLE"
 msgid "Select Duplicate Items To Unravel"
-msgstr ""
+msgstr "Виберіть копії, які хочете розіткати"
 
 #. STRINGS.UI.UNRAVELDUPESSCREEN.UNRAVEL
 msgctxt "STRINGS.UI.UNRAVELDUPESSCREEN.UNRAVEL"
 msgid "Unravel"
-msgstr ""
+msgstr "Розіткати"
 
 #. STRINGS.UI.UPGRADEMODULEDISPLAY.UNPLUG_CIRCUIT
 msgctxt "STRINGS.UI.UPGRADEMODULEDISPLAY.UNPLUG_CIRCUIT"
@@ -440166,7 +440336,7 @@ msgstr ""
 #. STRINGS.UI.UPGRADEMODULEDISPLAY.UNSOCKET
 msgctxt "STRINGS.UI.UPGRADEMODULEDISPLAY.UNSOCKET"
 msgid "Extract"
-msgstr ""
+msgstr "Витягти"
 
 #. STRINGS.UI.USERCOMMANDS.BADTARGETFMT
 msgctxt "STRINGS.UI.USERCOMMANDS.BADTARGETFMT"
