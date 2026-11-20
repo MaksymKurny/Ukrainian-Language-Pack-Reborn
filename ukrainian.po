@@ -3,7 +3,7 @@ msgstr ""
 "Language: ua\n"
 "Project-Id-Version: ULP Reborn\n"
 "Language-Team: ULP Reborn Team\n"
-"PO-Revision-Date: 2026-11-19 12:18\n"
+"PO-Revision-Date: 2026-11-20 12:28\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0\n"
@@ -276091,107 +276091,107 @@ msgstr "Вся її колекція відкрита для інспекції.
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_BEES
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_BEES"
 msgid "I think I'll beekeeping my distance, hyuyu!"
-msgstr ""
+msgstr "Із цими «жу-жу» я не дружу!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_BIRDS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_BIRDS"
 msgid "Humans share their knowledge so freely."
-msgstr ""
+msgstr "Люди, бачу, знань у клітці не тримають."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_BRIMSTONE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_BRIMSTONE"
 msgid "Who would leave such precious knowledge lying here?"
-msgstr ""
+msgstr "Хто ж розкидається такими коштовними знаннями?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_ELEMENTAL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_ELEMENTAL"
 msgid "Well, it won't summon an imp!"
-msgstr ""
+msgstr "Чорта з два вона чортика прикличе!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_FIRE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_FIRE"
 msgid "We've no use for tomes from where I roam."
-msgstr ""
+msgstr "У краях, де я блукаю, фоліантів не читають!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_FISH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_FISH"
 msgid "This one's a bit fishy."
-msgstr ""
+msgstr "Слизька ця книженція."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_FOSSIL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_FOSSIL"
 msgid "Rock their socks off."
-msgstr ""
+msgstr "Вони закам'яніють від захвату."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_GARDENING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_GARDENING"
 msgid "Secret knowledge of vegetables."
-msgstr ""
+msgstr "Корінь усієї городньої премудрості."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_HORTICULTURE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_HORTICULTURE"
 msgid "Secret knowledge of vegetables."
-msgstr ""
+msgstr "Корінь усієї городньої премудрості."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_HORTICULTURE_UPGRADED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_HORTICULTURE_UPGRADED"
 msgid "Always something to learn where gardens are concerned."
-msgstr ""
+msgstr "У садівництві завжди є куди рости!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_LIGHT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_LIGHT"
 msgid "Shall I sit and read for a spell?"
-msgstr ""
+msgstr "Може сісти та трохи просвітитися?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_LIGHT_UPGRADED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_LIGHT_UPGRADED"
 msgid "It's quite heavy for a light book, hyuyu!"
-msgstr ""
+msgstr "Те, що книга тяжка — і так ясно! Ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_MOON
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_MOON"
 msgid "Hyuyuyu how cute! The mortals think they can hold sway over the moon!"
-msgstr ""
+msgstr "Ху-ху-ху, як мило! Смертні гадають, що можуть перехитрити Місяць!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_RAIN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_RAIN"
 msgid "Mortals can take the fun out of anything."
-msgstr ""
+msgstr "Смертні й з дощу всю забаву вичавлять!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_RESEARCH_STATION
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_RESEARCH_STATION"
 msgid "So much knowledge, and none of it forbidden!"
-msgstr ""
+msgstr "Стільки знань, і жодного забороненого!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_SILVICULTURE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_SILVICULTURE"
 msgid "Why not read it to the reeds? Hyuyuyu!"
-msgstr ""
+msgstr "Чому б не почитати деревам? А то ростуть неотесаними!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_SLEEP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_SLEEP"
 msgid "Knowledge is power. Literally."
-msgstr ""
+msgstr "Знання — сила. Буквально."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_TEMPERATURE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_TEMPERATURE"
 msgid "Hyuyuyu, mortals have such funny ideas."
-msgstr ""
+msgstr "Ху-ху-ху, смертні не перестають дивувати."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_TENTACLES
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_TENTACLES"
 msgid "Imps don't disseminate precious knowledge so carelessly."
-msgstr ""
+msgstr "Біси цінними таємницями направо й наліво не розкидаються."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_WEB
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_WEB"
 msgid "Oh what a tangled web we read."
-msgstr ""
+msgstr "Ну тут і наплели."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOMERANG
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOMERANG"
 msgid "What goes around comes around, they say, they say!"
-msgstr ""
+msgstr "Як гукнеться, так і відгукнеться!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOTLEG
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOTLEG"
@@ -276211,62 +276211,62 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BRUSH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BRUSH"
 msgid "Keeps imp chest tufts plush."
-msgstr ""
+msgstr "Щоб пух бісеняти було чим чесати."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUGNET
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUGNET"
 msgid "I'll bind those bugs."
-msgstr ""
+msgstr "Братиму мушок на мушку."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BULLKELP_PLANT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BULLKELP_PLANT.GENERIC"
 msgid "And so it grows from out the sea."
-msgstr ""
+msgstr "З морських глибин росте собі."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BULLKELP_PLANT.PICKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BULLKELP_PLANT.PICKED"
 msgid "The mortals picked it with such glee."
-msgstr ""
+msgstr "А смертні рвуть їх залюбки."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BULLKELP_ROOT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BULLKELP_ROOT"
 msgid "We plucked this whip from the side of the ship."
-msgstr ""
+msgstr "З борту зірвали, батогом назвали."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUNDLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUNDLE"
 msgid "Does a nice surprise await inside?"
-msgstr ""
+msgstr "Що ж цікавенького ховається всередині?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUNDLEWRAP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUNDLEWRAP"
 msgid "Bind all cursed objects!"
-msgstr ""
+msgstr "Для пакування всілякої чортівні!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUNNYMAN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUNNYMAN"
 msgid "You hop just like me!"
-msgstr ""
+msgstr "Ти стрибаєш точнісінько як я!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUNNYSTEW
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUNNYSTEW"
 msgid "Are mortals attracted to this smell?"
-msgstr ""
+msgstr "Невже смертні клюють на цей запах?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BURNT_MARSH_BUSH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BURNT_MARSH_BUSH"
 msgid "Farewell, little bristles."
-msgstr ""
+msgstr "Па-па, малі колючки."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUSHHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUSHHAT"
 msgid "Now you see me, now you don't! Hyuyu!"
-msgstr ""
+msgstr "Раз — я тут, а два — нема! Ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTER"
 msgid "Essence of slipperiness."
-msgstr ""
+msgstr "Втілення слизькості."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTERFLY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTERFLY.GENERIC"
@@ -276276,12 +276276,12 @@ msgstr "Щось навколо шурхає — це метелик пурха�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTERFLY.HELD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTERFLY.HELD"
 msgid "I'll try not to suck your soul out."
-msgstr ""
+msgstr "Постараюся не висмоктати твою душу."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTERFLYMUFFIN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTERFLYMUFFIN"
 msgid "Muffin to see here, my dear."
-msgstr ""
+msgstr "Від такого мафіна аж метелики в животі!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTERFLYWINGS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTERFLYWINGS"
@@ -276291,7 +276291,7 @@ msgstr "Лети, люба душо."
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUZZARD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUZZARD"
 msgid "It doesn't want to feed on death. It just has to."
-msgstr ""
+msgstr "Смертю живиться не від доброго життя."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUZZARDCORPSE.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUZZARDCORPSE.BURNING"
@@ -276311,37 +276311,37 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CABBAGEROLLS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CABBAGEROLLS"
 msgid "They look so real!"
-msgstr ""
+msgstr "Виглядають зовсім як справжні!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS.GENERIC"
 msgid "Spiny and mean, just how I like them."
-msgstr ""
+msgstr "Колючі й лихі — мені до душі."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS.PICKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS.PICKED"
 msgid "To pick a cactus, you just need some prac-tus!"
-msgstr ""
+msgstr "Колюся: його так просто не зірвати!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS_FLOWER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS_FLOWER"
 msgid "How pretty! I fear to touch it."
-msgstr ""
+msgstr "Яка краса! Та я б ліпше не торкався."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS_MEAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS_MEAT"
 msgid "I don't want to eat anything prickly."
-msgstr ""
+msgstr "Колюча їжа мені не до смаку."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS_MEAT_COOKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS_MEAT_COOKED"
 msgid "The prickles are gone, but I still don't want to eat it."
-msgstr ""
+msgstr "Колючки зникли, та апетиту не додалося."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CALIFORNIAROLL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CALIFORNIAROLL"
 msgid "We're on a roll! Hyuyu!"
-msgstr ""
+msgstr "Оце нам роляє! Ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.EMBERS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.EMBERS"
@@ -276456,12 +276456,12 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
 msgid "Hyuyu, how very mysterious!"
-msgstr ""
+msgstr "Ху-ху, так загадково!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "Hyuyu, how very mysterious!"
-msgstr ""
+msgstr "Ху-ху, так загадково!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
@@ -290601,7 +290601,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.EAT_FOOD.WINTERSFEASTFUEL
 msgctxt "STRINGS.CHARACTERS.WORTOX.EAT_FOOD.WINTERSFEASTFUEL"
 msgid "Hyuyu, how fun!"
-msgstr ""
+msgstr "Ху-ху, як весело!"
 
 #. STRINGS.CHARACTERS.WORTOX.QUAGMIRE_ANNOUNCE_LOSE
 msgctxt "STRINGS.CHARACTERS.WORTOX.QUAGMIRE_ANNOUNCE_LOSE"
