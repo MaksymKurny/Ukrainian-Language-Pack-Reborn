@@ -3,7 +3,7 @@ msgstr ""
 "Language: ua\n"
 "Project-Id-Version: ULP Reborn\n"
 "Language-Team: ULP Reborn Team\n"
-"PO-Revision-Date: 2026-11-16 11:44\n"
+"PO-Revision-Date: 2026-11-22 20:20\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0\n"
@@ -2271,7 +2271,7 @@ msgstr "Увімкнути"
 #. STRINGS.ACTIONS.UNEQUIP.GENERIC
 msgctxt "STRINGS.ACTIONS.UNEQUIP.GENERIC"
 msgid "Unequip"
-msgstr "Зняти спорядження"
+msgstr "Зняти"
 
 #. STRINGS.ACTIONS.UNEQUIP.HEAVY
 msgctxt "STRINGS.ACTIONS.UNEQUIP.HEAVY"
@@ -271526,7 +271526,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.NOTAROBOT
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.NOTAROBOT"
 msgid "I'm a non-automaton."
-msgstr ""
+msgstr "Я не автомат — лиш один з бісенят."
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.NOTMERM
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.ACTIVATE.NOTMERM"
@@ -271831,7 +271831,7 @@ msgstr "Можете і далі грати — смертним нас не о�
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
 msgid "Can't compete until the course is complete!"
-msgstr ""
+msgstr "Поле дороби — от тоді й до гри!"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
@@ -271866,7 +271866,7 @@ msgstr "Нема тіла, до якого повернути можна тог�
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.KINGSTAFF_COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.KINGSTAFF_COOLDOWN"
 msgid "Oh shucks! It's stucks!"
-msgstr ""
+msgstr "От бідась! Воно застрягсь!"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG"
@@ -272256,7 +272256,7 @@ msgstr "Не для мене, бачу."
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.RUMMAGE.NOTAROBOT
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.RUMMAGE.NOTAROBOT"
 msgid "I'm a non-automaton."
-msgstr ""
+msgstr "Я не автомат — лиш один з бісенят."
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.RUMMAGE.NOTMASTERCHEF
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.RUMMAGE.NOTMASTERCHEF"
@@ -272306,7 +272306,7 @@ msgstr "О-хо! Пізно стало, вже від мене дали драл
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.SOAKIN.NOSPACE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.SOAKIN.NOSPACE"
 msgid "Sit? I cannot! For it's a hot spot, just as I thought!"
-msgstr ""
+msgstr "Сісти хотів, та хтось місце нагрів!"
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.START_CARRAT_RACE.NO_RACERS
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.START_CARRAT_RACE.NO_RACERS"
@@ -272331,7 +272331,7 @@ msgstr "Йой, я просто не можу."
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.STORE.NOTAROBOT
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.STORE.NOTAROBOT"
 msgid "I'm a non-automaton."
-msgstr ""
+msgstr "Я не автомат — лиш один з бісенят."
 
 #. STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.STORE.NOTMASTERCHEF
 msgctxt "STRINGS.CHARACTERS.WORTOX.ACTIONFAIL.STORE.NOTMASTERCHEF"
@@ -272691,7 +272691,7 @@ msgstr "Все гаразд."
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_CHARLIE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_CHARLIE"
 msgid "What manner of imp was that??"
-msgstr "Якого... біса??"
+msgstr "Що то, в біса, за біс такий?!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_CHARLIESAVE.1
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_CHARLIESAVE.1"
@@ -272821,7 +272821,7 @@ msgstr "Я зміг допомогти!"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
 msgid "My enlightenment causes much excitement!"
-msgstr ""
+msgstr "Від мого прозріння буде потрясіння!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_DUSK"
@@ -273046,37 +273046,37 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_GOT_DECON_MISTED
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_GOT_DECON_MISTED"
 msgid "Refreshing!"
-msgstr ""
+msgstr "Освіжає!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_GRUE_NOCHARLIE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_GRUE_NOCHARLIE"
 msgid "What manner of imp was that??"
-msgstr ""
+msgstr "Що то, в біса, за біс такий?!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_GRUE_NOCHARLIE_ATTACK
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_GRUE_NOCHARLIE_ATTACK"
 msgid "OWIE-HEE-HEE!"
-msgstr ""
+msgstr "У-ХУ-ХУ!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HEALINGSALVE_ACIDBUFF_DONE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HEALINGSALVE_ACIDBUFF_DONE"
 msgid "Oh what a pain, I'm not safe from acid rain!"
-msgstr "Комусь знов буде погано, як кислотний дощ настане!"
+msgstr "Дощ дошкуляє, а захисту немає!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HEALINGSALVE_FUMAROLEBUFF_DONE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HEALINGSALVE_FUMAROLEBUFF_DONE"
 msgid "My resistance to fire has just expired."
-msgstr ""
+msgstr "Захист від жару пішов на мару!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HERMITCRAB_SHELL_ARRIVE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HERMITCRAB_SHELL_ARRIVE"
 msgid "No big deal, for real."
-msgstr ""
+msgstr "Жодної тривоги — це я у порогу."
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HERMITCRAB_SHELL_BADTELEPORTPOINT
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HERMITCRAB_SHELL_BADTELEPORTPOINT"
 msgid "Still here, I fear!"
-msgstr ""
+msgstr "Стрибок не удався, я тут і зостався!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HIGHRESEARCH
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_HIGHRESEARCH"
@@ -273246,7 +273246,7 @@ msgstr "Ху-ху! Я невловний!"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LIGHTSOUT_SHADOWHAND
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LIGHTSOUT_SHADOWHAND"
 msgid "And a hand came to snuff the flame!"
-msgstr ""
+msgstr "Рука постала — полум'я не стало!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LOWRESEARCH
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LOWRESEARCH"
@@ -273261,12 +273261,12 @@ msgstr "Ху-ху! Хто це знов у нас на шляху!"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LUNARHAIL_BIRD_CORPSES
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LUNARHAIL_BIRD_CORPSES"
 msgid "The weather was unkind to those of the feather."
-msgstr ""
+msgstr "Пернатому роду влаштували непогоду."
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LUNARHAIL_BIRD_SOUNDS
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LUNARHAIL_BIRD_SOUNDS"
 msgid "If you're flying, you're dying! Hyuyu!"
-msgstr ""
+msgstr "Як злітаєш — то й сконаєш! Ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LUNAR_RIFT_MAX
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_LUNAR_RIFT_MAX"
@@ -273276,7 +273276,7 @@ msgstr "Світло місяця чудне увагу мою неодмінн�
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MAX_CLOCKWORKS
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MAX_CLOCKWORKS"
 msgid "Are you not allowed to join my crowd?"
-msgstr ""
+msgstr "І як мені жити, раз не хочеш дружити?"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MEGA_FLARE_SEEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MEGA_FLARE_SEEN"
@@ -273286,17 +273286,17 @@ msgstr "Відкрите запрошення! Цікаво, хто б це за
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MITEGLAND_DEBUFF.1
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MITEGLAND_DEBUFF.1"
 msgid "That glandular snack has me under attack!"
-msgstr ""
+msgstr "Його тельбухи завдають мені скрухи!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MITEGLAND_DEBUFF.2
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MITEGLAND_DEBUFF.2"
 msgid "My stomach feels full of fire and brimstone!"
-msgstr ""
+msgstr "В животі аж пеком пече!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MITEGLAND_DEBUFF_DONE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MITEGLAND_DEBUFF_DONE"
 msgid "The burning pain has left this plane."
-msgstr ""
+msgstr "Пекельний біль не допікає більш!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MONKEY_CURSE_1
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_MONKEY_CURSE_1"
@@ -273901,7 +273901,7 @@ msgstr "Який д-дурний жарт!"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_STOMP_SHROUDEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_STOMP_SHROUDEN"
 msgid "Such pep in my steps!"
-msgstr ""
+msgstr "Копита так і рвуться в танок!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -274901,7 +274901,7 @@ msgstr "Гадки не маю, як з цим грати."
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ATRIUM_LIGHT.ON
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ATRIUM_LIGHT.ON"
 msgid "Ooo, it turned on!"
-msgstr "О-о-о, ввімкнулося!"
+msgstr "О-о, ввімкнулося!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ATRIUM_OVERGROWTH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ATRIUM_OVERGROWTH"
@@ -275516,22 +275516,22 @@ msgstr "Дух перехопило, оце так здоровило!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BELL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BELL"
 msgid "I believe it might bring forth delight."
-msgstr ""
+msgstr "Втіха чекає як дзвін залунає."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERNIE_ACTIVE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERNIE_ACTIVE"
 msgid "Good sir, are you aware you've no soul?"
-msgstr ""
+msgstr "Добродію, чи знаєте — що душі не маєте?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERNIE_BIG
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERNIE_BIG"
 msgid "It's grown to new heights to win all our fights!"
-msgstr ""
+msgstr "Оце він так зріс, щоб втерти всім ніс!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERNIE_INACTIVE.BROKEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERNIE_INACTIVE.BROKEN"
 msgid "He seemed a fine chap."
-msgstr ""
+msgstr "Хороший був малий."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERNIE_INACTIVE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERNIE_INACTIVE.GENERIC"
@@ -275541,27 +275541,27 @@ msgstr "Бідося."
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRIES
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRIES"
 msgid "A handful of mortal treats."
-msgstr ""
+msgstr "Жменька ласощів для смертних."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRIES_COOKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRIES_COOKED"
 msgid "I hear they last longer this way."
-msgstr ""
+msgstr "Кажуть, так вони довше зберігаються."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRIES_JUICY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRIES_JUICY"
 msgid "Mortals eat them as a snack."
-msgstr ""
+msgstr "Смертні ними перекушують."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRIES_JUICY_COOKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRIES_JUICY_COOKED"
 msgid "I hear they last longer this way."
-msgstr ""
+msgstr "Кажуть, вони так довше зберігаються."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH.BARREN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH.BARREN"
 msgid "It won't be returning to this plane."
-msgstr ""
+msgstr "У цей вимір вони вже не повернуться."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH.BURNING"
@@ -275571,17 +275571,17 @@ msgstr "Упсі-дупсі."
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH.DISEASED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH.DISEASED"
 msgid "Now it stinks really good!"
-msgstr ""
+msgstr "Тепер смердить як треба!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH.DISEASING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH.DISEASING"
 msgid "It's started to stink."
-msgstr ""
+msgstr "Вже пустив душок."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH.GENERIC"
 msgid "Mortals say they're sweet to eat."
-msgstr ""
+msgstr "Смертні кажуть, вони солоденькі."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH.PICKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH.PICKED"
@@ -275596,7 +275596,7 @@ msgstr "Журишся, еге ж?"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH_JUICY.BARREN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH_JUICY.BARREN"
 msgid "Salted earth, none will return."
-msgstr ""
+msgstr "На засоленій землі не плодить узагалі."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH_JUICY.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH_JUICY.BURNING"
@@ -275606,17 +275606,17 @@ msgstr "Упсі-дупсі."
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH_JUICY.DISEASED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH_JUICY.DISEASED"
 msgid "Now it stinks really good!"
-msgstr ""
+msgstr "Тепер смердить як треба!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH_JUICY.DISEASING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH_JUICY.DISEASING"
 msgid "It's started to stink."
-msgstr ""
+msgstr "Вже пустив душок."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH_JUICY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH_JUICY.GENERIC"
 msgid "The humans like them, yes indeed."
-msgstr "Людям вони справді подобаються."
+msgstr "Людям вони таки до вподоби."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH_JUICY.PICKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYBUSH_JUICY.PICKED"
@@ -275631,37 +275631,37 @@ msgstr "Журишся, еге ж?"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYSAUCE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BERRYSAUCE"
 msgid "Hyuyuyu, what a fun trick!"
-msgstr ""
+msgstr "Ху-ху-ху, оце так фокус!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIBINGKA
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIBINGKA"
 msgid "I would've made a great Ani-ani."
-msgstr ""
+msgstr "З мене вийшов би чудовий Ані-ані."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIGFOOT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIGFOOT"
 msgid "Do not step on little old me!"
-msgstr ""
+msgstr "Не дави малого, велетенська ного!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRCHNUTDRAKE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRCHNUTDRAKE"
 msgid "Tiny forest children of hate!"
-msgstr ""
+msgstr "Лісові малята, ненавистю закляті!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDCAGE.DEAD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDCAGE.DEAD"
 msgid "It seems you went and met your end."
-msgstr ""
+msgstr "Настав твій кінець, мій пернатий співець."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDCAGE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDCAGE.GENERIC"
 msgid "A place where little birds are penned."
-msgstr ""
+msgstr "Цяя місцина — в'язниця пташина."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDCAGE.HUNGRY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDCAGE.HUNGRY"
 msgid "No worries, lunch is right around the bend."
-msgstr ""
+msgstr "Не журись, обід не за горами!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDCAGE.OCCUPIED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDCAGE.OCCUPIED"
@@ -275671,17 +275671,17 @@ msgstr "Привіт, мій друзяко пернатий, що співат�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDCAGE.SKELETON
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDCAGE.SKELETON"
 msgid "I don't think she's exactly on the mend."
-msgstr ""
+msgstr "Не думаю, що вона йде на поправку."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDCAGE.SLEEPING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDCAGE.SLEEPING"
 msgid "No more sleepless nights you'll spend."
-msgstr ""
+msgstr "Більше не знатимеш безсонних ночей."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDCAGE.STARVING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDCAGE.STARVING"
 msgid "Does no one have some seeds to lend?"
-msgstr ""
+msgstr "У кого-небудь нема насіння?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDCORPSE.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDCORPSE.BURNING"
@@ -275701,22 +275701,22 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDTRAP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRDTRAP"
 msgid "The birds will find this so funny!"
-msgstr ""
+msgstr "Оце пташкам буде сміху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRD_EGG
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRD_EGG"
 msgid "An egg from a bird, or so I've heard."
-msgstr ""
+msgstr "Пташине яйце, чув я й це."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRD_EGG_COOKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRD_EGG_COOKED"
 msgid "Probably a mortal thing."
-msgstr ""
+msgstr "Певно, якась штука смертних."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRD_MUTANT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRD_MUTANT"
 msgid "My my, you're looking rather pale!"
-msgstr ""
+msgstr "Овва, та на тобі лиця нема!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRD_MUTANT_SPITTER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BIRD_MUTANT_SPITTER"
@@ -275726,7 +275726,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BISHOP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BISHOP"
 msgid "You sure look mean, you nasty fiend!"
-msgstr ""
+msgstr "Ну й злющий же ти, залізяка й болти!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BISHOP_CHARGE_HIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BISHOP_CHARGE_HIT"
@@ -275741,7 +275741,7 @@ msgstr "Агов! Не ображай біса!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLACKFLAG
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLACKFLAG"
 msgid "It's inspiring me to make a little mischief of my own."
-msgstr ""
+msgstr "Надихає й мене трохи побіситися."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLOWDART_FIRE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLOWDART_FIRE"
@@ -275751,12 +275751,12 @@ msgstr "Пф-ф!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLOWDART_LAVA
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLOWDART_LAVA"
 msgid "A gust of breath means flaming death!"
-msgstr ""
+msgstr "Одним подихом — ворог попелом!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLOWDART_LAVA2
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLOWDART_LAVA2"
 msgid "A gust of breath means flaming death!"
-msgstr ""
+msgstr "Одним подихом — ворог попелом!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLOWDART_PIPE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLOWDART_PIPE"
@@ -275776,37 +275776,37 @@ msgstr "Пр-р!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUEAMULET
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUEAMULET"
 msgid "The cold won't get through my chest tuft, hyuyu."
-msgstr ""
+msgstr "Мою пухнасту грудку холоду не пройняти, ху-ху."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUEGEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUEGEM"
 msgid "Somber blue from seabeds grew."
-msgstr ""
+msgstr "Синява сумна прямо з морського дна."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUEMOONEYE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUEMOONEYE"
 msgid "It's visible from any nook or crook."
-msgstr ""
+msgstr "Видніється з усіх кутків і закутків."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUEPRINT.COMMON
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUEPRINT.COMMON"
 msgid "What knowledge will I find within?"
-msgstr ""
+msgstr "Які ж знання тут криються?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUEPRINT.RARE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUEPRINT.RARE"
 msgid "Ooo, secret knowledge, what fun, what power!"
-msgstr ""
+msgstr "О-о, знання потаємні! Оце сили силенні!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUE_CAP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUE_CAP"
 msgid "Funny tricks it tries to play."
-msgstr ""
+msgstr "Оце він коники викидає."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUE_CAP_COOKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUE_CAP_COOKED"
 msgid "That changed it somehow."
-msgstr ""
+msgstr "Щось у ньому змінилося."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUE_MUSHROOM.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUE_MUSHROOM.GENERIC"
@@ -275816,7 +275816,7 @@ msgstr "Знайшов тебе!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUE_MUSHROOM.INGROUND
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUE_MUSHROOM.INGROUND"
 msgid "It's playing hide and seek!"
-msgstr ""
+msgstr "Грає у хованки!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUE_MUSHROOM.PICKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BLUE_MUSHROOM.PICKED"
@@ -275826,37 +275826,37 @@ msgstr "Пиши пропало."
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOARDS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOARDS"
 msgid "It's a board. How untoward!"
-msgstr ""
+msgstr "Просто дошка, а вже дошку-ляє!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOARON
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOARON"
 msgid "Who invited a pig to this shindig?"
-msgstr ""
+msgstr "Хто на гульню запросив цю свиню?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOARRIOR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOARRIOR"
 msgid "Catch me if you can!"
-msgstr ""
+msgstr "Накиваю п'яти — тобі не наздогнати!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOATFRAGMENT03
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOATFRAGMENT03"
 msgid "Flotsam and jetsam, bits and bobs."
-msgstr ""
+msgstr "Мотлох та уламки, тріски та останки."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOATFRAGMENT04
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOATFRAGMENT04"
 msgid "Flotsam and jetsam, bits and bobs."
-msgstr ""
+msgstr "Мотлох та уламки, тріски та останки."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOATFRAGMENT05
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOATFRAGMENT05"
 msgid "Flotsam and jetsam, bits and bobs."
-msgstr ""
+msgstr "Мотлох та уламки, тріски та останки."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOATPATCH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOATPATCH"
 msgid "Plugging a hole sounds quite droll."
-msgstr ""
+msgstr "Латати човна? Яка дивина!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOATPATCH_KELP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOATPATCH_KELP"
@@ -275931,27 +275931,27 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_CRABKING_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_CRABKING_KIT"
 msgid "But idle hands are such good playthings!"
-msgstr ""
+msgstr "Та хіба байдики самі себе поб'ють?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_KELP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_KELP"
 msgid "Some friendly help from fronds of kelp."
-msgstr ""
+msgstr "Стануть в пригодах, особливо у водах!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_KELP_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_KELP_KIT"
 msgid "But idle hands are such good playthings!"
-msgstr ""
+msgstr "Та хіба байдики самі себе поб'ють?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_SHELL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_SHELL"
 msgid "We shell be well protected, hyuyu!"
-msgstr ""
+msgstr "Під мушлями му-шлятися можна хоч куди, ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_SHELL_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_SHELL_KIT"
 msgid "But idle hands are such good playthings!"
-msgstr ""
+msgstr "Та хіба байдики самі себе поб'ють?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_YOTD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_YOTD"
@@ -275961,27 +275961,27 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_YOTD_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_BUMPER_YOTD_KIT"
 msgid "But idle hands are such good playthings!"
-msgstr ""
+msgstr "Та хіба байдики самі себе поб'ють?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_CANNON.AMMOLOADED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_CANNON.AMMOLOADED"
 msgid "Ready to fire and brimstone!"
-msgstr ""
+msgstr "Сірки та вогню — і до вогню!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_CANNON.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_CANNON.GENERIC"
 msgid "Rounded stones are required for this cannon to fire."
-msgstr ""
+msgstr "Перш ніж стріляти, круглу б каменюку подати."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_CANNON.NOAMMO
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_CANNON.NOAMMO"
 msgid "This cannon cannot fire."
-msgstr ""
+msgstr "З цієї гармати не вистрілити."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_CANNON_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_CANNON_KIT"
 msgid "I'll build it quick, then put it on the ship."
-msgstr ""
+msgstr "Хутко зберу та на корабель віднесу."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_GRASS_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_GRASS_ITEM"
@@ -275991,207 +275991,207 @@ msgstr "Тихіший за воду, нижчій за траву, ху-ху!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_ITEM"
 msgid "Let's craft a raft!"
-msgstr ""
+msgstr "Змайструймо пліт — і гайда у світ!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_LEAK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_LEAK"
 msgid "Things look bleak - we have a leak!"
-msgstr ""
+msgstr "Оце так біда: прибуває вода!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_MAGNET.ACTIVATED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_MAGNET.ACTIVATED"
 msgid "I'll just sit back while it keeps me on track."
-msgstr ""
+msgstr "Раз курсує без упину — посиджу собі, спочину."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_MAGNET.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_MAGNET.GENERIC"
 msgid "Why would I row when I can be towed?"
-msgstr ""
+msgstr "Нащо самому гребти, коли мене можуть тягти?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_MAGNET_BEACON.ACTIVATED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_MAGNET_BEACON.ACTIVATED"
 msgid "It brought me here, so it must attract trouble, hyuyu!"
-msgstr ""
+msgstr "Бач, як на біду його тягне — аж мене притягло! Ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_MAGNET_BEACON.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_MAGNET_BEACON.GENERIC"
 msgid "Mortals come up with the funniest things."
-msgstr ""
+msgstr "Чого тільки смертні не навигадують."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_MAGNET_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_MAGNET_KIT"
 msgid "The troubling toil never ends."
-msgstr ""
+msgstr "Без труда нема плота! Ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_ROTATOR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_ROTATOR"
 msgid "One good turn deserves another, hyuyu!"
-msgstr ""
+msgstr "Оце так поворот подій, ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_ROTATOR_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOAT_ROTATOR_KIT"
 msgid "It's something or rudder!"
-msgstr ""
+msgstr "Чи то стерно? Та все одно!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_BEEFALOWOOL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_BEEFALOWOOL"
 msgid "The beefiest pillow I ever did see."
-msgstr ""
+msgstr "Такої воличезної подушки я ще не бачив!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_KELP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_KELP"
 msgid "I'd never wish to sleep like a fish."
-msgstr ""
+msgstr "Не бажаю на ній окунів ловити."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_PETALS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_PETALS"
 msgid "Armor doesn't often smell so nice!"
-msgstr ""
+msgstr "Оце обладунок: цвіте та пахне!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_STEELWOOL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BODYPILLOW_STEELWOOL"
 msgid "A nasty thing, it'll do well in the ring!"
-msgstr ""
+msgstr "Гидка подушка всипле по самі вушка!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOMB_LUNARPLANT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOMB_LUNARPLANT"
 msgid "This will be the start of some wonderful pranks."
-msgstr ""
+msgstr "Ясна річ: зараз іскри полетять навсібіч!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOMB_LUNARPLANT_WORMWOOD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOMB_LUNARPLANT_WORMWOOD"
 msgid "That plant has a mischievous streak after all, hyuyu!"
-msgstr ""
+msgstr "Пустотливу жилу заклали і в рослину, ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BONESHARD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BONESHARD"
 msgid "Fragmented, like my thoughts!"
-msgstr ""
+msgstr "Я теж, свого роду, гострий на язик!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BONESOUP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BONESOUP"
 msgid "They spend all day cooking and then devour it in minutes."
-msgstr ""
+msgstr "Роками варить, щоб поглинути вмить."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BONESTEW
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BONESTEW"
 msgid "Mortals like drinking goop like this."
-msgstr ""
+msgstr "Смертним подібна бурда до смаку."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOKSTATION.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOKSTATION.BURNT"
 msgid "What a shame, it went up in flames."
-msgstr ""
+msgstr "Ну і біда, все згоріло дотла."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOKSTATION.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOKSTATION.GENERIC"
 msgid "Her entire collection for our inspection."
-msgstr ""
+msgstr "Вся її колекція відкрита для інспекції."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_BEES
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_BEES"
 msgid "I think I'll beekeeping my distance, hyuyu!"
-msgstr ""
+msgstr "Із цими «жу-жу» я не дружу!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_BIRDS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_BIRDS"
 msgid "Humans share their knowledge so freely."
-msgstr ""
+msgstr "Люди, бачу, знань у клітці не тримають."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_BRIMSTONE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_BRIMSTONE"
 msgid "Who would leave such precious knowledge lying here?"
-msgstr ""
+msgstr "Хто ж розкидається такими коштовними знаннями?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_ELEMENTAL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_ELEMENTAL"
 msgid "Well, it won't summon an imp!"
-msgstr ""
+msgstr "Чорта з два вона чортика прикличе!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_FIRE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_FIRE"
 msgid "We've no use for tomes from where I roam."
-msgstr ""
+msgstr "У краях, де я блукаю, фоліантів не читають!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_FISH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_FISH"
 msgid "This one's a bit fishy."
-msgstr ""
+msgstr "Слизька ця книженція."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_FOSSIL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_FOSSIL"
 msgid "Rock their socks off."
-msgstr ""
+msgstr "Вони закам'яніють від захвату."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_GARDENING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_GARDENING"
 msgid "Secret knowledge of vegetables."
-msgstr ""
+msgstr "Корінь усієї городньої премудрості."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_HORTICULTURE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_HORTICULTURE"
 msgid "Secret knowledge of vegetables."
-msgstr ""
+msgstr "Корінь усієї городньої премудрості."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_HORTICULTURE_UPGRADED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_HORTICULTURE_UPGRADED"
 msgid "Always something to learn where gardens are concerned."
-msgstr ""
+msgstr "У садівництві завжди є куди рости!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_LIGHT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_LIGHT"
 msgid "Shall I sit and read for a spell?"
-msgstr ""
+msgstr "Може сісти та трохи просвітитися?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_LIGHT_UPGRADED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_LIGHT_UPGRADED"
 msgid "It's quite heavy for a light book, hyuyu!"
-msgstr ""
+msgstr "Те, що книга тяжка — і так ясно! Ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_MOON
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_MOON"
 msgid "Hyuyuyu how cute! The mortals think they can hold sway over the moon!"
-msgstr ""
+msgstr "Ху-ху-ху, як мило! Смертні гадають, що можуть перехитрити Місяць!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_RAIN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_RAIN"
 msgid "Mortals can take the fun out of anything."
-msgstr ""
+msgstr "Смертні й з дощу всю забаву вичавлять!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_RESEARCH_STATION
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_RESEARCH_STATION"
 msgid "So much knowledge, and none of it forbidden!"
-msgstr ""
+msgstr "Стільки знань, і жодного забороненого!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_SILVICULTURE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_SILVICULTURE"
 msgid "Why not read it to the reeds? Hyuyuyu!"
-msgstr ""
+msgstr "Чому б не почитати деревам? А то ростуть неотесаними!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_SLEEP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_SLEEP"
 msgid "Knowledge is power. Literally."
-msgstr ""
+msgstr "Знання — сила. Буквально."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_TEMPERATURE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_TEMPERATURE"
 msgid "Hyuyuyu, mortals have such funny ideas."
-msgstr ""
+msgstr "Ху-ху-ху, смертні не перестають дивувати."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_TENTACLES
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_TENTACLES"
 msgid "Imps don't disseminate precious knowledge so carelessly."
-msgstr ""
+msgstr "Біси цінними таємницями направо й наліво не розкидаються."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_WEB
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOK_WEB"
 msgid "Oh what a tangled web we read."
-msgstr ""
+msgstr "Ну тут і наплели."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOMERANG
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOMERANG"
 msgid "What goes around comes around, they say, they say!"
-msgstr ""
+msgstr "Як гукнеться, так і відгукнеться!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOTLEG
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BOOTLEG"
@@ -276211,62 +276211,62 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BRUSH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BRUSH"
 msgid "Keeps imp chest tufts plush."
-msgstr ""
+msgstr "Щоб пух бісеняти було чим чесати."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUGNET
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUGNET"
 msgid "I'll bind those bugs."
-msgstr ""
+msgstr "Братиму мушок на мушку."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BULLKELP_PLANT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BULLKELP_PLANT.GENERIC"
 msgid "And so it grows from out the sea."
-msgstr ""
+msgstr "З морських глибин росте собі."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BULLKELP_PLANT.PICKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BULLKELP_PLANT.PICKED"
 msgid "The mortals picked it with such glee."
-msgstr ""
+msgstr "А смертні рвуть їх залюбки."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BULLKELP_ROOT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BULLKELP_ROOT"
 msgid "We plucked this whip from the side of the ship."
-msgstr ""
+msgstr "З борту зірвали, батогом назвали."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUNDLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUNDLE"
 msgid "Does a nice surprise await inside?"
-msgstr ""
+msgstr "Що ж цікавенького ховається всередині?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUNDLEWRAP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUNDLEWRAP"
 msgid "Bind all cursed objects!"
-msgstr ""
+msgstr "Для пакування всілякої чортівні!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUNNYMAN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUNNYMAN"
 msgid "You hop just like me!"
-msgstr ""
+msgstr "Ти стрибаєш точнісінько як я!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUNNYSTEW
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUNNYSTEW"
 msgid "Are mortals attracted to this smell?"
-msgstr ""
+msgstr "Невже смертні клюють на цей запах?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BURNT_MARSH_BUSH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BURNT_MARSH_BUSH"
 msgid "Farewell, little bristles."
-msgstr ""
+msgstr "Па-па, малі колючки."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUSHHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUSHHAT"
 msgid "Now you see me, now you don't! Hyuyu!"
-msgstr ""
+msgstr "Раз — я тут, а два — нема! Ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTER"
 msgid "Essence of slipperiness."
-msgstr ""
+msgstr "Втілення слизькості."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTERFLY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTERFLY.GENERIC"
@@ -276276,12 +276276,12 @@ msgstr "Щось навколо шурхає — це метелик пурха�
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTERFLY.HELD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTERFLY.HELD"
 msgid "I'll try not to suck your soul out."
-msgstr ""
+msgstr "Постараюся не висмоктати твою душу."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTERFLYMUFFIN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTERFLYMUFFIN"
 msgid "Muffin to see here, my dear."
-msgstr ""
+msgstr "Від такого мафіна аж метелики в животі!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTERFLYWINGS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUTTERFLYWINGS"
@@ -276291,7 +276291,7 @@ msgstr "Лети, люба душо."
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUZZARD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUZZARD"
 msgid "It doesn't want to feed on death. It just has to."
-msgstr ""
+msgstr "Смертю живиться не від доброго життя."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUZZARDCORPSE.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.BUZZARDCORPSE.BURNING"
@@ -276311,97 +276311,97 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CABBAGEROLLS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CABBAGEROLLS"
 msgid "They look so real!"
-msgstr ""
+msgstr "Виглядають зовсім як справжні!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS.GENERIC"
 msgid "Spiny and mean, just how I like them."
-msgstr ""
+msgstr "Колючі й лихі — мені до душі."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS.PICKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS.PICKED"
 msgid "To pick a cactus, you just need some prac-tus!"
-msgstr ""
+msgstr "Колюся: його так просто не зірвати!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS_FLOWER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS_FLOWER"
 msgid "How pretty! I fear to touch it."
-msgstr ""
+msgstr "Яка краса! Та я б ліпше не торкався."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS_MEAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS_MEAT"
 msgid "I don't want to eat anything prickly."
-msgstr ""
+msgstr "Колюча їжа мені не до смаку."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS_MEAT_COOKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CACTUS_MEAT_COOKED"
 msgid "The prickles are gone, but I still don't want to eat it."
-msgstr ""
+msgstr "Колючки зникли, та апетиту не додалося."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CALIFORNIAROLL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CALIFORNIAROLL"
 msgid "We're on a roll! Hyuyu!"
-msgstr ""
+msgstr "Оце нам роляє! Ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.EMBERS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.EMBERS"
 msgid "Soon to extinguish."
-msgstr ""
+msgstr "Скоро згасне."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.GENERIC"
 msgid "This fire will slake my thirst for warmth."
-msgstr ""
+msgstr "Цей вогонь втамує мою спрагу за теплом."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.HIGH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.HIGH"
 msgid "Those are some spicy flames."
-msgstr ""
+msgstr "Вогник, бачу, з перчинкою."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.LOW
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.LOW"
 msgid "It burns so low, so low!"
-msgstr ""
+msgstr "Ледь горить, ледь-ледь!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.NORMAL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.NORMAL"
 msgid "When I roam, camp feels like home."
-msgstr ""
+msgstr "Хоч місцина незнайома, біля вогнища — як вдома."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.OUT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CAMPFIRE.OUT"
 msgid "And out it goes."
-msgstr ""
+msgstr "От і згасло."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CANARY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CANARY.GENERIC"
 msgid "Let's look out for each other, you and I."
-msgstr ""
+msgstr "Ти мене на оці май, а я тебе — під крилом."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CANARY.HELD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CANARY.HELD"
 msgid "Mind my paws now."
-msgstr ""
+msgstr "Стережися моїх лап."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CANARY_POISONED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CANARY_POISONED"
 msgid "Mortals don't usually look like that."
-msgstr ""
+msgstr "Смерті зазвичай так не виглядають."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CANDYBAG
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CANDYBAG"
 msgid "It's a Wortox Sack!"
-msgstr ""
+msgstr "Вортоксів мішечок!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CANE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CANE"
 msgid "Is it walking me, or am I walking it?"
-msgstr ""
+msgstr "Це він мене веде чи я його?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CANNONBALL_ROCK_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CANNONBALL_ROCK_ITEM"
 msgid "Oh what a sinking feeling it brings!"
-msgstr ""
+msgstr "Немов камінь з душі звалився!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALCANNON.COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALCANNON.COOLDOWN"
@@ -276411,7 +276411,7 @@ msgstr "Ху-ху-ху, як весело!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALCANNON.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALCANNON.GENERIC"
 msgid "Oh the pranks I could pull with this!"
-msgstr ""
+msgstr "Вже уявляю, що я з нею утнути можу!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALCANNON_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALCANNON_KIT"
@@ -276456,12 +276456,12 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT"
 msgid "Hyuyu, how very mysterious!"
-msgstr ""
+msgstr "Ху-ху, так загадково!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON2"
 msgid "Hyuyu, how very mysterious!"
-msgstr ""
+msgstr "Ху-ху, так загадково!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALDECOR_FIGURE_KIT_SEASON3"
@@ -276496,7 +276496,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_FEEDCHICKS_FOOD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_FEEDCHICKS_FOOD"
 msgid "Imagine what a fun prank it would be to replace these with real worms..."
-msgstr ""
+msgstr "А що, як підсунути туди справжнього черв'ячка? Ото буде потіха..."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_FEEDCHICKS_KIT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CARNIVALGAME_FEEDCHICKS_KIT"
@@ -277471,7 +277471,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COLDFIRE.LOW
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COLDFIRE.LOW"
 msgid "It burns so low, so low!"
-msgstr ""
+msgstr "Ледь горить, ледь-ледь!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COLDFIRE.NORMAL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COLDFIRE.NORMAL"
@@ -277501,7 +277501,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COLDFIREPIT.LOW
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COLDFIREPIT.LOW"
 msgid "It burns so low, so low!"
-msgstr ""
+msgstr "Ледь горить, ледь-ледь!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COLDFIREPIT.NORMAL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COLDFIREPIT.NORMAL"
@@ -277566,7 +277566,7 @@ msgstr "Захід!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPOST
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPOST"
 msgid "Oh, I could pull some fun pranks with this."
-msgstr ""
+msgstr "О, зараз комусь мізки закомпостую!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPOSTINGBIN.BALANCED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.COMPOSTINGBIN.BALANCED"
@@ -277821,7 +277821,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRITTERLAB
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRITTERLAB"
 msgid "Ooo, I'd like a partner in pranks."
-msgstr "О, спільник по розіграшах мені б не завадив."
+msgstr "О-о, товариш для витівок мені б не завадив."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRITTER_BULBIN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRITTER_BULBIN"
@@ -277851,7 +277851,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRITTER_KITTEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRITTER_KITTEN"
 msgid "What should our next prank be, little kitty?"
-msgstr ""
+msgstr "Що втнемо далі, моє капостятко?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRITTER_LAMB
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CRITTER_LAMB"
@@ -277896,7 +277896,7 @@ msgstr "Від неї не дітися, навіть якщо не захочу
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CUTGRASS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CUTGRASS"
 msgid "Oh, what I could weave!"
-msgstr "Йой, якої б інтриги мені сплести!"
+msgstr "Йой, що б такого наплести!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CUTLESS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CUTLESS"
@@ -277976,7 +277976,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DECIDUOUSTREE.CHOPPED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DECIDUOUSTREE.CHOPPED"
 msgid "A funny tree prank."
-msgstr ""
+msgstr "Деревце кумедно розіграли."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DECIDUOUSTREE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DECIDUOUSTREE.GENERIC"
@@ -278126,7 +278126,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DEVTOOL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DEVTOOL"
 msgid "It's a prank-maker."
-msgstr ""
+msgstr "Для капостей саме те."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DEVTOOL_NODEV
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DEVTOOL_NODEV"
@@ -278441,7 +278441,7 @@ msgstr "Їм би трішки землі, поки ще не гнилі."
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUSTMERINGUE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUSTMERINGUE"
 msgid "Hyuyuyu! The pranks I could pull with these!"
-msgstr ""
+msgstr "Ху-ху-ху! Скільки витівок можна з нею втнути!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUSTMOTH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.DUSTMOTH"
@@ -278541,7 +278541,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.EVERGREEN.CHOPPED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.EVERGREEN.CHOPPED"
 msgid "A funny tree prank."
-msgstr ""
+msgstr "Деревце кумедно розіграли."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.EVERGREEN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.EVERGREEN.GENERIC"
@@ -278561,7 +278561,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.EVERGREEN_SPARSE.CHOPPED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.EVERGREEN_SPARSE.CHOPPED"
 msgid "A funny tree prank."
-msgstr ""
+msgstr "Деревце кумедно розіграли."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.EVERGREEN_SPARSE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.EVERGREEN_SPARSE.GENERIC"
@@ -278851,7 +278851,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIREPEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIREPEN"
 msgid "Hyuyuyu, the old flaming pen prank!"
-msgstr ""
+msgstr "Ху-ху-ху, старий добрий жарт з пер-чинкою!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIREPIT.EMBERS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIREPIT.EMBERS"
@@ -278871,12 +278871,12 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIREPIT.LOW
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIREPIT.LOW"
 msgid "It burns so low, so low!"
-msgstr ""
+msgstr "Ледь горить, ледь-ледь!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIREPIT.NORMAL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIREPIT.NORMAL"
 msgid "When I roam, camp feels like home."
-msgstr ""
+msgstr "Хоч місцина незнайома, біля вогнища — як вдома."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIREPIT.OUT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FIREPIT.OUT"
@@ -278996,7 +278996,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FLOWER.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FLOWER.GENERIC"
 msgid "Perfumed petals to pick and pluck."
-msgstr "Ароматні пелюстки збираймо, та одну за одною зриваймо."
+msgstr "Запашні пелюстки, щоб зривати та скубти."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.FLOWER.ROSE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.FLOWER.ROSE"
@@ -279606,7 +279606,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDNUGGET
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOLDNUGGET"
 msgid "Money is soulless."
-msgstr ""
+msgstr "Гроші — річ бездушна."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOOSE_FEATHER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GOOSE_FEATHER"
@@ -279616,7 +279616,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS.BARREN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS.BARREN"
 msgid "Salted earth, none will return."
-msgstr "Земля засолена, нічого не виросте."
+msgstr "На засоленій землі не плодить узагалі."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS.BURNING"
@@ -279631,7 +279631,7 @@ msgstr "Тепер смердить як треба!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS.DISEASING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS.DISEASING"
 msgid "It's started to stink."
-msgstr "Вже почала смердіти."
+msgstr "Вже пустила душок."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GRASS.GENERIC"
@@ -279721,7 +279721,7 @@ msgstr "Знайшов тебе!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GREEN_MUSHROOM.INGROUND
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GREEN_MUSHROOM.INGROUND"
 msgid "It's playing hide and seek!"
-msgstr ""
+msgstr "Грає у хованки!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.GREEN_MUSHROOM.PICKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.GREEN_MUSHROOM.PICKED"
@@ -279806,7 +279806,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEENCANDY_6
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEENCANDY_6"
 msgid "This prank is ingenious!"
-msgstr ""
+msgstr "Оце так витівка з родзинкою!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEENCANDY_7
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HALLOWEENCANDY_7"
@@ -280256,7 +280256,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HOUNDWHISTLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HOUNDWHISTLE"
 msgid "Ooo, ouch! My ears!"
-msgstr ""
+msgstr "О-о-ой! Мої вуха!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.HUTCH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.HUTCH"
@@ -280711,7 +280711,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_EYECIRCLETHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_EYECIRCLETHAT"
 msgid "Ooo, I feel so fancy!"
-msgstr ""
+msgstr "О-о, я такий вишуканий!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_FEATHERCROWNHAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.LAVAARENA_FEATHERCROWNHAT"
@@ -281191,7 +281191,7 @@ msgstr "От лихо."
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MANDRAKE_PLANTED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MANDRAKE_PLANTED"
 msgid "It's a prank plant."
-msgstr ""
+msgstr "Корінь усіх витівок."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MANRABBIT_TAIL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MANRABBIT_TAIL"
@@ -281441,7 +281441,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MAXWELLPHONOGRAPH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MAXWELLPHONOGRAPH"
 msgid "Ooo, music! I'm practically giddy!"
-msgstr ""
+msgstr "О-о, музика! Аж у голові запаморочилося!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MAXWELLTHRONE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MAXWELLTHRONE"
@@ -281766,7 +281766,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MESSAGEBOTTLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MESSAGEBOTTLE"
 msgid "I'm tempted to take a peek!"
-msgstr ""
+msgstr "Так і кортить зазирнути!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MESSAGEBOTTLEEMPTY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MESSAGEBOTTLEEMPTY"
@@ -281886,7 +281886,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOLEHILL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MOLEHILL"
 msgid "Peering inside it makes my brow furrow."
-msgstr ""
+msgstr "Як не зазирну — насуплю брову."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.MONKEY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.MONKEY"
@@ -282696,7 +282696,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.NITRE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.NITRE"
 msgid "I've no earthly clue how to use this."
-msgstr ""
+msgstr "Гадки не маю, на що воно годиться."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.NITRE_FORMATION
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.NITRE_FORMATION"
@@ -282796,7 +282796,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGLURE_HERMIT_DROWSY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGLURE_HERMIT_DROWSY"
 msgid "Oh, the pranks I could pull with this!"
-msgstr ""
+msgstr "О, вже задумав пару приголомшливих витівок!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGLURE_HERMIT_HEAVY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGLURE_HERMIT_HEAVY"
@@ -282816,32 +282816,32 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGLURE_SPINNER_BLUE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGLURE_SPINNER_BLUE"
 msgid "What a fun prank for the fish!"
-msgstr ""
+msgstr "Ох і клюнуть рибки на цю витівку!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGLURE_SPINNER_GREEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGLURE_SPINNER_GREEN"
 msgid "What a fun prank for the fish!"
-msgstr ""
+msgstr "Ох і клюнуть рибки на цю витівку!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGLURE_SPINNER_RED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGLURE_SPINNER_RED"
 msgid "What a fun prank for the fish!"
-msgstr ""
+msgstr "Ох і клюнуть рибки на цю витівку!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGLURE_SPOON_BLUE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGLURE_SPOON_BLUE"
 msgid "What a fun prank for the fish!"
-msgstr ""
+msgstr "Ох і клюнуть рибки на цю витівку!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGLURE_SPOON_GREEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGLURE_SPOON_GREEN"
 msgid "What a fun prank for the fish!"
-msgstr ""
+msgstr "Ох і клюнуть рибки на цю витівку!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGLURE_SPOON_RED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGLURE_SPOON_RED"
 msgid "What a fun prank for the fish!"
-msgstr ""
+msgstr "Ох і клюнуть рибки на цю витівку!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGROD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISHINGROD"
@@ -282871,7 +282871,7 @@ msgstr "О-о, який солодкий забобон!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISH_MEDIUM_5
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISH_MEDIUM_5"
 msgid "It looks like nature played quite the prank on this one."
-msgstr ""
+msgstr "Схоже, природа добряче з неї покепкувала."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISH_MEDIUM_6
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.OCEANFISH_MEDIUM_6"
@@ -283271,12 +283271,12 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PHONOGRAPH
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PHONOGRAPH"
 msgid "Ooo, music! I'm practically giddy!"
-msgstr ""
+msgstr "О-о, музика! Аж у голові запаморочилося!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PICKAXE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PICKAXE"
 msgid "Heigh ho, heigh ho!"
-msgstr ""
+msgstr "Гей-гоп, гей-гоп!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PICKAXE_LUNARPLANT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PICKAXE_LUNARPLANT"
@@ -283441,7 +283441,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PINECONE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PINECONE"
 msgid "To plant a tree!"
-msgstr ""
+msgstr "Щоб деревце посадити!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PINECONE_SAPLING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PINECONE_SAPLING"
@@ -283651,7 +283651,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POLISHCOOKIE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POLISHCOOKIE"
 msgid "You can't prank a prankster, hyuyu!"
-msgstr ""
+msgstr "Подібні жарти я розкушую одразу, ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.POLLY_ROGERS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.POLLY_ROGERS"
@@ -283756,7 +283756,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PORTABLETENT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PORTABLETENT"
 msgid "So many pranks to pull! Do I push it in the lake? Toss in a snake?"
-msgstr ""
+msgstr "Стільки капостей на думці! У ставок зіпхнути чи гадюку підсунути?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PORTABLETENT_ITEM
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PORTABLETENT_ITEM"
@@ -283831,7 +283831,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PUFFIN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PUFFIN.GENERIC"
 msgid "I'll tell you nothin', puffin."
-msgstr ""
+msgstr "Де ж твоя хатка, люба іпатка?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PUFFIN.HELD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PUFFIN.HELD"
@@ -283881,7 +283881,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PUMPKIN_LANTERN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PUMPKIN_LANTERN"
 msgid "How delightfully spooky! Hyuyu!"
-msgstr ""
+msgstr "Страшно чарівний! Ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.PUMPKIN_OVERSIZED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.PUMPKIN_OVERSIZED"
@@ -284451,7 +284451,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_SLAUGHTERTOOL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_SLAUGHTERTOOL"
 msgid "I don't like this sort of prank."
-msgstr ""
+msgstr "Такі жарти мені не до душі."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_SPOTSPICE_GROUND
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.QUAGMIRE_SPOTSPICE_GROUND"
@@ -284786,7 +284786,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.RED_MUSHROOM.INGROUND
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.RED_MUSHROOM.INGROUND"
 msgid "It's playing hide and seek!"
-msgstr ""
+msgstr "Грає у хованки!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.RED_MUSHROOM.PICKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.RED_MUSHROOM.PICKED"
@@ -284866,7 +284866,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.RESKIN_TOOL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.RESKIN_TOOL"
 msgid "Oooh, the pranks I could pull with this!"
-msgstr ""
+msgstr "О-о, зараз з нею такого намету!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.RESURRECTIONSTATUE.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.RESURRECTIONSTATUE.BURNT"
@@ -284931,12 +284931,12 @@ msgstr "Здоровенькі були, мій милий товаришу."
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK"
 msgid "What a shock! It's a rock!"
-msgstr "Оце штука! Справжня каменюка!"
+msgstr "Ого штука! Справжня каменюка!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCKS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCKS"
 msgid "Maybe they're boulders and I just grew really big."
-msgstr ""
+msgstr "Чи то брили замалі, чи то я завеликий."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCKY.ACID
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCKY.ACID"
@@ -284976,7 +284976,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK_AVOCADO_BUSH.BARREN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK_AVOCADO_BUSH.BARREN"
 msgid "It won't be returning to this plane."
-msgstr ""
+msgstr "У цей вимір вони вже не повернуться."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK_AVOCADO_BUSH.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK_AVOCADO_BUSH.BURNING"
@@ -284986,12 +284986,12 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK_AVOCADO_BUSH.DISEASED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK_AVOCADO_BUSH.DISEASED"
 msgid "Now it stinks really good!"
-msgstr ""
+msgstr "Тепер смердить як треба!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK_AVOCADO_BUSH.DISEASING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK_AVOCADO_BUSH.DISEASING"
 msgid "It's started to stink."
-msgstr ""
+msgstr "Вже пустив душок."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK_AVOCADO_BUSH.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK_AVOCADO_BUSH.GENERIC"
@@ -285036,12 +285036,12 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK_ICE.MELTED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK_ICE.MELTED"
 msgid "Ooo, a puddle."
-msgstr ""
+msgstr "Овва, калюжка."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK_ICE_MELTED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK_ICE_MELTED"
 msgid "Ooo, a puddle."
-msgstr ""
+msgstr "Овва, калюжка."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK_LIGHT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.ROCK_LIGHT.GENERIC"
@@ -285256,12 +285256,12 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SAPLING.DISEASED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SAPLING.DISEASED"
 msgid "Now it stinks really good!"
-msgstr ""
+msgstr "Тепер смердить як треба!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SAPLING.DISEASING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SAPLING.DISEASING"
 msgid "It's started to stink."
-msgstr ""
+msgstr "Вже пустив душок."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SAPLING.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SAPLING.GENERIC"
@@ -285286,7 +285286,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCARECROW.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCARECROW.BURNING"
 msgid "That's sort of a mean prank."
-msgstr ""
+msgstr "Цей жарт не на жарт жорстокий."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCARECROW.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCARECROW.BURNT"
@@ -285341,7 +285341,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_BISHOPBODY.COVERED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_BISHOPBODY.COVERED"
 msgid "Something fun is hiding inside!"
-msgstr ""
+msgstr "Всередині затаїлося щось цікавеньке!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_BISHOPBODY.FINISHED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_BISHOPBODY.FINISHED"
@@ -285366,7 +285366,7 @@ msgstr "До справи берімось, швидше ворушімось!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_KNIGHTBODY.COVERED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_KNIGHTBODY.COVERED"
 msgid "Something fun is hiding inside!"
-msgstr ""
+msgstr "Всередині затаїлося щось цікавеньке!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_KNIGHTBODY.FINISHED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_KNIGHTBODY.FINISHED"
@@ -285391,7 +285391,7 @@ msgstr "До справи берімось, швидше ворушімось!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_ROOKBODY.COVERED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_ROOKBODY.COVERED"
 msgid "Something fun is hiding inside!"
-msgstr ""
+msgstr "Всередині затаїлося щось цікавеньке!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_ROOKBODY.FINISHED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SCULPTURE_ROOKBODY.FINISHED"
@@ -285456,7 +285456,7 @@ msgstr "Їм би трішки землі, поки ще не гнилі."
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SEEDS_COOKED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SEEDS_COOKED"
 msgid "The seeds have been cooked."
-msgstr ""
+msgstr "Нагріли боки насінню."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SENTRYWARD
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SENTRYWARD"
@@ -285631,7 +285631,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHROUDEN.PUDDLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SHROUDEN.PUDDLE"
 msgid "Ooooh, I wish to squish that eye!"
-msgstr ""
+msgstr "О-о-о, як кортить розчавити те око!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SIESTAHUT.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SIESTAHUT.BURNT"
@@ -286101,7 +286101,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDERDEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDERDEN"
 msgid "A leggy surprise awaits inside!"
-msgstr ""
+msgstr "Всередині причаївся ногатий сюрприз!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDERDEN_BEDAZZLER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SPIDERDEN_BEDAZZLER"
@@ -286376,7 +286376,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.STATUE_MARBLE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.STATUE_MARBLE.GENERIC"
 msgid "A statue made of cold, cold stone."
-msgstr ""
+msgstr "Статуя з каменю, холодного як крига."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.STATUE_MARBLE.TYPE1
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.STATUE_MARBLE.TYPE1"
@@ -286546,7 +286546,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SWEETPOTATO
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SWEETPOTATO"
 msgid "Should I tell them it's a prank? Hyuyu!"
-msgstr ""
+msgstr "Розкрити їм солодку правду? Ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.SWEETTEA
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.SWEETTEA"
@@ -286561,7 +286561,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TABLE_WINTERS_FEAST.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TABLE_WINTERS_FEAST.BURNT"
 msgid "Double the pranks!"
-msgstr ""
+msgstr "Подвійна порція веселощів!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TABLE_WINTERS_FEAST.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TABLE_WINTERS_FEAST.GENERIC"
@@ -286746,7 +286746,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TENTACLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TENTACLE"
 msgid "Just try and catch me!"
-msgstr ""
+msgstr "Спробуй спіймай!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TENTACLESPIKE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TENTACLESPIKE"
@@ -286786,7 +286786,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUM.CRIMSON
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUM.CRIMSON"
 msgid "Oh dear, perhaps I've taken this prank too far..."
-msgstr ""
+msgstr "Здається, жарт перейшов червону межу..."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUM.ENABLED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUM.ENABLED"
@@ -286801,7 +286801,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUM.SPAWN_DISABLED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUM.SPAWN_DISABLED"
 msgid "It seems nobody here likes pranks."
-msgstr ""
+msgstr "Схоже, веселощі тут не в пошані."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUM.WAITING_FOR_DARK
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUM.WAITING_FOR_DARK"
@@ -286811,7 +286811,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUMCHEST.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUMCHEST.BURNT"
 msgid "Hyuyu, someone's been playing pranks."
-msgstr ""
+msgstr "Ху-ху, хтось тут не на жарт розпалився."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUMCHEST.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TERRARIUMCHEST.GENERIC"
@@ -286871,7 +286871,7 @@ msgstr "Ну як так, як так? Не знайти тепер ніяк."
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TICOON.SUCCESS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TICOON.SUCCESS"
 msgid "It found all the little pranksters!"
-msgstr ""
+msgstr "Він усіх пустунів повинюхував!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TICOON.TARGET_TOO_FAR_AWAY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TICOON.TARGET_TOO_FAR_AWAY"
@@ -286926,7 +286926,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TOADSTOOL_CAP.INGROUND
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TOADSTOOL_CAP.INGROUND"
 msgid "Have we summoned something fun?"
-msgstr ""
+msgstr "Невже ми викликали якусь забаву?"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TOMATO
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TOMATO"
@@ -287161,7 +287161,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_18
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_18"
 msgid "Tiny little pranksters surely wait inside. Surprise!"
-msgstr ""
+msgstr "Його начинка ще викине коника. Сюрприз!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_19
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_19"
@@ -287306,7 +287306,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_44
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_44"
 msgid "There's cracks in it for pests to get into."
-msgstr ""
+msgstr "Повно шпарин для непроханих гостей."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_45
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_45"
@@ -288381,7 +288381,7 @@ msgstr "Ну й замаскувався! Ху-ху!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WARDROBE.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WARDROBE.BURNING"
 msgid "Someone's playing a funny prank."
-msgstr ""
+msgstr "Хтось вирішив пожартувати."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WARDROBE.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WARDROBE.BURNT"
@@ -288541,7 +288541,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WATERPUMP
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WATERPUMP"
 msgid "This will put a swift end to fiery pranks..."
-msgstr ""
+msgstr "Вмить покладе край іграм з вогнем..."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WATERTREE_PILLAR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WATERTREE_PILLAR"
@@ -288836,7 +288836,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WILLOW.GHOST
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WILLOW.GHOST"
 msgid "Ooo, free soul!"
-msgstr ""
+msgstr "О-о, дармова душа!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WILLOW.MURDERER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WILLOW.MURDERER"
@@ -288871,7 +288871,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WILSON.GHOST
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WILSON.GHOST"
 msgid "Ooo, lunch is here!"
-msgstr ""
+msgstr "О-о, обід подано!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WILSON.MURDERER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WILSON.MURDERER"
@@ -289516,7 +289516,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMHOLE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMHOLE.GENERIC"
 msgid "That looks like it could be my ride!"
-msgstr ""
+msgstr "Схоже, мій транспорт подано!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMHOLE.OPEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORMHOLE.OPEN"
@@ -290146,7 +290146,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_DIRECTION.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_DIRECTION.BURNT"
 msgid "That prank went a bit too far."
-msgstr ""
+msgstr "Жарт вийшов з-під контролю."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_DIRECTION.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_DIRECTION.GENERIC"
@@ -290166,7 +290166,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_REACTION.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_REACTION.BURNT"
 msgid "That prank went a bit too far."
-msgstr ""
+msgstr "Жарт вийшов з-під контролю."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_REACTION.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_REACTION.GENERIC"
@@ -290186,7 +290186,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_SPEED.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_SPEED.BURNT"
 msgid "That prank went a bit too far."
-msgstr ""
+msgstr "Жарт вийшов з-під контролю."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_SPEED.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_SPEED.GENERIC"
@@ -290206,7 +290206,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_STAMINA.BURNT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_STAMINA.BURNT"
 msgid "That prank went a bit too far."
-msgstr ""
+msgstr "Жарт вийшов з-під контролю."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_STAMINA.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.YOTC_CARRAT_GYM_STAMINA.GENERIC"
@@ -290531,7 +290531,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE_GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE_GENERIC"
 msgid "Ooo, a mystery!"
-msgstr ""
+msgstr "О-о, загадка!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE_PLANTHAPPY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE_PLANTHAPPY"
@@ -290601,7 +290601,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.EAT_FOOD.WINTERSFEASTFUEL
 msgctxt "STRINGS.CHARACTERS.WORTOX.EAT_FOOD.WINTERSFEASTFUEL"
 msgid "Hyuyu, how fun!"
-msgstr ""
+msgstr "Ху-ху, як весело!"
 
 #. STRINGS.CHARACTERS.WORTOX.QUAGMIRE_ANNOUNCE_LOSE
 msgctxt "STRINGS.CHARACTERS.WORTOX.QUAGMIRE_ANNOUNCE_LOSE"
@@ -329906,37 +329906,37 @@ msgstr "Невідомі"
 #. STRINGS.CHARACTER_SURVIVABILITY.walter
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.walter"
 msgid "Slim"
-msgstr "Невеликі"
+msgstr "Примарні"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wanda
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wanda"
 msgid "Grim"
-msgstr "Суворі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.warly
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.warly"
 msgid "Grim"
-msgstr "Суворі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wathgrithr
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wathgrithr"
 msgid "Slim"
-msgstr "Невеликі"
+msgstr "Примарні"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.waxwell
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.waxwell"
 msgid "Grim"
-msgstr "Суворі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.webber
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.webber"
 msgid "Grim"
-msgstr "Суворі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wendy
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wendy"
 msgid "Slim"
-msgstr "Невеликі"
+msgstr "Примарні"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wes
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wes"
@@ -329946,27 +329946,27 @@ msgstr "Жодних"
 #. STRINGS.CHARACTER_SURVIVABILITY.wickerbottom
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wickerbottom"
 msgid "Grim"
-msgstr "Суворі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.willow
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.willow"
 msgid "Slim"
-msgstr "Невеликі"
+msgstr "Примарні"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wilson
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wilson"
 msgid "Slim"
-msgstr "Невеликі"
+msgstr "Примарні"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.winona
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.winona"
 msgid "Slim"
-msgstr "Невеликі"
+msgstr "Примарні"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wolfgang
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wolfgang"
 msgid "Grim"
-msgstr "Суворі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wonkey
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wonkey"
@@ -329976,27 +329976,27 @@ msgstr "Невідомі"
 #. STRINGS.CHARACTER_SURVIVABILITY.woodie
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.woodie"
 msgid "Slim"
-msgstr "Невеликі"
+msgstr "Примарні"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wormwood
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wormwood"
 msgid "Grim"
-msgstr "Суворі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wortox
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wortox"
 msgid "Grim"
-msgstr "Похмурі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wurt
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wurt"
 msgid "Slim"
-msgstr "Невеликі"
+msgstr "Примарні"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wx78
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wx78"
 msgid "Grim"
-msgstr "Похмурі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_TITLES.walter
 msgctxt "STRINGS.CHARACTER_TITLES.walter"
@@ -348266,7 +348266,7 @@ msgstr "Повивач"
 #. STRINGS.NAMES.SHROUDEN_OTHER
 msgctxt "STRINGS.NAMES.SHROUDEN_OTHER"
 msgid "The Other"
-msgstr "Інший"
+msgstr "Інакший"
 
 #. STRINGS.NAMES.SHROUDEN_VOIDMASQUE
 msgctxt "STRINGS.NAMES.SHROUDEN_VOIDMASQUE"
@@ -368761,7 +368761,7 @@ msgstr "Телемеханічний ентузіаст II"
 #. STRINGS.SKIN_DESCRIPTIONS.abigail_ancient
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_ancient"
 msgid "Flowers smell sweetest at Midsummer."
-msgstr "Запах квітів найсолодший у середлітті."
+msgstr "Найсолодше квіти пахнуть у середлітті."
 
 #. STRINGS.SKIN_DESCRIPTIONS.abigail_creepy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.abigail_creepy"
@@ -380796,7 +380796,7 @@ msgstr "Ця скриня містить наступні надбання: му
 #. STRINGS.SKIN_DESCRIPTIONS.pack_shadowchesspiratewanda
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_shadowchesspiratewanda"
 msgid "This Motley Style Chest contains the Cursed Chest, Chess Chest, Swashbuckler Trio III Chest, and the Wanda Fashionably Late Wardrobe."
-msgstr ""
+msgstr "Ця скриня містить: прокляту скриню, шахову скриню, скриню «Тріо паливод III» та гардероб Ванди, що вийшов із моди."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_shadow_all
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_shadow_all"
@@ -381056,7 +381056,7 @@ msgstr "Ця скриня містить повний набір елемент�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_walter_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_walter_pirate"
 msgid "This Chest contains Walter's complete set of Swashbuckler skin items."
-msgstr ""
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для Волтера."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_walter_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_walter_rose"
@@ -381081,7 +381081,7 @@ msgstr "Ця скриня містить повний набір елемент�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wandapluspirates
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wandapluspirates"
 msgid "This Stylish Pirates Chest contains the Swashbuckler Trio III chest and the Wanda Fashionably Late Wardrobe."
-msgstr ""
+msgstr "Ця скриня містить: скриню «Тріо паливод III» та гардероб Ванди, що вийшов із моди."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wanda_deluxe
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wanda_deluxe"
@@ -381091,7 +381091,7 @@ msgstr "Ця скриня містить персонажку Ванду, а т�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wanda_deluxe2
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wanda_deluxe2"
 msgid "This Wardrobe contains the Wanda's complete set of White Rabbit, Victorian, and Survivor skin items."
-msgstr ""
+msgstr "Ця скриня містить повні набори елементів гардероба: «Біла Кролиця», «Вікторіанка» та «Вціліла» для Ванди."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wanda_deluxealt
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wanda_deluxealt"
@@ -381106,7 +381106,7 @@ msgstr "Ця скриня містить повний набір елемент�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wanda_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wanda_pirate"
 msgid "This Chest contains Wanda's complete set of Swashbuckler skin items."
-msgstr ""
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для Ванди."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wanda_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wanda_rose"
@@ -381126,12 +381126,12 @@ msgstr "Ця скриня містить повний набір елемент�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wanda_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wanda_survivor"
 msgid "This Chest contains Wanda's complete set of Survivor skin items."
-msgstr ""
+msgstr "Ця скриня містить повний набір елементів гардероба вцілілої для Ванди."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wanda_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wanda_victorian"
 msgid "This Victorian Chest contains Wanda's complete set of Victorian skin items."
-msgstr ""
+msgstr "Ця скриня містить повний набір елементів гардероба вікторіанки для Ванди."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wanda_western
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wanda_western"
@@ -381431,7 +381431,7 @@ msgstr "Ця скриня містить елементи гардероба д�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_western_1_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_western_1_items"
 msgid "This Stampeder Gear Chest contains the following skin items: Studson, Outlaw Poncho, Beefherder Winter Hat, Sheriff's Hat, and Rancher Straw Hat."
-msgstr ""
+msgstr "Ця скриня містить наступні надбання: ковбойський капелюх, пончо грабіжника, зимовий капелюх скотаря, капелюх шерифа та солом'яний капелюх чередника."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_western_1_mystical_items
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_western_1_mystical_items"
@@ -381791,7 +381791,7 @@ msgstr "Ця скриня містить повний набір елемент�
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wormwood_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wormwood_pirate"
 msgid "This Chest contains Wormwood's complete set of Swashbuckler skin items."
-msgstr ""
+msgstr "Ця скриня містить повний набір елементів гардероба паливоди для Вормвуда."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pack_wormwood_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pack_wormwood_rose"
@@ -382146,7 +382146,7 @@ msgstr "Грайте споконвічну мелодію."
 #. STRINGS.SKIN_DESCRIPTIONS.parasol_polkadot
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.parasol_polkadot"
 msgid "Pretty moderate protection."
-msgstr ""
+msgstr "Час уже поставити крапку й перестати мокнути під дощем."
 
 #. STRINGS.SKIN_DESCRIPTIONS.parasol_spring
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.parasol_spring"
@@ -382261,7 +382261,7 @@ msgstr "Ця маленька свинка допоможе вам віднес�
 #. STRINGS.SKIN_DESCRIPTIONS.piggyback_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.piggyback_shadow"
 msgid "Little piggies gave their hides so you could carry more things."
-msgstr ""
+msgstr "Маленькі свинки пожертвували своїми шкурами, аби ви могли носити більше речей."
 
 #. STRINGS.SKIN_DESCRIPTIONS.pighouse_cabin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pighouse_cabin"
@@ -382281,7 +382281,7 @@ msgstr "Бездоганний вибір, щоби перебути холод�
 #. STRINGS.SKIN_DESCRIPTIONS.pitchfork_fork
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pitchfork_fork"
 msgid "When did Bearger start using utensils?"
-msgstr ""
+msgstr "Відколи це борсуковедмідь почав користуватися кухонним приладдям?"
 
 #. STRINGS.SKIN_DESCRIPTIONS.pitchfork_invisible
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.pitchfork_invisible"
@@ -382926,12 +382926,12 @@ msgstr "Спорядіть цей предмет, щоб змінити тло �
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_wardrobe_insect
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_wardrobe_insect"
 msgid "Equip this item to change your character's background portrait."
-msgstr ""
+msgstr "Спорядіть цей предмет, щоб змінити тло портрета свого персонажа."
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_waterballoon_insect
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_waterballoon_insect"
 msgid "Equip this item to change your character's background portrait."
-msgstr ""
+msgstr "Спорядіть цей предмет, щоб змінити тло портрета свого персонажа."
 
 #. STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_winter
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.playerportrait_bg_winter"
@@ -384251,7 +384251,7 @@ msgstr "Встановіть випнуті блискотливі криста�
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_wardrobe_insect
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_wardrobe_insect"
 msgid "Set your profile icon to a Butterfly Wardrobe"
-msgstr ""
+msgstr "Встановіть метеликовий гардероб як значок свого профілю."
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_wardrobe_yule
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_wardrobe_yule"
@@ -384261,7 +384261,7 @@ msgstr "Встановіть теплий зимовий гардероб як �
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_waterballoon_insect
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_waterballoon_insect"
 msgid "Set your profile icon to a Bugburst Waterballoon."
-msgstr ""
+msgstr "Встановіть комашину кульку з водою як значок свого профілю."
 
 #. STRINGS.SKIN_DESCRIPTIONS.profileflair_watermelonhat_pumpkin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.profileflair_watermelonhat_pumpkin"
@@ -384596,7 +384596,7 @@ msgstr "Має все, що необхідне зіллєвару."
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab2_chess
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_chess"
 msgid "Transmute the mundane into the magnificent."
-msgstr ""
+msgstr "Трансмутуйте буденщину в розкіш."
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab2_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab2_crystal"
@@ -384761,7 +384761,7 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab_chess
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab_chess"
 msgid "Keep your science in check."
-msgstr ""
+msgstr "Поставте науці шах і мат."
 
 #. STRINGS.SKIN_DESCRIPTIONS.researchlab_gothic
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.researchlab_gothic"
@@ -384911,7 +384911,7 @@ msgstr "Стародавні таємниці, пов'язані з нею, бу
 #. STRINGS.SKIN_DESCRIPTIONS.ruinshat_chess
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.ruinshat_chess"
 msgid "Rule the board with an iron hoof."
-msgstr ""
+msgstr "Візьміть шахівницю в залізні шори."
 
 #. STRINGS.SKIN_DESCRIPTIONS.ruinsrelic_chair_tesla
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.ruinsrelic_chair_tesla"
@@ -384936,7 +384936,7 @@ msgstr "Зброя, шанована забутими воїтелями мин�
 #. STRINGS.SKIN_DESCRIPTIONS.ruins_bat_chess
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.ruins_bat_chess"
 msgid "Sometimes the winningest strategy is blunt force trauma."
-msgstr ""
+msgstr "Іноді найнадійніший спосіб перемогти — це вдарити тупим предметом."
 
 #. STRINGS.SKIN_DESCRIPTIONS.ruins_bat_heavy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.ruins_bat_heavy"
@@ -384991,7 +384991,7 @@ msgstr "Хіба ця колона тут була? Невже ви зовсім
 #. STRINGS.SKIN_DESCRIPTIONS.sculptingtable_chess
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.sculptingtable_chess"
 msgid "Feeling crafty? Board?"
-msgstr ""
+msgstr "Ліпше робити слона не з мухи, а з каменю."
 
 #. STRINGS.SKIN_DESCRIPTIONS.sculptingtable_gothic
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.sculptingtable_gothic"
@@ -385051,7 +385051,7 @@ msgstr "Нехай любов до праці розквітне знов."
 #. STRINGS.SKIN_DESCRIPTIONS.shovel_spoon
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.shovel_spoon"
 msgid "Must be for a big bowl of soup."
-msgstr ""
+msgstr "Вона, мабуть, для великої тарілки супу."
 
 #. STRINGS.SKIN_DESCRIPTIONS.shovel_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.shovel_victorian"
@@ -385211,7 +385211,7 @@ msgstr "Він не б'є сильніше, ніж звичайний спис, 
 #. STRINGS.SKIN_DESCRIPTIONS.spear_chess
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.spear_chess"
 msgid "Skewer your opponent."
-msgstr ""
+msgstr "Посадіть свого супротивника на кіл."
 
 #. STRINGS.SKIN_DESCRIPTIONS.spear_forge_gungnir
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.spear_forge_gungnir"
@@ -385361,7 +385361,7 @@ msgstr "Вишуканий декоративний «стіл», яким мо�
 #. STRINGS.SKIN_DESCRIPTIONS.starstaff_chess
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.starstaff_chess"
 msgid "Light up the board."
-msgstr ""
+msgstr "Осяйте шахівницю."
 
 #. STRINGS.SKIN_DESCRIPTIONS.starstaff_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.starstaff_crystal"
@@ -385396,7 +385396,7 @@ msgstr ""
 #. STRINGS.SKIN_DESCRIPTIONS.steeringwheel_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.steeringwheel_shadow"
 msgid "Go with the flow."
-msgstr ""
+msgstr "Пливіть за течією."
 
 #. STRINGS.SKIN_DESCRIPTIONS.steeringwheel_shadow_item
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.steeringwheel_shadow_item"
@@ -385571,7 +385571,7 @@ msgstr "Станьте грозою морів."
 #. STRINGS.SKIN_DESCRIPTIONS.telebase_chess
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.telebase_chess"
 msgid "Position is everything."
-msgstr ""
+msgstr "Позиція — це все."
 
 #. STRINGS.SKIN_DESCRIPTIONS.telebase_crystal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.telebase_crystal"
@@ -385626,7 +385626,7 @@ msgstr "Подрімайте в тіні після довгого дня на �
 #. STRINGS.SKIN_DESCRIPTIONS.tent_chess
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.tent_chess"
 msgid "Rest easy, Your Majesty."
-msgstr ""
+msgstr "Спіть спокійно, ваша величносте."
 
 #. STRINGS.SKIN_DESCRIPTIONS.tent_circus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.tent_circus"
@@ -385651,12 +385651,12 @@ msgstr "Насолоджуйтеся сном в оточенні розкішн
 #. STRINGS.SKIN_DESCRIPTIONS.thurible_chess
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.thurible_chess"
 msgid "The Order will be followed."
-msgstr ""
+msgstr "Наказ буде виконано."
 
 #. STRINGS.SKIN_DESCRIPTIONS.thurible_shadow
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.thurible_shadow"
 msgid "Lead the undead, indeed!"
-msgstr ""
+msgstr "Ведіть мерців на безсмертний бій!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.tophat_chef
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.tophat_chef"
@@ -385696,17 +385696,17 @@ msgstr "Надівши цей капелюх, усі точно знатимут
 #. STRINGS.SKIN_DESCRIPTIONS.tophat_minigolf_green
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.tophat_minigolf_green"
 msgid "Let everyone know your head's in the game."
-msgstr ""
+msgstr "Нехай усі знають, що ви поринаєте в гру з головою."
 
 #. STRINGS.SKIN_DESCRIPTIONS.tophat_minigolf_purple
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.tophat_minigolf_purple"
 msgid "Let everyone know your head's in the game."
-msgstr ""
+msgstr "Нехай усі знають, що ви поринаєте в гру з головою."
 
 #. STRINGS.SKIN_DESCRIPTIONS.tophat_minigolf_red
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.tophat_minigolf_red"
 msgid "Let everyone know your head's in the game."
-msgstr ""
+msgstr "Нехай усі знають, що ви поринаєте в гру з головою."
 
 #. STRINGS.SKIN_DESCRIPTIONS.tophat_spiked
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.tophat_spiked"
@@ -385746,7 +385746,7 @@ msgstr "Смолоскип, зроблений на честь кмітливо�
 #. STRINGS.SKIN_DESCRIPTIONS.torch_cawnival
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_cawnival"
 msgid "There's nothing like a day at the Cawnival to brighten the mood."
-msgstr ""
+msgstr "Якщо провести день на Кар-р-рнавалі, то на душі аж світліше стане."
 
 #. STRINGS.SKIN_DESCRIPTIONS.torch_nautical
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.torch_nautical"
@@ -386081,12 +386081,12 @@ msgstr "Павучок на ній не боїться дощу."
 #. STRINGS.SKIN_DESCRIPTIONS.voidclothhat_ribbon
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.voidclothhat_ribbon"
 msgid "It's pretty scary."
-msgstr ""
+msgstr "Він аж страх який красивий."
 
 #. STRINGS.SKIN_DESCRIPTIONS.voidclothhat_spooky
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.voidclothhat_spooky"
 msgid "For heading into dark times."
-msgstr ""
+msgstr "Не вбереже від бід, коли ті почнуть валитися на голову."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wagdrone_rolling_fancy
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wagdrone_rolling_fancy"
@@ -386096,7 +386096,7 @@ msgstr "Можливо, не варто було робити його таки�
 #. STRINGS.SKIN_DESCRIPTIONS.wagdrone_rolling_fire
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wagdrone_rolling_fire"
 msgid "It's the hottest new Terramite!"
-msgstr ""
+msgstr "Найгарячіший теракліщ, немов щойно з печі!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wagdrone_rolling_spikey
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wagdrone_rolling_spikey"
@@ -386311,17 +386311,17 @@ msgstr "Вершина витонченості Високогір'я Шотла
 #. STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_green
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_green"
 msgid "Let everyone know your head's in the game."
-msgstr ""
+msgstr "Нехай усі знають, що ви поринаєте в гру з головою."
 
 #. STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_purple
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_purple"
 msgid "Let everyone know your head's in the game."
-msgstr ""
+msgstr "Нехай усі знають, що ви поринаєте в гру з головою."
 
 #. STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_red
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_minigolf_red"
 msgid "Let everyone know your head's in the game."
-msgstr ""
+msgstr "Нехай усі знають, що ви поринаєте в гру з головою."
 
 #. STRINGS.SKIN_DESCRIPTIONS.walrushat_party
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walrushat_party"
@@ -386376,7 +386376,7 @@ msgstr "Вона як плащ, тільки для голови!"
 #. STRINGS.SKIN_DESCRIPTIONS.walterhat_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walterhat_pirate"
 msgid "It be brimmin' with piratin' possibilities!"
-msgstr ""
+msgstr "Час поглянути на піратське життя під іншим кутом!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.walterhat_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walterhat_rose"
@@ -386471,7 +386471,7 @@ msgstr "Стандартний однострій Волтера у «Скаут
 #. STRINGS.SKIN_DESCRIPTIONS.walter_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walter_pirate"
 msgid "Walter is decked out for adventure on the high seas!"
-msgstr ""
+msgstr "Волтерові вже не терпиться пуститися берега назустріч пригодам!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.walter_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.walter_rose"
@@ -386556,7 +386556,7 @@ msgstr "Вигляд Ванди, який пройшов перевірку ча
 #. STRINGS.SKIN_DESCRIPTIONS.wanda_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wanda_pirate"
 msgid "Wanda's well-worn and well-loved seafaring outfit."
-msgstr ""
+msgstr "Найобдертіше й найулюбленіше моряцьке вбрання Ванди."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wanda_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wanda_rose"
@@ -386576,12 +386576,12 @@ msgstr "Авжеж невеличке втручання в цю часолан�
 #. STRINGS.SKIN_DESCRIPTIONS.wanda_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wanda_survivor"
 msgid "It was only a matter of time before Wanda would find herself lost in the middle of nowhere."
-msgstr ""
+msgstr "Це було лише питанням часу, коли Ванда знов опиниться у якійсь глушині."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wanda_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wanda_victorian"
 msgid "Wanda can't resist a timeless classic."
-msgstr ""
+msgstr "Ванда не може встояти перед позачасовою класикою."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wanda_western
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wanda_western"
@@ -386591,7 +386591,7 @@ msgstr "Йой, Вандо! Притримай коней!"
 #. STRINGS.SKIN_DESCRIPTIONS.wanda_whiterabbit
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wanda_whiterabbit"
 msgid "Out of the way! Wanda's got somewhere to be!"
-msgstr ""
+msgstr "З дороги! Ванда поспішає!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wanda_yule
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wanda_yule"
@@ -386731,7 +386731,7 @@ msgstr "Не тільки страви у Варлі чудові, але й к�
 #. STRINGS.SKIN_DESCRIPTIONS.waterballoon_insect
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.waterballoon_insect"
 msgid "Put out fires with a splashy splat."
-msgstr ""
+msgstr "Щоб загасити пожежу, треба не лише язиком плескати."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wateringcan_cactus
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wateringcan_cactus"
@@ -388331,7 +388331,7 @@ msgstr "Віноні завжди був близький дух товарис�
 #. STRINGS.SKIN_DESCRIPTIONS.winterhat_bearger
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.winterhat_bearger"
 msgid "Hats off to a ferocious forest foe."
-msgstr ""
+msgstr "Знімаємо шапку перед грізним лісовим недругом."
 
 #. STRINGS.SKIN_DESCRIPTIONS.winterhat_black_davys
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.winterhat_black_davys"
@@ -388836,7 +388836,7 @@ msgstr "Вормвуд нещодавно пробудився й готовий
 #. STRINGS.SKIN_DESCRIPTIONS.wormwood_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wormwood_pirate"
 msgid "Wormwood needs all the kelp he can get for this seagoing outfit."
-msgstr ""
+msgstr "Вормвуду потрібно чимало ламінарії для свого моряцького вбрання."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wormwood_pumpkin
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wormwood_pumpkin"
@@ -388891,7 +388891,7 @@ msgstr "А ось і Вортокс — пройдисвіт і рептилія
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_dragon
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_dragon"
 msgid "Not all dragons covet gold, Wortox guards a hoard of souls!"
-msgstr "Не всі дракони жадають золота. Для Вортокса ось найліпший скарб — це душі!"
+msgstr "Не всякий дракон золота жадає. Вортоксові, он, душі більше до душі!"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_formal
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_formal"
@@ -388916,12 +388916,12 @@ msgstr "Від пустотливого біса до осяйного міся�
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_masquerade
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_masquerade"
 msgid "This guest's angelic appearance might be masking a devilish trickster within."
-msgstr "Можливо, за ангельською зовнішністю цього гостя ховається бісівська натура."
+msgstr "За янгольською личиною цього вельможі може ховатися ще те бісеня."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_minotaur
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_minotaur"
 msgid "Wortox's mind is, admittedly, much like a labyrinth itself."
-msgstr "Розум Вортокса теж свого роду лабіринт."
+msgstr "Розум Вортокса, слід визнати, і сам нагадує лабіринт."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_nature
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_nature"
@@ -388936,12 +388936,12 @@ msgstr "Костюм безокого Оленетокса"
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_noeyeddeer_d
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_noeyeddeer_d"
 msgid "Wortox was once a simple creature, too."
-msgstr "Вортокс теж колись був звичайним створінням."
+msgstr "Колись і Вортокс був простодушним звірятком."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_noeyeddeer_p
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_noeyeddeer_p"
 msgid "Wortox was once a simple creature, too."
-msgstr "Вортокс теж колись був звичайним створінням."
+msgstr "Колись і Вортокс був простодушним звірятком."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_none
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_none"
@@ -388951,12 +388951,12 @@ msgstr "Вортокс прибув, і він готовий до витіво�
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_original
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_original"
 msgid "Now this is a Wortox worth fawning over."
-msgstr "Перед таким Вортоксом хоч на задніх лапах скакати."
+msgstr "Перед таким Вортоксом хоч на задніх лапах ходи."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_pirate
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_pirate"
 msgid "One can get into a lot of mischief at sea."
-msgstr "На морі знайдеться чимало місця бешкетуванню."
+msgstr "Де ж іще пускатися берега, як не подалі від нього?"
 
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_rose
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_rose"
@@ -388971,7 +388971,7 @@ msgstr "Це бісівське створіння остаточно навер
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_survivor
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_survivor"
 msgid "Wortox is playing the part of the grizzled goblin."
-msgstr "Вортокс грає роль буркотливого ґобліна."
+msgstr "Вортокс приміряє роль буркотливого ґобліна."
 
 #. STRINGS.SKIN_DESCRIPTIONS.wortox_victorian
 msgctxt "STRINGS.SKIN_DESCRIPTIONS.wortox_victorian"
@@ -401746,7 +401746,7 @@ msgstr "Розширена скриня «Ванда»"
 #. STRINGS.SKIN_NAMES.pack_wanda_deluxe2
 msgctxt "STRINGS.SKIN_NAMES.pack_wanda_deluxe2"
 msgid "Wanda Fashionably Late Wardrobe"
-msgstr "«Гардероб Ванди, що вийшов із моди»"
+msgstr "Гардероб Ванди, що вийшов із моди"
 
 #. STRINGS.SKIN_NAMES.pack_wanda_deluxealt
 msgctxt "STRINGS.SKIN_NAMES.pack_wanda_deluxealt"
@@ -411771,17 +411771,17 @@ msgstr "«Я гарненький»"
 #. STRINGS.SKIN_QUOTES.wortox_ancient
 msgctxt "STRINGS.SKIN_QUOTES.wortox_ancient"
 msgid "\"I've been told, my blood can run cold!\""
-msgstr ""
+msgstr "«Подейкують, я з холоднокровних!»"
 
 #. STRINGS.SKIN_QUOTES.wortox_dragon
 msgctxt "STRINGS.SKIN_QUOTES.wortox_dragon"
 msgid "\"Don't get between me and my hoard of souls.\""
-msgstr ""
+msgstr "«Не ставай між мною та моєю скарбницею душ.»"
 
 #. STRINGS.SKIN_QUOTES.wortox_formal
 msgctxt "STRINGS.SKIN_QUOTES.wortox_formal"
 msgid "\"Charmed, I'm sure.\""
-msgstr ""
+msgstr "«Сама чарівність, якщо дозволите.»"
 
 #. STRINGS.SKIN_QUOTES.wortox_hazard
 msgctxt "STRINGS.SKIN_QUOTES.wortox_hazard"
@@ -411791,77 +411791,77 @@ msgstr "«Гр-р-м... мф-ф! М-м-мф!»"
 #. STRINGS.SKIN_QUOTES.wortox_ice
 msgctxt "STRINGS.SKIN_QUOTES.wortox_ice"
 msgid "\"Don't slip up or you might get a face full of snow, hyuyu!\""
-msgstr ""
+msgstr "«Гляди не посковзнись, а то носом сніг оратимеш! Ху-ху!»"
 
 #. STRINGS.SKIN_QUOTES.wortox_lunar
 msgctxt "STRINGS.SKIN_QUOTES.wortox_lunar"
 msgid "\"A princely guise, with moonlit ties!\""
-msgstr ""
+msgstr "«Княжа подоба, місячна оздоба!»"
 
 #. STRINGS.SKIN_QUOTES.wortox_masquerade
 msgctxt "STRINGS.SKIN_QUOTES.wortox_masquerade"
 msgid "\"These masked events are the playgrounds of merry mischief-makers!\""
-msgstr ""
+msgstr "«Де ще капосникам відводити душу, як не на маскараді!»"
 
 #. STRINGS.SKIN_QUOTES.wortox_minotaur
 msgctxt "STRINGS.SKIN_QUOTES.wortox_minotaur"
 msgid "\"Won't you visit me at the heart of the labyrinth?\""
-msgstr ""
+msgstr "«Не навідаєш мене в самому серці лабіринту?»"
 
 #. STRINGS.SKIN_QUOTES.wortox_nature
 msgctxt "STRINGS.SKIN_QUOTES.wortox_nature"
 msgid "\"Follow me into the forest deep, where impish sorts frolic and play!\""
-msgstr ""
+msgstr "«Ходім у хащі лісові, де біси бавляться собі!»"
 
 #. STRINGS.SKIN_QUOTES.wortox_noeyeddeer
 msgctxt "STRINGS.SKIN_QUOTES.wortox_noeyeddeer"
 msgid "\"Oh dear, I have no idea where I'm going.\""
-msgstr ""
+msgstr "«Ой леле, куди бреду — не розберу.»"
 
 #. STRINGS.SKIN_QUOTES.wortox_noeyeddeer_d
 msgctxt "STRINGS.SKIN_QUOTES.wortox_noeyeddeer_d"
 msgid "\"Oh dear, I have no idea where I'm going.\""
-msgstr ""
+msgstr "«Ой леле, куди бреду — не розберу.»"
 
 #. STRINGS.SKIN_QUOTES.wortox_noeyeddeer_p
 msgctxt "STRINGS.SKIN_QUOTES.wortox_noeyeddeer_p"
 msgid "\"Oh dear, I have no idea where I'm going.\""
-msgstr ""
+msgstr "«Ой леле, куди бреду — не розберу.»"
 
 #. STRINGS.SKIN_QUOTES.wortox_original
 msgctxt "STRINGS.SKIN_QUOTES.wortox_original"
 msgid "\"Ol'Kramps says my powers should grow in soon. Hyuyu!\""
-msgstr ""
+msgstr "«Старий Крампс каже, мої сили ось-ось проявляться. Ху-ху!»"
 
 #. STRINGS.SKIN_QUOTES.wortox_pirate
 msgctxt "STRINGS.SKIN_QUOTES.wortox_pirate"
 msgid "\"We impish sorts do love our gold, hyuyu!\""
-msgstr ""
+msgstr "«За золотом ми хоч під три чорти, ху-ху!»"
 
 #. STRINGS.SKIN_QUOTES.wortox_rose
 msgctxt "STRINGS.SKIN_QUOTES.wortox_rose"
 msgid "\"I'm simply tickled pink, hyuyu!\""
-msgstr ""
+msgstr "«Від захвату аж порожевів, ху-ху!»"
 
 #. STRINGS.SKIN_QUOTES.wortox_shadow
 msgctxt "STRINGS.SKIN_QUOTES.wortox_shadow"
 msgid "\"I let in darkness once before, what's the harm in a little more?\""
-msgstr ""
+msgstr "«Пітьму впускав я вже колись — то ще краплиночки не бійсь!»"
 
 #. STRINGS.SKIN_QUOTES.wortox_survivor
 msgctxt "STRINGS.SKIN_QUOTES.wortox_survivor"
 msgid "\"Try not to cower in fear, my dear!\""
-msgstr ""
+msgstr "«Гляди, серденько, п'ятами не накивай!»"
 
 #. STRINGS.SKIN_QUOTES.wortox_victorian
 msgctxt "STRINGS.SKIN_QUOTES.wortox_victorian"
 msgid "\"Ol'Kramps did always say; if I kept making a funny face it'd get stuck that way.\""
-msgstr ""
+msgstr "«Старий Крампс завжди казав: якщо й далі гримасу корчитиму — таким і залишуся.»"
 
 #. STRINGS.SKIN_QUOTES.wortox_yule
 msgctxt "STRINGS.SKIN_QUOTES.wortox_yule"
 msgid "\"I'm absolutely adorable!\""
-msgstr ""
+msgstr "«Ну хіба я не чарівний!»"
 
 #. STRINGS.SKIN_QUOTES.wurt_ancient
 msgctxt "STRINGS.SKIN_QUOTES.wurt_ancient"
@@ -420626,7 +420626,7 @@ msgstr "Зупинити розіткання копій"
 #. STRINGS.UI.BARTER_QUEUE.TOOLTIP_UNRAVEL
 msgctxt "STRINGS.UI.BARTER_QUEUE.TOOLTIP_UNRAVEL"
 msgid "Unravel all duplicate items"
-msgstr "Розіткати всі копії"
+msgstr "Розіткати копії"
 
 #. STRINGS.UI.BARTER_QUEUE.TOOLTIP_UNRAVEL_DISABLED
 msgctxt "STRINGS.UI.BARTER_QUEUE.TOOLTIP_UNRAVEL_DISABLED"
@@ -421116,7 +421116,7 @@ msgstr "Кинути кості"
 #. STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.DESC
 msgctxt "STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.DESC"
 msgid "Rollback the server to a previous save."
-msgstr "Повертає сервер до попереднього збереження."
+msgstr "Повертає сервер до минулого збереження."
 
 #. STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.PRETTYNAME
 msgctxt "STRINGS.UI.BUILTINCOMMANDS.ROLLBACK.PRETTYNAME"
@@ -425801,7 +425801,7 @@ msgstr "Дракономуха"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.DROPEVERYTHINGONDESPAWN
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DROPEVERYTHINGONDESPAWN"
 msgid "Drop Items on Disconnect"
-msgstr "Скид. предметів під час від'єднання"
+msgstr "Скид. предметів при від'єднанні"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.DUSTMOTHS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.DUSTMOTHS"
@@ -425976,7 +425976,7 @@ msgstr "Вузли"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.PREFABSWAPS_START
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.PREFABSWAPS_START"
 msgid "Starting Resource Variety"
-msgstr "Різномаїття початк. ресурсів"
+msgstr "Різномаїття старт. ресурсів"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.SEASON_START
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.SEASON_START"
@@ -426331,7 +426331,7 @@ msgstr "Яснодзьобі птахи"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_BUZZARD_GESTALT
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_BUZZARD_GESTALT"
 msgid "Crystal-Crested Buzzards"
-msgstr "Кристалогребневі стерв'ятники"
+msgstr "Кристалогребн. стерв'ятники"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_DEERCLOPS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.MUTATED_DEERCLOPS"
@@ -426481,7 +426481,7 @@ msgstr "Ставки"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PORTALRESURECTION
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PORTALRESURECTION"
 msgid "Revive At Florid Postern"
-msgstr "Відродження через химерну потерну"
+msgstr "Відродження через потерну"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PORTAL_SPAWNRATE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PORTAL_SPAWNRATE"
@@ -428821,7 +428821,7 @@ msgstr "Невідомий меценат"
 #. STRINGS.UI.HUD.UNEQUIP
 msgctxt "STRINGS.UI.HUD.UNEQUIP"
 msgid "Unequip"
-msgstr "Зняти спорядження"
+msgstr "Зняти"
 
 #. STRINGS.UI.HUD.UNLOCK_TARGET
 msgctxt "STRINGS.UI.HUD.UNLOCK_TARGET"
@@ -429556,7 +429556,7 @@ msgstr "Доступна комірка"
 #. STRINGS.UI.LOBBYSCREEN.HOSTQUITBODY
 msgctxt "STRINGS.UI.LOBBYSCREEN.HOSTQUITBODY"
 msgid "Are you sure you want to shut down this server? If you do, all players will be disconnected."
-msgstr "Ви впевнені, що бажаєте завершити роботу цього сервера? Якщо ви це зробите, усі гравці будуть від'єднані."
+msgstr "Ви впевнені, що бажаєте завершити роботу сервера? Якщо ви це зробите, усіх гравців буде від'єднано."
 
 #. STRINGS.UI.LOBBYSCREEN.HOSTQUITTITLE
 msgctxt "STRINGS.UI.LOBBYSCREEN.HOSTQUITTITLE"
@@ -431166,7 +431166,7 @@ msgstr "Пустіть до модів!"
 #. STRINGS.UI.MODSSCREEN.NO_MODS_OK
 msgctxt "STRINGS.UI.MODSSCREEN.NO_MODS_OK"
 msgid "Show Me!"
-msgstr "Покажи-но!"
+msgstr "Показати!"
 
 #. STRINGS.UI.MODSSCREEN.NO_MODS_PLAIN_OK
 msgctxt "STRINGS.UI.MODSSCREEN.NO_MODS_PLAIN_OK"
@@ -432361,7 +432361,7 @@ msgstr "Помилка запуску виділеного сервера"
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_CONNECTION_ATTEMPT_FAILED
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_CONNECTION_ATTEMPT_FAILED"
 msgid "Destination Not Responding"
-msgstr ""
+msgstr "Сервер не відповідає"
 
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_SERVER_NOT_AVAILABLE
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_DESTINATION_SERVER_NOT_AVAILABLE"
@@ -432401,7 +432401,7 @@ msgstr "Помилка запуску мережі"
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_LOGGED_IN_SOMEWHERE_ELSE
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_LOGGED_IN_SOMEWHERE_ELSE"
 msgid "Duplicate Login"
-msgstr ""
+msgstr "Подвійний логін"
 
 #. STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_NETWORK_CONNECTION_LOST
 msgctxt "STRINGS.UI.NETWORKDISCONNECT.TITLE.ID_DST_NETWORK_CONNECTION_LOST"
@@ -432641,7 +432641,7 @@ msgstr "Граєте на ґеймпаді?"
 #. STRINGS.UI.NEW_CONTROLSCHEME_POPUP.YES
 msgctxt "STRINGS.UI.NEW_CONTROLSCHEME_POPUP.YES"
 msgid "Show me!"
-msgstr "Покажи-но!"
+msgstr "Показати!"
 
 #. STRINGS.UI.NOTIFICATION.BANNEDFROMGAME
 msgctxt "STRINGS.UI.NOTIFICATION.BANNEDFROMGAME"
@@ -434131,7 +434131,7 @@ msgstr "Творець сервера поставив гру на павзу."
 #. STRINGS.UI.PAUSEMENU.HOSTQUITBODY
 msgctxt "STRINGS.UI.PAUSEMENU.HOSTQUITBODY"
 msgid "Are you sure you want to shut down the server? If you do, all current players will be disconnected."
-msgstr "Ви впевнені, що бажаєте завершити роботу цього сервера? Якщо ви це зробите, усі гравці будуть від'єднані."
+msgstr "Ви впевнені, що бажаєте завершити роботу сервера? Якщо ви це зробите, усіх гравців буде від'єднано."
 
 #. STRINGS.UI.PAUSEMENU.HOSTQUITTITLE
 msgctxt "STRINGS.UI.PAUSEMENU.HOSTQUITTITLE"
@@ -437696,7 +437696,7 @@ msgstr "Хмарне збереження"
 #. STRINGS.UI.SERVERLISTINGSCREEN.CONNECTION
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.CONNECTION"
 msgid "Connection:"
-msgstr "З'єднання"
+msgstr "З'єднання:"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.CONTINUE
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.CONTINUE"
@@ -440316,7 +440316,7 @@ msgstr "Обрано"
 #. STRINGS.UI.UNRAVELDUPESSCREEN.TITLE
 msgctxt "STRINGS.UI.UNRAVELDUPESSCREEN.TITLE"
 msgid "Select Duplicate Items To Unravel"
-msgstr "Виберіть копії, які хочете розіткати"
+msgstr "Оберіть копії для розіткання"
 
 #. STRINGS.UI.UNRAVELDUPESSCREEN.UNRAVEL
 msgctxt "STRINGS.UI.UNRAVELDUPESSCREEN.UNRAVEL"
