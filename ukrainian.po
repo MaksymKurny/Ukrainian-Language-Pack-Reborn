@@ -3,7 +3,7 @@ msgstr ""
 "Language: ua\n"
 "Project-Id-Version: ULP Reborn\n"
 "Language-Team: ULP Reborn Team\n"
-"PO-Revision-Date: 2026-11-22 15:30\n"
+"PO-Revision-Date: 2026-11-22 20:20\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0\n"
@@ -329906,37 +329906,37 @@ msgstr "Невідомі"
 #. STRINGS.CHARACTER_SURVIVABILITY.walter
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.walter"
 msgid "Slim"
-msgstr "Невеликі"
+msgstr "Примарні"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wanda
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wanda"
 msgid "Grim"
-msgstr "Суворі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.warly
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.warly"
 msgid "Grim"
-msgstr "Суворі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wathgrithr
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wathgrithr"
 msgid "Slim"
-msgstr "Невеликі"
+msgstr "Примарні"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.waxwell
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.waxwell"
 msgid "Grim"
-msgstr "Суворі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.webber
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.webber"
 msgid "Grim"
-msgstr "Суворі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wendy
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wendy"
 msgid "Slim"
-msgstr "Невеликі"
+msgstr "Примарні"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wes
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wes"
@@ -329946,27 +329946,27 @@ msgstr "Жодних"
 #. STRINGS.CHARACTER_SURVIVABILITY.wickerbottom
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wickerbottom"
 msgid "Grim"
-msgstr "Суворі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.willow
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.willow"
 msgid "Slim"
-msgstr "Невеликі"
+msgstr "Примарні"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wilson
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wilson"
 msgid "Slim"
-msgstr "Невеликі"
+msgstr "Примарні"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.winona
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.winona"
 msgid "Slim"
-msgstr "Невеликі"
+msgstr "Примарні"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wolfgang
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wolfgang"
 msgid "Grim"
-msgstr "Суворі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wonkey
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wonkey"
@@ -329976,27 +329976,27 @@ msgstr "Невідомі"
 #. STRINGS.CHARACTER_SURVIVABILITY.woodie
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.woodie"
 msgid "Slim"
-msgstr "Невеликі"
+msgstr "Примарні"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wormwood
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wormwood"
 msgid "Grim"
-msgstr "Суворі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wortox
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wortox"
 msgid "Grim"
-msgstr "Похмурі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wurt
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wurt"
 msgid "Slim"
-msgstr "Невеликі"
+msgstr "Примарні"
 
 #. STRINGS.CHARACTER_SURVIVABILITY.wx78
 msgctxt "STRINGS.CHARACTER_SURVIVABILITY.wx78"
 msgid "Grim"
-msgstr "Похмурі"
+msgstr "Кепські"
 
 #. STRINGS.CHARACTER_TITLES.walter
 msgctxt "STRINGS.CHARACTER_TITLES.walter"
