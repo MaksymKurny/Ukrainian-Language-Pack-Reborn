@@ -3,7 +3,7 @@ msgstr ""
 "Language: ua\n"
 "Project-Id-Version: ULP Reborn\n"
 "Language-Team: ULP Reborn Team\n"
-"PO-Revision-Date: 2026-11-23 20:36\n"
+"PO-Revision-Date: 2026-11-24 17:56\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0\n"
@@ -274021,12 +274021,12 @@ msgstr "І що б це тільки могло бути!"
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_VAULT_SHADOW_ASSIST
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_VAULT_SHADOW_ASSIST"
 msgid "Is this a dream, or a nightmare?"
-msgstr ""
+msgstr "Сон це чи кошмар?"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_VAULT_TELEPORTER_DOES_NOTHING
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_VAULT_TELEPORTER_DOES_NOTHING"
 msgid "Ahem! What's the problem!"
-msgstr ""
+msgstr "Агов! Чому стоїмо?!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WASHED_ASHORE
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WASHED_ASHORE"
@@ -274041,7 +274041,7 @@ msgstr "Час майбутнього гінця добігає вже кінц�
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WEAPON_TOOWEAK
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WEAPON_TOOWEAK"
 msgid "I need stronger arms to do any harms!"
-msgstr ""
+msgstr "Треба дужчі руки, щоб завдати їм науки!"
 
 #. STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WEIGHT
 msgctxt "STRINGS.CHARACTERS.WORTOX.ANNOUNCE_WEIGHT"
@@ -287286,22 +287286,22 @@ msgstr "Ані грама душі в ньому."
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_40
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_40"
 msgid "Snips and snails and puppydog scales."
-msgstr ""
+msgstr "Сім раз відваж, а один відріж!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_41
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_41"
 msgid "Without a doubt, the goop's spilled out."
-msgstr ""
+msgstr "Годі гадати — встигло все повитікати."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_42
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_42"
 msgid "Thank goodness this snake is just a fake."
-msgstr ""
+msgstr "Яке щастя, що ця змія несправжня."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_43
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_43"
 msgid "Oh joy, oh boy! A wheely toy!"
-msgstr ""
+msgstr "Ой, потіха! Ой, забава! Крокодильчик їде жваво!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_44
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_44"
@@ -287316,7 +287316,7 @@ msgstr "Може глузд я і згубив, та мотивчик улови
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_46
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_46"
 msgid "We don't have these on my plane."
-msgstr ""
+msgstr "У моєму вимірі таких немає."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_5
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_5"
@@ -287326,12 +287326,12 @@ msgstr "Вжу-у-ух!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_6
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_6"
 msgid "Frizzle-frazzled like my mind!"
-msgstr ""
+msgstr "Зношені-перекошені, як думки мої!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_7
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_7"
 msgid "Oh, humans play such funny games!"
-msgstr ""
+msgstr "Ох і кумедні ж у людей забави!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_8
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_8"
@@ -337101,7 +337101,7 @@ msgstr "Буль-буль, іскри! Буль-буль, іскри!"
 #. STRINGS.MESSAGEBOTTLE_NOTES.1
 msgctxt "STRINGS.MESSAGEBOTTLE_NOTES.1"
 msgid "\"I know you're still out there, my dear. I won't ever give up.\""
-msgstr "«Я знаю, що ти все ще десь там, любий. Я ніколи не здамся.»"
+msgstr "«Я знаю, що ти досі десь там, любий. Я нізащо не здамся»."
 
 #. STRINGS.MESSAGEBOTTLE_NOTES.2
 msgctxt "STRINGS.MESSAGEBOTTLE_NOTES.2"
@@ -337111,7 +337111,7 @@ msgstr "«Я чекатиму на тебе. Там, де ми вперше зу
 #. STRINGS.MESSAGEBOTTLE_NOTES.3
 msgctxt "STRINGS.MESSAGEBOTTLE_NOTES.3"
 msgid "\"Please come home. I miss you so much.\""
-msgstr "«Прошу, повертайся додому. Я так сумую за тобою.»"
+msgstr "«Прошу, повертайся додому. Я так сумую за тобою»."
 
 #. STRINGS.MESSAGEBOTTLE_NOTES.4
 msgctxt "STRINGS.MESSAGEBOTTLE_NOTES.4"
@@ -411776,12 +411776,12 @@ msgstr "«Подейкують, я з холоднокровних!»"
 #. STRINGS.SKIN_QUOTES.wortox_dragon
 msgctxt "STRINGS.SKIN_QUOTES.wortox_dragon"
 msgid "\"Don't get between me and my hoard of souls.\""
-msgstr "«Не ставай між мною та моєю скарбницею душ.»"
+msgstr "«Не ставай між мною та моєю скарбницею душ»."
 
 #. STRINGS.SKIN_QUOTES.wortox_formal
 msgctxt "STRINGS.SKIN_QUOTES.wortox_formal"
 msgid "\"Charmed, I'm sure.\""
-msgstr "«Сама чарівність, якщо дозволите.»"
+msgstr "«Сама чарівність, якщо дозволите»."
 
 #. STRINGS.SKIN_QUOTES.wortox_hazard
 msgctxt "STRINGS.SKIN_QUOTES.wortox_hazard"
@@ -411816,17 +411816,17 @@ msgstr "«Ходім у хащі лісові, де біси бавляться 
 #. STRINGS.SKIN_QUOTES.wortox_noeyeddeer
 msgctxt "STRINGS.SKIN_QUOTES.wortox_noeyeddeer"
 msgid "\"Oh dear, I have no idea where I'm going.\""
-msgstr "«Ой леле, куди бреду — не розберу.»"
+msgstr "«Леле, куди бреду — не розберу»."
 
 #. STRINGS.SKIN_QUOTES.wortox_noeyeddeer_d
 msgctxt "STRINGS.SKIN_QUOTES.wortox_noeyeddeer_d"
 msgid "\"Oh dear, I have no idea where I'm going.\""
-msgstr "«Ой леле, куди бреду — не розберу.»"
+msgstr "«Ой леле, куди бреду — не розберу»."
 
 #. STRINGS.SKIN_QUOTES.wortox_noeyeddeer_p
 msgctxt "STRINGS.SKIN_QUOTES.wortox_noeyeddeer_p"
 msgid "\"Oh dear, I have no idea where I'm going.\""
-msgstr "«Ой леле, куди бреду — не розберу.»"
+msgstr "«Ой леле, куди бреду — не розберу»."
 
 #. STRINGS.SKIN_QUOTES.wortox_original
 msgctxt "STRINGS.SKIN_QUOTES.wortox_original"
@@ -411856,7 +411856,7 @@ msgstr "«Гляди, серденько, п'ятами не накивай!»"
 #. STRINGS.SKIN_QUOTES.wortox_victorian
 msgctxt "STRINGS.SKIN_QUOTES.wortox_victorian"
 msgid "\"Ol'Kramps did always say; if I kept making a funny face it'd get stuck that way.\""
-msgstr "«Старий Крампс завжди казав: якщо й далі гримасу корчитиму — таким і залишуся.»"
+msgstr "«Старий Крампс завжди казав: якщо й далі гримасу корчитиму — таким і залишуся»."
 
 #. STRINGS.SKIN_QUOTES.wortox_yule
 msgctxt "STRINGS.SKIN_QUOTES.wortox_yule"
@@ -416521,7 +416521,7 @@ msgstr "А стоїш уверх ногами й до цього вже звик
 #. STRINGS.STAGEACTOR.WANDA1.4
 msgctxt "STRINGS.STAGEACTOR.WANDA1.4"
 msgid "Do you think, at your age, it is right?\""
-msgstr "На твій вік це не надто красиво.»"
+msgstr "На твій вік це не надто красиво»."
 
 #. STRINGS.STAGEACTOR.WANDA1.5
 msgctxt "STRINGS.STAGEACTOR.WANDA1.5"
@@ -425591,7 +425591,7 @@ msgstr "Полеглі попередники"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.BRANCHING
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BRANCHING"
 msgid "Branches"
-msgstr "Гілки"
+msgstr "Розгалуження"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.BRIGHTMARECREATURES
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BRIGHTMARECREATURES"
@@ -425961,7 +425961,7 @@ msgstr "Осінь"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.BRANCHING
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.BRANCHING"
 msgid "Branches"
-msgstr "Гілки"
+msgstr "Розгалуження"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.DAY
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.DAY"
@@ -425971,7 +425971,7 @@ msgstr "Тип доби"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.LOOP
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.LOOP"
 msgid "Loops"
-msgstr "Вузли"
+msgstr "Закільцювання"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.PREFABSWAPS_START
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.ICON_TITLES.PREFABSWAPS_START"
@@ -426111,7 +426111,7 @@ msgstr "Обрати шаблон генерації"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.LOOP
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOOP"
 msgid "Loops"
-msgstr "Вузли"
+msgstr "Закільцювання"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.LOSECHANGESBODY
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.LOSECHANGESBODY"
@@ -426501,7 +426501,7 @@ msgstr "Зміна ресурсів"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PREFABSWAPS_START
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PREFABSWAPS_START"
 msgid "Starting Resource Variety"
-msgstr "Різномаїття початк. ресурсів"
+msgstr "Різномаїття старт. ресурсів"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETEXISTS_BODY
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETEXISTS_BODY"
@@ -426601,7 +426601,7 @@ msgstr "Нескінченний режим пісочниці Don't Starve.\nХ
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.LAVAARENA
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.LAVAARENA"
 msgid "Dare you prove yourself in The Forge?"
-msgstr "Наважитеся випробувати себе у Кузні?"
+msgstr "Насмілитеся проявити себе в Кузні?"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.LIGHTS_OUT
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.LIGHTS_OUT"
@@ -427041,7 +427041,7 @@ msgstr "Сценічні вистави"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.START_LOCATION
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.START_LOCATION"
 msgid "Spawn Area"
-msgstr "Межі місця появи"
+msgstr "Місце появи"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.SUMMER
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.SUMMER"
@@ -428001,7 +428001,7 @@ msgstr "Кузня"
 #. STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA2
 msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.LAVAARENA2"
 msgid "The Forge - Season 2"
-msgstr "Кузня - Сезон 2"
+msgstr "Кузня — Сезон 2"
 
 #. STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.QUAGMIRE
 msgctxt "STRINGS.UI.FESTIVALEVENTSCREEN.TITLE.QUAGMIRE"
@@ -435856,7 +435856,7 @@ msgstr "Король зими"
 #. STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.3
 msgctxt "STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.3"
 msgid "The Game is Afoot"
-msgstr "Гра триває"
+msgstr "Гра в розпалі"
 
 #. STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.4
 msgctxt "STRINGS.UI.SANDBOXMENU.ADVENTURELEVELS.4"
@@ -435911,12 +435911,12 @@ msgstr "Типово"
 #. STRINGS.UI.SANDBOXMENU.BRANCHINGLEAST
 msgctxt "STRINGS.UI.SANDBOXMENU.BRANCHINGLEAST"
 msgid "Least"
-msgstr "Найменше"
+msgstr "Мінімальне"
 
 #. STRINGS.UI.SANDBOXMENU.BRANCHINGMOST
 msgctxt "STRINGS.UI.SANDBOXMENU.BRANCHINGMOST"
 msgid "Most"
-msgstr "Найбільше"
+msgstr "Максимальне"
 
 #. STRINGS.UI.SANDBOXMENU.BRANCHINGNEVER
 msgctxt "STRINGS.UI.SANDBOXMENU.BRANCHINGNEVER"
@@ -435931,27 +435931,27 @@ msgstr "Печери"
 #. STRINGS.UI.SANDBOXMENU.CHAPTERS.1
 msgctxt "STRINGS.UI.SANDBOXMENU.CHAPTERS.1"
 msgid "Chapter 1 of 5"
-msgstr "Частина 1 з 5"
+msgstr "Глава 1 з 5"
 
 #. STRINGS.UI.SANDBOXMENU.CHAPTERS.2
 msgctxt "STRINGS.UI.SANDBOXMENU.CHAPTERS.2"
 msgid "Chapter 2 of 5"
-msgstr "Частина 2 з 5"
+msgstr "Глава 2 з 5"
 
 #. STRINGS.UI.SANDBOXMENU.CHAPTERS.3
 msgctxt "STRINGS.UI.SANDBOXMENU.CHAPTERS.3"
 msgid "Chapter 3 of 5"
-msgstr "Частина 3 з 5"
+msgstr "Глава 3 з 5"
 
 #. STRINGS.UI.SANDBOXMENU.CHAPTERS.4
 msgctxt "STRINGS.UI.SANDBOXMENU.CHAPTERS.4"
 msgid "Chapter 4 of 5"
-msgstr "Частина 4 з 5"
+msgstr "Глава 4 з 5"
 
 #. STRINGS.UI.SANDBOXMENU.CHAPTERS.5
 msgctxt "STRINGS.UI.SANDBOXMENU.CHAPTERS.5"
 msgid "Chapter 5 of 5"
-msgstr "Частина 5 з 5"
+msgstr "Глава 5 з 5"
 
 #. STRINGS.UI.SANDBOXMENU.CHAPTERS.6
 msgctxt "STRINGS.UI.SANDBOXMENU.CHAPTERS.6"
