@@ -3,7 +3,7 @@ msgstr ""
 "Language: ua\n"
 "Project-Id-Version: ULP Reborn\n"
 "Language-Team: ULP Reborn Team\n"
-"PO-Revision-Date: 2026-11-24 17:56\n"
+"PO-Revision-Date: 2026-11-25 23:38\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0\n"
@@ -46651,7 +46651,7 @@ msgstr "З тією квіткою щось не так!"
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.ABYSSPILLAR_MINION.ACTIVATED
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ABYSSPILLAR_MINION.ACTIVATED"
 msgid "Yes, they follow a pattern..."
-msgstr "Так, вони повторюють певний порядок..."
+msgstr "Авжеж, вони рухаються в певній послідовності..."
 
 #. STRINGS.CHARACTERS.WANDA.DESCRIBE.ABYSSPILLAR_MINION.GENERIC
 msgctxt "STRINGS.CHARACTERS.WANDA.DESCRIBE.ABYSSPILLAR_MINION.GENERIC"
@@ -133316,7 +133316,7 @@ msgstr "Ха-ха! Фу!"
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHROUDEN.GENERIC
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHROUDEN.GENERIC"
 msgid "We're not afraid of you, bully!"
-msgstr ""
+msgstr "Ми тебе не боїмося, злюко!"
 
 #. STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHROUDEN.PUDDLE
 msgctxt "STRINGS.CHARACTERS.WEBBER.DESCRIBE.SHROUDEN.PUDDLE"
@@ -141046,7 +141046,7 @@ msgstr "Абіґейл уже майже тут!"
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABYSSPILLAR_MINION.ACTIVATED
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABYSSPILLAR_MINION.ACTIVATED"
 msgid "It follows."
-msgstr "Він гонить."
+msgstr "Він слідує."
 
 #. STRINGS.CHARACTERS.WENDY.DESCRIBE.ABYSSPILLAR_MINION.GENERIC
 msgctxt "STRINGS.CHARACTERS.WENDY.DESCRIBE.ABYSSPILLAR_MINION.GENERIC"
@@ -175366,7 +175366,7 @@ msgstr "Якби тільки змусити його не рухатись, і�
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WORM_BOSS
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WORM_BOSS"
 msgid "This one is older, larger... deadlier."
-msgstr "Він старіший, більший... смертоносніший."
+msgstr "Воно старіше, більше... смертоносніше."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WORM_BOSS_SHADOW
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.WORM_BOSS_SHADOW"
@@ -277126,12 +277126,12 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ANCHOR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ANCHOR"
 msgid "So heavy, heavy, dreary, dreary."
-msgstr ""
+msgstr "Тяжезний-тяжезний, нудезний-нудезний."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ANTLION
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ANTLION"
 msgid "An anti Ant Lion, formerly furry. Hyuyu!"
-msgstr ""
+msgstr "Від левової частки аж мурашки по шкірі. Ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
@@ -277141,7 +277141,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER"
 msgid "I'll say a prayer for this slain bear."
-msgstr ""
+msgstr "Хтось-таки зробив йому ведмежу послугу!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER_MUTATED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER_MUTATED"
@@ -277151,37 +277151,37 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEEFALO
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEEFALO"
 msgid "This beefalo is even more hard-headed than most!"
-msgstr ""
+msgstr "Цей біфало ще твердолобіший за своїх родичів!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEEQUEEN
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEEQUEEN"
 msgid "Stationary majesty. Static insect."
-msgstr ""
+msgstr "Її комашина величність застигла на вічність."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BISHOP.GENERIC
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BISHOP.GENERIC"
 msgid "Bishop made of polished stone."
-msgstr ""
+msgstr "Слон із полірованого каменю."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BISHOP.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BISHOP.STRUGGLE"
 msgid "Yes, yes, come play!"
-msgstr ""
+msgstr "Так, так, ходімо грати!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BUTTERFLY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BUTTERFLY"
 msgid "It does not float, nor does it sting."
-msgstr ""
+msgstr "Ні пурх-пурх, ні жаль-жаль."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CARRAT
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CARRAT"
 msgid "Not so light on its feet now, hyuyu!"
-msgstr ""
+msgstr "Ніжки вже не носять? Ху-ху!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CATCOON
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CATCOON"
 msgid "This little guy and I don't see eye to eye, hyuyu."
-msgstr ""
+msgstr "Оцей малий мене бачити не може! Ху-ху."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CHARLIE_BOSS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CHARLIE_BOSS"
@@ -277191,22 +277191,22 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CLAYHOUND"
 msgid "A clay hound made from that sketch we found!"
-msgstr ""
+msgstr "Нарис відшукали — гончака зваляли!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CLAYWARG
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CLAYWARG"
 msgid "So scary, rendered still in stone."
-msgstr ""
+msgstr "Страшнючий, що аж сам кам'янію."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CRABKING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_CRABKING"
 msgid "He was better at sinking than being a sea king."
-msgstr ""
+msgstr "Володар дна таки пішов на дно."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DAYWALKER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DAYWALKER"
 msgid "A boorish boar's bust!"
-msgstr ""
+msgstr "Бюст безпардонного борова!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DAYWALKER2
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DAYWALKER2"
@@ -277216,7 +277216,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DEERCLOPS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DEERCLOPS"
 msgid "That was such a fun day!"
-msgstr ""
+msgstr "Ото ми тоді повеселилися!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DEERCLOPS_MUTATED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DEERCLOPS_MUTATED"
@@ -277231,7 +277231,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DRAGONFLY
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_DRAGONFLY"
 msgid "Bye bye, dear dragonfly."
-msgstr ""
+msgstr "Па-па, люба дракономушко."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_EYEOFTERROR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_EYEOFTERROR"
@@ -277271,7 +277271,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_KNIGHT.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_KNIGHT.STRUGGLE"
 msgid "Yes, yes, come play!"
-msgstr ""
+msgstr "Так, так, ходімо грати!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MALBATROSS
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_MALBATROSS"
@@ -277331,7 +277331,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_ROOK.STRUGGLE"
 msgid "Yes, yes, come play!"
-msgstr ""
+msgstr "Так, так, ходімо грати!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_SHARKBOI
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_SHARKBOI"
@@ -287336,12 +287336,12 @@ msgstr "Ох і кумедні ж у людей забави!"
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_8
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_8"
 msgid "I have no idea what it is, but it sure is funny!"
-msgstr ""
+msgstr "Гадки не маю, що це. Та виглядає кумедно!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_9
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TRINKET_9"
 msgid "No \"if\"s, \"and\"s or \"but\"-tons."
-msgstr ""
+msgstr "Та не пар-теся ви так."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_FISH.BURNING
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.TROPHYSCALE_FISH.BURNING"
@@ -289666,7 +289666,7 @@ msgstr ""
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX_SOUL
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX_SOUL"
 msgid "Hyuyu! It looks tasty."
-msgstr ""
+msgstr "Ху-ху! Смачненька."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX_SOULJAR
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.WORTOX_SOULJAR"
@@ -337411,7 +337411,7 @@ msgstr "Квітка Абіґейл"
 #. STRINGS.NAMES.ABYSSPILLAR_MINION
 msgctxt "STRINGS.NAMES.ABYSSPILLAR_MINION"
 msgid "Sequitor"
-msgstr "Гонитель"
+msgstr "Наслідувач"
 
 #. STRINGS.NAMES.ABYSSPILLAR_TRIAL
 msgctxt "STRINGS.NAMES.ABYSSPILLAR_TRIAL"
@@ -339231,7 +339231,7 @@ msgstr "Гра «Метушня через черв'ячка»"
 #. STRINGS.NAMES.CARNIVALGAME_GOLFBALL
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFBALL"
 msgid "Golf Ball"
-msgstr "М'ячик для гольфа"
+msgstr "М'яч для гольфа"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLFCLUB
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLFCLUB"
@@ -339396,12 +339396,12 @@ msgstr "Стінка для поля"
 #. STRINGS.NAMES.CARNIVALGAME_GOLF_TEE
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLF_TEE"
 msgid "Mini-Golf Ball Dropper"
-msgstr "Видавач м'ячика для мінігольфа"
+msgstr "Видавач м'яча для мінігольфа"
 
 #. STRINGS.NAMES.CARNIVALGAME_GOLF_TEE_KIT
 msgctxt "STRINGS.NAMES.CARNIVALGAME_GOLF_TEE_KIT"
 msgid "Mini-Golf Ball Dropper Kit"
-msgstr "Набір видавача м'ячика для мінігольфа"
+msgstr "Набір видавача м'яча для мінігольфа"
 
 #. STRINGS.NAMES.CARNIVALGAME_HERDING_CHICK
 msgctxt "STRINGS.NAMES.CARNIVALGAME_HERDING_CHICK"
@@ -339751,7 +339751,7 @@ msgstr "Тендітна троянда"
 #. STRINGS.NAMES.CHARLIE_BOSS
 msgctxt "STRINGS.NAMES.CHARLIE_BOSS"
 msgid "Shrouded Queen"
-msgstr "Сповита Королева"
+msgstr "Померкла Королева"
 
 #. STRINGS.NAMES.CHARLIE_BOSS_PROJECTILE
 msgctxt "STRINGS.NAMES.CHARLIE_BOSS_PROJECTILE"
@@ -339761,7 +339761,7 @@ msgstr "Роїстий кошмар"
 #. STRINGS.NAMES.CHARLIE_BOSS_RUNNER
 msgctxt "STRINGS.NAMES.CHARLIE_BOSS_RUNNER"
 msgid "Grim Harrier"
-msgstr "Тіньовик"
+msgstr "Похмурий гонитель"
 
 #. STRINGS.NAMES.CHARLIE_HAND
 msgctxt "STRINGS.NAMES.CHARLIE_HAND"
@@ -339956,17 +339956,17 @@ msgstr "Замальовка «Фігура єнотокота»"
 #. STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS
 msgctxt "STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS"
 msgid "Shrouded Queen Figure"
-msgstr "Фігура сповитої Королеви"
+msgstr "Фігура Померклої Королеви"
 
 #. STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS_BUILDER
 msgctxt "STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS_BUILDER"
 msgid "Shrouded Queen Figure"
-msgstr "Фігура сповитої Королеви"
+msgstr "Фігура Померклої Королеви"
 
 #. STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS_SKETCH
 msgctxt "STRINGS.NAMES.CHESSPIECE_CHARLIE_BOSS_SKETCH"
 msgid "Shrouded Queen Figure Sketch"
-msgstr "Замальовка «Фігура сповитої Королеви»"
+msgstr "Замальовка «Фігура Померклої Королеви»"
 
 #. STRINGS.NAMES.CHESSPIECE_CLAYHOUND
 msgctxt "STRINGS.NAMES.CHESSPIECE_CLAYHOUND"
@@ -340416,17 +340416,17 @@ msgstr "Фігура величезного глибинного черва"
 #. STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW
 msgctxt "STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW"
 msgid "Blighted Great Depths Worm Figure"
-msgstr "Фігура пошесного величезного глибинного черва"
+msgstr "Фігура пошесного глибинного червища"
 
 #. STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW_BUILDER
 msgctxt "STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW_BUILDER"
 msgid "Blighted Great Depths Worm Figure"
-msgstr "Фігура пошесного величезного глибинного черва"
+msgstr "Фігура пошесного глибинного червища"
 
 #. STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW_SKETCH
 msgctxt "STRINGS.NAMES.CHESSPIECE_WORMBOSS_SHADOW_SKETCH"
 msgid "Blighted Great Depths Worm Figure Sketch"
-msgstr "Замальовка «Фігура пошесного величезного глибинного черва»"
+msgstr "Замальовка «Фігура пошесного глибинного червища»"
 
 #. STRINGS.NAMES.CHESSPIECE_YOTD
 msgctxt "STRINGS.NAMES.CHESSPIECE_YOTD"
@@ -348121,7 +348121,7 @@ msgstr "Маска порожнечі"
 #. STRINGS.NAMES.SHADOWTHRALL_PARASITE_ALLEGIANCE
 msgctxt "STRINGS.NAMES.SHADOWTHRALL_PARASITE_ALLEGIANCE"
 msgid "Herald of Tenebrau"
-msgstr "Герольд пітьми"
+msgstr "Герольд мороку"
 
 #. STRINGS.NAMES.SHADOWTHRALL_WINGS
 msgctxt "STRINGS.NAMES.SHADOWTHRALL_WINGS"
@@ -348261,17 +348261,17 @@ msgstr "Тіньове потворище"
 #. STRINGS.NAMES.SHROUDEN_ALLEGIANCE
 msgctxt "STRINGS.NAMES.SHROUDEN_ALLEGIANCE"
 msgid "Shrouden"
-msgstr "Повивач"
+msgstr "Померк"
 
 #. STRINGS.NAMES.SHROUDEN_OTHER
 msgctxt "STRINGS.NAMES.SHROUDEN_OTHER"
 msgid "The Other"
-msgstr "Інакший"
+msgstr "Інший"
 
 #. STRINGS.NAMES.SHROUDEN_VOIDMASQUE
 msgctxt "STRINGS.NAMES.SHROUDEN_VOIDMASQUE"
 msgid "Tenebrau"
-msgstr "Пітьма"
+msgstr "Морок"
 
 #. STRINGS.NAMES.SIESTAHUT
 msgctxt "STRINGS.NAMES.SIESTAHUT"
@@ -351341,12 +351341,12 @@ msgstr "Вормвуд"
 #. STRINGS.NAMES.WORM_BOSS
 msgctxt "STRINGS.NAMES.WORM_BOSS"
 msgid "Great Depths Worm"
-msgstr "Величезний глибинний черв"
+msgstr "Глибинне червище"
 
 #. STRINGS.NAMES.WORM_BOSS_SHADOW
 msgctxt "STRINGS.NAMES.WORM_BOSS_SHADOW"
 msgid "Blighted Great Depths Worm"
-msgstr "Пошесний величезний глибинний черв"
+msgstr "Пошесне глибинне червище"
 
 #. STRINGS.NAMES.WORM_DIRT
 msgctxt "STRINGS.NAMES.WORM_DIRT"
@@ -354956,7 +354956,7 @@ msgstr ""
 #. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT1
 msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT1"
 msgid "A Bunnyman favorite."
-msgstr ""
+msgstr "Зайцелюди від неї в захваті."
 
 #. STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT10
 msgctxt "STRINGS.RECIPE_DESC.CARNIVALGAME_GOLFPROP_CUTOUT10"
@@ -355431,7 +355431,7 @@ msgstr "Данина холоднокровному розбишаці."
 #. STRINGS.RECIPE_DESC.CHESSPIECE_SHROUDEN_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_SHROUDEN_BUILDER"
 msgid "It's a little evil."
-msgstr ""
+msgstr "Вона трошки лиха."
 
 #. STRINGS.RECIPE_DESC.CHESSPIECE_STALKER_BUILDER
 msgctxt "STRINGS.RECIPE_DESC.CHESSPIECE_STALKER_BUILDER"
@@ -360221,7 +360221,7 @@ msgstr "З цих тріщин може йти не лише тепло."
 #. STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_BOSS
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_BOSS"
 msgid "What have we done?"
-msgstr ""
+msgstr "Що ми накоїли?"
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_BOSS_PROJECTILE
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_BOSS_PROJECTILE"
@@ -360231,7 +360231,7 @@ msgstr ""
 #. STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_BOSS_RUNNER
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_BOSS_RUNNER"
 msgid "Echoes of lost souls. Don't get too close."
-msgstr ""
+msgstr "Відлуння загублених душ. Тримайтеся подалі."
 
 #. STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_STAGE_POST
 msgctxt "STRINGS.SCRAPBOOK.SPECIALINFO.CHARLIE_STAGE_POST"
@@ -423361,7 +423361,7 @@ msgstr "Фільтр"
 #. STRINGS.UI.COOKBOOK.FILTER_VEGGIE
 msgctxt "STRINGS.UI.COOKBOOK.FILTER_VEGGIE"
 msgid "Veggies"
-msgstr "Вегетаріанські"
+msgstr "Рослинні"
 
 #. STRINGS.UI.COOKBOOK.FOOD_EFFECTS_BEEFALO
 msgctxt "STRINGS.UI.COOKBOOK.FOOD_EFFECTS_BEEFALO"
@@ -423576,7 +423576,7 @@ msgstr "Рецепти з модів"
 #. STRINGS.UI.COOKBOOK.TAB_TITLE_PORTABLECOOKPOT
 msgctxt "STRINGS.UI.COOKBOOK.TAB_TITLE_PORTABLECOOKPOT"
 msgid "Chef's Specials"
-msgstr "Меню від шефа"
+msgstr "Шефові страви"
 
 #. STRINGS.UI.COOKBOOK.UNKNOWN_FOOD_NAME
 msgctxt "STRINGS.UI.COOKBOOK.UNKNOWN_FOOD_NAME"
@@ -425541,7 +425541,7 @@ msgstr "Кажани"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.BAT_BOSS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BAT_BOSS"
 msgid "Hound Batilisks"
-msgstr ""
+msgstr "Кажаліски-гончаки"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.BEARGER
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.BEARGER"
@@ -426521,7 +426521,7 @@ msgstr "Звичайний досвід гри в Don't Starve."
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.10
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.10"
 msgid "The multiplayer Don't Starve experience."
-msgstr "Багатоосібний досвід гри Don't Starve."
+msgstr "Багатокористувацький досвід гри в Don't Starve."
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.11
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.11"
@@ -426536,52 +426536,52 @@ msgstr "Спустимося в печери... разом!"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.13
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.13"
 msgid "A darker, more arachnid-y cave experience."
-msgstr "Темніший, арахнічніший печерний досвід."
+msgstr "Темніший та павучіший печерний досвід."
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.2
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.2"
 msgid "A quicker start in a harsher world."
-msgstr "Швидший старт у жорстокішому світі."
+msgstr "Швидший старт у суворішому світі."
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.3
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.3"
 msgid "A dark twist on the standard Don't Starve experience."
-msgstr "Темна варіація класичного досвіду Don't Starve."
+msgstr "Темна варіація звичайного досвіду гри в Don't Starve."
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.4
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.4"
 msgid "The standard Don't Starve Experience 4"
-msgstr "Стандартний досвід гри в Don't Starve 4."
+msgstr "Звичайний досвід гри в Don't Starve (4)"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.5
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.5"
 msgid "The standard Don't Starve Experience 5"
-msgstr "Стандартний досвід гри в Don't Starve 5."
+msgstr "Звичайний досвід гри в Don't Starve (5)"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.6
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.6"
 msgid "The standard Don't Starve Experience 6"
-msgstr "Стандартний досвід гри в Don't Starve 6."
+msgstr "Звичайний досвід гри в Don't Starve (6)"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.7
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.7"
 msgid "The standard Don't Starve Experience 7"
-msgstr "Стандартний досвід гри в Don't Starve 7."
+msgstr "Звичайний досвід гри в Don't Starve (7)"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.8
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.8"
 msgid "The standard Don't Starve Experience 8"
-msgstr "Стандартний досвід гри в Don't Starve 8."
+msgstr "Звичайний досвід гри в Don't Starve (8)"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.9
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.9"
 msgid "The standard Don't Starve Experience 9"
-msgstr "Стандартний досвід гри в Don't Starve 9."
+msgstr "Звичайний досвід гри в Don't Starve (9)"
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.COMPLETE_DARKNESS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.COMPLETE_DARKNESS"
 msgid "A dark twist on the standard Don't Starve experience."
-msgstr "Темна варіація класичного досвіду Don't Starve."
+msgstr "Темна варіація звичайного досвіду гри в Don't Starve."
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.DST_CAVE
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.DST_CAVE"
@@ -426591,7 +426591,7 @@ msgstr "Спустимося в печери... разом!"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.DST_CAVE_PLUS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.DST_CAVE_PLUS"
 msgid "A darker, more arachnid-y cave experience."
-msgstr "Темніший, арахнідніший печерний досвід."
+msgstr "Темніший та павучіший печерний досвід."
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.ENDLESS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.ENDLESS"
@@ -426606,7 +426606,7 @@ msgstr "Насмілитеся проявити себе в Кузні?"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.LIGHTS_OUT
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.LIGHTS_OUT"
 msgid "A dark twist on the standard Don't Starve experience."
-msgstr "Темна варіація класичного досвіду Don't Starve."
+msgstr "Темна варіація звичайного досвіду гри в Don't Starve."
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.MOD_MISSING
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.MOD_MISSING"
@@ -426621,12 +426621,12 @@ msgstr "Чи до снаги вам здолати спеку Пащі?"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.RELAXED
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.RELAXED"
 msgid "A more relaxed playstyle with less threats from the world.\nSurvivors will not die from starvation, freezing, overheating, or the darkness.\nDamage to survivors is reduced. Resurrection is always available via the Florid Postern."
-msgstr "Спокійніший режим гри, в якому чатує менше небезпек.\nУцілілі не помиратимуть від голоду, холоду, пекельної спеки чи темряви.\nШкода, отримувана вцілілими, менша. Химерна потерна дозволяє відродитися у будь-який момент."
+msgstr "Спокійніший режим гри, де чатує менше небезпек.\nУцілілі не помиратимуть від голоду, холоду, пекельної спеки чи темряви.\nОтримувана шкода менша. Химерна потерна дозволяє відродитися у будь-який момент."
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.SURVIVAL_DEFAULT_PLUS
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.SURVIVAL_DEFAULT_PLUS"
 msgid "A quicker start in a harsher world."
-msgstr "Швидший старт у жорстокому світі."
+msgstr "Швидший старт у суворішому світі."
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.SURVIVAL_TOGETHER
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.PRESETLEVELDESC.SURVIVAL_TOGETHER"
@@ -427081,7 +427081,7 @@ msgstr "Класика"
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.DEFAULT
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.DEFAULT"
 msgid "Together"
-msgstr "Разом"
+msgstr ""
 
 #. STRINGS.UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.LAVA_ARENA
 msgctxt "STRINGS.UI.CUSTOMIZATIONSCREEN.TASKSETNAMES.LAVA_ARENA"
@@ -428041,7 +428041,7 @@ msgstr "Згоріле"
 #. STRINGS.UI.FOOD_TYPES.ELEMENTAL
 msgctxt "STRINGS.UI.FOOD_TYPES.ELEMENTAL"
 msgid "Elemental"
-msgstr "Елементне"
+msgstr "Мінеральне"
 
 #. STRINGS.UI.FOOD_TYPES.GEARS
 msgctxt "STRINGS.UI.FOOD_TYPES.GEARS"
@@ -428056,12 +428056,12 @@ msgstr "Їстівне"
 #. STRINGS.UI.FOOD_TYPES.GOODIES
 msgctxt "STRINGS.UI.FOOD_TYPES.GOODIES"
 msgid "Goodies"
-msgstr "Солодке"
+msgstr "Ласощі"
 
 #. STRINGS.UI.FOOD_TYPES.HORRIBLE
 msgctxt "STRINGS.UI.FOOD_TYPES.HORRIBLE"
 msgid "Horrible"
-msgstr "Жахливе"
+msgstr "Огидне"
 
 #. STRINGS.UI.FOOD_TYPES.INSECT
 msgctxt "STRINGS.UI.FOOD_TYPES.INSECT"
@@ -428086,7 +428086,7 @@ msgstr "Сире"
 #. STRINGS.UI.FOOD_TYPES.ROUGHAGE
 msgctxt "STRINGS.UI.FOOD_TYPES.ROUGHAGE"
 msgid "Roughage"
-msgstr "Жорстке"
+msgstr "Фураж"
 
 #. STRINGS.UI.FOOD_TYPES.SEEDS
 msgctxt "STRINGS.UI.FOOD_TYPES.SEEDS"
@@ -428096,12 +428096,12 @@ msgstr "Насінне"
 #. STRINGS.UI.FOOD_TYPES.VEGGIE
 msgctxt "STRINGS.UI.FOOD_TYPES.VEGGIE"
 msgid "Veggie"
-msgstr "Вегетаріанське"
+msgstr "Рослинне"
 
 #. STRINGS.UI.FOOD_TYPES.WOOD
 msgctxt "STRINGS.UI.FOOD_TYPES.WOOD"
 msgid "Wood"
-msgstr "Дерев'яне"
+msgstr "Деревне"
 
 #. STRINGS.UI.GAMEMODES.CUSTOM
 msgctxt "STRINGS.UI.GAMEMODES.CUSTOM"
@@ -430131,7 +430131,7 @@ msgstr "Творець (CharSelect)"
 #. STRINGS.UI.MAINSCREEN.IMPORT
 msgctxt "STRINGS.UI.MAINSCREEN.IMPORT"
 msgid "Import"
-msgstr "Імпортувати"
+msgstr "Імпорт"
 
 #. STRINGS.UI.MAINSCREEN.IMPORTFAIL
 msgctxt "STRINGS.UI.MAINSCREEN.IMPORTFAIL"
@@ -434601,7 +434601,7 @@ msgstr "Скасувати"
 #. STRINGS.UI.PLAYERSTATUSSCREEN.CLEAR
 msgctxt "STRINGS.UI.PLAYERSTATUSSCREEN.CLEAR"
 msgid "Remove Player"
-msgstr "Вилучити запис"
+msgstr "Вилучити гравця"
 
 #. STRINGS.UI.PLAYERSTATUSSCREEN.COMMANDCANNOTSTART.COOLDOWN
 msgctxt "STRINGS.UI.PLAYERSTATUSSCREEN.COMMANDCANNOTSTART.COOLDOWN"
@@ -434726,7 +434726,7 @@ msgstr "Переглянути картку гравця"
 #. STRINGS.UI.PLAYERSTATUSSCREEN.VIEWPROFILE
 msgctxt "STRINGS.UI.PLAYERSTATUSSCREEN.VIEWPROFILE"
 msgid "View Player"
-msgstr "Переглянути гравця"
+msgstr "Переглянути профіль"
 
 #. STRINGS.UI.PLAYERSTATUSSCREEN.VOTEACTIVEHOVER
 msgctxt "STRINGS.UI.PLAYERSTATUSSCREEN.VOTEACTIVEHOVER"
@@ -434861,7 +434861,7 @@ msgstr "Найкращий приятель"
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIENDS
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.MOST_COMMON_FRIENDS"
 msgid "Friendliest Friends"
-msgstr "Найдружніші приятелі"
+msgstr "Друзі-нерозлийвода"
 
 #. STRINGS.UI.PLAYERSUMMARYSCREEN.MYSTERYBOX_DISABLE
 msgctxt "STRINGS.UI.PLAYERSUMMARYSCREEN.MYSTERYBOX_DISABLE"
@@ -436336,17 +436336,17 @@ msgstr "Тільки"
 #. STRINGS.UI.SANDBOXMENU.SLIDEALWAYS
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDEALWAYS"
 msgid "Tons"
-msgstr "Тьма"
+msgstr "Дуже багато"
 
 #. STRINGS.UI.SANDBOXMENU.SLIDECOMPLEX
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDECOMPLEX"
 msgid "Complex"
-msgstr "Комплексний"
+msgstr "Складний"
 
 #. STRINGS.UI.SANDBOXMENU.SLIDEDEFAULT
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDEDEFAULT"
 msgid "Default"
-msgstr "Звичайно"
+msgstr "Типово"
 
 #. STRINGS.UI.SANDBOXMENU.SLIDEFAST
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDEFAST"
@@ -436356,7 +436356,7 @@ msgstr "Швидко"
 #. STRINGS.UI.SANDBOXMENU.SLIDEINSANE
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDEINSANE"
 msgid "Insane"
-msgstr "Шалено багато"
+msgstr "Надмірно"
 
 #. STRINGS.UI.SANDBOXMENU.SLIDELONG
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDELONG"
@@ -436366,7 +436366,7 @@ msgstr "Довго"
 #. STRINGS.UI.SANDBOXMENU.SLIDEMOSTLY
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDEMOSTLY"
 msgid "Lots"
-msgstr "Пребагато"
+msgstr "Багато"
 
 #. STRINGS.UI.SANDBOXMENU.SLIDENEVER
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDENEVER"
@@ -436381,7 +436381,7 @@ msgstr "Більше"
 #. STRINGS.UI.SANDBOXMENU.SLIDERARE
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDERARE"
 msgid "Little"
-msgstr "Меньше"
+msgstr "Мінімум"
 
 #. STRINGS.UI.SANDBOXMENU.SLIDESHORT
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDESHORT"
@@ -436426,12 +436426,12 @@ msgstr "Крихітно"
 #. STRINGS.UI.SANDBOXMENU.SLIDEUNCOMMON
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDEUNCOMMON"
 msgid "Less"
-msgstr "Менше"
+msgstr "Мало"
 
 #. STRINGS.UI.SANDBOXMENU.SLIDEVERYCOMPLEX
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDEVERYCOMPLEX"
 msgid "Very Complex"
-msgstr "Дуже комплексний"
+msgstr "Дуже складно"
 
 #. STRINGS.UI.SANDBOXMENU.SLIDEVERYFAST
 msgctxt "STRINGS.UI.SANDBOXMENU.SLIDEVERYFAST"
@@ -437666,12 +437666,12 @@ msgstr "Група Steam:"
 #. STRINGS.UI.SERVERLISTINGSCREEN.CLAN_CLOSED_ICON_HOVER
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.CLAN_CLOSED_ICON_HOVER"
 msgid "Private Group Server (Your Group)"
-msgstr "Приватний сервер групи (Вашої групи)"
+msgstr "Приватний сервер групи (вашої)"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.CLAN_OPEN_ICON_HOVER
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.CLAN_OPEN_ICON_HOVER"
 msgid "Group Server (Your Group)"
-msgstr "Сервер групи (Вашої групи)"
+msgstr "Сервер групи (вашої)"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.CLAN_OTHER_ICON_HOVER
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.CLAN_OTHER_ICON_HOVER"
@@ -437711,7 +437711,7 @@ msgstr "Створено:"
 #. STRINGS.UI.SERVERLISTINGSCREEN.CUSTOM
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.CUSTOM"
 msgid "Custom"
-msgstr "Користувацький"
+msgstr "Особливий"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.DAYDESC
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.DAYDESC"
@@ -437776,7 +437776,7 @@ msgstr "Друзі:"
 #. STRINGS.UI.SERVERLISTINGSCREEN.FRIEND_ICON_HOVER
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.FRIEND_ICON_HOVER"
 msgid "Friends Playing"
-msgstr "Друзі грають"
+msgstr "Є друзі"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.FRIEND_SERVER_ICON_HOVER
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.FRIEND_SERVER_ICON_HOVER"
@@ -438046,7 +438046,7 @@ msgstr "Помилка з'єднання з головним сервером.\n
 #. STRINGS.UI.SERVERLISTINGSCREEN.NO_DESC
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.NO_DESC"
 msgid "[No Description]"
-msgstr "[Немає опису]"
+msgstr "[Опис відсутній]"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.OFF
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.OFF"
@@ -438056,7 +438056,7 @@ msgstr "Вимк."
 #. STRINGS.UI.SERVERLISTINGSCREEN.OFFICIAL
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.OFFICIAL"
 msgid "Klei Official"
-msgstr "Klei Офіційний"
+msgstr ""
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.OFFLINE
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.OFFLINE"
@@ -438436,12 +438436,12 @@ msgstr "Будь-який"
 #. STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_BUTTON_CHOOSING
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_BUTTON_CHOOSING"
 msgid "Choosing..."
-msgstr "У процесі..."
+msgstr "Обирається..."
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_BUTTON_CUSTOM
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_BUTTON_CUSTOM"
 msgid "Custom"
-msgstr "Користувацький"
+msgstr "Обраний"
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_BUTTON_LABEL
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_BUTTON_LABEL"
@@ -438456,7 +438456,7 @@ msgstr "Стародавні архіви, ймовірно, оживлено."
 #. STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.ANY.ATRIUM_KEY_FOUND
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.ANY.ATRIUM_KEY_FOUND"
 msgid "The Ancient Key may have been found."
-msgstr ""
+msgstr "Стародавній ключ, імовірно, знайдено."
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.ANY.CELESTIAL_ORB_FOUND
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.ANY.CELESTIAL_ORB_FOUND"
@@ -438486,22 +438486,22 @@ msgstr "Тіньові розломи, ймовірно, формуються в
 #. STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.ANY.VAULT_KEY_FOUND
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.ANY.VAULT_KEY_FOUND"
 msgid "The Keystone may have been found."
-msgstr ""
+msgstr "Ключ-камінь, імовірно, знайдено."
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.CANT.ARCHIVES_ENERGIZED
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.CANT.ARCHIVES_ENERGIZED"
 msgid "The Ancient Archives are powered down."
-msgstr "Стародавні архіви безживні."
+msgstr "Стародавні архіви знеживлено."
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.CANT.ATRIUM_KEY_FOUND
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.CANT.ATRIUM_KEY_FOUND"
 msgid "The Ancient Key has yet to be obtained."
-msgstr ""
+msgstr "Стародавній ключ іще не здобуто."
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.CANT.CELESTIAL_ORB_FOUND
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.CANT.CELESTIAL_ORB_FOUND"
 msgid "The Celestial Orb has yet to be obtained."
-msgstr "Небесну сферу ще не отримано."
+msgstr "Небесну сферу ще не здобуто."
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.CANT.CELESTIAL_PORTAL_BUILT
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.CANT.CELESTIAL_PORTAL_BUILT"
@@ -438526,7 +438526,7 @@ msgstr "Тіньові розломи ще ніде не видно."
 #. STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.CANT.VAULT_KEY_FOUND
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.CANT.VAULT_KEY_FOUND"
 msgid "The Keystone has yet to be obtained."
-msgstr ""
+msgstr "Ключ-камінь іще не здобуто."
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.MUST.ARCHIVES_ENERGIZED
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.MUST.ARCHIVES_ENERGIZED"
@@ -438536,7 +438536,7 @@ msgstr "Стародавні архіви оживлено."
 #. STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.MUST.ATRIUM_KEY_FOUND
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.MUST.ATRIUM_KEY_FOUND"
 msgid "The Ancient Key is found."
-msgstr ""
+msgstr "Стародавній ключ знайдено."
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.MUST.CELESTIAL_ORB_FOUND
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.MUST.CELESTIAL_ORB_FOUND"
@@ -438566,7 +438566,7 @@ msgstr "Тіньові розломи формуються в Константі
 #. STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.MUST.VAULT_KEY_FOUND
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TAGS.WS.MUST.VAULT_KEY_FOUND"
 msgid "The Keystone is found."
-msgstr ""
+msgstr "Ключ-камінь знайдено."
 
 #. STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TITLE
 msgctxt "STRINGS.UI.SERVERLISTINGSCREEN.WORLDPROGRESSION_TITLE"
@@ -438636,7 +438636,7 @@ msgstr "БАЗА"
 #. STRINGS.UI.SKINSSCREEN.BODY
 msgctxt "STRINGS.UI.SKINSSCREEN.BODY"
 msgid "BODY"
-msgstr "ТІЛО"
+msgstr "ТУЛУБ"
 
 #. STRINGS.UI.SKINSSCREEN.BONUS
 msgctxt "STRINGS.UI.SKINSSCREEN.BONUS"
@@ -438946,7 +438946,7 @@ msgstr "Поза мережею"
 #. STRINGS.UI.SPLITSCREEN_REGISTRATION.STATUS_ONLINE
 msgctxt "STRINGS.UI.SPLITSCREEN_REGISTRATION.STATUS_ONLINE"
 msgid "Signed In"
-msgstr "Вхід у гру"
+msgstr "Вхід виконано"
 
 #. STRINGS.UI.SPLITSCREEN_REGISTRATION.TITLE_PLAYER_1
 msgctxt "STRINGS.UI.SPLITSCREEN_REGISTRATION.TITLE_PLAYER_1"
@@ -439101,7 +439101,7 @@ msgstr "(Ігри збирача цікавинок)"
 #. STRINGS.UI.TRADESCREEN.BODY
 msgctxt "STRINGS.UI.TRADESCREEN.BODY"
 msgid "Body"
-msgstr "Тіло"
+msgstr "Тулуб"
 
 #. STRINGS.UI.TRADESCREEN.CANCEL
 msgctxt "STRINGS.UI.TRADESCREEN.CANCEL"
@@ -440486,7 +440486,7 @@ msgstr "Дата виходу"
 #. STRINGS.UI.WARDROBESCREEN.SURVIVOR_FILTER_FMT
 msgctxt "STRINGS.UI.WARDROBESCREEN.SURVIVOR_FILTER_FMT"
 msgid "Survivor Filter: {mode}"
-msgstr "Власне персонажа: {mode}"
+msgstr "Фільтр уцілілого: {mode}"
 
 #. STRINGS.UI.WARDROBESCREEN.TITLE
 msgctxt "STRINGS.UI.WARDROBESCREEN.TITLE"
@@ -440521,7 +440521,7 @@ msgstr "Одягти на ноги"
 #. STRINGS.UI.WARDROBESCREEN.WEAVEABLE_FILTER_FMT
 msgctxt "STRINGS.UI.WARDROBESCREEN.WEAVEABLE_FILTER_FMT"
 msgid "Weaveable Filter: {mode}"
-msgstr "Ткацький фільтр: {mode}"
+msgstr "Можна зіткати: {mode}"
 
 #. STRINGS.UI.WARDROBE_POPUP.CANCEL
 msgctxt "STRINGS.UI.WARDROBE_POPUP.CANCEL"
