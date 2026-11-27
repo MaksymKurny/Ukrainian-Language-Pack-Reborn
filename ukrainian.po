@@ -3,7 +3,7 @@ msgstr ""
 "Language: ua\n"
 "Project-Id-Version: ULP Reborn\n"
 "Language-Team: ULP Reborn Team\n"
-"PO-Revision-Date: 2026-11-26 18:08\n"
+"PO-Revision-Date: 2026-11-27 18:36\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "POT Version: 2.0\n"
@@ -1476,7 +1476,7 @@ msgstr "Ліпити на"
 #. STRINGS.ACTIONS.OPEN_CRAFTING.STUDY
 msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.STUDY"
 msgid "Study at"
-msgstr "Вчитися"
+msgstr "Навчатися біля"
 
 #. STRINGS.ACTIONS.OPEN_CRAFTING.TRADE
 msgctxt "STRINGS.ACTIONS.OPEN_CRAFTING.TRADE"
@@ -157696,7 +157696,7 @@ msgstr "Боюсь, мені доведеться зачекати."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.CARNIVALGAME_GOLFGAME_NOTREADY"
 msgid "The mini-golf course requires at least a flaghole to be playable."
-msgstr ""
+msgstr "Щоби поле для мінігольфа було придатним для гри, на ньому має бути хоча б лунка."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.CARNIVALGAME_INVALID_ITEM"
@@ -157731,7 +157731,7 @@ msgstr "Я не буду втручатись у ці справи."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.KINGSTAFF_COOLDOWN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.KINGSTAFF_COOLDOWN"
 msgid "The gem is quite stuck."
-msgstr ""
+msgstr "Самоцвіт доволі міцно застряг."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ACTIONFAIL.GIVE.MUSHROOMFARM_NEEDSLOG"
@@ -158761,7 +158761,7 @@ msgstr "Вчасно викопала. Коріння вже майже згни
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_DREADSTONE_SPIKE_EXPLODING"
 msgid "The formation is reacting to my mental state."
-msgstr ""
+msgstr "Формація реагує на мій ментальний стан."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_DUSK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_DUSK"
@@ -158991,12 +158991,12 @@ msgstr "Ах... у голові сяк-так починає прояснюва�
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_GRUE_NOCHARLIE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_GRUE_NOCHARLIE"
 msgid "A noise! But no floral scent?"
-msgstr ""
+msgstr "Я чую шум! Але де ж запах квітів?"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_GRUE_NOCHARLIE_ATTACK
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_GRUE_NOCHARLIE_ATTACK"
 msgid "OUCH! Who dares?!"
-msgstr ""
+msgstr "АЙ! Хто посмів?!"
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HEALINGSALVE_ACIDBUFF_DONE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_HEALINGSALVE_ACIDBUFF_DONE"
@@ -159666,7 +159666,7 @@ msgstr "Хай Бог милує!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_STOMP_SHROUDEN
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_STOMP_SHROUDEN"
 msgid "What a truly horrid sound."
-msgstr ""
+msgstr "Який навдивовижу жаский звук."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_TALK_TO_PLANTS.1
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.ANNOUNCE_TALK_TO_PLANTS.1"
@@ -160531,7 +160531,7 @@ msgstr "Рослинного походження, рослиною зробле
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_ROCKY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_ROCKY"
 msgid "The creature's carapace now affords us similar protection."
-msgstr ""
+msgstr "Панцир цієї істоти тепер і нас так само захищатиме."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_SANITY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ARMOR_SANITY"
@@ -160651,7 +160651,7 @@ msgstr "Справу зроблено."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_GATE.RITUAL_SUMMONING
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_GATE.RITUAL_SUMMONING"
 msgid "And there it is. The eye that watches and waits from beyond the realm. Though it seems its long wait has finally come to an end."
-msgstr ""
+msgstr "А ось і воно. Око, що пильнує й чигає з позамежжя. Схоже, його довге чекання нарешті добігло кінця."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_KEY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_KEY"
@@ -160676,32 +160676,32 @@ msgstr "Знадобиться багато часу, щоби його розш
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RITUAL_ORGAN_BAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RITUAL_ORGAN_BAT.GENERIC"
 msgid "Even its voice was corrupted."
-msgstr ""
+msgstr "Навіть голос у нього був спотворений."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RITUAL_ORGAN_BAT.IN_RITUAL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RITUAL_ORGAN_BAT.IN_RITUAL"
 msgid "The offering is in place."
-msgstr ""
+msgstr "Підношення на місці."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RITUAL_ORGAN_ROCKY.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RITUAL_ORGAN_ROCKY.GENERIC"
 msgid "The corrupted major chela."
-msgstr ""
+msgstr "Величезна спотворена клішня."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RITUAL_ORGAN_ROCKY.IN_RITUAL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RITUAL_ORGAN_ROCKY.IN_RITUAL"
 msgid "The offering is in place."
-msgstr ""
+msgstr "Підношення на місці."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RITUAL_ORGAN_WORM.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RITUAL_ORGAN_WORM.GENERIC"
 msgid "There are few darker places than the bowels of a giant corrupted worm."
-msgstr ""
+msgstr "Існує небагато місць, темніших за кишківник величезного спотвореного черва."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RITUAL_ORGAN_WORM.IN_RITUAL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RITUAL_ORGAN_WORM.IN_RITUAL"
 msgid "The offering is in place."
-msgstr ""
+msgstr "Підношення на місці."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RUBBLE.LINE_1
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.ATRIUM_RUBBLE.LINE_1"
@@ -160861,12 +160861,12 @@ msgstr "Матеріал із великою щільністю!"
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BAT.ACID
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BAT.ACID"
 msgid "The acid rain has induced a frenzied state."
-msgstr ""
+msgstr "Кислотний дощ став причиною його шаленої люті."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BAT.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BAT.GENERIC"
 msgid "A flying mammal."
-msgstr ""
+msgstr "Летючий ссавець."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BATBAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BATBAT"
@@ -160876,12 +160876,12 @@ msgstr "Як цікаво. Зброя здається живою."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BATBOSSCAVE.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BATBOSSCAVE.GENERIC"
 msgid "It's a bat cave, but larger. The implication is obvious."
-msgstr ""
+msgstr "Це печера кажанів, проте більша. Що з цього випливає, думаю, очевидно."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BATBOSSCAVE.VACANT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BATBOSSCAVE.VACANT"
 msgid "It looks vacant."
-msgstr ""
+msgstr "На вигляд порожня."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BATCAVE
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BATCAVE"
@@ -160976,7 +160976,7 @@ msgstr "У теорії, воно їстівне."
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BAT_BOSS.ACID
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BAT_BOSS.ACID"
 msgid "It appears to be in a state of frenzy."
-msgstr ""
+msgstr "Схоже, його охопила шалена лють."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BAT_BOSS.GENERIC
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BAT_BOSS.GENERIC"
@@ -160986,12 +160986,12 @@ msgstr ""
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BAT_BOSSCORPSEHAT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BAT_BOSSCORPSEHAT"
 msgid "I believe it confers upon its wearer some of its vitality-draining ability."
-msgstr ""
+msgstr "Думаю, він наділяє свого власника певною здатністю висмоктувати життєві сили."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BAT_BOSS_SHADOW
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BAT_BOSS_SHADOW"
 msgid "It is corrupted now."
-msgstr ""
+msgstr "Тепер він спотворений."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEARDHAIR
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.BEARDHAIR"
@@ -162286,32 +162286,32 @@ msgstr "Схоже, що в даній грі знадобляться швид�
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFBALL
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFBALL"
 msgid "A near-perfect sphere, optimized for predictable rolling dynamics."
-msgstr ""
+msgstr "Майже ідеальна сфера, оптимізована для передбачуваного кочення."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFCLUB
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFCLUB"
 msgid "Essentially an instrument optimized for low-velocity kinetic transfer."
-msgstr ""
+msgstr "Фактично це знаряддя, оптимізоване для низькошвидкісного передавання кінетичної енергії."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_DIY"
 msgid "One may use this to create a custom, and hopefully delightful, mini-golf course."
-msgstr ""
+msgstr "За допомогою нього можна розгорнути власне і, маю надію, неперевершене, поле для мінігольфа."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_EASY"
 msgid "An introductory course, no doubt."
-msgstr ""
+msgstr "Це, безперечно, поле для початківців."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_HARD"
 msgid "For those up for a challenge."
-msgstr ""
+msgstr "Для тих, хто не проти себе випробувати."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFGAME_KIT_MEDIUM"
 msgid "A course of middling difficulty."
-msgstr ""
+msgstr "Поле середньої складності."
 
 #. STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT
 msgctxt "STRINGS.CHARACTERS.WICKERBOTTOM.DESCRIBE.CARNIVALGAME_GOLFPROP_CUTOUT"
@@ -277136,7 +277136,7 @@ msgstr "Від левової частки аж мурашки по шкірі. 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BATBOSS_SHADOW"
 msgid "The bat that was an unwanted hat."
-msgstr ""
+msgstr "Кажан, що капелюхом став, якого ніхто не бажав."
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER"
@@ -277146,7 +277146,7 @@ msgstr "Хтось-таки зробив йому ведмежу послугу!
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER_MUTATED
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEARGER_MUTATED"
 msgid "It bears a strong resemblance."
-msgstr ""
+msgstr "Не чую! Ведмідь мені на вухо наступив!"
 
 #. STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEEFALO
 msgctxt "STRINGS.CHARACTERS.WORTOX.DESCRIBE.CHESSPIECE_BEEFALO"
@@ -330036,7 +330036,7 @@ msgstr "Скорботна"
 #. STRINGS.CHARACTER_TITLES.wes
 msgctxt "STRINGS.CHARACTER_TITLES.wes"
 msgid "The Silent"
-msgstr "Немова"
+msgstr "Мовчун"
 
 #. STRINGS.CHARACTER_TITLES.wickerbottom
 msgctxt "STRINGS.CHARACTER_TITLES.wickerbottom"
@@ -440521,7 +440521,7 @@ msgstr "Одягти на ноги"
 #. STRINGS.UI.WARDROBESCREEN.WEAVEABLE_FILTER_FMT
 msgctxt "STRINGS.UI.WARDROBESCREEN.WEAVEABLE_FILTER_FMT"
 msgid "Weaveable Filter: {mode}"
-msgstr "Можна зіткати: {mode}"
+msgstr "Ткацький фільтр: {mode}"
 
 #. STRINGS.UI.WARDROBE_POPUP.CANCEL
 msgctxt "STRINGS.UI.WARDROBE_POPUP.CANCEL"
